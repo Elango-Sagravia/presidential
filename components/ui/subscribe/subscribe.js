@@ -10,11 +10,15 @@ export default function Subscribe() {
         isSubscribed ? "py-36" : "py-28"
       }`}
     >
-      <div className="mx-auto w-full md:w-3/5 lg:w-2/5 flex flex-col  items-center">
+      <div
+        className={`mx-auto w-full md:w-3/5 lg:w-2/5 flex flex-col  items-center ${
+          isSubscribed && `lg:w-3/5`
+        }`}
+      >
         <h5 className="text-nl_background text-5xl text-center">
           {isSubscribed
             ? "Thank you for joining our newsletter"
-            : "Get Daily News in your inbox"}{" "}
+            : "Get Daily News in your inbox"}
         </h5>
         {!isSubscribed && (
           <SubscribeForm formClasses="mt-8 pb-2 flex w-4/5 flex-col gap-2" />
