@@ -13,6 +13,7 @@ export default function FaqAccordion() {
         <AccordionItem
           value={`item-${index}`}
           className={`${index === 0 && "pt-0"}`}
+          key={`faq-item-${index}`}
         >
           <AccordionTrigger
             className={`font-normal no-underline ${index === 0 && "pt-0"}`}
