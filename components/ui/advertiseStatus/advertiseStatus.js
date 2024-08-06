@@ -1,5 +1,6 @@
 import { Separator } from "@radix-ui/react-separator";
 import libre from "@/components/libre-font";
+import content from "@/content/content";
 
 export default function AdvertiseStatus() {
   return (
@@ -7,51 +8,24 @@ export default function AdvertiseStatus() {
       <div className="flex flex-col md:flex-row">
         <div className="flex-1">
           <h2 className="text-2xl w-full text-center md:text-left md:w-4/5 lg:w-2/3 mb-10 md:mb-0 font-bold">
-            Top companies are advertising in the Presidential Summary. Why?
+            {content.advertise.statusSection.heading}
           </h2>
         </div>
         <div className="flex-1">
           <ul>
-            <li>
-              <div className="flex items-end">
-                <p
-                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
-                >
-                  54%
-                </p>
-                <p className="pl-8">
-                  of subscribers open our newsletters daily
-                </p>
-              </div>
-              <Separator className="bg-nl_separator_border h-[1px] mt-10" />
-            </li>
-            <li className="mt-10">
-              <div className="flex items-end">
-                <p
-                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
-                >
-                  10k
-                </p>
-                <p className="pl-8">
-                  new subscribers join Preseidential Summary every month
-                </p>
-              </div>
-              <Separator className="bg-nl_separator_border h-[1px] mt-10" />
-            </li>
-            <li className="mt-10">
-              <div className="flex items-end">
-                <p
-                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
-                >
-                  2%
-                </p>
-                <p className="pl-8">
-                  of active subscribers engage with our sponsored content
-                  everyday
-                </p>
-              </div>
-              <Separator className="bg-nl_separator_border h-[1px] mt-10" />
-            </li>
+            {content.advertise.statusSection.list.map((el, index) => (
+              <li key={el.title} className={`${index > 0 && "mt-10"}`}>
+                <div className="flex items-end">
+                  <p
+                    className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
+                  >
+                    {el.title}
+                  </p>
+                  <p className="pl-8">{el.description} </p>
+                </div>
+                <Separator className="bg-nl_separator_border h-[1px] mt-10" />
+              </li>
+            ))}
           </ul>
         </div>
       </div>

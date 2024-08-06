@@ -2,6 +2,7 @@ import PrimaryInterLinkButton from "../PrimaryInterLinkButton/PrimaryInterLinkBu
 import { ArrowDown } from "lucide-react";
 import libre from "@/components/libre-font";
 import Image from "next/image";
+import content from "@/content/content";
 
 export default function AdvertiseHero() {
   return (
@@ -10,11 +11,9 @@ export default function AdvertiseHero() {
         <h1
           className={`text-nl_background text-5xl ${libre.className} leading-tight w-full`}
         >
-          Our Goal: To share fresh geopolitical and macroeconomic news.
+          {content.advertise.hero.title}
         </h1>
-        <p className="pt-4 pb-8">
-          want to reach thousands of curious people around the world
-        </p>
+        <p className="pt-4 pb-8">{content.advertise.hero.subTitle}</p>
         <PrimaryInterLinkButton>
           <ArrowDown size={18} color="hsl(2.69 73.58% 41.57%)" />
           <span className="px-2">Partner with Us</span>

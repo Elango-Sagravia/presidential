@@ -5,6 +5,7 @@ import { useAppContext } from "@/context/appContext";
 import Image from "next/image";
 
 import libre from "@/components/libre-font";
+import content from "@/content/content";
 
 export default function Hero() {
   const { isSubscribed } = useAppContext();
@@ -15,7 +16,7 @@ export default function Hero() {
         <h1
           className={`text-nl_background text-5xl ${libre.className} leading-tight`}
         >
-          Want to understand geopolitics, macroeconomics, and more? Start here.
+          {content.homePage.hero.title}
         </h1>
         <p className="py-4">
           For everyone curious about global politics, economic trends, and
@@ -23,7 +24,7 @@ export default function Hero() {
         </p>
         {isSubscribed ? (
           <p className="text-nl_background font-bold mt-10">
-            Thank you for joining our newsletter
+            {content.homePage.hero.subTitle}
           </p>
         ) : (
           // <form

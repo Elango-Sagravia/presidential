@@ -10,6 +10,7 @@ import { useState } from "react";
 import libre from "@/components/libre-font";
 
 import LoadingSpinner from "../loading-spinner";
+import content from "@/content/content";
 const quarters = ["Q3 2024", "Q4 2024", "Q1 2025", "Q2 2025"];
 const budgets = ["$10K - $25k", "$25K - $50k", "$50k+"];
 export default function AdvertiseForm() {
@@ -75,7 +76,7 @@ export default function AdvertiseForm() {
           <h2
             className={`text-2xl w-full text-center sm:text-left sm:w-4/5 lg:w-2/3 mb-10 sm:mb-0 text-nl_background lg:sticky lg:top-28 ${libre.className} leading-tight`}
           >
-            {`Let's talk about how your brand can be seen by 100 thousand people across the globe.`}
+            {content.advertise.formSection.heading}
           </h2>
         </div>
         {submitted ? (

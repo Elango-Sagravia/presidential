@@ -3,6 +3,7 @@
 import SubscribeForm from "@/components/ui/subscriberForm/subscriberForm";
 import { useAppContext } from "@/context/appContext";
 import libre from "@/components/libre-font";
+import content from "@/content/content";
 
 export default function Subscribe() {
   const { isSubscribed } = useAppContext();
@@ -22,7 +23,7 @@ export default function Subscribe() {
         >
           {isSubscribed
             ? "Thank you for joining our newsletter"
-            : "Get Daily News in your inbox"}
+            : content.subscribe.title}
         </h5>
         {!isSubscribed && (
           <SubscribeForm formClasses="mt-8 pb-2 flex w-4/5 flex-col gap-2" />
