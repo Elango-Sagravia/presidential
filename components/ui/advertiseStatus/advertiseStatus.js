@@ -1,4 +1,5 @@
 import { Separator } from "@radix-ui/react-separator";
+import libre from "@/components/libre-font";
 
 export default function AdvertiseStatus() {
   return (
@@ -13,7 +14,9 @@ export default function AdvertiseStatus() {
           <ul>
             <li>
               <div className="flex items-end">
-                <p className="text-5xl md:text-6xl text-nl_background min-w-[120px]">
+                <p
+                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
+                >
                   54%
                 </p>
                 <p className="pl-8">
@@ -24,7 +27,9 @@ export default function AdvertiseStatus() {
             </li>
             <li className="mt-10">
               <div className="flex items-end">
-                <p className="text-5xl md:text-6xl text-nl_background min-w-[120px]">
+                <p
+                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
+                >
                   10k
                 </p>
                 <p className="pl-8">
@@ -35,7 +40,9 @@ export default function AdvertiseStatus() {
             </li>
             <li className="mt-10">
               <div className="flex items-end">
-                <p className="text-5xl md:text-6xl text-nl_background min-w-[120px]">
+                <p
+                  className={`text-5xl md:text-6xl text-nl_background min-w-[120px] ${libre.className}`}
+                >
                   2%
                 </p>
                 <p className="pl-8">

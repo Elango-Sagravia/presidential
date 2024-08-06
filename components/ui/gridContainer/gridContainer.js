@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { BookOpen } from "lucide-react";
 import Link from "next/link";
+import libre from "@/components/libre-font";
 
 export default function GridContainer({
   hideButton,
@@ -29,10 +30,16 @@ export default function GridContainer({
                 className="block"
               />
             </div>
-            <span className="text-[10px] text-nl_background my-2 block font-bold uppercase">
-              {item.published_at} <span>.</span> {item.read_time} READ
-            </span>
-            <p className="text-lg">{item.title}</p>
+            <div className="flex items-center gap-2 py-2 text-nl_background">
+              <p className="text-[10px] font-bold uppercase">
+                {item.published_at}
+              </p>
+              <p className="rounded-full bg-nl_background w-[5px] h-[5px]"></p>
+              <p className="text-[10px] font-bold uppercase">
+                {item.read_time} READ
+              </p>
+            </div>
+            <p className={`text-lg ${libre.className}`}>{item.title}</p>
           </Link>
         ))}
       </div>

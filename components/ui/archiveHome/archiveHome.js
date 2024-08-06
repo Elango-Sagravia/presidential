@@ -5,7 +5,7 @@ import blogs from "@/blogs";
 export default function ArchiveHome() {
   return (
     <div className="px-8 pb-36 md:px-16 pt-8">
-      <HeadingWithUnderline text="Archive" />
+      <HeadingWithUnderline text="Archives" />
       <GridContainer hideButton={false} articles={blogs} />
     </div>
   );

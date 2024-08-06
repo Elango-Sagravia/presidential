@@ -8,6 +8,7 @@ import { Textarea } from "@/components/ui/textarea";
 import Link from "next/link";
 import { useState } from "react";
 import LoadingSpinner from "@/components/ui/loading-spinner";
+import libre from "@/components/libre-font";
 
 export default function ContactForm() {
   const [submitted, setSubmitted] = useState(false);
@@ -61,22 +62,22 @@ export default function ContactForm() {
       >
         <div className="flex-1 flex flex-col">
           <div>
-            <p className="text-sm text-nl_background font-bold">
+            <p className="text-sm text-nl_background font-bold mb-2">
               GENERAL INQUIRIES
             </p>
             <a
-              className="underline underline-offset-4"
+              className="underline underline-offset-8"
               href="mailto:hello@company.com"
             >
               hello@company.com
             </a>
           </div>
-          <div className="mt-5">
-            <p className="text-sm text-nl_background font-bold">
-              WANT TO WORK/ADVERTISE WITH US{" "}
+          <div className="mt-8">
+            <p className="text-sm text-nl_background font-bold mb-2">
+              WANT TO WORK/ADVERTISE WITH US
             </p>
             <a
-              className="underline underline-offset-4"
+              className="underline underline-offset-8"
               href="mailto:patnership@company.com"
             >
               patnership@company.com
@@ -85,14 +86,20 @@ export default function ContactForm() {
         </div>
         {submitted ? (
           <div className="flex flex-1 mt-10">
-            <h3 className="text-4xl text-nl_background md:text-center">
+            <h3
+              className={`text-4xl text-nl_background md:text-center ${libre.className} leading-tight`}
+            >
               We have received your form submission
             </h3>
           </div>
         ) : (
           <div className="flex-1 mt-5 sm:mt-0">
             <div>
-              <h2 className="text-2xl text-nl_background pb-4">Inquiry</h2>
+              <h2
+                className={`text-2xl text-nl_background pb-4 ${libre.className} leading-tight font-bold`}
+              >
+                Inquiry
+              </h2>
               <p className="text-sm w-2/3 pb-8">
                 Leave us your details and a member of our team will get back to
                 you as soon as possible

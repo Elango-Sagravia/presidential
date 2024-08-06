@@ -1,11 +1,15 @@
 import PrimaryInterLinkButton from "../PrimaryInterLinkButton/PrimaryInterLinkButton";
 import { ArrowDown } from "lucide-react";
+import libre from "@/components/libre-font";
+import Image from "next/image";
 
 export default function AdvertiseHero() {
   return (
-    <div className="flex px-4 md:px-16 py-28">
+    <div className="flex px-4 md:px-16 py-28 min-h-[600px]">
       <div className="flex-1">
-        <h1 className="text-nl_background text-5xl">
+        <h1
+          className={`text-nl_background text-5xl ${libre.className} leading-tight w-full`}
+        >
           Our Goal: To share fresh geopolitical and macroeconomic news.
         </h1>
         <p className="pt-4 pb-8">
@@ -16,7 +20,14 @@ export default function AdvertiseHero() {
           <span className="px-2">Partner with Us</span>
         </PrimaryInterLinkButton>
       </div>
-      <div className="hidden flex-1 lg:block">Image</div>
+      <div className="hidden flex-1 lg:block relative">
+        <Image
+          src={"/sdvertise-hero.svg"}
+          layout="fill"
+          objectFit="cover"
+          alt="Home screen banner image"
+        />
+      </div>
     </div>
   );
 }

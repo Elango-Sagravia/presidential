@@ -7,6 +7,8 @@ import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Textarea } from "@/components/ui/textarea";
 import Link from "next/link";
 import { useState } from "react";
+import libre from "@/components/libre-font";
+
 import LoadingSpinner from "../loading-spinner";
 const quarters = ["Q3 2024", "Q4 2024", "Q1 2025", "Q2 2025"];
 const budgets = ["$10K - $25k", "$25K - $50k", "$50k+"];
@@ -70,13 +72,17 @@ export default function AdvertiseForm() {
         }`}
       >
         <div className="flex-1 relative">
-          <h2 className="text-2xl w-full text-center sm:text-left sm:w-4/5 lg:w-2/3 mb-10 sm:mb-0 text-nl_background lg:sticky lg:top-28">
+          <h2
+            className={`text-2xl w-full text-center sm:text-left sm:w-4/5 lg:w-2/3 mb-10 sm:mb-0 text-nl_background lg:sticky lg:top-28 ${libre.className} leading-tight`}
+          >
             {`Let's talk about how your brand can be seen by 100 thousand people across the globe.`}
           </h2>
         </div>
         {submitted ? (
           <div className="flex flex-1 mt-10">
-            <h3 className="text-4xl text-nl_background text-center">
+            <h3
+              className={`text-4xl text-nl_background text-center leading-tight ${libre.className}`}
+            >
               We have received your form submission
             </h3>
           </div>

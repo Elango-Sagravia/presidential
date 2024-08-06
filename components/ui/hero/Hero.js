@@ -1,25 +1,20 @@
 "use client";
 
-import { Divide } from "lucide-react";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
 import SubscriberForm from "@/components/ui/subscriberForm/subscriberForm";
 import { useAppContext } from "@/context/appContext";
-import { useState } from "react";
+import Image from "next/image";
+
+import libre from "@/components/libre-font";
 
 export default function Hero() {
-  const { email, setEmail, isSubscribed } = useAppContext();
-  // const [inputEmail, setInputEmail] = useState("");
+  const { isSubscribed } = useAppContext();
 
-  // function handleSubmit(e) {
-  //   e.preventDefault();
-  //   setEmail(inputEmail);
-  // }
-  console.log(email);
   return (
     <div className="flex px-4 md:px-16 py-32 bg-nl_sec_background">
       <div className="flex-1">
-        <h1 className="text-nl_background text-5xl">
+        <h1
+          className={`text-nl_background text-5xl ${libre.className} leading-tight`}
+        >
           Want to understand geopolitics, macroeconomics, and more? Start here.
         </h1>
         <p className="py-4">
@@ -52,7 +47,14 @@ export default function Hero() {
           <SubscriberForm formClasses="mt-4 pb-2 flex w-3/4  flex-col gap-2" />
         )}
       </div>
-      <div className="hidden flex-1 lg:block">Image</div>
+      <div className="hidden flex-1 lg:block relative">
+        <Image
+          src={"/home-hero.svg"}
+          layout="fill"
+          objectFit="cover"
+          alt="Home screen banner image"
+        />
+      </div>
     </div>
   );
 }

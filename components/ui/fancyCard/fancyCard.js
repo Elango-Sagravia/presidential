@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import Link from "next/link";
+import libre from "@/components/libre-font";
 
 export default function FancyCard({ article }) {
   return (
@@ -17,11 +18,18 @@ export default function FancyCard({ article }) {
         href={`archives/${article.slug}`}
         className="flex-1 bg-black text-white flex flex-col justify-center py-8 uppercase"
       >
-        <span className="text-[12px] text-nl_background font-bold mb-2 block px-16">
-          {article.published_at} <span className="text-4xl">.</span>{" "}
-          {article.read_time}READ
-        </span>
-        <p className="text-3xl px-16 leading-10 hover:decoration-solid hover:underline">
+        <div className="flex items-center gap-2 py-4 px-16 text-nl_background">
+          <p className="text-[12px] font-bold uppercase">
+            {article.published_at}
+          </p>
+          <p className="rounded-full bg-nl_background w-[5px] h-[5px]"></p>
+          <p className="text-[12px] font-bold uppercase">
+            {article.read_time} READ
+          </p>
+        </div>
+        <p
+          className={`text-3xl px-16 leading-tight hover:decoration-solid hover:underline ${libre.className}`}
+        >
           {article.title}
         </p>
         <div className="px-16 mt-4 flex items-center">

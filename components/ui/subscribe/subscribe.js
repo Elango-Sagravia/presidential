@@ -2,6 +2,8 @@
 
 import SubscribeForm from "@/components/ui/subscriberForm/subscriberForm";
 import { useAppContext } from "@/context/appContext";
+import libre from "@/components/libre-font";
+
 export default function Subscribe() {
   const { isSubscribed } = useAppContext();
   return (
@@ -15,7 +17,9 @@ export default function Subscribe() {
           isSubscribed && `lg:w-3/5`
         }`}
       >
-        <h5 className="text-nl_background text-5xl text-center">
+        <h5
+          className={`text-nl_background text-5xl text-center ${libre.className} leading-tight`}
+        >
           {isSubscribed
             ? "Thank you for joining our newsletter"
             : "Get Daily News in your inbox"}
