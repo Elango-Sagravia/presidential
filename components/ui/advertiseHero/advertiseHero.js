@@ -10,7 +10,7 @@ export default function AdvertiseHero() {
       <div className="flex px-4 md:px-16 py-28 min-h-[600px] max-w-7xl mx-auto">
         <div className="flex-1">
           <h1
-            className={`text-nl_background text-5xl ${libre.className} leading-tight w-full`}
+            className={`text-nl_background text-4xl sm:text-5xl ${libre.className} leading-tight w-full`}
           >
             {content.advertise.hero.title}
           </h1>

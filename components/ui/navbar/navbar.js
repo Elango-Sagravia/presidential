@@ -19,12 +19,12 @@ export default function Navbar() {
         </div>
       </Link>
 
-      <nav className="text-base">
+      <nav className="text-[12px] sm:text-base">
         {routes.map((route) => (
           <Link
             key={route.path}
             href={route.path}
-            className={`ml-6 text-black ${
+            className={`ml-2 md:ml-6 text-black ${
               pathname === route.path && "underline underline-offset-4"
             }`}
           >

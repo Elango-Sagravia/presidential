@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="flex px-4 md:px-16 py-32 bg-nl_sec_background max-w-7xl mx-auto">
         <div className="flex-1">
           <h1
-            className={`text-nl_background text-5xl ${libre.className} leading-tight`}
+            className={`text-nl_background text-4xl sm:text-5xl ${libre.className} leading-tight`}
           >
             {content.homePage.hero.title}
           </h1>
@@ -47,7 +47,7 @@ export default function Hero() {
             //     100% free. No spam. Unsubscribe anytime.
             //   </p>
             // </form>
-            <SubscriberForm formClasses="mt-4 pb-2 flex w-3/4  flex-col gap-2" />
+            <SubscriberForm formClasses="mt-4 pb-2 flex w-full sm:w-3/4  flex-col gap-2" />
           )}
         </div>
         <div className="hidden flex-1 lg:block relative">
