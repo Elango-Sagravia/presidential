@@ -1,9 +1,10 @@
 const content = {
   homePage: {
     hero: {
-      title: "Grasp Geopolitics in No Time",
+      title:
+        "Heads of nations read a summary of the most important news every morning. Now, so will you.",
       subTitle:
-        "Curious about global political dynamics and key events? Receive concise, expert analysis in our weekday newsletter.",
+        "Get the pulse of global politics and economics in your inbox. Quick, insightful reads every day.",
     },
   },
   subscribe: {
@@ -11,39 +12,39 @@ const content = {
   },
   advertise: {
     hero: {
-      title: "Our mission: Quick and clear geopolitical news",
-      subTitle:
-        "Connect with an international audience hungry for insightful geopolitical analysis.",
+      title:
+        "Our mission: Bringing you the latest in geopolitical and macroeconomic insights.",
+      subTitle: "Want to reach thousands of curious minds around the world?",
     },
     statusSection: {
-      heading: "Reach new heights with Geopolitical World",
+      heading: "Why do industry leaders trust Presidential Summary?",
       list: [
         {
           title: "54%",
-          description: "of our subscribers read our newsletters every weekday.",
+          description: "of our subscribers open our newsletters daily.",
         },
         {
           title: "10k",
-          description: "new subscribers join Geopolitical World monthly.",
+          description: "new subscribers join Presidential Summary every month.",
         },
         {
           title: "2%",
           description:
-            "of our active subscribers engage with our sponsored content daily.",
+            "of our active subscribers interact with our sponsored content every day",
         },
       ],
     },
     formSection: {
-      heading: "Take your brand global",
+      heading: "Expand your reach to 100,000+ global readers",
       subHeading:
-        "Connect with over 100,000 engaged readers worldwide. Let’s discuss how we can help elevate your brand.",
+        "Join forces with Presidential Summary and connect with an audience deeply interested in global politics, geopolitics, and macroeconomics. Let’s work together to meet your marketing objectives.",
     },
   },
   archivePage: {
     formSection: {
       heading: "Unlock exclusive insights with our free subscription",
       description:
-        "Subscribe now to continue reading and receive geopolitical insights and expert analysis.",
+        "Subscribe now for full access to exclusive articles, timely alerts, and newsletters on global politics and economics.",
     },
   },
   contactPage: {
@@ -51,19 +52,19 @@ const content = {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
+          answer: `Simply enter your email in the subscription box and click "Join Free." Our newsletters are sent daily with the latest articles, news, and exclusive content. Occasionally, we may send special editions, but we promise not to spam you.`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
+          answer: `You will receive our newsletters daily, ensuring you stay updated without overwhelming your inbox.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
+          answer: `Our newsletters feature in-depth articles, real-time news alerts, and exclusive insights on global politics, geopolitics, and macroeconomics.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
-          answer: `To unsubscribe or update your email preferences, click the link provided at the bottom of any newsletter email. You can manage your subscription settings there.`,
+          answer: `To unsubscribe or update your email preferences, click the link provided at the bottom of any newsletter email.`,
         },
       ],
     },
