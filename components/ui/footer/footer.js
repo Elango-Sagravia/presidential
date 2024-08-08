@@ -7,11 +7,7 @@ export default function Footer() {
         <div className="flex flex-col justify-between">
           <Link href="/">
             <div className="w-32 md:w-48">
-              <img
-                src="/presidential_summary-dark.png"
-                layout="responsive"
-                alt="Logo"
-              />
+              <img src="/logo-dark.png" layout="responsive" alt="Logo" />
             </div>
           </Link>
           <p className="mt-4 text-[12px] text-gray-400">
