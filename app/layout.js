@@ -11,7 +11,7 @@ import AppProvider from "@/context/appContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Presidential Summary",
+  title: "Presidential summary",
   description: "One of the leading newsletter",
 };
 
