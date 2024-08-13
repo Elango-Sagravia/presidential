@@ -67,9 +67,8 @@ const content = {
   },
   archivePage: {
     formSection: {
-      heading: "Unlock exclusive insights with our free subscription",
-      description:
-        "Subscribe now to continue reading and receive geopolitical insights and expert analysis.",
+      heading: "Stay informed, widen your worldview.",
+      description: "",
     },
   },
   contactPage: {
