@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/b31a-QzOD.webp'
 description: ''
 slug: 'harris-surges-in-key-states'
@@ -17,7 +17,7 @@ publishedAt: '2024-08-14T10:05:25.000Z'
 
 Recent polls from The New York Times and Siena College show Vice President Kamala Harris leading in crucial battleground states like Michigan, Pennsylvania, and Wisconsin, though her lead is within the margin of error. Notably, Harris’s popularity has surged compared to President Joe Biden’s approval ratings before his campaign ended. In Pennsylvania, Harris has flipped a -13 net rating to a +2 net rating over the past month, a dramatic 22-point swing from Biden’s ratings. This shift suggests a potential reset in the 2024 race, though it remains to be seen if this boost is lasting or merely a temporary uplift following Biden’s exit.
 
-Meanwhile, former President Donald Trump is set for a virtual discussion with Elon Musk on X, highlighting their fluctuating relationship. Musk, who reinstated Trump’s account in November 2022, has recently fully endorsed Trump and created a super PAC to support him. Despite earlier tensions, including Musk’s criticism of Trump and his endorsement of Ron DeSantis, their relationship has warmed, with Trump now actively engaging on X as he prepares for this evening’s event with Musk.
+Meanwhile, former President Donald Trump is set for a virtual discussion with Elon Musk on X, highlighting their fluctuating relationship. Musk, who reinstated Trump’s account in November 2022, has recently fully endorsed Trump and created a super PAC to support him. Despite earlier tensions, including Musk’s criticism of Trump and his endorsement of Ron DeSantis, their relationship has warmed. Trump is now actively engaging on X as he prepares for this evening’s event with Musk.
 
 ### Harris Taps Nasrina Bargzie for Muslim and Arab Voter Outreach
 
@@ -27,11 +27,11 @@ Bargzie, a former refugee from Afghanistan, is expected to play a crucial role a
 
 ### Pakistani Javelin Star Arshad Nadeem Celebrated After Historic Olympic Win
 
-![](/images/b31a-Q4NT.webp)
+![Arshad Nadeem](/images/b31a-Q4NT.webp)
 
 Arshad Nadeem, a javelin thrower from Pakistan, has been warmly celebrated after winning the country’s first individual gold medal at the Paris Olympics. The 27-year-old was greeted by thousands at the airport and honored with a grand welcome in his hometown of Mian Channu, including a water cannon salute and garlands.
 
-Nadeem, who previously trained with homemade javelins, beat defending champion Neeraj Chopra with a throw of 92.97 meters, setting a new Olympic record. This victory, Pakistan’s first gold since 1984, has brought him national acclaim and spotlighted the challenges he faced due to lack of resources and support.
+Nadeem, who previously trained with homemade javelins, beat defending champion Neeraj Chopra with a throw of 92.97 meters, setting a new Olympic record. This victory, Pakistan’s first gold since 1984, has brought him national acclaim and spotlighted the challenges he faced due to a lack of resources and support.
 
 Despite limited facilities and financial backing, Nadeem’s dedication and resilience have been praised. His success has also highlighted the sportsmanship between him and Chopra, with both athletes showing mutual respect and demonstrating the positive side of their rivalry.
 
@@ -47,7 +47,7 @@ The attack prompted the euthanization of several bears in the area, and official
 
 The Supreme Council of Antiquities, which led the excavation in Damietta governorate, is now working on restoring and classifying these items. Some of the artifacts may eventually be displayed in museums.
 
-The Ptolemaic dynasty, Egypt’s last before Roman rule, began in 305 B.C. and ended with Cleopatra. Egypt's first exhibition of Ptolemaic artifacts took place in Cairo in 2018, showcasing around 300 pieces.
+The Ptolemaic dynasty, Egypt’s last before Roman rule, began in 305 B.C. and ended with Cleopatra. Egypt's first exhibition of Ptolemaic artifacts, which showcased around 300 pieces, took place in Cairo in 2018.
 
 ### Starbucks Appoints Chipotle CEO Brian Niccol Amid Sales Struggles
 
