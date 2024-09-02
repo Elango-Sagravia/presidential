@@ -21,7 +21,7 @@ Rotor blades from the helicopter fell into the hotel pool, and both the forensic
 
 ### Massive Wildfire Near Athens Sparks Evacuations as Firefighters Battle Flames
 
-![](/images/b5a-QzNj.webp)
+![Massive Wildfire Near Athens](/images/b5a-QzNj.webp)
 
 Hundreds of firefighters, supported by over 30 water-dropping planes, have been battling a major forest fire near Athens, Greece, which erupted on Sunday and has intensified due to strong winds. The blaze has been fueled by exceptionally dry conditions resulting from a record-hot summer and a dry winter. It has forced the evacuation of hospitals, residential suburbs, and a children’s home. By mid-morning, the fire was burning on two fronts and was challenging to control, with flames reaching up to 80 feet high.
 
@@ -53,7 +53,7 @@ Concerns are mounting that stronger-than-expected inflation could lead to signif
 
 ### Alcaraz Eyes Top Ranking at Cincinnati Open Amid Djokovic Withdrawal
 
-![](/images/b5b-Y5ND.webp)
+![Carlos Alcaraz](/images/b5b-Y5ND.webp)
 
 Carlos Alcaraz, the world number three and reigning French Open and Wimbledon champion, is determined to finish the season as the top-ranked player globally. Following a narrow defeat to Novak Djokovic in the Olympic final, Alcaraz is turning his attention to the Cincinnati Open, where he aims to close the 450-point gap behind world number one Jannik Sinner in the ATP live race.
 
