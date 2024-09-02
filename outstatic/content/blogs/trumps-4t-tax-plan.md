@@ -1,8 +1,8 @@
 ---
 cutOff: '4'
-latest: 'true'
+latest: ''
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/b1a-UxMj.webp'
 description: ''
 slug: 'trumps-4t-tax-plan'
@@ -18,7 +18,7 @@ publishedAt: '2024-08-08T17:04:59.000Z'
 
 Former President Donald J. Trump’s campaign promises include substantial new tax cuts, projected to add nearly $4 trillion to the national debt over the next decade, according to independent analyses. His plans involve eliminating federal income taxes on Social Security benefits, reducing the corporate tax rate to 15%, and extending previous tax cuts. Despite proposed new tariffs and repealing tax breaks for clean-energy technologies, which could raise about $3 trillion, Trump’s net revenue loss would still be about $4 trillion, factoring in interest costs.
 
-![](/images/b1a-k4Mz.webp)
+![President Donald J. Trump](/images/b1a-k4Mz.webp)
 
 In contrast, Vice President Kamala Harris, his Democratic opponent, has not detailed specific tax or spending proposals. Her campaign indicates that her fiscal plans will be aligned with President Biden’s recent budget proposal, which aims to reduce deficits by about $3 trillion over ten years through increased taxes on corporations and high earners. Total federal debt stands at approximately $35 trillion, up from $20 trillion when Trump took office in 2017, growing by $7.8 trillion under Trump and $7.3 trillion under Biden. The Congressional Budget Office projects a $22 trillion debt increase over the next decade, driven by retiring baby boomers and existing policies.
 
@@ -44,7 +44,7 @@ These problems come as no surprise given the troubled history of Boeing's Starli
 
 ### New Housing Policy for Disabled Veterans
 
-![](/images/b1b-kyMj.webp)
+![New Housing Policy for Disabled Veterans](/images/b1b-kyMj.webp)
 
 On Thursday, the federal government updated a policy that previously excluded some disabled veterans from receiving subsidized housing. The new policy raises the income threshold for eligibility in the Department of Housing and Urban Development’s (HUD) supportive housing program. Previously, veterans receiving full disability benefits were disqualified because their benefits were considered income.
 
@@ -52,7 +52,7 @@ Veterans advocates have long criticized the old policy, arguing it exacerbated h
 
 HUD also announced $20 million in funding to enhance supportive housing. This policy shift follows ongoing legal battles and advocacy efforts, including a 2022 federal complaint and a 2011 ACLU lawsuit demanding more housing development at the Los Angeles VA campus. VA officials and local leaders support the change as a crucial step toward ending veteran homelessness.
 
-### **Man Sentenced for Threats to Rep. Swalwell**
+### Man Sentenced for Threats to Rep. Swalwell
 
 Michael Shapiro, 73, was sentenced to two years in prison this week for threatening Rep. Eric Swalwell, D-Calif., and his children. Shapiro, who left threatening voicemails at Swalwell’s office on December 19, 2023, was arrested in January and pleaded guilty to transmitting threatening communications in May.
 
@@ -70,7 +70,7 @@ Three Denver police officers – Rodrigo Basurto, Meagan Joy, and Scot Persichet
 
 The officers were fired last month, and their actions were reported to the Colorado Peace Officer Standards and Training unit. The department strongly condemned the messages, calling them completely against their values and disrespectful. The officers were still new to the job, and attempts to contact them for comment were unsuccessful.
 
-### **McLaughlin-Levrone Breaks 400m Hurdles Record**
+### McLaughlin-Levrone Breaks 400m Hurdles Record
 
 Sydney McLaughlin-Levrone, at just 25, absolutely dominated the 400-meter hurdles at the Paris Olympics, smashing her own world record with a stunning time of 50.37 seconds. Easily beating her main rival, Femke Bol from the Netherlands, and securing her third Olympic gold, McLaughlin-Levrone has cemented her place as the queen of the hurdles.
 
