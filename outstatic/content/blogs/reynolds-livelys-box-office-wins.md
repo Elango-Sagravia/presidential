@@ -33,7 +33,7 @@ Amid the offensive, Ukraine is also grappling with internal challenges, includin
 
 ### Ryan Reynolds and Blake Lively Score Box-Office Wins
 
-![](/images/b4b-Q2Nz.webp)
+![Deadpool and Wolverine](/images/b4b-Q2Nz.webp)
 
 In the latest box-office showdown, Ryan Reynolds and Blake Lively both emerged victorious. Reynolds' film, “Deadpool & Wolverine,” topped the charts for a third week, bringing in $54.2 million and surpassing $1 billion globally. Lively’s film, “It Ends With Us,” also performed well, opening strongly with $50 million, exceeding initial forecasts. This family-driven box-office duel echoes past celebrity pairings, such as Bruce Willis and Demi Moore in 1990.
 
@@ -43,7 +43,7 @@ The weekend also featured a notable flop with “Borderlands,” a $120-million 
 
 Susan Wojcicki, the influential tech executive who played a pivotal role in shaping Google and YouTube, has died at 56, her husband announced. Wojcicki's journey began in a modest setting, renting out her Menlo Park garage to Google co-founders Larry Page and Sergey Brin, a crucial start for the search engine giant. She joined Google in 1999 and went on to become its senior vice president of advertising and commerce.
 
-In 2014, Wojcicki became the CEO of YouTube, where she led the platform through a period of significant growth until her departure in 2023. Her leadership was widely recognized, with Google and Alphabet CEO Sundar Pichai praising her immense impact on the tech world. Former Facebook COO Sheryl Sandberg also remembered her as a mentor.
+In 2014, Wojcicki became the CEO of YouTube, where she led the platform through significant growth until her departure in 2023. Her leadership was widely recognized, with Google and Alphabet CEO Sundar Pichai praising her immense impact on the tech world. Former Facebook COO Sheryl Sandberg also remembered her as a mentor.
 
 Wojcicki had stepped down from YouTube last year to focus on family and personal projects. Her husband, Dennis Troper, confirmed her passing but provided no further details. She had also faced personal loss with the recent death of their son, Marco.
 
@@ -55,6 +55,6 @@ In Chicago, Robin Harris of Confidence Apparel has observed customers opting for
 
 ### Scottie Scheffler Tops 2024 PGA Tour, Earns $8 Million
 
-Scottie Scheffler, the Olympic champion and world number one, has earned $8 million for topping the Comcast Business Tour Top 10 list for the 2024 PGA Tour season, according to the PGA Tour. Scheffler’s impressive year included six tournament wins, among them four Signature Events and his second major championship at the Masters. Reflecting on his success, Scheffler expressed pride in his performance, stating that the accolade represents the dedication and support from his family and team throughout the season.
+Scottie Scheffler, the Olympic champion and world number one, has earned $8 million for topping the Comcast Business Tour Top 10 list for the 2024 PGA Tour season, according to the PGA Tour. Scheffler’s impressive year included six tournament wins, four Signature Events, and his second major championship at the Masters. Reflecting on his success, Scheffler expressed pride in his performance, stating that the accolade represents the dedication and support from his family and team throughout the season.
 
 In addition to his PGA Tour victories, Scheffler clinched the gold medal at the Paris Olympics. After starting the final round four shots behind the leaders, he closed with a nine-under-par 62 to win by one stroke. The Comcast Business Tour Top 10 awards a $40 million bonus pool among the top finishers in the FedExCup standings. Xander Schauffele and Rory McIlroy secured second and third places, respectively, with Collin Morikawa and Wyndham Clark rounding out the top five.
