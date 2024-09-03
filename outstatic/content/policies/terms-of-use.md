@@ -150,4 +150,4 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 **12. Contact Information**
 
-If you have any questions about these Terms, please contact us at contact@presidentialsummary.com.
+If you have any questions about these Terms, please contact us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com).
