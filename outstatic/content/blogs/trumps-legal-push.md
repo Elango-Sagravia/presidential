@@ -43,13 +43,13 @@ The Shinawatra family, which has struggled since their first election defeat in 
 
 The decision to elevate Paetongtarn has surprised analysts, who anticipated that Thaksin would delay introducing his daughter to such a volatile environment. The move places her at the center of the ongoing conflict that has previously led to the downfall of other Shinawatra leaders.
 
-### Ukraine Advances into Kursk A Strategic Gamble
+### Ukraine Advances into Kursk: A Strategic Gamble
 
 Ukraine’s recent advance into Russia’s Kursk region has resulted in the capture of several settlements, raising questions about how long Kyiv can maintain control without risking its eastern territories. The situation is tense, with Pokrovsk urging civilians to evacuate as Russian forces close in, echoing the large-scale evacuations in Russia's Kursk and Belgorod regions.
 
-Ukrainian officials, including presidential adviser Mykhailo Podolyak, emphasize that the goal is not occupation but to disrupt Russian military operations and weaken their infrastructure. Podolyak assured that humanitarian needs in captured areas will be met and dismissed fears of seizing the Kursk Nuclear Power Plant.
+Ukrainian officials, including presidential adviser Mykhailo Podolyak, emphasize that the goal is not occupation but disruption of Russian military operations and weakening of their infrastructure. Podolyak assured that humanitarian needs in captured areas would be met and dismissed fears of seizing the Kursk Nuclear Power Plant.
 
-The offensive, acknowledged by Russia, aims to destabilize and stretch Russian forces. Despite fears of nuclear escalation, U.S. officials have noted a lack of new threats from President Putin. Ukraine plans to use the incursion to negotiate from a position of strength but insists it will only engage in talks on its terms.
+Russia acknowledges the offensive, which aims to destabilize and stretch Russian forces. Despite fears of nuclear escalation, U.S. officials have noted President Putin's lack of new threats. Ukraine plans to use the incursion to negotiate from a position of strength but insists it will only engage in talks on its terms.
 
 This move is also seen as a strategic diversion, aimed at easing pressure on eastern fronts where Russian troops are advancing. Analysts suggest this could force Russia to reallocate resources, potentially relieving some pressure on Ukrainian defenses in the Donetsk region.
 
