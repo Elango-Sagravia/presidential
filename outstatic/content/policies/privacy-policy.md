@@ -7,7 +7,7 @@ author:
 slug: 'privacy-policy'
 description: ''
 coverImage: ''
-publishedAt: '2024-09-03T15:12:13.194Z'
+publishedAt: '2024-08-20T15:12:13.000Z'
 ---
 
 Presidential Summary ("Website") is a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our Website and subscribe to our newsletter. Please read this Privacy Policy carefully. By accessing or using the Website, you agree to the collection and use of information in accordance with this policy.
@@ -98,11 +98,11 @@ We may send periodic promotional emails to you. You have the right to prevent us
 
 - **Non-Discrimination**: You have the right to not be discriminated against for exercising these rights.
 
-- **Access to Your Personal Information**: You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you. 
+- **Access to Your Personal Information**: You may request access to your Personal Information by contacting us. If required by law, we will provide reasonable access to the Personal Information we have about you.
 
-- **Changes to Your Personal Information**: We rely on you to update and correct your Personal Information. 
+- **Changes to Your Personal Information**: We rely on you to update and correct your Personal Information.
 
-- **Deletion of Your Personal Information**: Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests. 
+- **Deletion of Your Personal Information**: Typically, we retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Notice. You may request information about how long we keep a specific type of information or request that we delete your Personal Information. If required by law, we will grant such requests.
 
 - **Objection to Certain Processing**: You may object to our use or disclosure of your Personal Information by contacting us.
 
@@ -170,6 +170,6 @@ To exercise your rights under the CPRA, please contact us at contact@presidentia
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-**13. Contact Information** 
+**13. Contact Information**
 
 If you have any questions about this Policy, please contact us at contact@presidentialsummary.com.
