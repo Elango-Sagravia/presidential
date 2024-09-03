@@ -15,9 +15,9 @@ publishedAt: '2024-08-18T11:05:43.000Z'
 
 ### Georgia County Equips Election Workers with Panic Buttons
 
-To bolster election worker safety, Cobb County in Georgia has allocated $47,250 to provide about 200 panic buttons before the presidential election. These devices, sourced from Runbeck Election Services and Response Technologies, help workers contact authorities quickly by sending GPS locations when activated.
+Cobb County in Georgia has allocated $47,250 to bolster election worker safety by providing about 200 panic buttons before the presidential election. These devices, sourced from Runbeck Election Services and Response Technologies, help workers contact authorities quickly by sending GPS locations when activated.
 
-Costing $150 to $250 annually, the devices can alert either election authorities or law enforcement. The partnership between Runbeck and Response Technologies has generated interest across several states, reflecting growing concern over election worker safety.
+The devices, which cost $150 to $250 annually, can alert election authorities or law enforcement. The partnership between Runbeck and Response Technologies has generated interest across several states, reflecting growing concern over election worker safety.
 
 This move comes as nearly 40% of election workers reported threats, harassment, or abuse this year. With former President Trump’s claims about election fraud fueling fears, states are increasing security measures, including enhanced training and better communication tools.
 
@@ -41,9 +41,9 @@ Southern Africa is grappling with a severe drought affecting 68 million people, 
 
 SADC leaders are meeting in Harare, Zimbabwe, to address the crisis, with 17% of the region’s population requiring aid. This El Niño event, combined with rising temperatures from greenhouse gases, is the worst drought the region has faced in years.
 
-Countries like Zimbabwe, Zambia, and Malawi have declared the situation a state of disaster, while Lesotho and Namibia seek humanitarian support. Despite a $5.5 billion appeal for assistance launched in May, funding has been insufficient, prompting renewed calls for help from both regional and international partners.
+Countries like Zimbabwe, Zambia, and Malawi have declared the situation a disaster, while Lesotho and Namibia seek humanitarian support. Despite a $5.5 billion appeal for assistance launched in May, funding has been insufficient, prompting renewed calls for help from regional and international partners.
 
-The drought is a key topic at the summit, alongside the ongoing conflict in eastern Democratic Republic of Congo, which continues to be a significant concern for the region.
+The drought is a key topic at the summit, alongside the ongoing conflict in the eastern Democratic Republic of Congo, which continues to be a significant concern for the region.
 
 ### X Shuts Down Brazil Operations Over Judge’s Orders
 
@@ -75,6 +75,6 @@ However, the FDA cautions that the test results are not conclusive for diagnosis
 
 ### Caitlin Clark Leads Fever to Win Over Mercury
 
-Caitlin Clark, fresh off a month-long Olympic break, led the Indiana Fever to a 98-89 win over the Phoenix Mercury, scoring 29 points and dishing out 10 assists. Clark's strong performance, including 13 points in the first quarter and four 3-pointers, helped the Fever withstand a late surge from the Mercury, who were hampered by fatigue and foul trouble.
+Fresh off a month-long Olympic break, Caitlin Clark led the Indiana Fever to a 98-89 win over the Phoenix Mercury, scoring 29 points and dishing out 10 assists. Clark's strong performance, including 13 points in the first quarter and four 3-pointers, helped the Fever withstand a late surge from the Mercury, hampered by fatigue and foul trouble.
 
 The game featured brief scuffles and highlighted a brewing rivalry between Clark and Diana Taurasi. Despite the Mercury's effort to close the gap, the Fever's balanced attack, including notable contributions from Kelsey Mitchell and Aliyah Boston, secured their third consecutive win over Phoenix this season.
