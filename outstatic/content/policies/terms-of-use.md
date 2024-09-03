@@ -1,6 +1,6 @@
 ---
 title: 'Terms of Use'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/180272406?v=4'
