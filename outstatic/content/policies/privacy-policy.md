@@ -146,7 +146,7 @@ As a resident of the EEA, you have the following data protection rights:
 
 - **The right to withdraw consent**. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
-To exercise these rights, please contact us at contact@presidentialsummary.com. We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
+To exercise these rights, please contact us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com). We may ask you to verify you identity before responding to such requests. Please note that we may retain information as necessary to comply with legal obligations or resolve disputes.
 
 **11. California Privacy Rights Act (CPRA) Compliance**
 
@@ -164,7 +164,7 @@ Under the California Privacy Rights Act (CPRA), residents of California have spe
 
 - **The right to non-discrimination**. We will not discriminate against you for exercising any of your CPRA rights. This means that we will not deny you goods or services, charge you different prices or rates, or provide you with a different level or quality of goods or services.
 
-To exercise your rights under the CPRA, please contact us at contact@presidentialsummary.com. We may need to verify your identity before processing your request, which may involve asking you to provide certain information or documentation.
+To exercise your rights under the CPRA, please contact us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com). We may need to verify your identity before processing your request, which may involve asking you to provide certain information or documentation.
 
 **12. Changes to This Privacy Policy**
 
@@ -172,4 +172,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 **13. Contact Information**
 
-If you have any questions about this Policy, please contact us at contact@presidentialsummary.com.
+If you have any questions about this Policy, please contact us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com).
