@@ -56,7 +56,7 @@ To request a refund, please follow these steps:
 
 3.1 Contact Us
 
-Email us at contact@presidentialsummary.com within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
+Email us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com) within 7 days of the scheduled newsletter publication date. Please include your advertisement details, the issue encountered, and any supporting documentation.
 
 3.2 Review Process
 
@@ -76,4 +76,4 @@ We reserve the right to modify or update this Refund Policy at any time. Any cha
 
 **6. Contact Information**
 
-If you have any questions or concerns about this Refund Policy, please contact us at contact@presidentialsummary.com.
+If you have any questions or concerns about this Refund Policy, please contact us at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com).
