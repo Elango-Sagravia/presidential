@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/b53a-E2ND.webp'
 description: ''
 slug: 'senator-ousted'
