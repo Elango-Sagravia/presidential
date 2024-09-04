@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/18th-aug_-election-safety--legal-battles--and-economic-shifts--1--MxOD.webp'
 description: ''
 slug: 'election-safety'
