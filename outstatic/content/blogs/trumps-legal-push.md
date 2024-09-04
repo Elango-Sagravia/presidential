@@ -1,7 +1,7 @@
 ---
 cutOff: '4'
 relatedArticles: ''
-readTime: '10'
+readTime: '5'
 coverImage: '/images/b50a-c3Nj.webp'
 description: ''
 slug: 'trumps-legal-push'
