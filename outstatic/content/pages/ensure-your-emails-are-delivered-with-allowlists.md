@@ -3,72 +3,150 @@ author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/176796160?v=4'
 coverImage: ''
-title: 'Ensure your emails are delivered with allowlists'
+title: 'Ensure our newsletter reaches your inbox'
 status: 'published'
 slug: 'ensure-your-emails-are-delivered-with-allowlists'
 description: ''
 publishedAt: '2024-09-03T12:07:08.991Z'
 ---
 
-To ensure you never miss an update from our newsletter, we recommend adding our email address to your allowlist or safe senders list. Below are simple instructions for some of the most popular email services. Follow the steps for your provider to make sure our emails land in your inbox.
+Ensure our newsletter reaches your inbox
 
-## Gmail
+To ensure that you receive our newsletters directly to your inbox, it's important to add our email address to your safelist (also known as a whitelist).
 
-### Add a sender to contacts
+Below are the steps to safelist our newsletter depending on your email provider.
 
-1. **Log in**: Access your Gmail account.
-2. **Open Email**: Locate and open the email from the sender you wish to safelist.
-3. **Hover over sender's name**: Position your cursor over the sender’s name in the email.
-4. **Add to contacts**: A window will appear. Click the **Add to Contacts** icon to save the sender to your Contacts list.
+## Gmail 
 
-### Safelist before opening an email
+**Check spam folder:** If you find our email in your Gmail spam folder, open it and click "Not Spam".
 
-1. **Hover over sender's name**: In your inbox, hover over the sender's name next to the subject line.
-2. **More options**: In the pop-up box that appears, click More.
-3. **Add to senders**: Select **Add to contacts** to save the sender to your Contacts list without opening the email.
+**Check the Promotions Tab:** Our emails may land in your Promotions tab. Drag the email to the Primary tab.
 
----
+**Add to Contacts:**
 
-## Yahoo! Mail
+- Open an email from us.
+- Hover over our name at the top of the email.
+- Click "Add to Contacts" when the pop-up appears.
 
-### Add a new contact
+## Yahoo! Mail 
 
-1. **Log in**: Sign in to your Yahoo! Mail account.
-2. **Access contacts**: Click the **Contacts** icon in the upper-right corner.
-3. **Add new contact**: At the bottom of the contacts sidebar, click Add a new contact.
-4. **Enter details**: Provide a name and enter the sender's email address in the **Email** field. You can also add any other relevant information.
-5. **Save**: Click **Save** at the bottom of the sidebar. The contact will now appear in your contact list.
+**Add to Contacts:**
 
----
+- Open an email from us.
+- Click on the three dots in the top-right corner.
+- Select "Add Sender to Contacts" from the dropdown menu.
 
-## AOL Mail
+**Create a Filter:**
 
-### Add a new contact
-
-1. **Log in**: Open your AOL Mail account.
-2. **Access contacts**: In the lower left-hand corner, click the **Contacts** icon.
-3. **Add contact**: Click the **Add new contact** button.
-4. **Enter details**: Fill in the name and email address of the sender, and add any other information you want to include.
-5. **Save contact**: Click **Add contact** to save the new contact. It will now display in your contact list.
-
----
+- Click on the gear icon and select "More Settings."
+- Go to "Filters" and click "Add new filters."
+- Enter our email address under "From" and choose "Inbox" as the destination folder.
+- Click "Save."
 
 ## Outlook
 
-### Add a sender as a contact
+**Add to Safe Senders:**
 
-1. **Log in**: Access your Outlook account.
-2. **Go to people**: Click the **People** icon at the bottom left of the screen.
-3. **Add a contact**: Click **Add a contact**.
-4. **Enter details**: Fill in the sender’s name and email address. Click the option to **Add more** if you wish to include additional information.
-5. **Create contact**: Once you’ve added the necessary details, click **Create**. Your new contact will now be visible in your list.
+- Click on the gear icon in the top right and select "View all Outlook settings."
+- Go to "Mail" &gt; "Junk email."
+- Under "Safe senders and domains," click "Add" and enter our email address.
+- Click "Save" to confirm.
+
+**Mark as Not Junk:**
+
+- If our emails land in your Junk folder, right-click on the email.
+- Select "Mark as not junk."
+
+## Apple Mail (iPhone, iPad, Mac)
+
+**Add to Contacts:**
+
+- Open the email from us.
+- Tap the email address at the top.
+- Choose "Create New Contact" or "Add to Existing Contact."
+
+**Mark as Not Junk:**
+
+- If the email is in the Junk folder, open it.
+- Tap the "Move to Inbox" button.
+
+## AOL mail
+
+**Add to Address Book:**
+
+- Open an email from us.
+- Click on the sender's name.
+- Select "Add Contact" and fill out the required fields.
+- Click "Add Contact."
+
+**Mark as Not Spam:**
+
+- If our email is in your Spam folder, open it.
+- Click on "Not Spam" at the top of the email.
+
+## Hotmail/Outlook.com
+
+**Check junk folder:**
+
+- If our email is in your junk folder, open it and click "Not Junk".
+
+**Add to Safe senders list:**
+
+- Go to Settings &gt; Mail &gt; Junk email.
+- Under Safe Senders, enter our email address.
+- Click Save.
+
+## ProtonMail
+
+**Add to Contacts:**
+
+- Open an email from us.
+- Click on the sender's name and select "Add to contacts."
+
+**Mark as Not Spam:**
+
+- If our email is in the Spam folder, open it.
+- Click "Not Spam."
+
+## Thunderbird
+
+**Add to address book:**
+
+- Open the email.
+- Click the From address.
+- Select Add to Address Book.
+- Click Create Contact, then Save.
+
+**Mark as not junk:**
+
+- Open the email in your Spam folder.
+- Tap More options (three dots).
+- Select Remove from Spam.
+
+## AT&T WebMail
+
+**Create a filter:**
+
+- Select Options.
+- Select Filters.
+- Click Add Filter.
+- In the top row labeled From Header, select contains from the drop-down menu.
+- Enter our email address.
+- Under Move the message to, select Inbox from the drop-down menu.
+- Click Add Filter again.
+
+## Mail.com
+
+**Add to contacts:**
+
+- Open the email.
+- Click the Plus symbol on the sender’s email address.
+- Add the first/last name of the sender.
+- Add the first/last name of the sender.
+- Click Ok.
 
 ## Final reminder
 
-- Regularly check your spam or junk folders and mark our emails as **Not Spam** if they end up there.
+Regularly check your spam or junk folders and mark our emails as **Not Spam** if they end up there.
 
-- If you have any questions or need further assistance, feel free to reach out!
-
-## Additional resources
-
-- For more comprehensive assistance, visit our FAQ page.
+If you have any questions or need further assistance, feel free to reach out at [contact@presidentialsummary.com](mailto:contact@presidentialsummary.com).
