@@ -16,7 +16,7 @@ To ensure that you receive our newsletters directly to your inbox, it's importan
 
 Below are the steps to safelist our newsletter depending on your email provider.
 
-## Gmail 
+## Gmail
 
 **Check spam folder:** If you find our email in your Gmail spam folder, open it and click "Not Spam".
 
@@ -28,7 +28,7 @@ Below are the steps to safelist our newsletter depending on your email provider.
 - Hover over our name at the top of the email.
 - Click "Add to Contacts" when the pop-up appears.
 
-## Yahoo! Mail 
+## Yahoo! Mail
 
 **Add to Contacts:**
 
