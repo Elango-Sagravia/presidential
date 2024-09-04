@@ -5,7 +5,7 @@ author:
 coverImage: ''
 title: 'Ensure our newsletter reaches your inbox'
 status: 'published'
-slug: 'ensure-your-emails-are-delivered-with-allowlists'
+slug: 'ensure-our-newsletter-reaches-your-inbox'
 description: ''
 publishedAt: '2024-09-03T12:07:08.991Z'
 ---
