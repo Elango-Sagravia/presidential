@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { useEffect } from "react";
+import { useEffect, Suspense } from "react";
 
 const Unsubscribe = () => {
   const params = useSearchParams();
@@ -23,12 +23,14 @@ const Unsubscribe = () => {
     } catch (error) {}
   }, []);
   return (
-    <div className="bg-nl_sec_background min-h-svh md:min-h-[1050px] flex justify-center items-center px-4 md:px-8">
-      <h1 className="text-3xl text-nl_background w-full md:w-1/2">
-        Your email({email}) has been successfully removed from our subscriber
-        list.
-      </h1>
-    </div>
+    <Suspense>
+      <div className="bg-nl_sec_background min-h-svh md:min-h-[1050px] flex justify-center items-center px-4 md:px-8">
+        <h1 className="text-3xl text-nl_background w-full md:w-1/2">
+          Your email({email}) has been successfully removed from our subscriber
+          list.
+        </h1>
+      </div>
+    </Suspense>
   );
 };
 
