@@ -24,7 +24,7 @@ function SubscriberForm({ formClasses }) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          email: inputEmail.toLowerCase(),
+          email: inputEmail.toLowerCase().trim(),
           domain: window.location.hostname,
         }),
       });
