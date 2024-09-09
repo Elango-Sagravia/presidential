@@ -1,5 +1,6 @@
 ---
 cutOff: '4'
+latest: 'true'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/trump-will-not-face-sentencing-for-the-hush-money-case-until-after-the-election-2-QwOT.webp'
@@ -17,7 +18,7 @@ publishedAt: '2024-09-09T10:53:39.160Z'
 
 Typhoon Yagi, a menacing typhoon that hit Southeast Asia, has finally been downgraded to a tropical depression. Its last victim was [Northern Vietnam](https://www.reuters.com/world/asia-pacific/typhoon-yagi-weakens-after-hitting-vietnams-capital-hanoi-2024-09-08/). The storm caused widespread flooding and landslides, particularly affecting the capital city, Hanoi. The death toll in Vietnam has risen to 21 as rescue efforts continue.
 
-Yagi also caused much damage in the Philippines and southern China earlier. This summer has been hotter than usual all over the world. These record-breaking temperatures are a culprit in the rising water temperatures that have caused these severe typhoons in the Pacific. 
+Yagi also caused much damage in the Philippines and southern China earlier. This summer has been hotter than usual all over the world. These record-breaking temperatures are a culprit in the rising water temperatures that have caused these severe typhoons in the Pacific.
 
 ### Trump Sentencing Delayed Until After Election
 
