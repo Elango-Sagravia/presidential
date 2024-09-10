@@ -30,6 +30,9 @@ export default function Footer() {
                 This newsletter and website are operated by Sagravia LLC, 30 N
                 Gould St, Sheridan, WY 82801.
               </p>
+              <p className="mt-8 text-[12px] text-gray-400">
+                © 2024 Sagravia LLC. All rights reserved.
+              </p>
             </div>
           </div>
           <div>
@@ -88,6 +91,9 @@ export default function Footer() {
           <p className="mt-8 text-[12px] text-gray-400">
             This newsletter and website are operated by Sagravia LLC, 30 N Gould
             St, Sheridan, WY 82801
+          </p>
+          <p className="mt-8 text-[12px] text-gray-400">
+            © 2024 Sagravia LLC. All rights reserved.
           </p>
         </div>
       </footer>
