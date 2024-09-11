@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/22nd-aug_-worlds-oldest-dies--russia-bans-tinder-for-troops-MwNT.webp'
+coverImage: '/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-AzNj.webp'
 description: ''
 slug: 'worlds-oldest-dies'
 author:
@@ -31,7 +31,7 @@ Yet again, another city has decided to ban [E-scooters](https://edition.cnn.com/
 
 ### Serbia EU dispute over Lithium
 
-![Serbia EU dispute over Lithium](/images/22nd-aug_-worlds-oldest-dies--russia-bans-tinder-for-troops-E2MT.webp)
+![](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-Q4ND.webp)
 
 The [EU Commission](https://www.euronews.com/my-europe/2024/08/20/eu-remains-fully-committed-to-lithium-deal-despite-unrest-in-serbia) and Serbia are in a dispute regarding lithium. The European Union and Serbia have a strategic partnership with raw materials. The Serbian recently signed a deal with Australian company Rio Tinto to mine for lithium in Serbia’s Jadear Valley. EU leadership signed an agreement of understanding. This has upset environmental groups and a big chunk of the Serbian public, who feel they won’t benefit from it. Massive protests have been going on in the capital city of Belgrade. Serbian leadership has accused the EU of playing a role in the anti-mining protests. Serbia is presently a candidate for EU membership. However, some enthusiasm has faded in recent years. Serbia is at a geopolitical crossroads between Russia, China, and the European Union.
 
