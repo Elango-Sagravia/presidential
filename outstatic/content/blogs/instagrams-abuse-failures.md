@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b27a-gyMz.webp'
+coverImage: '/images/15th-aug--instagram-s-abuse-failures--mars-to-acquire-kellanova--cyND.webp'
 description: ''
 slug: 'instagrams-abuse-failures'
 author:
@@ -27,7 +27,7 @@ The push to eliminate tip taxes has gained bipartisan traction but faces critici
 
 ### Spicy Ramen Noodles Return to Danish Shelves
 
-![Spicy Ramen Noodles](/images/b27a-QzNT.webp)
+![Ramen Noodles](/images/15th-aug--instagram-s-abuse-failures--mars-to-acquire-kellanova--U5Mz.webp)
 
 In central Copenhagen, Danes celebrated the return of Samyang Foods’ Buldak ramen noodles, which had been banned in June due to their extreme spiciness. The Danish Veterinary and Food Administration had previously removed the noodles over health concerns related to high capsaicin levels.
 
