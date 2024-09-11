@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b53a-E2ND.webp'
+coverImage: '/images/16th-aug--senator-ousted--crypto-pac-shifts-to-democrats-UzMz.webp'
 description: ''
 slug: 'senator-ousted'
 author:
@@ -49,7 +49,7 @@ In response, the WHO and CDC are enhancing surveillance and advising travelers t
 
 North Korea plans to restart international tourism to its northeastern city of Samjiyon in December 2024, marking a significant shift after years of strict COVID-19 border controls. The announcement, confirmed by Koryo Tours, indicates that tourism could extend to other parts of the country soon.
 
-![North Korea](/images/b53a-g2OT.webp)
+![Tourism in North Korea](/images/16th-aug--senator-ousted--crypto-pac-shifts-to-democrats-czMD.webp)
 
 This move comes after North Korea resumed international flights and hosted a few foreign dignitaries, including Russian President Vladimir Putin. The city of Samjiyon, near the Chinese border, has been developed with new facilities, including hotels and a ski resort, as part of the country's effort to showcase its “socialist utopia.”
 
