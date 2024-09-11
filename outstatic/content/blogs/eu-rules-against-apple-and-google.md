@@ -1,6 +1,6 @@
 ---
 cutOff: '4'
-latest: ''
+latest: 'true'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/tropical-storm-francine-gets-stronger--could-evolve-into-a-hurricane-and-likely-to-hit-louisiana-on-wednesday-kxND.webp'
