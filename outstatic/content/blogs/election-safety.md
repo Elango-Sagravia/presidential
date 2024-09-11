@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/18th-aug_-election-safety--legal-battles--and-economic-shifts--1--MxOD.webp'
+coverImage: '/images/18th-aug--election-safety--legal-battles--and-economic-shifts-I5MD.webp'
 description: ''
 slug: 'election-safety'
 author:
@@ -35,7 +35,7 @@ The Supreme Court’s decision follows lawsuits filed in Kentucky and Louisiana,
 
 ### Southern Africa Faces Severe Drought Due to El Niño
 
-![](/images/18th-aug_-election-safety--legal-battles--and-economic-shifts--1--Q4MD.webp)
+![](/images/18th-aug--election-safety--legal-battles--and-economic-shifts-YyOT.webp)
 
 Southern Africa is grappling with a severe drought affecting 68 million people, as reported by the Southern African Development Community (SADC). The drought, which began in early 2024, has devastated crops and livestock, leading to widespread food shortages and economic damage.
 
