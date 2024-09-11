@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b4b-g4Nj.webp'
+coverImage: '/images/12th-aug--khelif-s-legal-fight--reynolds---lively-s-box-office-wins-b-I0ND.webp'
 description: ''
 slug: 'reynolds-livelys-box-office-wins'
 author:
@@ -33,7 +33,7 @@ Amid the offensive, Ukraine is also grappling with internal challenges, includin
 
 ### Ryan Reynolds and Blake Lively Score Box-Office Wins
 
-![Deadpool and Wolverine](/images/b4b-Q2Nz.webp)
+![](/images/12th-aug--khelif-s-legal-fight--reynolds---lively-s-box-office-wins-b-E0Mj.webp)
 
 In the latest box-office showdown, Ryan Reynolds and Blake Lively both emerged victorious. Reynolds' film, “Deadpool & Wolverine,” topped the charts for a third week, bringing in $54.2 million and surpassing $1 billion globally. Lively’s film, “It Ends With Us,” also performed well, opening strongly with $50 million, exceeding initial forecasts. This family-driven box-office duel echoes past celebrity pairings, such as Bruce Willis and Demi Moore in 1990.
 
