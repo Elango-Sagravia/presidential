@@ -1,6 +1,6 @@
 ---
 cutOff: '4'
-latest: 'true'
+latest: ''
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/tropical-storm-francine-gets-stronger--could-evolve-into-a-hurricane-and-likely-to-hit-louisiana-on-wednesday-kxND.webp'
@@ -18,7 +18,7 @@ publishedAt: '2024-09-11T09:30:22.573Z'
 
 The European Court of Justice has ruled against both Apple and Google. The verdict is that Google violated antitrust laws and that Apple needed to pay the [European Union](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532) over 14 billion dollars in back taxes. The Google ruling goes back to 2017 when they were accused of violating antitrust laws by prioritizing their Google shopping links in searches. The Apple verdict is from 2016, which involved a deal made with Ireland to avoid paying some taxes. Ireland responded by saying they changed the t[ax system ](https://dig.watch/updates/irish-government-responds-to-apple-tax-ruling-as-a-historical-matter)since the deal was made.
 
-The rulings are final and can’t be overturned. This decision is seen as a victory against American tech giants. Both have had different issues with adhering to European regulations, which are much stricter than those in the US and elsewhere.  
+The rulings are final and can’t be overturned. This decision is seen as a victory against American tech giants. Both have had different issues with adhering to European regulations, which are much stricter than those in the US and elsewhere.
 
 ### Germany to Implement Border Checks
 
@@ -32,13 +32,13 @@ Many are surprised that Germany can do this as a Schengen member. The [Schengen 
 
 The US presidential debate went on last night in Philadelphia. There wasn’t a shortage of [clashes](https://www.dw.com/en/us-presidential-debate-harris-trump-clash-over-key-issues/live-70183487) and jabs back and forth, which is no surprise. The most heated topics were the economy, abortion, immigration, and the January 6th capital riots. The wars in Ukraine and Gaza were also hot topics for debate.
 
-However, the biggest breaking news with the debate happened immediately after it concluded. Taylor Swift [endorsed](https://www.npr.org/2024/09/10/nx-s1-5107976/taylor-swift-instagram-endorse-kamala-harris) Kamala Harris on her social media minutes after it ended. Taylor Swift does have a lot of power in mobilizing the Gen Z vote. From the recent polls, the election seems to come down to results in two or three states where both candidates are tied right now. 
+However, the biggest breaking news with the debate happened immediately after it concluded. Taylor Swift [endorsed](https://www.npr.org/2024/09/10/nx-s1-5107976/taylor-swift-instagram-endorse-kamala-harris) Kamala Harris on her social media minutes after it ended. Taylor Swift does have a lot of power in mobilizing the Gen Z vote. From the recent polls, the election seems to come down to results in two or three states where both candidates are tied right now.
 
 ### Francine Strengthens into a Hurricane
 
 ![](/images/tropical-storm-francine-gets-stronger--could-evolve-into-a-hurricane-and-likely-to-hit-louisiana-on-wednesday-E2NT.webp)
 
-Francine has officially graduated from a tropical storm to a category hurricane. Before it hits land, it could be a [category two](https://edition.cnn.com/2024/09/10/weather/tropical-storm-francine-hurricane-forecast-climate-tuesday/index.html) hurricane. Francine is expected to make landfall sometime today in Louisiana, which closed its floodgates yesterday. 
+Francine has officially graduated from a tropical storm to a category hurricane. Before it hits land, it could be a [category two](https://edition.cnn.com/2024/09/10/weather/tropical-storm-francine-hurricane-forecast-climate-tuesday/index.html) hurricane. Francine is expected to make landfall sometime today in Louisiana, which closed its floodgates yesterday.
 
 Initially projected to hit western Louisiana, Francine's path has shifted eastward, increasing the likelihood it could impact New Orleans. The Gulf Coast, including parts of Mississippi and Alabama, is also under storm watches. With memories of Hurricane Katrina still fresh, residents are bracing for potential damage.
 
@@ -60,4 +60,4 @@ China’s education system places immense pressure on children to excel, contrib
 
 [Israeli military now thinks they might have unintentionally killed the American in the West Bank.](https://www.nbcnews.com/news/world/israeli-military-says-likely-killed-american-west-bank-protest-rcna170370)
 
-[Space X launches billionaire into space to conduct the first private spacewalk in the history of space travel. ](https://apnews.com/article/spacex-polaris-dawn-private-spacewalk-707e90a2868ce37f8c0c2028004f91b9)
+[Space X launches billionaire into space to conduct the first private spacewalk in the history of space travel.](https://apnews.com/article/spacex-polaris-dawn-private-spacewalk-707e90a2868ce37f8c0c2028004f91b9)
