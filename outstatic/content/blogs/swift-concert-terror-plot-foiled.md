@@ -47,7 +47,7 @@ The decision follows CEO Carlos Tavares’ commitment to address financial chall
 
 ### Canadian B-Boy Phil Wizard Wins Olympic Gold
 
-![B-Boy Phil Wizard](/images/b2b-k1OT.webp)
+![](/images/b2b--1--kxOD.webp)
 
 Canadian Philip Kim, known as B-Boy Phil Wizard, captivated audiences and secured the first Olympic gold medal for men's breaking. Kim's electrifying performance, highlighted by his dynamic moves and boundless energy, earned him a decisive 3-0 victory over France's Danis Civil. Even after the win was announced, Kim continued to showcase his skills, demonstrating his stamina and enthusiasm despite a long day of intense competition at Place de la Concorde. Reflecting on his success, Kim admitted to feeling nervous but was thrilled to have delivered and enjoyed the historic moment alongside his fellow competitors.
 
