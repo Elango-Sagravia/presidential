@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b31a-QzOD.webp'
+coverImage: '/images/14th-aug--harris-surges-in-key-states--nadeem-s-historic-olympic-win-Y2Mj.webp'
 description: ''
 slug: 'harris-surges-in-key-states'
 author:
@@ -27,7 +27,7 @@ Bargzie, a former refugee from Afghanistan, is expected to play a crucial role a
 
 ### Pakistani Javelin Star Arshad Nadeem Celebrated After Historic Olympic Win
 
-![Arshad Nadeem](/images/b31a-Q4NT.webp)
+![Arshad Nadeem](/images/14th-aug--harris-surges-in-key-states--nadeem-s-historic-olympic-win-M2OD.webp)
 
 Arshad Nadeem, a javelin thrower from Pakistan, has been warmly celebrated after winning the country’s first individual gold medal at the Paris Olympics. The 27-year-old was greeted by thousands at the airport and honored with a grand welcome in his hometown of Mian Channu, including a water cannon salute and garlands.
 
