@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b2a-kwMT.webp'
+coverImage: '/images/10th-aug--swift-concert-terror-plot-foiled--california-s-big-ai-push-k2MD.webp'
 description: ''
 slug: 'swift-concert-terror-plot-foiled'
 author:
@@ -15,7 +15,7 @@ publishedAt: '2024-08-10T13:18:45.000Z'
 
 ### Three Arrested in Foiled Terror Plot at Swift Concerts
 
-![Taylor Swift concert](/images/b2a-U5NT.webp)
+![Taylor Swift concert](/images/10th-aug--swift-concert-terror-plot-foiled--california-s-big-ai-push-c1MT.webp)
 
 A third teenager has been arrested in connection with a thwarted attack on Taylor Swift's concerts in Vienna, Austrian Interior Minister Gerhard Karner announced. The 18-year-old, who is alleged to have been in contact with the primary suspect, was taken into custody as part of a plot inspired by Islamic extremist groups.
 
@@ -51,7 +51,7 @@ The decision follows CEO Carlos Tavares’ commitment to address financial chall
 
 Canadian Philip Kim, known as B-Boy Phil Wizard, captivated audiences and secured the first Olympic gold medal for men's breaking. Kim's electrifying performance, highlighted by his dynamic moves and boundless energy, earned him a decisive 3-0 victory over France's Danis Civil. Even after the win was announced, Kim continued to showcase his skills, demonstrating his stamina and enthusiasm despite a long day of intense competition at Place de la Concorde. Reflecting on his success, Kim admitted to feeling nervous but was thrilled to have delivered and enjoyed the historic moment alongside his fellow competitors.
 
-Frenchman Danis Civil, who won the silver medal, performed admirably in front of a supportive home crowd, narrowly edging out Victor Montalvo from the U.S. in the semifinals. Montalvo, known as B-Boy Victor, claimed bronze after a hard-fought battle with Japan's B-Boy Shigekix. Montalvo expressed pride in bringing a medal back to the U.S., the birthplace of breaking, and noted the unity among competitors on the Olympic stage. 
+Frenchman Danis Civil, who won the silver medal, performed admirably in front of a supportive home crowd, narrowly edging out Victor Montalvo from the U.S. in the semifinals. Montalvo, known as B-Boy Victor, claimed bronze after a hard-fought battle with Japan's B-Boy Shigekix. Montalvo expressed pride in bringing a medal back to the U.S., the birthplace of breaking, and noted the unity among competitors on the Olympic stage.
 
 Although breaking is not on the program for the 2028 Los Angeles Games, Kim hoped that its Olympic debut would inspire and elevate the sport, emphasizing its significance and potential.
 
