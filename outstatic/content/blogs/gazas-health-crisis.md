@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/22nd-aug_-worlds-oldest-dies--russia-bans-tinder-for-troops-g1Nz.webp'
+coverImage: '/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-YxMD.webp'
 description: ''
 slug: 'gazas-health-crisis'
 author:
