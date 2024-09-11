@@ -3,7 +3,7 @@ cutOff: '4'
 latest: ''
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b1a-UxMj.webp'
+coverImage: '/images/9th-aug--trump-s--4t-tax-plan--hottest-year-ever-E5Mj.webp'
 description: ''
 slug: 'trumps-4t-tax-plan'
 author:
@@ -18,7 +18,7 @@ publishedAt: '2024-08-08T17:04:59.000Z'
 
 Former President Donald J. Trump’s campaign promises include substantial new tax cuts, projected to add nearly $4 trillion to the national debt over the next decade, according to independent analyses. His plans involve eliminating federal income taxes on Social Security benefits, reducing the corporate tax rate to 15%, and extending previous tax cuts. Despite proposed new tariffs and repealing tax breaks for clean-energy technologies, which could raise about $3 trillion, Trump’s net revenue loss would still be about $4 trillion, factoring in interest costs.
 
-![President Donald J. Trump](/images/b1a-k4Mz.webp)
+![](/images/9th-aug--trump-s--4t-tax-plan--hottest-year-ever-I1OD.webp)
 
 In contrast, Vice President Kamala Harris, his Democratic opponent, has not detailed specific tax or spending proposals. Her campaign indicates that her fiscal plans will be aligned with President Biden’s recent budget proposal, which aims to reduce deficits by about $3 trillion over ten years through increased taxes on corporations and high earners. Total federal debt stands at approximately $35 trillion, up from $20 trillion when Trump took office in 2017, growing by $7.8 trillion under Trump and $7.3 trillion under Biden. The Congressional Budget Office projects a $22 trillion debt increase over the next decade, driven by retiring baby boomers and existing policies.
 
