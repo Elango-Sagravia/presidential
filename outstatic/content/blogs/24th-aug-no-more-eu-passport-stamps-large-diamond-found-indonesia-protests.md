@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/24th-aug_-no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-a-UxMT.webp'
+coverImage: '/images/24th-aug--no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-QwOT.webp'
 description: ''
 slug: '24th-aug-no-more-eu-passport-stamps-large-diamond-found-indonesia-protests'
 author:
@@ -15,17 +15,17 @@ publishedAt: '2024-08-24T15:11:48.000Z'
 
 ### EU will stop stamping passports soon
 
-![EU Passport stamps](/images/24th-aug_-no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-a-I4Nz.webp)
+![](/images/24th-aug--no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-I3MT.webp)
 
-Here is some bad news for those who like to collect passport stamps. The EU finally gave the green light to the new automated Entry/Exit System (EES), which will launch on 10 November 2024. The EES will register non-EU visitors digitally, [removing the need for physical stamps](https://www.euronews.com/travel/2024/08/22/end-of-an-era-for-passport-stamps-new-eu-entry-system-will-register-travellers-digitally). Also, once this is adequately implemented, all travelers to the EU with visa-free access will have to register for ETIAS, which is an online travel authorization. The authorization will cost 7$ and should be suitable for three years. The online authorization is set to start in early 2025 but could be pushed back again. 
+Here is some bad news for those who like to collect passport stamps. The EU finally gave the green light to the new automated Entry/Exit System (EES), which will launch on 10 November 2024. The EES will register non-EU visitors digitally, [removing the need for physical stamps](https://www.euronews.com/travel/2024/08/22/end-of-an-era-for-passport-stamps-new-eu-entry-system-will-register-travellers-digitally). Also, once this is adequately implemented, all travelers to the EU with visa-free access will have to register for ETIAS, which is an online travel authorization. The authorization will cost 7$ and should be suitable for three years. The online authorization is set to start in early 2025 but could be pushed back again.
 
-### The second largest diamond found in Botswana 
+### The second largest diamond found in Botswana
 
 A Canadian mining company discovered a 2,492-carat diamond in Botswana, the [second-largest diamond in the world](https://www.aljazeera.com/news/2024/8/22/worlds-second-largest-diamond-found-in-botswana). The diamond was found via X-ray technology. Botswana is one of the world’s largest producers of diamonds, which is its primary source of income. Lucera didn’t assign a value or mention the quantity but said it's only second to a diamond mined over a century ago in South Africa. The diamond is the size of a palm of a hand. Botswana President Mokgweetsi Masisi posed with the massive stone. This is a good find for the company and Botswana.
 
-### Protests in Indonesia 
+### Protests in Indonesia
 
-Thousands of protestors have been demonstrating in front of Indonesia’s parliament; some have even tried to storm it. The reason for this is changes in law regarding elections. Indonesian police fired tear gas and water cannons to disperse [thousands of protesters](https://apnews.com/article/indonesia-protest-jokowi-widodo-345949895cc83bd18abcd90f2d1a9715) who attempted to enter the parliament building after they tore down a section of fence and threw rocks at police.  Many protestors believe that implementing these changes would prolong the political influence of Indonesian President Joko Widodo after his leave and weaken Indonesia's democracy. 
+Thousands of protestors have been demonstrating in front of Indonesia’s parliament; some have even tried to storm it. The reason for this is changes in law regarding elections. Indonesian police fired tear gas and water cannons to disperse [thousands of protesters](https://apnews.com/article/indonesia-protest-jokowi-widodo-345949895cc83bd18abcd90f2d1a9715) who attempted to enter the parliament building after they tore down a section of fence and threw rocks at police. Many protestors believe that implementing these changes would prolong the political influence of Indonesian President Joko Widodo after his leave and weaken Indonesia's democracy.
 
 ### Hungary celebrates over 1000 years this week
 
