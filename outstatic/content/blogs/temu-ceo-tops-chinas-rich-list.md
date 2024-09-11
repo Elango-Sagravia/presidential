@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/23rd-aug_-temu-ceo-tops-china-s-rich-list--kennedy-exit-rumors-a-YxMj.webp'
+coverImage: '/images/23rd-aug--temu-ceo-tops-china-s-rich-list--kennedy-exit-rumors-M1OD.webp'
 description: ''
 slug: 'temu-ceo-tops-chinas-rich-list'
 author:
@@ -15,7 +15,7 @@ publishedAt: '2024-08-23T13:00:07.000Z'
 
 ### TEMU CEO is now China’s richest person
 
-![Colin Huang of Temu](/images/23rd-aug_-temu-ceo-tops-china-s-rich-list--kennedy-exit-rumors-a-UyOD.webp)
+![](/images/23rd-aug--temu-ceo-tops-china-s-rich-list--kennedy-exit-rumors-MzMj.webp)
 
 Colin Huang, the founder of PDD Holdings, the owner of discount online shopping platform [Temu](https://www.euronews.com/business/2024/08/09/temus-billionaire-founder-takes-the-top-spot-in-chinas-rich-list), has been named China's richest man with a net worth of $48.6bn. Temu became popular during the pandemic because it offers a wide variety of products at really cheap prices. It has been gaining popularity in the US and Europe. Temu is criticized by many for making many cheap products, contributing to questionable labor laws and environmental issues. The companies also have a stringent policy with suppliers and heavily fine them for late deliveries and the wrong products. The fines are over five times the wholesale price. Temu’s suppliers have protested factories in China.
 
