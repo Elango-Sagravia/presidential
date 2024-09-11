@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b41a-MxND.webp'
+coverImage: '/images/20th-aug--swedish-immigration-drop--india-doctor-strike--and-taliban-milestones-QzNT.webp'
 description: ''
 slug: 'swedish-immigration-drop'
 author:
@@ -19,7 +19,7 @@ For the first time in many years, the number of [Swedes leaving Sweden](https://
 
 ### Doctor Strike in India continues
 
-![Strike in India](/images/b41a-A5NT.webp)
+![Doctor strike in India](/images/20th-aug--swedish-immigration-drop--india-doctor-strike--and-taliban-milestones-E2MD.webp)
 
 Doctors across India have been on [strike](https://www.aljazeera.com/news/2024/8/18/some-doctors-still-on-strike-protests-spread-after-indian-medics-murder). This started with the recent rape and murder of a 31-year-old doctor in a state-run hospital in Kolkata. Doctors and other healthcare workers have led the protests but are joined by thousands of other Indian citizens demanding justice. The city police are accused of mishandling the case. Many laws have been put in tact recently in India to punish rapists and protect women; however, many have said they are not enough. The strike ended on Sunday morning, but the Indian Medical Association gave a 72-hour deadline for authorities to conduct a proper inquiry and make arrests, or they would continue to strike.
 
