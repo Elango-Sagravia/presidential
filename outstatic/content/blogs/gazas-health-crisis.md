@@ -17,7 +17,7 @@ publishedAt: '2024-08-11T13:37:31.000Z'
 
 Since the onset of the Israel-Hamas war, many children have been suffering from waterborne illnesses such as hepatitis and skin infections. The conflict has wreaked havoc on Gaza’s water infrastructure, with Oxfam International reporting that 94% of water availability has been lost due to damage to desalination plants and wells.
 
-Almost all of Gaza’s wastewater treatment plants have been destroyed, leaving the water supply dangerously contaminated. Humanitarian efforts to repair infrastructure and provide clean water are facing significant obstacles. 
+Almost all of Gaza’s wastewater treatment plants have been destroyed, leaving the water supply dangerously contaminated. Humanitarian efforts to repair infrastructure and provide clean water are facing significant obstacles.
 
 Health issues are on the rise, including a notable increase in hepatitis A cases, respiratory infections, and skin diseases. Additionally, traces of the polio virus have been detected in wastewater, raising concerns about a potential outbreak. The UN is working to restore a desalination plant and distribute vaccines, but logistical challenges continue to hinder these crucial efforts.
 
@@ -31,7 +31,7 @@ China’s embassy in Manila has yet to respond to these remarks. Scarborough Sho
 
 ### Mass Protests in Belgrade Against Lithium Mining
 
-![Mass Protests in Belgrade](/images/22nd-aug_-worlds-oldest-dies--russia-bans-tinder-for-troops-E4Mz.webp)
+![](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-g5MD.webp)
 
 Tens of thousands of people protested in Belgrade on Saturday against plans for lithium mining in Serbia, despite President Aleksandar Vučić's claims that foreign powers are orchestrating a coup. The demonstrators, who chanted slogans such as “There will be no mining” and “Treason, treason,” are demanding an official ban on lithium extraction.
 
