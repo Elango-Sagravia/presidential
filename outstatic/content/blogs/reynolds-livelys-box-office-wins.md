@@ -15,7 +15,7 @@ publishedAt: '2024-08-12T13:48:04.000Z'
 
 ### Imane Khelif Files Legal Complaint Over Cyber-Harassment
 
-![Imane Khelif](/images/b4a-I4OT.webp)
+![Imane Khelif](/images/12th-aug--khelifs-legal-fight--reynolds---livelys-box-office-wins-g3NT.webp)
 
 Algerian Olympic boxing champion Imane Khelif has filed a legal complaint in France, alleging “aggravated cyber-harassment” following false claims about her gender during the Paris Olympics. Khelif, who won gold in the women’s welterweight division, was subjected to a barrage of misogynist and racist attacks after her opponent, Angela Carini, withdrew from their match. This led to erroneous claims that Khelif was transgender. Her lawyer has described the harassment campaign against her as “misogynist, racist, and sexist.”
 
