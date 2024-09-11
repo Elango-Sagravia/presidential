@@ -44,7 +44,7 @@ These problems come as no surprise given the troubled history of Boeing's Starli
 
 ### New Housing Policy for Disabled Veterans
 
-![New Housing Policy for Disabled Veterans](/images/b1b-kyMj.webp)
+![](/images/b1b--1--g1OT.webp)
 
 On Thursday, the federal government updated a policy that previously excluded some disabled veterans from receiving subsidized housing. The new policy raises the income threshold for eligibility in the Department of Housing and Urban Development’s (HUD) supportive housing program. Previously, veterans receiving full disability benefits were disqualified because their benefits were considered income.
 
