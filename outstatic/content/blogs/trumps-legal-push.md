@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/b50a-c3Nj.webp'
+coverImage: '/images/17th-aug--trump-s-legal-push--dhaka-violence--ukraine-s-bold-move-kyNT.webp'
 description: ''
 slug: 'trumps-legal-push'
 author:
@@ -21,7 +21,7 @@ Judge Juan Merchan, who has faced requests to recuse himself due to alleged conf
 
 ### Secret Service Boosts Trump’s Security with Ballistic Glass
 
-![](/images/b50a-E5Mj.webp)
+![](/images/17th-aug--trump-s-legal-push--dhaka-violence--ukraine-s-bold-move-U2Nz.webp)
 
 The Secret Service is implementing new security measures to protect former President Donald Trump during his outdoor campaign events, including the use of ballistic glass. This type of bulletproof glass, previously reserved for sitting presidents and vice presidents, will now be deployed around the country for Trump’s events. Although Trump does not have access to military aircraft for transport like current officeholders, agents will move the glass to event locations as needed, depending on specific security concerns.
 
