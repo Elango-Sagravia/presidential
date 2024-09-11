@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-YxMD.webp'
+coverImage: '/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-k0ND.webp'
 description: ''
 slug: 'gazas-health-crisis'
 author:
@@ -31,7 +31,7 @@ China’s embassy in Manila has yet to respond to these remarks. Scarborough Sho
 
 ### Mass Protests in Belgrade Against Lithium Mining
 
-![](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-g5MD.webp)
+![mass protest](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-g5MD.webp)
 
 Tens of thousands of people protested in Belgrade on Saturday against plans for lithium mining in Serbia, despite President Aleksandar Vučić's claims that foreign powers are orchestrating a coup. The demonstrators, who chanted slogans such as “There will be no mining” and “Treason, treason,” are demanding an official ban on lithium extraction.
 
