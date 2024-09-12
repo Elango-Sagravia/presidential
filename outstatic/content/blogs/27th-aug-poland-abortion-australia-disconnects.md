@@ -29,7 +29,7 @@ Thirty-six members of Uganda's opposition party, Forum for Democratic Change (FD
 
 ### Hundreds swim to the Spanish enclave of Ceuta
 
-![Hundreds swim to the Spanish enclave of Ceuta](/images/27th-aug--poland-can-t-make-abortion-legal--australia-disconnects--uganda-opposition-faces-charges-b-E0MD.webp)
+![](/images/27th-aug--poland-can-t-make-abortion-legal--australia-disconnects--uganda-opposition-faces-charges-b-YyMD.webp)
 
 On Sunday and Monday morning, hundreds of migrants [swam](https://www.reuters.com/world/dozens-migrants-swim-into-spains-ceuta-enclave-morocco-2024-08-26/) to the Spanish enclave of Ceuta. Spain has two enclaves on Morocco's Mediterranean coast, Ceuta and Melilla; they share the only land borders of the European Union with Africa. This has become a popular path for some refugees to enter the European Union without crossing the Mediterranean. However, it's only possible sometimes. It depends a lot on the mist. It’s a strongly guarded area that must be thicker on days and times. It is still a challenging swim, and some have died from doing this. It is not always guaranteed that they will get to stay, even if they are successful. Moroccan nationals are sent back most of the time.
 
