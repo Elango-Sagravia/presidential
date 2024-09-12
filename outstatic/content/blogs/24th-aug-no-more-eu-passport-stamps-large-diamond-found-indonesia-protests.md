@@ -33,7 +33,7 @@ Hungary had the [largest fireworks display in Europe](https://www.euronews.com/2
 
 ### Algeria has plans to increase tourism
 
-![Tourism in Algeria](/images/24th-aug_-no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-b-c0ND.webp)
+![](/images/56b--1--k1Nz.webp)
 
 Algeria has been experiencing a [boom in tourism](https://www.africanews.com/2024/08/22/as-algeria-opens-its-doors-to-more-visitors-its-tourism-sector-is-rapidly-expanding-to-hos/) in the last couple of years. It is hungry for more. The government wants to welcome even more visitors to increase the number of annual tourists fivefold by 2030. While Algeria has increased tourism, it still needs to catch up in its tourism sector compared to Morocco and Tunisia. These two countries have cultivated a steady tourist flow for decades. They are also visa-free for many people. Algeria still requires a tourist visa for most people, which can be rather pricey and time-consuming. They recently made it visa-free for those who purchased a desert tour in the south.
 
