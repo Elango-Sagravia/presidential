@@ -15,7 +15,7 @@ publishedAt: '2024-08-26T14:40:20.000Z'
 
 ### Telegram founder arrested
 
-![](/images/26th-aug--telegram-rouble--space-x-to-bring-back-astronauts-M2MT.webp)
+![Telegram founder and CEO Pavel Durov](/images/26th-aug--telegram-rouble--space-x-to-bring-back-astronauts-M2MT.webp)
 
 Telegram founder and CEO Pavel Durov was [arrested on a warrant](https://www.dw.com/en/telegrams-pavel-durov-arrested-in-france-on-criminal-charges/a-70042055) for offenses related to his popular messaging app. He was arrested at Le Bourget airport near Paris on Saturday. He was supposed to be traveling to Baku in his private jet. The offenses related to his app involve some charges ranging from fraud, drug trafficking, cyberbullying, organized crime, and the promotion of terrorism. On Sunday, the Russian Embassy in Paris said the French authorities were "refusing to cooperate" after Durov's arrest. Telegram has increased in popularity and is expected to reach a billion users this year.
 
@@ -25,7 +25,7 @@ NASA will bring back two stranded astronauts, Sunita Williams and Barry Wilmore,
 
 ### French synagogue set on fire, suspect arrested
 
-![French synagogue set on fire, suspect arrested](/images/26th-aug--telegram-rouble--space-x-to-bring-back-astronauts-b-AxMT.webp)
+![French synagogue set on fire](/images/26th-aug--telegram-rouble--space-x-to-bring-back-astronauts-b-EzMD.webp)
 
 French police have arrested a suspect over an arson attack on a synagogue in Southern France. The [arrest](https://www.france24.com/en/france/20240825-french-police-arrest-suspect-over-fire-attack-on-synagogue) happened after a shootout with the suspect. Nobody was killed or harmed. The suspect faces some injuries. Also, a policeman had some injuries from an exploding gas bottle the suspect used for the fire. The suspect is a 33-year-old Algerian national. Anti-Semitic attacks have been on the rise in France this year over Israel’s retaliation in Gaza following the attacks on October 7th. Police protection of synagogues, Jewish schools, and businesses will be stepped up across France.
 
