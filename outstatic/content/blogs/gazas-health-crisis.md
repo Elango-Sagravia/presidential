@@ -2,7 +2,7 @@
 cutOff: '4'
 relatedArticles: ''
 readTime: '5'
-coverImage: '/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-k0ND.webp'
+coverImage: '/images/b3b-k3MT.webp'
 description: ''
 slug: 'gazas-health-crisis'
 author:
@@ -49,7 +49,7 @@ The settlement also includes commitments from Cash App and Block Inc. to enhance
 
 ### U.S. Tops Paris Olympics Medal Table with 40 Golds
 
-![U.S. Tops Paris Olympics](/images/b3b-YzMj.webp)
+![Paris Olympics Medal Table](/images/b3b-cwOT.webp)
 
 The United States claimed the top spot on the medal table at the Paris Olympics, securing 40 gold medals. Despite China matching their gold count, the U.S. edged out the competition with a higher silver medal tally. The American women's basketball team clinched the final gold of the Games, solidifying their country's dominance. With a total of 126 medals, the U.S. finished well ahead of China's 91.
 
