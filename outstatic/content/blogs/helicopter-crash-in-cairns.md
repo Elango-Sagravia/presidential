@@ -53,7 +53,7 @@ Concerns are mounting that stronger-than-expected inflation could lead to signif
 
 ### Alcaraz Eyes Top Ranking at Cincinnati Open Amid Djokovic Withdrawal
 
-![Carlos Alcaraz](/images/b5b-Y5ND.webp)
+![Carlos Alcaraz](/images/b5b-M1MD.webp)
 
 Carlos Alcaraz, the world number three and reigning French Open and Wimbledon champion, is determined to finish the season as the top-ranked player globally. Following a narrow defeat to Novak Djokovic in the Olympic final, Alcaraz is turning his attention to the Cincinnati Open, where he aims to close the 450-point gap behind world number one Jannik Sinner in the ATP live race.
 
