@@ -16,7 +16,7 @@ publishedAt: '2024-09-11T09:30:22.573Z'
 
 ### EU Top Court Rules Against Apple and Google
 
-The European Court of Justice has ruled against both Apple and Google. The verdict is that Google violated antitrust laws and that Apple needed to pay the [European Union](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532) over 14 billion dollars in back taxes. The Google ruling goes back to 2017 when they were accused of violating antitrust laws by prioritizing their Google shopping links in searches. The Apple verdict is from 2016, which involved a deal made with Ireland to avoid paying some taxes. Ireland responded by saying they changed the t[ax system ](https://dig.watch/updates/irish-government-responds-to-apple-tax-ruling-as-a-historical-matter)since the deal was made.
+The European Court of Justice has ruled against both Apple and Google. The verdict is that Google violated antitrust laws and that Apple needed to pay the [European Union](https://www.dw.com/en/eu-top-court-rules-against-apple-google/a-70175532) over 14 billion dollars in back taxes. The Google ruling goes back to 2017 when they were accused of violating antitrust laws by prioritizing their Google shopping links in searches. The Apple verdict is from 2016, which involved a deal made with Ireland to avoid paying some taxes. Ireland responded by saying they changed the [tax system](https://dig.watch/updates/irish-government-responds-to-apple-tax-ruling-as-a-historical-matter) since the deal was made.
 
 The rulings are final and can’t be overturned. This decision is seen as a victory against American tech giants. Both have had different issues with adhering to European regulations, which are much stricter than those in the US and elsewhere.
 
