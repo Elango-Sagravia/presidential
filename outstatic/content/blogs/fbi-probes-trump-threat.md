@@ -3,12 +3,12 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: ''
+coverImage: '/images/eight-dead-after-attempting-to-cross-channel---as-801-people-arrived-in-uk-on-small-boats-yesterday-IxND.webp'
 description: ''
 slug: 'fbi-probes-trump-threat'
 author:
   name: 'Camy'
-  picture: '/images/eight-dead-after-attempting-to-cross-channel---as-801-people-arrived-in-uk-on-small-boats-yesterday-k4Mz.webp'
+  picture: ''
 status: 'published'
 title: '16th Sept: FBI Probes Trump Threat, Tragedy in the English Channel, Kolkata Doctor Case Update'
 publishedAt: '2024-09-16T13:20:04.136Z'
@@ -16,7 +16,7 @@ publishedAt: '2024-09-16T13:20:04.136Z'
 
 ### FBI Investigates Assassination Attempt on Donald Trump
 
-The FBI is currently investigating what appears to be an assassination attempt on former president and presidential nominee Donald Trump. The incident happened at his golf club in Florida. The Secret Service spotted the suspect, who was in the bushes nearby. Once spotted, the suspect fled to his car. After a chase on the highway, they pulled the suspect out.  
+The FBI is currently investigating what appears to be an assassination attempt on former president and presidential nominee Donald Trump. The incident happened at his golf club in Florida. The Secret Service spotted the suspect, who was in the bushes nearby. Once spotted, the suspect fled to his car. After a chase on the highway, they pulled the suspect out.
 
 The suspect’s name is [Ryan Weasly Routh](https://edition.cnn.com/2024/09/15/politics/trump-attempted-assassination-man-detained/index.html). His family and friends know him as an idealist. In the last couple of years, he’s been very active in advocating for Ukraine. He owns a small construction company in Hawaii. This event happens just two months after the [last attempt on his life](https://edition.cnn.com/2024/07/14/us/5-things-july-14-trnd/index.html) at a rally in Pennsylvania.
 
@@ -26,7 +26,7 @@ The suspect’s name is [Ryan Weasly Routh](https://edition.cnn.com/2024/09/15/p
 
 French authorities have reported that at least eight migrants have died while trying to reach the UK by crossing the channel from France. The tragedy happened just right off the beach from Ambleteuse in Northern France. First Aid was given to 53 people, and eight still perished, mainly from hypothermia. The survivors are from Eritrea, Sudan, Syria, Afghanistan, Egypt, and Iran.
 
-A tragedy similar to this happened just [several weeks ago](https://www.aljazeera.com/news/2024/9/3/at-least-12-people-killed-after-boat-capsizes-in-english-channel), with the number of deaths in the Channel rising this year. France and the UK are expected to make some agreement on migration and figure out a solution that combats the gangs behind the small boat arrivals that keep putting migrants on faulty boats that keep sinking. 
+A tragedy similar to this happened just [several weeks ago](https://www.aljazeera.com/news/2024/9/3/at-least-12-people-killed-after-boat-capsizes-in-english-channel), with the number of deaths in the Channel rising this year. France and the UK are expected to make some agreement on migration and figure out a solution that combats the gangs behind the small boat arrivals that keep putting migrants on faulty boats that keep sinking.
 
 ### Kolkata Doctor Rape-Murder Update
 
