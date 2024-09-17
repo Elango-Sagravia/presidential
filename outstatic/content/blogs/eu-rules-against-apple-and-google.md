@@ -50,14 +50,14 @@ China’s education system places immense pressure on children to excel, contrib
 
 ### SHORTS
 
-[Princess Kate Middleton finished her chemotherapy treatment and is cancer-free.](https://www.euronews.com/health/2024/09/09/kate-middleton-princess-of-wales-confirms-she-has-completed-chemotherapy-after-cancer-batt)
+[**Princess Kate Middleton finished her chemotherapy treatment and is cancer-free.**](https://www.euronews.com/health/2024/09/09/kate-middleton-princess-of-wales-confirms-she-has-completed-chemotherapy-after-cancer-batt)
 
-[Donald Trump gives full support for legal weed in Florida, which goes against Governor DeSantis.](https://www.politico.com/news/2024/09/09/donald-trump-marijuana-legalization-ron-desantis-00177958)
+[**Donald Trump gives full support for legal weed in Florida, which goes against Governor DeSantis.**](https://www.politico.com/news/2024/09/09/donald-trump-marijuana-legalization-ron-desantis-00177958)
 
-[Apple unveils AI-enhanced iPhone 16, featuring smarter photography, voice recognition, and predictive text.](https://www.dw.com/en/apple-unveils-new-ai-boosted-iphone-16/a-70173651)
+[**Apple unveils AI-enhanced iPhone 16, featuring smarter photography, voice recognition, and predictive text.**](https://www.dw.com/en/apple-unveils-new-ai-boosted-iphone-16/a-70173651)
 
-[Greece joins the club in fighting over-tourism: it plans to crack down on short-term rentals and charge fees for cruise ships.](https://skift.com/2024/09/09/greece-to-fight-overtourism-with-fees-on-cruises-and-crackdown-on-short-term-rentals/)
+[**Greece joins the club in fighting over-tourism: it plans to crack down on short-term rentals and charge fees for cruise ships.**](https://skift.com/2024/09/09/greece-to-fight-overtourism-with-fees-on-cruises-and-crackdown-on-short-term-rentals/)
 
-[Israeli military now thinks they might have unintentionally killed the American in the West Bank.](https://www.nbcnews.com/news/world/israeli-military-says-likely-killed-american-west-bank-protest-rcna170370)
+[**Israeli military now thinks they might have unintentionally killed the American in the West Bank.**](https://www.nbcnews.com/news/world/israeli-military-says-likely-killed-american-west-bank-protest-rcna170370)
 
-[Space X launches billionaire into space to conduct the first private spacewalk in the history of space travel.](https://apnews.com/article/spacex-polaris-dawn-private-spacewalk-707e90a2868ce37f8c0c2028004f91b9)
+[**Space X launches billionaire into space to conduct the first private spacewalk in the history of space travel.**](https://apnews.com/article/spacex-polaris-dawn-private-spacewalk-707e90a2868ce37f8c0c2028004f91b9)
