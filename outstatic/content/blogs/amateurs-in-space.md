@@ -22,7 +22,7 @@ Jared Isaacman made history on Thursday by becoming the first non-professional a
 
 This achievement brings the total number of people to have walked in space to just 260. The Polaris mission is far from over, as the crew plans to ascend higher than any human has since the Apollo missions of the 1970s. Reflecting on the experience, Isaacman remarked, "Back at home we all have a lot of work to do, but from here Earth sure looks like a perfect world".
 
-### Ohio Father Tells Trump To Stop Using Son for Political Gain 
+### Ohio Father Tells Trump To Stop Using Son for Political Gain
 
 Nathan Clark, a father from Springfield, Ohio, has [publicly asked](https://www.theguardian.com/us-news/2024/sep/11/trump-vance-ohio-aiden-clark) Donald Trump to stop using his son’s death for political purposes. Clark’s son tragically died in a bus accident caused by a Haitian migrant. While the migrant was sentenced to 13 years in prison, Clark insists the incident was an accident, not murder, as Trump has implied in his political speeches.
 
@@ -50,12 +50,12 @@ Fujimori spent his later years in prison for authorizing death squads that kille
 
 ### SHORTS
 
-[Food delivery's impact on the climate is debated; some argue it's less harmful than expected.](https://www.npr.org/2024/09/10/nx-s1-5020321/food-delivery-meal-kits-carbon-footprint#:~:text=On%20average%2C%20the%20greenhouse%20gas,prepackaged%20kit%2C%20the%20study%20found.)
+[**Food delivery's impact on the climate is debated; some argue it's less harmful than expected.**](https://www.npr.org/2024/09/10/nx-s1-5020321/food-delivery-meal-kits-carbon-footprint#:~:text=On%20average%2C%20the%20greenhouse%20gas,prepackaged%20kit%2C%20the%20study%20found.)
 
-[Taylor Swift ties with Beyoncé for the most VMAs won.](https://www.billboard.com/music/awards/taylor-swift-vmas-2024-passes-beyonce-top-winner-1235773005/)
+[**Taylor Swift ties with Beyoncé for the most VMAs won.**](https://www.billboard.com/music/awards/taylor-swift-vmas-2024-passes-beyonce-top-winner-1235773005/)
 
-[Man arrested for using AI to create fake bands, earning over $10 million in royalties.](https://www.timesnownews.com/technology-science/man-arrested-for-using-ai-to-create-fake-bands-earning-10m-in-streaming-scam-article-113245296)
+[**Man arrested for using AI to create fake bands, earning over $10 million in royalties.**](https://www.timesnownews.com/technology-science/man-arrested-for-using-ai-to-create-fake-bands-earning-10m-in-streaming-scam-article-113245296)
 
-[Apple’s new AirPods Pro 2 can double as hearing aids.](https://amp.cnn.com/cnn/2024/09/10/tech/apple-airpods-pro-hearing-aids)
+[**Apple’s new AirPods Pro 2 can double as hearing aids.**](https://amp.cnn.com/cnn/2024/09/10/tech/apple-airpods-pro-hearing-aids)
 
-[COVID-19 lockdowns may have aged the teenage brain prematurely.](https://www.euronews.com/health/2024/09/09/lockdowns-during-the-covid-pandemic-may-have-prematurely-aged-teenage-brains-study-finds)
+[**COVID-19 lockdowns may have aged the teenage brain prematurely.**](https://www.euronews.com/health/2024/09/09/lockdowns-during-the-covid-pandemic-may-have-prematurely-aged-teenage-brains-study-finds)
