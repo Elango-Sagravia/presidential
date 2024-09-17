@@ -16,7 +16,7 @@ publishedAt: '2024-09-12T10:34:42.000Z'
 
 ### US Commemorates 9-11 Anniversary
 
-On Wednesday, the U.S. observed the 23rd anniversary of the 9/11 terrorist attacks. There was a [memorial service](https://www.nbcnews.com/politics/2024-election/harris-trump-attend-911-ceremony-hours-first-debate-rcna170494) in New York City at ground zero at 8:30 am, close to the time when the actual attack happened. Harris and Biden traveled to Shanksville, Pennsylvania, to participate in a wreath-laying ceremony at the site of the Flight 93 memorial. 
+On Wednesday, the U.S. observed the 23rd anniversary of the 9/11 terrorist attacks. There was a [memorial service](https://www.nbcnews.com/politics/2024-election/harris-trump-attend-911-ceremony-hours-first-debate-rcna170494) in New York City at ground zero at 8:30 am, close to the time when the actual attack happened. Harris and Biden traveled to Shanksville, Pennsylvania, to participate in a wreath-laying ceremony at the site of the Flight 93 memorial.
 
 Harris and Biden were not the only ones attending the memorial at Ground Zero. Vance and Trump were also at the scene. Harris and Trump shook hands at the memorial just a few hours after their dramatic debate. However, in the end, regardless of which side of the aisle one is on, this is not an event that brings up partisan issues.
 
@@ -40,24 +40,24 @@ The UK is joining countries like the US and Canada, which have a similar visa wa
 
 The Spanish police have made their biggest [drug bust](https://www.euronews.com/2024/09/10/spanish-police-confiscate-more-than-1-million-ecstasy-pills) in history. They managed to take over 25 million euros of drugs. The most notable being a million ecstasy pills. They found a bunch of other party drugs, such as 20 kilos of cocaine, 73 kilos of MDMA, and 212 kilos of ketamine.
 
-No, they didn’t get this in one bust. It was part of a big sting called “Operation Adriatic." It was taken from 8 searches in both Ibiza and Malaga. However, it is connected to the same organization. Nine suspects were arrested in connection with this. Spain has had a series of drug busts this year. They recently found 1,000 cannabis plants last month. 
+No, they didn’t get this in one bust. It was part of a big sting called “Operation Adriatic." It was taken from 8 searches in both Ibiza and Malaga. However, it is connected to the same organization. Nine suspects were arrested in connection with this. Spain has had a series of drug busts this year. They recently found 1,000 cannabis plants last month.
 
 ### Melbourne Protests Result in the Arrest of 40
 
 Anti-war protesters and police had a major brawl outside a [defense exhibition](https://www.reuters.com/world/asia-pacific/anti-war-protesters-police-clash-outside-melbourne-defence-expo-2024-09-10/) in Melbourne, Australia. The police arrested dozens of the protestors. The protestors were throwing rocks, horse manure, and bottles filled with liquid at the police and attendees. They also tried to set fires and block attendees from the venue. The police used sponge grenades, flash-bang devices, and irritant sprays to de-escalate.
 
-Both the police and the protestors accused the other of being violent. The event protested was the Land Forces International Land Defence Exposition, Australia’s largest expo. Over 1,200 protestors showed up. Australian Prime Minister Anthony Albanese said he was okay with people protesting, but they must do it peacefully. 
+Both the police and the protestors accused the other of being violent. The event protested was the Land Forces International Land Defence Exposition, Australia’s largest expo. Over 1,200 protestors showed up. Australian Prime Minister Anthony Albanese said he was okay with people protesting, but they must do it peacefully.
 
 ### Shorts
 
-[So, who really won the debate? Snap Polls and Betting Markets Point to Harris.](https://www.bbc.com/news/articles/c4gdnl9pg1wo)
+[**So, who really won the debate? Snap Polls and Betting Markets Point to Harris.**](https://www.bbc.com/news/articles/c4gdnl9pg1wo)
 
-[While many countries are trying to limit tourism, China is trying to attract more, but faces issues with international payment apps.](https://edition.cnn.com/2024/09/10/travel/china-travel-tips-visas-mobile-payments-intl-hnk/index.html)
+[**While many countries are trying to limit tourism, China is trying to attract more, but faces issues with international payment apps.**](https://edition.cnn.com/2024/09/10/travel/china-travel-tips-visas-mobile-payments-intl-hnk/index.html)
 
-[The three biggest cycling races in Europe were all won by Slovenes.](https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/29615-three-wins-in-the-biggest-races-two-cyclists-one-home-country-slovenia)
+[**The three biggest cycling races in Europe were all won by Slovenes.**](https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/29615-three-wins-in-the-biggest-races-two-cyclists-one-home-country-slovenia)
 
-[Will Taylor Swift’s endorsement help? Research gives mixed answers.](https://www.npr.org/2024/09/11/nx-s1-5108695/taylor-swift-endorsement-kamala-harris)
+[**Will Taylor Swift’s endorsement help? Research gives mixed answers.**](https://www.npr.org/2024/09/11/nx-s1-5108695/taylor-swift-endorsement-kamala-harris)
 
-[Google Docs make the ideal travel guide.](https://www.thrillist.com/travel/nation/google-docs-are-the-ideal-travel-guides)
+[**Google Docs make the ideal travel guide.**](https://www.thrillist.com/travel/nation/google-docs-are-the-ideal-travel-guides)
 
-[Swiss BMW driver gets a tailgating fine for over 100K because he is rich.](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
+[**Swiss BMW driver gets a tailgating fine for over 100K because he is rich.**](https://www.thedrive.com/news/swiss-bmw-driver-slammed-with-116000-tailgating-fine-because-hes-rich)
