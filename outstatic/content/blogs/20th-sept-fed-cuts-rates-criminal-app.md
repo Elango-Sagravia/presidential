@@ -1,5 +1,6 @@
 ---
 cutOff: '6'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/federal-reserve-lowers-us-interest-rates-weeks-before-us-elections-c5Nz.jpg'
@@ -29,7 +30,7 @@ It took police from nine different countries to make this happen. French police 
 
 ### Iran Denies Election Interference Allegations
 
-US intelligence authorities believe that Iranian hackers sent stolen information from Donald Trump's electoral campaign to people linked to the Biden campaign in June and July when Biden was still the nominee. A spokesperson for the Iranian mission to the UN has [denied](https://iranwire.com/en/news/134088-iran-denies-interference-in-us-elections-at-un/) any part on Iran’s behalf, as it hasn’t a motive of foreign interference. 
+US intelligence authorities believe that Iranian hackers sent stolen information from Donald Trump's electoral campaign to people linked to the Biden campaign in June and July when Biden was still the nominee. A spokesperson for the Iranian mission to the UN has [denied](https://iranwire.com/en/news/134088-iran-denies-interference-in-us-elections-at-un/) any part on Iran’s behalf, as it hasn’t a motive of foreign interference.
 
 Many might wonder why Iran would have a motive, as the Iranian government didn’t have an optimal relationship with the Biden administration. However, the Trump administration brought Washington-Tehran relations to a historic low, with the major milestones being the cancellation of the Iran deal and the imposition of a country ban for Iranians.
 
@@ -37,13 +38,13 @@ Many might wonder why Iran would have a motive, as the Iranian government didn�
 
 ![](/images/vietnamese-business-tycoon-on-death-row-has-a-trial-A2ND.jpg)
 
-Vietnamese billionaire Truong My Lan, who is already on death row, has to sit through [another trial](https://www.dw.com/en/vietnam-tycoon-on-death-row-faces-new-trial/a-70263896). The trial is not to appeal her death sentence but to add on new charges, which include money laundering, obtaining property by fraud, and illegal cross-border money transfers. 
+Vietnamese billionaire Truong My Lan, who is already on death row, has to sit through [another trial](https://www.dw.com/en/vietnam-tycoon-on-death-row-faces-new-trial/a-70263896). The trial is not to appeal her death sentence but to add on new charges, which include money laundering, obtaining property by fraud, and illegal cross-border money transfers.
 
 In April, Lan was found guilty of embezzling 12.5 billion USD, which accounts for 3% of Vietnam’s GDP for 2022. Her death sentence was handed to make an example out of her, as the Vietnamese communist party has been on an exhaustive drive against [corruption](https://www.dw.com/en/vietnam-reels-from-historic-114-billion-corruption-scandal/a-67606137), which has been labeled “the blazing furnace campaign.” Vietnam is one of the few countries that uses the death penalty for financial crimes.
 
 ### UN Scrutinizes Russia for Power Grid Attacks
 
-The United Nations Human Rights Monitoring Mission in Ukraine believes that Russia has likely violated humanitarian law with its [strikes](https://www.aljazeera.com/news/2024/4/27/russia-ukraine-target-each-others-energy-sector) on Ukrainian power grids. Since the war began in 2022, Russia has struck quite a few Ukrainian power plants, causing Ukraine to lose the amount of power needed for the three Baltic States. 
+The United Nations Human Rights Monitoring Mission in Ukraine believes that Russia has likely violated humanitarian law with its [strikes](https://www.aljazeera.com/news/2024/4/27/russia-ukraine-target-each-others-energy-sector) on Ukrainian power grids. Since the war began in 2022, Russia has struck quite a few Ukrainian power plants, causing Ukraine to lose the amount of power needed for the three Baltic States.
 
 Russia claims that power plants are legitimate targets. However, the looming winter is the greater concern, when power outages could have even more severe consequences. The European Union plans to [allocate funds](https://www.reuters.com/world/europe/eu-send-160-million-euros-frozen-russian-assets-ukraine-2024-09-19/) from frozen Russian oligarch assets to support Ukraine's energy needs during winter.
 
