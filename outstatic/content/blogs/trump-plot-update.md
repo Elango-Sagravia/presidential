@@ -54,7 +54,7 @@ Haitian communities in the US, particularly in Springfield, Ohio, are facing inc
 
 Springfield saw a significant influx of Haitian migrants over the past decade, helping the local economy recover. However, recent political rhetoric has led to threats against Haitian families, with some keeping their children home from school. Despite this, local communities have rallied to support Haitian-run businesses and families.
 
-### Shorts
+### Briefs
 
 [**Japanese-language historical drama "Shogun" has crushed Emmy records by winning 18 trophies.**](https://www.dw.com/en/emmys-japanese-language-show-shogun-breaks-record/a-70224747)
 
