@@ -48,7 +48,7 @@ German authorities have raided and banned the [Islamic Center Fürstenwalde](htt
 
 This action comes just days before Brandenburg’s state elections, where the far-right party, known for its anti-Islam stance, is leading in the polls. The closure follows similar actions, including the recent shutdown of an Islamic center in Hamburg, one of Germany's more progressive cities. Authorities have been intensifying efforts to address radicalism across the country.
 
-### SHORTS
+### Briefs
 
 [**Justin Timberlake is likely to plead guilty to New York drunk driving case.**](https://apnews.com/article/justin-timberlake-guilty-plea-dui-new-york-cef669c8c25fad277f47bd17536a2940)
 
