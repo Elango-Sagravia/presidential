@@ -14,7 +14,7 @@ title: '21st Sept: Titan Sub Malfunction, Oktoberfest Starts, Uncommitted won’
 publishedAt: '2024-09-21T10:01:00.698Z'
 ---
 
-### Titan Sub Broke Days Before Dive 
+### Titan Sub Broke Days Before Dive
 
 A public inquiry into the deadly implosion of the Titan submersible, which killed all five aboard during a 2023 expedition to the Titanic wreck, [revealed](https://www.bbc.com/news/articles/c70w81ly299o) that the sub had malfunctioned just days before the fatal dive. OceanGate's former scientific director, Steven Ross, testified that the malfunction caused passengers to be thrown around, with one left hanging upside down.
 
@@ -36,7 +36,7 @@ Leaders of the Uncommitted National Movement, which emerged from Democratic oppo
 
 Although this position may seem to support Harris indirectly, a co-founder expressed that she has yet to adopt a new strategy, making an official endorsement unsuitable. Many supporters feel disillusioned by her stance on the conflict and are still frustrated by the absence of a Palestinian-American speaker at the Democratic National Convention. Meanwhile, Harris's campaign emphasizes her commitment to efforts to resolve the conflict.
 
-###  EU Commission Pledges Billions in Aid for Flood Relief
+### EU Commission Pledges Billions in Aid for Flood Relief
 
 In Wroclaw, Poland, European Commission President Ursula von der Leyen announced that the European Union will allocate 10 billion EUR to aid regions impacted by devastating floods. This funding will come directly from the European Solidarity Fund in a cohesion fund and will not require co-financing. The money will first go to the most urgent repairs.
 
@@ -48,7 +48,7 @@ U.S. Senator and former presidential candidate Bernie Sanders is drafting resolu
 
 Though congressional support for Israel remains largely bipartisan, public opinion in the U.S. is more divided, particularly over the ongoing [Israel-Gaza conflict](https://apnews.com/article/us-un-israel-hamas-war-gaza-c28906d65480c177b641a8e6676e80fe). Many Americans across the political spectrum are calling for reduced U.S. financial aid to Israel, citing a variety of reasons. Some for humanitarian concerns, while others, including those generally supportive of Israel, point to economic reasons for curbing involvement.
 
-### SHORTs
+### Briefs
 
 [Margot Robbie confirms she will star in the upcoming Sims movie.](https://exclaim.ca/film/article/the-sims-movie-gets-boost-from-barbie-team)
 
