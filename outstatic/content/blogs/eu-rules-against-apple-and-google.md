@@ -48,7 +48,7 @@ Thailand has seen an increase in Chinese families moving to Thailand to enroll t
 
 China’s education system places immense pressure on children to excel, contributing to high levels of stress and a declining birth rate, as many families focus all their resources on one child. In addition to seeking better educational opportunities, Chinese expats are drawn to Thailand for a more relaxed lifestyle, better work-life balance, and political stability.
 
-### SHORTS
+### Briefs
 
 [**Princess Kate Middleton finished her chemotherapy treatment and is cancer-free.**](https://www.euronews.com/health/2024/09/09/kate-middleton-princess-of-wales-confirms-she-has-completed-chemotherapy-after-cancer-batt)
 
