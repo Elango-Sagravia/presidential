@@ -48,7 +48,7 @@ The United Nations Human Rights Monitoring Mission in Ukraine believes that Russ
 
 Russia claims that power plants are legitimate targets. However, the looming winter is the greater concern, when power outages could have even more severe consequences. The European Union plans to [allocate funds](https://www.reuters.com/world/europe/eu-send-160-million-euros-frozen-russian-assets-ukraine-2024-09-19/) from frozen Russian oligarch assets to support Ukraine's energy needs during winter.
 
-### SHORTS
+### Briefs
 
 [Content creators in the adult industry want a say in AI rules and want to ensure that they are not discriminated against.](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/#:~:text=A%20group%20that%20includes%20sex,lead%20to%20discrimination%20against%20them.)
 
