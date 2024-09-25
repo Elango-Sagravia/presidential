@@ -3,7 +3,7 @@ cutOff: '4'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
-coverImage: '/images/american-who-fled-to-north-korea-is-let-off-with-dishonorable-discharge-and-no-additional-jail-time.-k2MD.webp'
+coverImage: '/images/american-who-fled-to-north-korea-is-let-off-with-dishonorable-discharge-and-no-additional-jail-time.-Q5MT.webp'
 description: ''
 slug: 'ryan-routh-leaves-a-note'
 author:
