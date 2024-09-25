@@ -50,12 +50,12 @@ Though congressional support for Israel remains largely bipartisan, public opini
 
 ### Briefs
 
-[Margot Robbie confirms she will star in the upcoming Sims movie.](https://exclaim.ca/film/article/the-sims-movie-gets-boost-from-barbie-team)
+[**Margot Robbie confirms she will star in the upcoming Sims movie.**](https://exclaim.ca/film/article/the-sims-movie-gets-boost-from-barbie-team)
 
-[Xiaomi overtakes Apple as the 2nd largest producer of smartphones.](https://www.counterpointresearch.com/insights/xiaomi-overtakes-apple-to-become-worlds-no-2-smartphone-brand-in-aug/)
+[**Xiaomi overtakes Apple as the 2nd largest producer of smartphones.**](https://www.counterpointresearch.com/insights/xiaomi-overtakes-apple-to-become-worlds-no-2-smartphone-brand-in-aug/)
 
-[Security robots are now patrolling more US cities.](https://edition.cnn.com/2024/08/25/us/security-robots-human-guards/index.html)
+[**Security robots are now patrolling more US cities.**](https://edition.cnn.com/2024/08/25/us/security-robots-human-guards/index.html)
 
-[Smartphones are reportedly less likely to be weaponized compared to pagers and walkie-talkies.](https://www.wired.com/story/exploding-pagers-hezbollah-phones/)
+[**Smartphones are reportedly less likely to be weaponized compared to pagers and walkie-talkies.**](https://www.wired.com/story/exploding-pagers-hezbollah-phones/)
 
-[Europe’s best metro system is in the central capital—look toward Vienna.](https://www.euronews.com/travel/2024/09/13/from-oslo-to-budapest-these-are-the-best-and-worst-metro-systems-in-europe)
+[**Europe’s best metro system is in the central capital—look toward Vienna.**](https://www.euronews.com/travel/2024/09/13/from-oslo-to-budapest-these-are-the-best-and-worst-metro-systems-in-europe)
