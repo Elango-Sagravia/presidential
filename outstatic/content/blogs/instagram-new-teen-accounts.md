@@ -24,13 +24,13 @@ With growing concerns over teen social media use, these changes aim to increase 
 
 ### Diddy Denied Bail, Remains in Custody
 
-On Tuesday, Sean “Diddy” Combs was [denied bail](https://www.bbc.com/news/articles/c5y3x50jy15o) and taken into custody in Brooklyn. Due to his high-profile status, he was put in special housing, separate from the general population. His lawyers were trying to get him under house arrest with a 50 million dollar bond secured by his Miami residence. 
+On Tuesday, Sean “Diddy” Combs was [denied bail](https://www.bbc.com/news/articles/c5y3x50jy15o) and taken into custody in Brooklyn. Due to his high-profile status, he was put in special housing, separate from the general population. His lawyers were trying to get him under house arrest with a 50 million dollar bond secured by his Miami residence.
 
 Combs is facing numerous charges related to sex trafficking and racketeering. He is maintaining his innocence and pleading not guilty to the charges. Despite another opportunity to appeal for bail on Wednesday, the judge maintained that no conditions could ensure community safety, citing concerns about potential contact with those involved in the case.
 
 ### U.S. Drug Overdose Deaths Drop
 
-U.S. deaths from drug overdoses have [decreased](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) for the first time in years. New reports have surfaced that between April 2023 and April 2024, drug-related deaths dropped by roughly 10%, according to the U.S. Centers for Disease Control and Prevention. Trends in the years before showed rates rising by percentages in the double digits. 
+U.S. deaths from drug overdoses have [decreased](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm) for the first time in years. New reports have surfaced that between April 2023 and April 2024, drug-related deaths dropped by roughly 10%, according to the U.S. Centers for Disease Control and Prevention. Trends in the years before showed rates rising by percentages in the double digits.
 
 The decline is largely attributed to better access to overdose-reversing treatments like naloxone and the easing of the COVID-19 pandemic, which had worsened addiction-related issues. Researchers are still awaiting state-by-state data, but initial reports suggest some states may have seen reductions of up to 20%. Despite this progress, experts caution that more needs to be done to address the root causes of addiction.
 
@@ -48,11 +48,11 @@ On Wednesday, Hungary [denied](https://www.politico.eu/article/hungary-exploding
 
 The [incident](https://www.bbc.com/news/articles/cz04m913m49o) has raised questions about why Hezbollah forces are still using pagers in 2024. Experts suggest that pagers offer a way to avoid detection by modern tracking technology, which may explain their continued use in conflict zones. Hungary has firmly stated it has no ties to the devices.
 
-### Shorts 
+### Briefs
 
-[**Emily in Paris is renewed for season 5. Spoiler: She won’t be in Paris.**](https://www.netflix.com/tudum/articles/emily-in-paris-season-5-cast-release-date-news) 
+[**Emily in Paris is renewed for season 5. Spoiler: She won’t be in Paris.**](https://www.netflix.com/tudum/articles/emily-in-paris-season-5-cast-release-date-news)
 
-[**Tupperware files for bankruptcy. It’s no longer a kitchen necessity.**](https://www.npr.org/2024/09/18/nx-s1-5115873/tupperware-bankruptcy) 
+[**Tupperware files for bankruptcy. It’s no longer a kitchen necessity.**](https://www.npr.org/2024/09/18/nx-s1-5115873/tupperware-bankruptcy)
 
 [**Cancer is becoming more common. But so are survival rates.**](https://www.npr.org/sections/shots-health-news/2024/09/18/nx-s1-5076874/report-cancer-diagnoses-survival-young-adults)
 
