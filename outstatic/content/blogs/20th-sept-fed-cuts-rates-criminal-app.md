@@ -50,12 +50,12 @@ Russia claims that power plants are legitimate targets. However, the looming win
 
 ### Briefs
 
-[Content creators in the adult industry want a say in AI rules and want to ensure that they are not discriminated against.](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/#:~:text=A%20group%20that%20includes%20sex,lead%20to%20discrimination%20against%20them.)
+[**Content creators in the adult industry want a say in AI rules and want to ensure that they are not discriminated against.**](https://www.wired.com/story/content-creators-in-the-adult-industry-want-a-say-in-ai-rules/#:~:text=A%20group%20that%20includes%20sex,lead%20to%20discrimination%20against%20them.)
 
-[Undecided voters explain why they can’t make a decision. The economy is a significant factor.](https://www.npr.org/2024/09/19/nx-s1-5118393/undecided-voters-kamala-harris-donald-trump)
+[**Undecided voters explain why they can’t make a decision. The economy is a significant factor.**](https://www.npr.org/2024/09/19/nx-s1-5118393/undecided-voters-kamala-harris-donald-trump)
 
-[Jordan Chiles appeals an ‘unfair’ decision that cost her the Olympic bronze medal. It goes all the way to Switzerland.](https://www.bbc.com/sport/olympics/articles/c4g5v5z2y7po)
+[**Jordan Chiles appeals an ‘unfair’ decision that cost her the Olympic bronze medal. It goes all the way to Switzerland.**](https://www.bbc.com/sport/olympics/articles/c4g5v5z2y7po)
 
-[The first hyperloop test took place in the Netherlands. In the future, a trip from Amsterdam to Berlin in 90 minutes might be possible.](https://www.expatrepublic.com/hyperlooop-netherlands-test/?fbclid=IwY2xjawFYQ7dleHRuA2FlbQIxMQABHQr8ZAoeDAntUex-SHEC4V9skTfv5kRvWEo9estPCIBXR_Xo9_qTtnVyVA_aem_hMO6262qy79BB3AHaXJFRQ)
+[**The first hyperloop test took place in the Netherlands. In the future, a trip from Amsterdam to Berlin in 90 minutes might be possible.**](https://www.expatrepublic.com/hyperlooop-netherlands-test/?fbclid=IwY2xjawFYQ7dleHRuA2FlbQIxMQABHQr8ZAoeDAntUex-SHEC4V9skTfv5kRvWEo9estPCIBXR_Xo9_qTtnVyVA_aem_hMO6262qy79BB3AHaXJFRQ)
 
-[Billions of golf balls go missing every year. Where do they go?](https://edition.cnn.com/sport/lost-golf-balls-environment-spt-spc/index.html)
+[**Billions of golf balls go missing every year. Where do they go?**](https://edition.cnn.com/sport/lost-golf-balls-environment-spt-spc/index.html)
