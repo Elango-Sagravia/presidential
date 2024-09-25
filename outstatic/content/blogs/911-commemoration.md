@@ -48,7 +48,7 @@ Anti-war protesters and police had a major brawl outside a [defense exhibition](
 
 Both the police and the protestors accused the other of being violent. The event protested was the Land Forces International Land Defence Exposition, Australia’s largest expo. Over 1,200 protestors showed up. Australian Prime Minister Anthony Albanese said he was okay with people protesting, but they must do it peacefully.
 
-### Shorts
+### Briefs
 
 [**So, who really won the debate? Snap Polls and Betting Markets Point to Harris.**](https://www.bbc.com/news/articles/c4gdnl9pg1wo)
 
