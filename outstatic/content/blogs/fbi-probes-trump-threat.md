@@ -48,7 +48,7 @@ After the government resigned on Sunday, Jordan’s King Abdullah appointed key 
 
 Though the king holds most of the power, parliament retains the ability to pass a vote of no confidence. While Islamist parties saw some electoral gains, the parliament remains largely pro-government.
 
-### SHORTS
+### Briefs
 
 [**A father was killed in a Missouri bar fight. His twin daughters’ podcast helped lead to an arrest 35 years later.**](https://us.cnn.com/2024/09/15/us/mary-robin-walter-kansas-cold-case/index.html)
 
