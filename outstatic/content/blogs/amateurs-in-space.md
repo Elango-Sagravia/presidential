@@ -48,7 +48,7 @@ Former Peruvian President Alberto Fujimori has [died at the age of 86](https://w
 
 Fujimori spent his later years in prison for authorizing death squads that killed civilians during his presidency. Though he received a medical pardon in 2017, it was overturned in 2019. Despite his controversial past, Fujimori maintained that all his actions were taken in the best interests of Peru.
 
-### SHORTS
+### Briefs
 
 [**Food delivery's impact on the climate is debated; some argue it's less harmful than expected.**](https://www.npr.org/2024/09/10/nx-s1-5020321/food-delivery-meal-kits-carbon-footprint#:~:text=On%20average%2C%20the%20greenhouse%20gas,prepackaged%20kit%2C%20the%20study%20found.)
 
