@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '10'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/12th-aug--khelif-s-legal-fight--reynolds---lively-s-box-office-wins-b-I0ND.webp'
