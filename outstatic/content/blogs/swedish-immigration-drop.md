@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/20th-aug--swedish-immigration-drop--india-doctor-strike--and-taliban-milestones-QzNT.webp'
