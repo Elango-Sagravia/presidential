@@ -1,5 +1,5 @@
 ---
-cutOff: '6'
+cutOff: '5'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/29th-aug--spacewalk--trump-in-trouble--customs-find-meth-disguised-as-watermelons-a-IxMT.webp'
@@ -15,11 +15,11 @@ publishedAt: '2024-08-29T14:12:47.000Z'
 
 ### Space X Commercial spacewalk postponed
 
-Bad weather postponed the Space X launch on Wednesday; the [next attempt](https://www.france24.com/en/science/20240828-spacex-delays-historic-first-private-spacewalk-mission) might be Friday, but that is still up in the air.  The launch is for civilians on a privately chartered spaceflight, who will be the first nonprofessional astronauts in history to do a spacewalk. They will get 20 minutes to walk in space if everything goes right. The civilians were training for this for two years. While Space X is owned by Elon Musk, the Polaris mission is funded by billionaire entrepreneur Jared Issacman. The mission was also postponed on Tuesday over a Helium leak. 
+Bad weather postponed the Space X launch on Wednesday; the [next attempt](https://www.france24.com/en/science/20240828-spacex-delays-historic-first-private-spacewalk-mission) might be Friday, but that is still up in the air. The launch is for civilians on a privately chartered spaceflight, who will be the first nonprofessional astronauts in history to do a spacewalk. They will get 20 minutes to walk in space if everything goes right. The civilians were training for this for two years. While Space X is owned by Elon Musk, the Polaris mission is funded by billionaire entrepreneur Jared Issacman. The mission was also postponed on Tuesday over a Helium leak.
 
 ### New Indictment against Trump
 
-Former US President Donald Trump has again found himself in more legal issues. US prosecutors have issued [revised charges](https://www.bbc.com/news/articles/czdpq4en1vvo) against Trump for attempting to interfere in the 2020 election results. Trump has pleaded not guilty to the charges. He has said this is just another attempt to bring back another witch hunt against him.  This comes at an exciting time, as the US elections are just over a few months away. It is doubtful that he will have to face these charges in court before election day in November. 
+Former US President Donald Trump has again found himself in more legal issues. US prosecutors have issued [revised charges](https://www.bbc.com/news/articles/czdpq4en1vvo) against Trump for attempting to interfere in the 2020 election results. Trump has pleaded not guilty to the charges. He has said this is just another attempt to bring back another witch hunt against him. This comes at an exciting time, as the US elections are just over a few months away. It is doubtful that he will have to face these charges in court before election day in November.
 
 ### US customs seize 5 million dollars worth of meth….disguised as watermelons
 
@@ -35,11 +35,11 @@ Japan has issued a [national emergency](https://edition.cnn.com/2024/08/15/asia/
 
 ![Greek tanker shot by Houthis likely to be leaking oil](/images/29th-aug--spacewalk--trump-in-trouble--customs-find-meth-disguised-as-watermelons-b-kzMj.webp)
 
-According to the Pentagon, the Greek oil tanker stuck last week in the Red Sea is [leaking oil](https://www.aljazeera.com/news/2024/8/28/greek-oil-tanker-attacked-in-red-sea-leaking-says-pentagon). The vessel is carrying about one million barrels of crude oil. The Yemeni Houthi group struck the ship. The ship was stuck last week and has been on fire ever since. The Houthis are an Iranian-backed rebel group. They have been targeting ships in the Red Sea since the situation with Israel and Palestine escalated. However, many say this is self-sabotage, as if the oil tanker leaks, it would be an ecological disaster for Yemen and the surrounding countries. 
+According to the Pentagon, the Greek oil tanker stuck last week in the Red Sea is [leaking oil](https://www.aljazeera.com/news/2024/8/28/greek-oil-tanker-attacked-in-red-sea-leaking-says-pentagon). The vessel is carrying about one million barrels of crude oil. The Yemeni Houthi group struck the ship. The ship was stuck last week and has been on fire ever since. The Houthis are an Iranian-backed rebel group. They have been targeting ships in the Red Sea since the situation with Israel and Palestine escalated. However, many say this is self-sabotage, as if the oil tanker leaks, it would be an ecological disaster for Yemen and the surrounding countries.
 
 ### Indian police fire tear gas at demonstrators
 
-Protests in Kolkotta, India, have continued escalating in the last few weeks. The protests are the result of the rape and murder of an Indian female doctor earlier this month.  The issue of violence towards women and lack of accountability from the proper authorities have been a hot issue, and this incident was the [last straw](https://www.dw.com/en/india-kolkata-protests-turn-violent-after-doctors-rape-and-murder/a-70061999) for many. The authorities only detained one suspect, while the family and others are close to certain it was a gang rape. Doctors have been striking, and thousands of protestors are out in the streets; the police this week have been using tear gas and water cannons at the protestors; they also arrested some student protestors. 
+Protests in Kolkotta, India, have continued escalating in the last few weeks. The protests are the result of the rape and murder of an Indian female doctor earlier this month. The issue of violence towards women and lack of accountability from the proper authorities have been a hot issue, and this incident was the [last straw](https://www.dw.com/en/india-kolkata-protests-turn-violent-after-doctors-rape-and-murder/a-70061999) for many. The authorities only detained one suspect, while the family and others are close to certain it was a gang rape. Doctors have been striking, and thousands of protestors are out in the streets; the police this week have been using tear gas and water cannons at the protestors; they also arrested some student protestors.
 
 ### New Venice to Brussels night train
 
