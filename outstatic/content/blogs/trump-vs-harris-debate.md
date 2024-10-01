@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
@@ -18,7 +18,7 @@ publishedAt: '2024-09-10T09:32:46.265Z'
 
 ![Trump and Harris presidential rebate](/images/trump-and-harris-prepare-for-debate-today-cxMj.webp)
 
-After days of speculating on whether this would even happen, Donald Trump and Kamala Harris are expected to have the first [presidential debate](https://edition.cnn.com/2024/09/08/politics/kamala-harris-donald-trump-debate/index.html) today. The Debate will be at the National Constitution Center in Philadelphia. It is a valuable location as Pennsylvania is one of the major swing states where both candidates are neck and neck in the polls. 
+After days of speculating on whether this would even happen, Donald Trump and Kamala Harris are expected to have the first [presidential debate](https://edition.cnn.com/2024/09/08/politics/kamala-harris-donald-trump-debate/index.html) today. The Debate will be at the National Constitution Center in Philadelphia. It is a valuable location as Pennsylvania is one of the major swing states where both candidates are neck and neck in the polls.
 
 It will be moderated by ABC anchors Linsey Davis and David Muir and will last 90 minutes. Microphones will be turned on when it’s their turn to speak and muted otherwise. Harris is a bit disadvantaged by this as she doesn’t get to use her who hoped to tap into her skills as a former prosecutor to engage with Trump.
 
@@ -30,7 +30,7 @@ Her family believes the Israeli investigation was insufficient and is calling on
 
 ### Boeing Offers 25% Wage Increase to Avoid Strikes
 
-Boeing has reached a tentative deal with workers to avoid a major [strike](https://www.dw.com/en/boeing-offers-25-pay-rise-to-avoid-strike/a-70167370). The aerospace giant agreed to a 25% wage increase and promised to build its next commercial airplane at its Seattle-based plants. The union representing them initially sought a 40% raise, but they said it was one of the best contracts they managed to negotiate. 
+Boeing has reached a tentative deal with workers to avoid a major [strike](https://www.dw.com/en/boeing-offers-25-pay-rise-to-avoid-strike/a-70167370). The aerospace giant agreed to a 25% wage increase and promised to build its next commercial airplane at its Seattle-based plants. The union representing them initially sought a 40% raise, but they said it was one of the best contracts they managed to negotiate.
 
 Boeing has faced several setbacks recently, including issues with its 737 MAX planes and a malfunction with its Starliner spacecraft. This deal represents a step towards restoring its credibility, though the company still has work to do.
 
