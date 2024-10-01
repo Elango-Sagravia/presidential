@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '7'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/14th-aug--harris-surges-in-key-states--nadeem-s-historic-olympic-win-Y2Mj.webp'
