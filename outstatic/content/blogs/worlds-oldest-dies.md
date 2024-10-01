@@ -13,7 +13,7 @@ title: '22nd Aug: World''s Oldest Dies, Russia Bans Tinder for Troops'
 publishedAt: '2024-08-22T12:42:14.000Z'
 ---
 
-### **The world’s oldest person dies**
+### The world’s oldest person dies
 
 The world’s [oldest](https://www.euronews.com/my-europe/2024/08/20/maria-branyas-morera-worlds-oldest-person-dies-at-age-117) person passed away yesterday. Her name was María Branyas Morera, and she died at the age of 117 in a nursing home in Catalonia, Spain. Born on March 4, 1907, in San Francisco, her family moved back to Spain when she was young. She survived two world wars, the Spanish Civil War and the COVID-19 pandemic, which she survived in 2020. María was known for her wit and resilience, maintaining a presence on social media even in her final years. Her family confirmed that she passed away peacefully in her sleep. Now, Tomiko Itooka of Tokyo, Japan, is the oldest person at a more youthful 116 years old.
 
