@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/16th-aug--senator-ousted--crypto-pac-shifts-to-democrats-UzMz.webp'
