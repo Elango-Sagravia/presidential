@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '8'
 latest: ''
 relatedArticles: ''
 readTime: '5'
