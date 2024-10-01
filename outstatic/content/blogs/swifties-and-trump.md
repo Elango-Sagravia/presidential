@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/21st-aug--swifties-and-trump--tesla-s-in-chechnya--and-french-left-infighting-M3OD.webp'
