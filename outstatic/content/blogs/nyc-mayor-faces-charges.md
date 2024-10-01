@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
@@ -38,7 +38,7 @@ Luis Armando Albino, who was kidnapped from a California playground in 1951, has
 
 ### Trump Meets Zelensky Amid Tensions
 
-Former President Donald Trump met with Ukrainian President Volodymyr Zelensky in New York, emphasizing his belief that he could broker a [peace deal](https://edition.cnn.com/2024/09/27/politics/trump-zelensky-meeting/index.html) between Ukraine and Russia. Trump, who maintains a good relationship with Russian President Vladimir Putin, stated that if elected, he would quickly resolve the war. Tensions between Trump and Zelensky were evident, but both leaders acknowledged the need to end the conflict. 
+Former President Donald Trump met with Ukrainian President Volodymyr Zelensky in New York, emphasizing his belief that he could broker a [peace deal](https://edition.cnn.com/2024/09/27/politics/trump-zelensky-meeting/index.html) between Ukraine and Russia. Trump, who maintains a good relationship with Russian President Vladimir Putin, stated that if elected, he would quickly resolve the war. Tensions between Trump and Zelensky were evident, but both leaders acknowledged the need to end the conflict.
 
 Zelensky stressed that Putin must be stopped and Russian troops must leave Ukraine. Trump remained noncommittal on specifics, saying it was "too early" to define a fair peace deal but reiterated that he believed a resolution was possible. The meeting came as Zelensky sought to secure continued U.S. support while Trump was critical of the ongoing U.S. aid to Ukraine.
 
