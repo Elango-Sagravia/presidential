@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
@@ -32,13 +32,13 @@ Hurricane Helene is part of a larger trend of increasingly severe storms driven 
 
 Ukrainian President Volodymyr Zelenskyy’s [visit to the White House](https://www.military.com/daily-news/2024/09/26/zelenskyy-visiting-white-house-partisan-divide-grows-over-ukraine-war.html) comes at a critical time as U.S. political divisions over support for Ukraine deepen. Since Russia’s invasion in February 2022, the U.S. has provided significant military and financial aid to Ukraine. However, recent polls indicate that a growing number of Republicans are questioning the extent of U.S. involvement, citing concerns about the financial costs and the lack of a clear endgame.
 
-During his visit, Zelenskyy met with President Joe Biden and addressed members of Congress, stressing Ukraine’s ongoing need for advanced weaponry to counter Russia’s advances. Zelenskyy also sought assurances that U.S. aid would continue despite the shifting political landscape. 
+During his visit, Zelenskyy met with President Joe Biden and addressed members of Congress, stressing Ukraine’s ongoing need for advanced weaponry to counter Russia’s advances. Zelenskyy also sought assurances that U.S. aid would continue despite the shifting political landscape.
 
 ### US and France Draft Temporary Ceasefire Plan for Middle East
 
 The U.S. and France jointly called on Wednesday for an immediate 21-day ceasefire to allow negotiations in the escalating conflict between Israel and Hezbollah. [The conflict](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-25-2024-62cb173728d341c845bff9859addc7a5), which has claimed over 600 lives in Lebanon in recent days, has raised international alarm. The proposed ceasefire aims to create a humanitarian corridor, allowing aid to reach affected areas and providing an opportunity for diplomatic talks.
 
-Both nations are concerned that the conflict could destabilize the broader region, with potential ripple effects on global security and oil markets. However, securing a ceasefire remains a challenge, as both Israel and Hezbollah continue to hold firm in their positions. 
+Both nations are concerned that the conflict could destabilize the broader region, with potential ripple effects on global security and oil markets. However, securing a ceasefire remains a challenge, as both Israel and Hezbollah continue to hold firm in their positions.
 
 ### Japan Acquits Longest-Serving Death Row Inmate
 
