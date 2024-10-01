@@ -1,5 +1,5 @@
 ---
-cutOff: '3'
+cutOff: '8'
 latest: 'true'
 relatedArticles: 'us-elections-close-to-call'
 readTime: '4'
