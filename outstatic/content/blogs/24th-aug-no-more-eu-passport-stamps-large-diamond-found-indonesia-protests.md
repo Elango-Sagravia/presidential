@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '6'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/24th-aug--no-more-eu-passport-stamps--large-diamond-found--indonesia-protests-QwOT.webp'
