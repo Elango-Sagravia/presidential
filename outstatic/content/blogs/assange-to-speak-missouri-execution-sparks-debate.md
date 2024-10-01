@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '8'
 latest: 'true'
 relatedArticles: ''
 readTime: '4'
@@ -14,11 +14,11 @@ title: '26th Sept: Assange to Speak, Missouri Execution Sparks Debate'
 publishedAt: '2024-09-26T13:08:07.618Z'
 ---
 
-### Julian Assange to Make First Public Appearance 
+### Julian Assange to Make First Public Appearance
 
 ![Julian Assange to Make First Public Appearance](/images/julian-assange-makes-first-appearance-since-release-Q0ND.webp)
 
-Julian Assange, the founder of [WikiLeaks](https://wikileaks.org/What-is-WikiLeaks.html), is set to speak at the Council of Europe on October 1, marking his first public appearance since his release from a British jail. His wife, Stella Assange, [announced](https://x.com/Stella_Assange/status/1838682234708193569) on X that he will provide testimony for a committee report on his case and its broader implications. 
+Julian Assange, the founder of [WikiLeaks](https://wikileaks.org/What-is-WikiLeaks.html), is set to speak at the Council of Europe on October 1, marking his first public appearance since his release from a British jail. His wife, Stella Assange, [announced](https://x.com/Stella_Assange/status/1838682234708193569) on X that he will provide testimony for a committee report on his case and its broader implications.
 
 After returning to Australia in June, Assange gained his freedom back by pleading guilty to violating U.S. espionage laws, ending a 14-year legal saga. The Council has labeled him a political prisoner and urged the U.S. to investigate claims of inhumane treatment he faced during his detention.
 
@@ -32,17 +32,17 @@ Williams maintained his innocence, with support from several jurors and the vict
 
 ![Thai King Signs Off on Gay Marriage](/images/the-thai-king-signed-off-on-gay-marriage-E0Nz.webp)
 
-Thailand officially [legalized](https://apnews.com/article/thailand-marriage-equality-law-e0df9fa2d38afc81c53dda81ce489be5) same-sex marriage on Tuesday, making it the third in Asia, after Taiwan and Nepal, to do so. The law, endorsed by King Maha Vajiralongkorn, will take effect in 120 days and allow LGBTQ+ couples to register their marriages starting in January. The bill, which grants all married partners full legal, financial, and medical rights, passed through both houses of Parliament earlier this year. 
+Thailand officially [legalized](https://apnews.com/article/thailand-marriage-equality-law-e0df9fa2d38afc81c53dda81ce489be5) same-sex marriage on Tuesday, making it the third in Asia, after Taiwan and Nepal, to do so. The law, endorsed by King Maha Vajiralongkorn, will take effect in 120 days and allow LGBTQ+ couples to register their marriages starting in January. The bill, which grants all married partners full legal, financial, and medical rights, passed through both houses of Parliament earlier this year.
 
 Prime Minister Paetongtarn Shinawatra hailed the decision as a significant step forward for Thailand, which has long been seen as inclusive despite challenges to marriage equality. This follows another progressive milestone—Thailand’s recent legalization of medical cannabis—marking its shift towards more liberal policies in Southeast Asia.
 
 ### The Slovak PM Gets a Bullet in the Mail
 
-Slovak Prime Minister Robert Fico recently received a bullet in an envelope from an unknown sender, which has led to a police investigation. This unsettling threat follows an [attempted assassination](https://www.politico.eu/article/slovak-prime-minister-robert-fico-in-surgery-after-being-shot-in-politically-motivated-assassination-attempt/) on Fico back in May, which shocked many and underscored the divisions in Slovak society. The shooter is currently facing terrorism charges and could end up in prison for life. After the attack, Fico had to undergo several surgeries for his injuries, and he publicly blamed his political opponents for the incident. 
+Slovak Prime Minister Robert Fico recently received a bullet in an envelope from an unknown sender, which has led to a police investigation. This unsettling threat follows an [attempted assassination](https://www.politico.eu/article/slovak-prime-minister-robert-fico-in-surgery-after-being-shot-in-politically-motivated-assassination-attempt/) on Fico back in May, which shocked many and underscored the divisions in Slovak society. The shooter is currently facing terrorism charges and could end up in prison for life. After the attack, Fico had to undergo several surgeries for his injuries, and he publicly blamed his political opponents for the incident.
 
 Many critics have pointed out that Fico's government seems to be adopting tactics similar to those seen in Hungary, targeting the media, [anti-corruption efforts](https://www.politico.eu/article/slovakia-corruption-europe-robert-fico-politics-tv-culture/), and the [LGBTQ+ community](https://www.politico.eu/article/slovak-culture-minister-blames-lgbtq-europe-low-fertility-rates-martina-simkovicova/) while echoing some pro-Kremlin views on the Ukraine war.
 
-### Erdogan Compares Nethyanahu to Hitler at UNGA Debates 
+### Erdogan Compares Nethyanahu to Hitler at UNGA Debates
 
 During Tuesday’s U.N. General Assembly session, Turkish President Erdogan controversially [likened](https://www.aa.com.tr/en/middle-east/turkish-official-defends-president-erdogans-comparison-of-israeli-policies-to-nazi-germany/3340662) Israeli Prime Minister Netanyahu to Hitler, a comparison he has made multiple times. The U.N. debates had quite a lot of things to say about the situation with Israel and Gaza.
 
