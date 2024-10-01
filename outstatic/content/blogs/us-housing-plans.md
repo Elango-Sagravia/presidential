@@ -1,5 +1,5 @@
 ---
-cutOff: '4'
+cutOff: '9'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/19th-aug--u.s.-housing-plans--global-health-alerts--and-drought-crisis-Y5MD.webp'
