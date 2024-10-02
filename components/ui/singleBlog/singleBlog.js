@@ -10,7 +10,7 @@ import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
 import RelatedArticles from "../relatedArticles/relatedArticles";
 
-const SingleBlog = ({ blog, relatedArticles }) => {
+const SingleBlog = ({ blog, relatedArticles, index }) => {
   console.log(relatedArticles);
   const { isSubscribed } = useAppContext();
   console.log("object :>> ", blog);
@@ -27,8 +27,14 @@ const SingleBlog = ({ blog, relatedArticles }) => {
         <div className="mt-10">
           <HTMLContent
             contentString={blog.content}
-            blogCutOff={!isSubscribed ? blog.cutOff : blog.content.length}
-            enableCutOff={true}
+            blogCutOff={
+              index <= 4
+                ? blog.content.length
+                : !isSubscribed
+                ? blog.cutOff
+                : blog.content.length
+            }
+            enableCutOff={index <= 4 ? false : true}
           />
         </div>
         {isSubscribed && relatedArticles.length > 0 && (
