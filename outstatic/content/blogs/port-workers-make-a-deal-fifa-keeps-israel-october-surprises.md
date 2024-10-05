@@ -14,11 +14,11 @@ title: 'Oct 5: Port Workers Make a Deal, FIFA Keeps Israel, October Surprises'
 publishedAt: '2024-10-05T13:17:36.806Z'
 ---
 
-### Striking Port Workers Make a Deal 
+### Striking Port Workers Make a Deal
 
 ![](/images/striking-port-workers-to-return-to-work-friday-as-negotiators-reach-an-agreement-on-wages-c4MT.webp)
 
-The striking members of the International Longshoremen’s Association (ILA) will return to work Friday after reaching a [tentative agreement](https://edition.cnn.com/2024/10/03/business/port-strike-union-deal/index.html) with the United States Maritime Alliance. The deal includes a $4-per-hour raise for each year of a six-year contract, translating to over 62% wage growth by the contract’s end. 
+The striking members of the International Longshoremen’s Association (ILA) will return to work Friday after reaching a [tentative agreement](https://edition.cnn.com/2024/10/03/business/port-strike-union-deal/index.html) with the United States Maritime Alliance. The deal includes a $4-per-hour raise for each year of a six-year contract, translating to over 62% wage growth by the contract’s end.
 
 Although the agreement requires ratification by union members, the union has decided to resume work immediately to alleviate disruptions in the supply chain. President Biden and Vice President Harris praised the tentative agreement, emphasizing fairness and the importance of sharing economic gains with workers. American consumers can now rest easy after the [panic shopping](https://www.usatoday.com/story/money/shopping/2024/10/02/port-dockworkers-strike-stockpiling-2024/75481058007/) sprees.
 
@@ -26,19 +26,19 @@ Although the agreement requires ratification by union members, the union has dec
 
 ![FIFA delays decision on Israel's suspension, investigating discrimination claims amid Gaza tensions](/images/fifa-has-again-delayed-a-decision-on-suspending-israel-from-its-competitions-gzMj.webp)
 
-FIFA has [delayed a decision](https://www.dw.com/en/fifa-defers-verdict-on-israel-exclusion-launches-probe/a-70394117) regarding the Palestinian Football Association’s request to suspend Israel from its competitions. Instead, the organization will investigate allegations of discrimination raised by the PFA. These accusations include violations of international law and discrimination against Arab players, particularly concerning clubs participating in Israeli leagues that operate in Palestinian territories. 
+FIFA has [delayed a decision](https://www.dw.com/en/fifa-defers-verdict-on-israel-exclusion-launches-probe/a-70394117) regarding the Palestinian Football Association’s request to suspend Israel from its competitions. Instead, the organization will investigate allegations of discrimination raised by the PFA. These accusations include violations of international law and discrimination against Arab players, particularly concerning clubs participating in Israeli leagues that operate in Palestinian territories.
 
-FIFA President Gianni Infantino stressed the importance of thorough assessment and called for regional peace. As the conflict in Gaza continues, there is increasing pressure on FIFA to take action similar to its suspension of Russia following its invasion of Ukraine ([see countries banned from FIFA](https://time.com/6234776/countries-banned-world-cup-russia/)). Many believe it is hypocritical that Israel has not faced similar repercussions as Russia in International sporting events. However, the counter-argument is that the Russian and Israeli war tactics are different, and the geopolitical background in the Russia-Ukraine war is much more simplistic than Israel’s war with Hamas.
+FIFA President Gianni Infantino stressed the importance of thorough assessment and called for regional peace. As the conflict in Gaza continues, there is increasing pressure on FIFA to take action similar to its suspension of Russia following its invasion of Ukraine [(see countries banned from FIFA)](https://time.com/6234776/countries-banned-world-cup-russia/). Many believe it is hypocritical that Israel has not faced similar repercussions as Russia in International sporting events. However, the counter-argument is that the Russian and Israeli war tactics are different, and the geopolitical background in the Russia-Ukraine war is much more simplistic than Israel’s war with Hamas.
 
 ### Harris and Trump Prepare for October Surprises
 
 With just a month until Election Day, Vice President Harris faces significant challenges in October, known as the “October surprise.” This term refers to unexpected events or revelations that emerge in the month leading up to an election, potentially influencing voter behavior. Domestically, [recovery efforts from Hurricane Helene](https://www.presidentialsummary.com/archives/storm-states-visit-russia-targets-journalists-melania-breaks-gop-line) are underway in critical swing states like North Carolina and Georgia. Internationally, rising [tensions in the Middle East](https://www.presidentialsummary.com/archives/3rd-oct-world-view-on-iran-israel-conflict-diddy-faces-new-charges) threaten to escalate.
 
-These crises present both risks and opportunities for Harris, who is working to demonstrate leadership while campaigning. She visited hurricane-affected areas to ensure federal resources were allocated swiftly. Additionally, she reaffirmed U.S. support for Israel amidst escalating conflicts. Former President Trump also might not go without an October surprise; these issues affect his campaign as well, and the recent [revelation of Melania](https://www.newsweek.com/melania-trump-abortion-october-surprise-1963313) coming out to support abortion could be his October surprise. 
+These crises present both risks and opportunities for Harris, who is working to demonstrate leadership while campaigning. She visited hurricane-affected areas to ensure federal resources were allocated swiftly. Additionally, she reaffirmed U.S. support for Israel amidst escalating conflicts. Former President Trump also might not go without an October surprise; these issues affect his campaign as well, and the recent [revelation of Melania](https://www.newsweek.com/melania-trump-abortion-october-surprise-1963313) coming out to support abortion could be his October surprise.
 
 ### Three Officers Convicted in Tyre Nichols Case
 
-Three former Memphis police officers were convicted Thursday in the fatal beating of Tyre Nichols, which sparked nationwide protests. Tadarrius Bean, Demetrius Haley, and Justin Smith were found [guilty of witness tampering](https://time.com/7049240/tyre-nichols-officers-convicted/), while Haley was convicted of a lesser civil rights violation. They now face up to 20 years in prison for the tampering charges. 
+Three former Memphis police officers were convicted Thursday in the fatal beating of Tyre Nichols, which sparked nationwide protests. Tadarrius Bean, Demetrius Haley, and Justin Smith were found [guilty of witness tampering](https://time.com/7049240/tyre-nichols-officers-convicted/), while Haley was convicted of a lesser civil rights violation. They now face up to 20 years in prison for the tampering charges.
 
 The case highlights ongoing scrutiny of police practices in Memphis, where the U.S. Department of Justice is investigating force usage and possible racial discrimination. Nichols’ family has filed a $550 million lawsuit against the city. Their quest for justice continues as the fight for accountability unfolds.
 
