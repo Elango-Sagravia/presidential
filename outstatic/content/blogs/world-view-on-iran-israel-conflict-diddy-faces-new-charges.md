@@ -5,7 +5,7 @@ relatedArticles: 'israel-launches-ground-offensive-rutte-takes-nato-helm-iran-es
 readTime: '6'
 coverImage: '/images/diddy-has-a-hundred-more-allegations-AzNT.webp'
 description: ''
-slug: '3rd-oct-world-view-on-iran-israel-conflict-diddy-faces-new-charges'
+slug: 'world-view-on-iran-israel-conflict-diddy-faces-new-charges'
 author:
   name: ''
   picture: ''
@@ -16,7 +16,7 @@ publishedAt: '2024-10-03T13:13:13.772Z'
 
 ### What the World is Saying About the Iran-Israel Conflict
 
-The U.S. has strongly reinforced its support for Israel following Iran’s [missile strikes](https://www.geopolitics.world/archives/israel-launches-ground-offensive-rutte-takes-nato-helm-iran-escalates), with President Joe Biden condemning the attack and [coordinating with G7](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/readout-of-president-bidens-call-with-the-g7/) leaders on potential new sanctions against Iran. Biden has pledged continued military aid to Israel, while [European leaders](https://www.france24.com/en/middle-east/20241002-world-leaders-call-for-de-escalation-after-iran-s-missile-strikes-on-israel) have urged restraint and called for a ceasefire to prevent further violence and instability in the Middle East. 
+The U.S. has strongly reinforced its support for Israel following Iran’s [missile strikes](https://www.geopolitics.world/archives/israel-launches-ground-offensive-rutte-takes-nato-helm-iran-escalates), with President Joe Biden condemning the attack and [coordinating with G7](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/readout-of-president-bidens-call-with-the-g7/) leaders on potential new sanctions against Iran. Biden has pledged continued military aid to Israel, while [European leaders](https://www.france24.com/en/middle-east/20241002-world-leaders-call-for-de-escalation-after-iran-s-missile-strikes-on-israel) have urged restraint and called for a ceasefire to prevent further violence and instability in the Middle East.
 
 Russia, which has a [strategic relationship](https://warontherocks.com/2024/07/the-uncomfortable-reality-of-russia-and-irans-new-defense-relationship/) with Iran through their cooperation in Syria, has also urged de-escalation. Although not directly involved, Russia’s role as a regional player makes its diplomatic stance important to stabilize the situation. The economic risks of the conflict are significant, especially if tensions disrupt oil flows through the [Strait of Hormuz](https://www.aljazeera.com/program/pinch-point/2024/8/12/strait-of-hormuz-why-it-matters)—a crucial global oil supply route. A prolonged conflict could lead to a sharp rise in oil prices, disrupting global supply chains and adding further pressure to an already fragile global economy, especially in Europe and Asia, which are heavily dependent on Middle Eastern oil.
 
@@ -36,7 +36,7 @@ Jian G. had been arrested earlier in April for spying on Chinese opposition figu
 
 ### Julian Assange Speaks on "Guilty of Journalism"
 
-Julian Assange made his first public comments since his release, stating he feels free because he [“pleaded guilty to journalism.”](https://edition.cnn.com/2024/10/01/europe/julian-assange-council-europe-address-intl/index.html) The 53-year-old appeared in Strasbourg to discuss his detention and its impact on human rights. His exact words were, “I’m not free because the system worked; I’m free after years in prison because I pled guilty to journalism.” 
+Julian Assange made his first public comments since his release, stating he feels free because he [“pleaded guilty to journalism.”](https://edition.cnn.com/2024/10/01/europe/julian-assange-council-europe-address-intl/index.html) The 53-year-old appeared in Strasbourg to discuss his detention and its impact on human rights. His exact words were, “I’m not free because the system worked; I’m free after years in prison because I pled guilty to journalism.”
 
 He stressed that he was punished simply for seeking and sharing truthful information and warned that criminalizing newsgathering threatens investigative journalism everywhere. [Assange](https://www.bbc.com/news/world-us-canada-68282613) spent five years in a high-security prison and acknowledged the toll his isolation took on him, calling the sounds of electric cars “spooky” as he adjusts to life outside. He’s having to relearn how to be a family man again after so much time away.
 
@@ -44,7 +44,7 @@ He stressed that he was punished simply for seeking and sharing truthful informa
 
 ![U.S. Dockworkers Strike Halts Operations at Major Ports](/images/us-dockworkers-launch-a-coastal-wide-strike-c2OD.webp)
 
-Dockworkers along the East and Gulf Coasts are on [strike](https://www.bbc.com/news/articles/c3vkdp3rx17o), causing a significant slowdown in moving billions of dollars worth of goods like furniture, paper, and farm machinery. The picket lines kicked off early Tuesday after the International Longshoremen's Association and the U.S. Maritime Alliance couldn't reach an agreement.  
+Dockworkers along the East and Gulf Coasts are on [strike](https://www.bbc.com/news/articles/c3vkdp3rx17o), causing a significant slowdown in moving billions of dollars worth of goods like furniture, paper, and farm machinery. The picket lines kicked off early Tuesday after the International Longshoremen's Association and the U.S. Maritime Alliance couldn't reach an agreement.
 
 Some of the union’s demands include a 77% pay raise over the next six years, which would boost the top wage from $39 to $69 an hour by 2030. The union is also asking for a complete ban on automation. President Biden is letting the bargaining play out despite pressure to step in. With 14 significant ports affected, the strike could impact the economy if it drags on.
 
@@ -54,7 +54,7 @@ Some of the union’s demands include a 77% pay raise over the next six years, w
 
 The new French coalition, led by [far-right politicians](https://www.france24.com/en/tv-shows/the-debate/20240923-how-far-to-the-right-france-s-new-center-right-coalition), has sparked domestic and international concerns. Their policies focus on stricter immigration laws, reducing EU influence, and promoting national identity.
 
-Afghan athlete Marzieh Hamidi launched the hashtag #LetUsExist to highlight the "crime against humanity" that Afghan women are facing under the Taliban's gender apartheid. After speaking out, she is now under police protection. [Read more. ](https://www.rfi.fr/en/france/20240913-afghan-athlete-under-police-protection-in-france-after-denouncing-taliban)
+Afghan athlete Marzieh Hamidi launched the hashtag #LetUsExist to highlight the "crime against humanity" that Afghan women are facing under the Taliban's gender apartheid. After speaking out, she is now under police protection. [Read more.](https://www.rfi.fr/en/france/20240913-afghan-athlete-under-police-protection-in-france-after-denouncing-taliban)
 
 **Business & Finance**
 
@@ -82,7 +82,7 @@ Carlos Alcaraz (21) continues his rise, defeating Jannik Sinner in the [China Op
 
 **Whatnot**
 
-India’s Rhino population has grown fivefold, while poaching has decreased by 86%. [Read more](https://www.goodnewsnetwork.org/indias-rhino-stronghold-sees-86-drop-in-poaching-and-five-fold-increase-in-rhinos/). 
+India’s Rhino population has grown fivefold, while poaching has decreased by 86%. [Read more](https://www.goodnewsnetwork.org/indias-rhino-stronghold-sees-86-drop-in-poaching-and-five-fold-increase-in-rhinos/).
 
 Spain welcomed a record number of tourists this summer - 21 million. The [locals aren’t happy](https://www.france24.com/en/live-news/20241002-spain-logs-record-summer-tourism-as-inflow-draws-protests).
 
