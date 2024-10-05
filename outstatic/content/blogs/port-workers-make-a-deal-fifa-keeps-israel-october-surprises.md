@@ -1,7 +1,7 @@
 ---
 cutOff: '9'
 latest: 'true'
-relatedArticles: ''
+relatedArticles: 'world-view-on-iran-israel-conflict-diddy-faces-new-charges'
 readTime: '5'
 coverImage: '/images/striking-port-workers-to-return-to-work-friday-as-negotiators-reach-an-agreement-on-wages-M2OT.webp'
 description: ''
@@ -86,4 +86,4 @@ Japanese airport temporarily closed after the[ explosion of a U.S. bomb](https:/
 
 Eminem shared he is going to be a grandfather in a video for his song Temporary.[ Watch video](https://people.com/eminem-tears-up-as-he-reveals-daughter-hailie-jade-is-pregnant-in-new-music-video-8722849).
 
-Did you know Queen Elizabeth was a trained mechanic?[See photos from World War II](https://www.businessinsider.com/photos-queen-elizabeth-mechanic-world-war-ii-2020-4).
+Did you know Queen Elizabeth was a trained mechanic? [See photos from World War II](https://www.businessinsider.com/photos-queen-elizabeth-mechanic-world-war-ii-2020-4).
