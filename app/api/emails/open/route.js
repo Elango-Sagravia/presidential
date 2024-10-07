@@ -1,8 +1,20 @@
 // import { NextResponse } from "next/server";
 import { query } from "@/lib/db"; // Import fetch if using Node.js < 18
 
-export async function POST(request) {
+export async function GET(request) {
   try {
+    // Get the query parameters from the URL
+    const { searchParams } = new URL(request.url);
+    const user_id = searchParams.get("user_id");
+    const campaign_id = searchParams.get("campaign_id");
+
+    if (!user_id || !campaign_id) {
+      return new Response(
+        JSON.stringify({ message: "Missing user_id or campaign_id" }),
+        { status: 400, headers: { "Content-Type": "application/json" } }
+      );
+    }
+
     // Get the IP address from the request headers
     const ip =
       request.headers.get("x-forwarded-for") ||
@@ -14,10 +26,6 @@ export async function POST(request) {
     const geoResponse = await fetch(`http://ip-api.com/json/${ip}`);
     const geoData = await geoResponse.json();
     const country = geoData.country || "Unknown"; // Default to 'Unknown' if no country is detected
-
-    // Parse the request body
-    const body = await request.json();
-    const { user_id, campaign_id } = body;
 
     // Insert data into emails_open table with the detected country
     await query(
