@@ -15,24 +15,12 @@ export async function GET(request) {
       );
     }
 
-    // Get the IP address from the request headers
-    const ip =
-      request.headers.get("x-forwarded-for") ||
-      request.connection.remoteAddress;
-
-    console.log("ip :>> ", ip);
-
-    // Fetch the geolocation data based on the IP address
-    const geoResponse = await fetch(`http://ip-api.com/json/${ip}`);
-    const geoData = await geoResponse.json();
-    const country = geoData.country || "Unknown"; // Default to 'Unknown' if no country is detected
-
     // Insert data into emails_open table with the detected country
     await query(
       `INSERT INTO emails_open (user_id, campaign_id, opened_at)
-       VALUES ($1, $2, $3, NOW())
+       VALUES ($1, $2, NOW())
        ON CONFLICT (user_id, campaign_id) DO NOTHING`, // Ensure uniqueness
-      [user_id, campaign_id, country]
+      [user_id, campaign_id]
     );
 
     // Create a 1x1 pixel transparent PNG
