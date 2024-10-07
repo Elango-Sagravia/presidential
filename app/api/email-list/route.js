@@ -7,17 +7,21 @@ export async function GET(request) {
   try {
     const result = await query(
       `(
-  SELECT *
-  FROM users
-  WHERE source_id = 1
+  SELECT u.id, u.email, u.status, u.source_id
+  FROM users u
+  INNER JOIN subscribers s ON u.id = s.user_id
+  WHERE s.website_id = 1
+    AND u.source_id = 1
   LIMIT ${limit}
 )
-UNION
+UNION ALL
 (
-  SELECT *
-  FROM users
-  WHERE source_id = 2
-  LIMIT GREATEST(${limit} - (SELECT COUNT(*) FROM users WHERE source_id = 1), 0)
+  SELECT u.id, u.email, u.status, u.source_id
+  FROM users u
+  INNER JOIN subscribers s ON u.id = s.user_id
+  WHERE s.website_id = 1
+    AND u.source_id = 2
+  LIMIT ${limit}
 )
 LIMIT ${limit};`,
       []
