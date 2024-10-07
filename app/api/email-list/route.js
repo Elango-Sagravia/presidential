@@ -7,26 +7,33 @@ export async function GET(request) {
   try {
     const result = await query(
       `(
-  SELECT u.id, u.email, u.status, u.source_id
-  FROM users u
-  INNER JOIN subscribers s ON u.id = s.user_id
-  WHERE s.website_id = 1
-    AND u.source_id = 1
-  LIMIT ${limit}
-)
-UNION ALL
-(
-  SELECT u.id, u.email, u.status, u.source_id
-  FROM users u
-  INNER JOIN subscribers s ON u.id = s.user_id
-  WHERE s.website_id = 1
-    AND u.source_id = 2
-  LIMIT ${limit}
-)
-LIMIT ${limit};`,
+        SELECT u.id, u.email
+        FROM users u
+        INNER JOIN subscribers s ON u.id = s.user_id
+        WHERE s.website_id = 1
+          AND u.source_id = 1
+          AND u.status = 'subscribed'
+        LIMIT ${limit}
+      )
+      UNION ALL
+      (
+        SELECT u.id, u.email
+        FROM users u
+        INNER JOIN subscribers s ON u.id = s.user_id
+        WHERE s.website_id = 1
+          AND u.source_id = 2
+          AND u.status = 'subscribed'
+        LIMIT ${limit}
+      )
+      LIMIT ${limit};`,
       []
     );
-    return Response.json(result.rows);
+
+    // Create an array of objects with id and email
+    const users = result.rows.map((row) => ({ id: row.id, email: row.email }));
+
+    // Return the array of objects
+    return Response.json(users);
   } catch (err) {
     console.error(err);
     return Response.json({ message: "Error fetching users" }, { status: 500 });
