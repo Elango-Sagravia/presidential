@@ -29,7 +29,7 @@ export async function GET(request) {
 
     // Insert data into emails_open table with the detected country
     await query(
-      `INSERT INTO emails_open (user_id, campaign_id, country, opened_at)
+      `INSERT INTO emails_open (user_id, campaign_id, opened_at)
        VALUES ($1, $2, $3, NOW())
        ON CONFLICT (user_id, campaign_id) DO NOTHING`, // Ensure uniqueness
       [user_id, campaign_id, country]
