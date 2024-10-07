@@ -12,7 +12,7 @@ const UnsubscribeContent = () => {
   useEffect(() => {
     if (email && userId && campaignId) {
       // Call the unsubscribe GET function
-      const unsubscribeUrl = `https://${window.location.hostname}/api/emails-unsubscribe?user_id=${userId}&campaign_id=${campaignId}&email=${email}`;
+      const unsubscribeUrl = `https://${window.location.hostname}/api/emails/unsubscribe?user_id=${userId}&campaign_id=${campaignId}&email=${email}`;
       try {
         fetch(unsubscribeUrl)
           .then((response) => response.json())
