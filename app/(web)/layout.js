@@ -7,6 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import Navbar from "@/components/ui/navbar/navbar";
 import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
+import RedditPixel from "@/components/ui/RedditPixel/REdditPixel";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -22,7 +23,9 @@ export default function RootLayout({ children }) {
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"
       />
-
+      <head>
+        <RedditPixel />
+      </head>
       <body>
         <ThemeProvider
           attribute="class"
