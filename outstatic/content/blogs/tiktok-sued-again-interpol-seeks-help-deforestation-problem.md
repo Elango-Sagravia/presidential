@@ -1,6 +1,6 @@
 ---
 footerBannerContent: 'footer banner content'
-footerBannerTitle: 'footer banner title'
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
