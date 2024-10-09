@@ -18,15 +18,23 @@ Presidential Summary ("Website") is a newsletter owned and operated by Sagravia 
 
 We may collect personal information that you voluntarily provide to us when you register on the Website, subscribe to our newsletter, respond to a survey, fill out a form, or otherwise enter information on our Website. This information may include:
 
-- Name
+- Browser type
 
-- Email address
+- Operating system
 
-- Phone number
+- IP address
 
-- Mailing address
+- Pages viewed
 
-- Any other information you choose to provide
+- Time and date of visits
+
+- Location data
+
+- Web or mobile access details
+
+- Browser and device type
+
+- Other anonymous statistical data involving your use of the Website
 
 In compliance with the CAN-SPAM Act, all emails sent from us will clearly state who the email is from and provide clear information on how to contact the sender. In addition, all email messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further email communication from us.
 
@@ -52,13 +60,19 @@ We use the information we collect to:
 
 - Provide and manage our newsletter services.
 
-- Personalize your experience on our Website.
+- Personalize your experience on our Website and newsletters.
 
-- Improve our Website and newsletter content.
+- Improve our Website, newsletter content, and overall user experience.
 
-- Communicate with you about updates, offers, and other information related to our newsletters.
+- Communicate with you about updates, offers, promotions, or other information related to our newsletters and services.
 
-- Monitor and analyze usage and trends to improve our Website and services.
+- Monitor and analyze usage, behavior, and trends to improve our Website, newsletter offerings, and services.
+
+- Detect, prevent, and address technical issues, fraud, or illegal activities.
+
+- Comply with legal obligations and enforce our policies where necessary.
+
+- Conduct research and analysis to understand user preferences better and optimize our content.
 
 **3. Sharing Your Information**
 
