@@ -1,5 +1,5 @@
 ---
-footerBannerContent: 'footer banner content'
+footerBannerContent: ''
 footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
