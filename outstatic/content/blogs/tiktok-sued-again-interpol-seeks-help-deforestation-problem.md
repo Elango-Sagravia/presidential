@@ -14,17 +14,17 @@ title: 'Oct 9: TikTok Sued Again, Interpol Seeks Help, Deforestation Problem'
 publishedAt: '2024-10-09T12:30:12.384Z'
 ---
 
-### More Than a Dozen States Are Suing TikTok 
+### More Than a Dozen States Are Suing TikTok
 
 ![More Than a Dozen States Are Suing TikTok](/images/more-than-a-dozen-states--led-by-california-and-new-york--are-suing-tiktok-IwMz.webp)
 
-Over a dozen states, led by California and New York, are [suing TikTok](https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health), claiming the app misled users about its safety and worsened the teen mental health crisis by promoting addictive features. They argue TikTok’s endless scrolling, beauty filters, and notifications keep young users hooked, contributing to issues like body image problems and depression. 
+Over a dozen states, led by California and New York, are [suing TikTok](https://www.npr.org/2024/10/08/g-s1-26823/states-sue-tiktok-child-safety-mental-health), claiming the app misled users about its safety and worsened the teen mental health crisis by promoting addictive features. They argue TikTok’s endless scrolling, beauty filters, and notifications keep young users hooked, contributing to issues like body image problems and depression.
 
 The states are pushing for the app to change its design and are seeking financial penalties. TikTok denies the claims, stating they’ve added safety features like screen-time limits and private accounts for minors, though states argue these efforts fall short. Beyond mental health concerns, TikTok has long faced scrutiny for its [ties to China](https://www.bbc.com/news/technology-64797355) and potential data privacy issues, with some U.S. lawmakers pushing for an outright [ban of the app](https://www.bbc.com/news/technology-53476117). The outcome of these lawsuits could significantly impact TikTok's operations in the U.S.
 
 ### Interpol Seeks the Public’s Help
 
-Interpol has expanded its “[Identify Me](https://www.interpol.int/en/What-you-can-do/Identify-Me)” campaign, releasing details on 46 cold cases involving murdered or unidentified women in six European countries. These cases, some dating back decades, include victims found in forests, bags, and hotel rooms. The campaign, launched in May 2023, previously helped identify one woman within days and has generated around 1,800 tips. 
+Interpol has expanded its [“Identify Me”](https://www.interpol.int/en/What-you-can-do/Identify-Me) campaign, releasing details on 46 cold cases involving murdered or unidentified women in six European countries. These cases, some dating back decades, include victims found in forests, bags, and hotel rooms. The campaign, launched in May 2023, previously helped identify one woman within days and has generated around 1,800 tips.
 
 This time, Interpol has released details typically kept confidential, including facial reconstructions and forensic data, to solicit new leads. The initiative seeks to provide closure to families and justice for victims who have been unidentified for too long. Interpol has made parts of its "Black Notice" alerts public for the first time, typically reserved for law enforcement agencies. The hope is that these public efforts will generate new information and help crack these decades-old cases.
 
@@ -32,9 +32,9 @@ This time, Interpol has released details typically kept confidential, including 
 
 ![](/images/2023-deforestation-goal-not-met--1--Y2MT.webp)
 
-A 2023 report by the [Forest Declaration Assessment](https://forestdeclaration.org/resources/forest-declaration-assessment-2024/) revealed that 6.37 million hectares of forests were destroyed globally, an area roughly equivalent to the size of Latvia. This marks a worsening trend in deforestation driven primarily by agriculture, commercial logging, and fires, with tropical regions like Brazil, Indonesia, and Bolivia being the most affected. Although Brazil has significantly reduced Amazon deforestation under President Luiz Inácio Lula da Silva’s leadership, with a 62% reduction, global efforts remain insufficient. 
+A 2023 report by the [Forest Declaration Assessment](https://forestdeclaration.org/resources/forest-declaration-assessment-2024/) revealed that 6.37 million hectares of forests were destroyed globally, an area roughly equivalent to the size of Latvia. This marks a worsening trend in deforestation driven primarily by agriculture, commercial logging, and fires, with tropical regions like Brazil, Indonesia, and Bolivia being the most affected. Although Brazil has significantly reduced Amazon deforestation under President Luiz Inácio Lula da Silva’s leadership, with a 62% reduction, global efforts remain insufficient.
 
-The world is still far from eliminating deforestation by 2030, and urgent changes are needed in forest protection policies and consumption patterns. The report stressed that forest conservation efforts must be immune to political and economic shifts to ensure long-term success in fighting deforestation and preserving biodiversity.**
+The world is still far from eliminating deforestation by 2030, and urgent changes are needed in forest protection policies and consumption patterns. The report stressed that forest conservation efforts must be immune to political and economic shifts to ensure long-term success in fighting deforestation and preserving biodiversity.\*\*
 
 ### Hurricane Milton Delays President Biden’s International Business
 
@@ -44,9 +44,9 @@ Although the president’s trips to Germany and Angola, where he was to [fulfill
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
-Thousands of [protesters clashed with police](https://www.dw.com/en/albania-clashes-as-protesters-call-on-government-to-resign/a-70430695) in Tirana, Albania, demanding PM Edi Rama's resignation over allegations of corruption and mismanagement. 
+Thousands of [protesters clashed with police](https://www.dw.com/en/albania-clashes-as-protesters-call-on-government-to-resign/a-70430695) in Tirana, Albania, demanding PM Edi Rama's resignation over allegations of corruption and mismanagement.
 
 Omar bin Laden, son of Osama bin Laden, was [deported from France](https://x.com/BrunoRetailleau/status/1843519627546001783?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1843519627546001783%7Ctwgr%5Eadcf3a19227d1c0482f9d49e6179db1cf7473e39%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.bfmtv.com%2Fpolitique%2Fgouvernement%2Fbruno-retailleau-prononce-une-interdiction-administrative-du-territoire-contre-le-fils-aine-d-oussama-ben-laden_AN-202410080172.html) after being accused of glorifying terrorism on social media.
 
@@ -72,13 +72,13 @@ The Council for German Orthography has officially allowed the use of apostrophes
 
 Legendary gospel singer [Cissy Houston](https://variety.com/2024/music/news/cissy-houston-dead-gospel-soul-singer-whitney-houston-1236170215/), mother of Whitney Houston, has passed away at 91, leaving a legacy that influenced generations of artists.
 
-**Sports** 
+**Sports**
 
 The New York Jets have [fired head coach Robert Saleh](https://www.nfl.com/news/jets-fire-robert-saleh-after-2-3-start-dc-jeff-ulbrich-to-become-interim-head-coach) following a disappointing 2-3 start. Defensive coordinator Jeff Ulbrich will step in as interim coach.
 
 Jackline Juma became the [first female coach to lead a professional men’s team](https://www.dw.com/en/female-coach-breaking-male-barriers-in-african-football/a-70373048#:~:text=Jackline%20Juma%20made%20history%20in,Premier%20League%2C%20was%20almost%20secondary.) in a major African league.
 
-**Whatnot** 
+**Whatnot**
 
 German police shut down a central child sexual abuse platform with over 400,000 users, arresting 140 individuals involved. [Read more](https://www.dw.com/en/german-police-smash-child-sexual-abuse-site/a-70436727).
 
