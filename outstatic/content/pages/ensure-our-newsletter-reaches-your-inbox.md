@@ -10,8 +10,6 @@ description: ''
 publishedAt: '2024-09-03T12:07:08.991Z'
 ---
 
-Ensure our newsletter reaches your inbox
-
 To ensure that you receive our newsletters directly to your inbox, it's important to add our email address to your safelist (also known as a whitelist).
 
 Below are the steps to safelist our newsletter depending on your email provider.
