@@ -1,5 +1,5 @@
 ---
-footerBannerContent: ''
+footerBannerContent: 'On this day in 1871, the Great Chicago Fire began in the barn of Patrick and Catherine O''Leary, and by the time the blaze died out two days later, a large swath of the city had been devastated and some 300 people killed.'
 footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
