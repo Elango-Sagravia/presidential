@@ -2,6 +2,7 @@
 footerBannerContent: 'On this day in 1492, the New World was "discovered" when land (most likely San Salvador) was sighted in the Caribbean from the Pinta during Christopher Columbus''s historic voyage.'
 footerBannerTitle: ''
 cutOff: '8'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/french-healthcare-system-won-t-pay-for-new-anti-obesity-drug-cxMj.webp'
@@ -19,19 +20,19 @@ publishedAt: '2024-10-12T12:35:09.254Z'
 
 ![France declines insurance coverage for Wegovy](/images/french-healthcare-system-won-t-pay-for-new-anti-obesity-drug-Y5Mz.webp)
 
-France has decided not to cover the [anti-obesity drug](https://www.euronews.com/health/2024/10/11/france-wont-pay-for-weight-loss-drug-wegovy-what-about-other-european-countries#:~:text=Wegovy%20is%20expected%20to%20cost,to%20help%20patients%20shed%20weight.) Wegovy through its national health insurance despite its recent approval for sale. Patients must pay between €270 to €330 per month out of pocket. The French government stresses that Wegovy should only be used when diet and exercise are insufficient for weight loss, and prescriptions must be obtained from specialists to prevent misuse for cosmetic purposes. 
+France has decided not to cover the [anti-obesity drug](https://www.euronews.com/health/2024/10/11/france-wont-pay-for-weight-loss-drug-wegovy-what-about-other-european-countries#:~:text=Wegovy%20is%20expected%20to%20cost,to%20help%20patients%20shed%20weight.) Wegovy through its national health insurance despite its recent approval for sale. Patients must pay between €270 to €330 per month out of pocket. The French government stresses that Wegovy should only be used when diet and exercise are insufficient for weight loss, and prescriptions must be obtained from specialists to prevent misuse for cosmetic purposes.
 
-Other European countries are also cautious about including it in their own, citing budget concerns and the need for more research on long-term effects. In the United States, the Wegovy and Ozempics have become very popular. While Ozempic is FDA-approved only for treatment of Type 2 Diabetes, it is often prescribed to those simply for weight loss. Some have complained that the [popularity](https://www.npr.org/sections/shots-health-news/2024/09/06/g-s1-21139/ozempic-wegovy-shortages) of these medications has made them more challenging to obtain for people who need them the most. 
+Other European countries are also cautious about including it in their own, citing budget concerns and the need for more research on long-term effects. In the United States, the Wegovy and Ozempics have become very popular. While Ozempic is FDA-approved only for treatment of Type 2 Diabetes, it is often prescribed to those simply for weight loss. Some have complained that the [popularity](https://www.npr.org/sections/shots-health-news/2024/09/06/g-s1-21139/ozempic-wegovy-shortages) of these medications has made them more challenging to obtain for people who need them the most.
 
 ### Whooping Cough Cases Surge
 
 The United States has experienced a significant surge in [whooping cough cases](https://www.npr.org/2024/10/10/nx-s1-5127422/whooping-cough-outbreak-u-s-seattle), with over 16,000 reported this year, marking the highest levels since 2014. This increase can be attributed to the widespread implementation of testing, potential variations in the bacterium, and a rise in vaccine hesitancy, exacerbated by the ongoing pandemic.
 
-Infants are at highest risk as they can’t get vaccinated until they are two months old. One in three infant cases requires hospitalization. Health experts underline the importance of vaccinating pregnant women to ensure the newborns' safety until they are eligible for vaccination. The outbreak has severely impacted the West Coast, particularly in King County, Washington. 
+Infants are at highest risk as they can’t get vaccinated until they are two months old. One in three infant cases requires hospitalization. Health experts underline the importance of vaccinating pregnant women to ensure the newborns' safety until they are eligible for vaccination. The outbreak has severely impacted the West Coast, particularly in King County, Washington.
 
 ### Ukrainian Journalist Dies in Captivity
 
-Ukrainian journalist Viktoria Roshchyna has been [confirmed dead](https://www.rferl.org/a/ukraine-journalist-viktoria-roshchyna-death-russia-captivity/33154122.html) while in Russian captivity, according to Ukrainian authorities on October 10. Roshchyna, a freelance journalist who had previously worked with various outlets like RFE/RL, had been missing since early August 2023 after venturing into Russian-occupied territories. Her release was supposed to be negotiated in the coming days. 
+Ukrainian journalist Viktoria Roshchyna has been [confirmed dead](https://www.rferl.org/a/ukraine-journalist-viktoria-roshchyna-death-russia-captivity/33154122.html) while in Russian captivity, according to Ukrainian authorities on October 10. Roshchyna, a freelance journalist who had previously worked with various outlets like RFE/RL, had been missing since early August 2023 after venturing into Russian-occupied territories. Her release was supposed to be negotiated in the coming days.
 
 There hasn’t been an explanation for the cause of her death. According to official information from the Russian authorities, this occurred during the transfer from Taganrog to Moscow; Roshchyna’s case puts into perspective the threats faced by journalists in Ukraine, with over 100 journalists impacted since the beginning of the war in February 2022. The investigation into her death continues as Ukrainian authorities work to understand the circumstances surrounding it and the more significant implications for press freedom in conflict zones.
 
@@ -45,7 +46,7 @@ Obama's powerful endorsement should help relieve tensions and dynamics within th
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 Human Rights Watch reports Haitian gangs [recruiting malnourished children](https://www.theguardian.com/global-development/2024/oct/11/haitian-gangs-recruiting-starving-children-to-fight-security-forces-rights-group-finds) to fight against security forces.
 
@@ -65,7 +66,7 @@ Hubble Telescope reveals Jupiter’s Great Red Spot is shrinking and becoming mo
 
 Comet C/2023 A3 is now visible and will reach its closest point to Earth on Monday. [How to see it](https://www.npr.org/2024/10/10/nx-s1-5148895/how-to-see-comet-c-2023-a3-tsuchinshan-atlas).
 
-**Arts and Culture** 
+**Arts and Culture**
 
 Holocaust survivor and TikTok creator [Lily Ebert dies at 100](https://www.history.co.uk/articles/lily-ebert-dies-aged-100) after dedicating her life to Holocaust education.
 
@@ -77,7 +78,7 @@ Slovenian cycling hegemony continues. Tadej Pogacar chases his [fourth Lombardia
 
 The [WNBA's popularity](https://sports.yahoo.com/wnba-having-real-moment-caitlin-175706015.html) is rising, fueled by standout performances from players like Caitlin Clark.
 
-**Whatnot** 
+**Whatnot**
 
 Prague is named the world’s [most beautiful city from the air](https://www.expats.cz/czech-news/article/prague-is-the-world-s-most-beautiful-city-from-the-air-new-study-says).
 
