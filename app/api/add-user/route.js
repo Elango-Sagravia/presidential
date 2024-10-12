@@ -6,7 +6,8 @@ export async function GET(request) {
   const browser = searchParams.get("browser");
   const device = searchParams.get("device");
   const platform = searchParams.get("platform");
-  const referrer = searchParams.get("referrer");
+  const referrer = searchParams.get("referrer") || "none";
+  const website_id = 1;
 
   if (!email) {
     return new Response("Email is required", { status: 400 });
@@ -70,25 +71,25 @@ export async function GET(request) {
       userId = insertResult.rows[0].id;
     }
 
-    // Step 5: Check if the user is already subscribed to website_id 1
+    // Step 5: Check if the user is already subscribed to website_id 4
     const checkSubscriberQuery = `
-      SELECT * FROM subscribers WHERE user_id = $1 AND website_id = 1;
+      SELECT * FROM subscribers WHERE user_id = $1 AND website_id = ${website_id};
     `;
     const subscriberResult = await query(checkSubscriberQuery, [userId]);
 
     if (subscriberResult.rows.length > 0) {
-      // The user is already in the subscribers table for website_id = 1, update the status to 'subscribed'
+      // The user is already in the subscribers table for website_id = ${website_id}, update the status to 'subscribed'
       const updateSubscriberQuery = `
         UPDATE subscribers
         SET status = 'subscribed'
-        WHERE user_id = $1 AND website_id = 1;
+        WHERE user_id = $1 AND website_id = ${website_id};
       `;
       await query(updateSubscriberQuery, [userId]);
     } else {
-      // The user is not subscribed to website_id 1, insert a new row with created_at
+      // The user is not subscribed to website_id ${website_id}, insert a new row with created_at
       const insertSubscriberQuery = `
         INSERT INTO subscribers (user_id, website_id, status, created_at)
-        VALUES ($1, 1, 'subscribed', NOW());
+        VALUES ($1, ${website_id}, 'subscribed', NOW());
       `;
       await query(insertSubscriberQuery, [userId]);
     }
