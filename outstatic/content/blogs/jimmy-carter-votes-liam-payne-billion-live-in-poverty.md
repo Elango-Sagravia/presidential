@@ -5,7 +5,7 @@ cutOff: '8'
 latest: 'true'
 relatedArticles: 'weight-loss-drug-in-france-whopping-cough-rises-obama-for-harris'
 readTime: '5'
-coverImage: ''
+coverImage: '/images/liam--from-one-direction--dies-in-argentina-YyMz.webp'
 description: ''
 slug: 'jimmy-carter-votes-liam-payne-billion-live-in-poverty'
 author:
@@ -18,7 +18,7 @@ publishedAt: '2024-10-18T13:06:58.525Z'
 
 ### Jimmy Carter Votes for Harris
 
-Former U.S. President Jimmy Carter [voted](https://apnews.com/article/jimmy-carter-vote-cast-president-1f868b295111d0b7f2d6acfd087c9166) by mail for the 2024 election just after celebrating his [100th birthday](https://apnews.com/article/jimmy-carter-100th-birthday-1e540c277dea07bd84242d290b4ebcdc). Carter remains engaged in the election despite being in hospice care since 2023 at his home in Plains, Georgia. He said his main goal was to live and see Kamala Harris take the presidency. 
+Former U.S. President Jimmy Carter [voted](https://apnews.com/article/jimmy-carter-vote-cast-president-1f868b295111d0b7f2d6acfd087c9166) by mail for the 2024 election just after celebrating his [100th birthday](https://apnews.com/article/jimmy-carter-100th-birthday-1e540c277dea07bd84242d290b4ebcdc). Carter remains engaged in the election despite being in hospice care since 2023 at his home in Plains, Georgia. He said his main goal was to live and see Kamala Harris take the presidency.
 
 His son Chip Carter mentioned that his father had been looking forward to voting, specifically for Kamala Harris. Georgia’s election rules state absentee ballots are valid once received, even if the voter passes away before Election Day. His vote could influence Georgian voters, and Georgia is one of the states that might determine the presidential election's outcome. See what changed since Carter’s presidency [here](https://apnews.com/article/jimmy-carter-100-birthday-then-now-34ceff0c3bb527863dae1c6788095c81).
 
@@ -34,7 +34,7 @@ His death has shocked fans and the music industry, with tributes pouring in. Pay
 
 ![UN report reveals 1.1 billion people in acute poverty](/images/un-report-says-1.1-billion-people-live-in-acute-poverty-worldwide.--1--cxNT.webp)
 
-Thursday was [International Poverty Eradication Day](https://www.un.org/en/observances/day-for-eradicating-poverty). A recent UN Development Program report highlights that [1.1 billion people](https://www.france24.com/en/live-news/20241017-un-report-says-1-1-billion-people-in-acute-poverty) worldwide live in acute poverty, with [children](https://apnews.com/article/africa-nigeria-unicef-malnutrition-children-8e871e46268fdd4780c7e853f931dca8) making up over half of this number. Conflict significantly exacerbates poverty, with rates three times higher in war-torn nations, particularly affecting 455 million people. India leads in extreme poverty, with 234 million affected, followed by Pakistan, Ethiopia, Nigeria, and the Democratic Republic of the Congo. 
+Thursday was [International Poverty Eradication Day](https://www.un.org/en/observances/day-for-eradicating-poverty). A recent UN Development Program report highlights that [1.1 billion people](https://www.france24.com/en/live-news/20241017-un-report-says-1-1-billion-people-in-acute-poverty) worldwide live in acute poverty, with [children](https://apnews.com/article/africa-nigeria-unicef-malnutrition-children-8e871e46268fdd4780c7e853f931dca8) making up over half of this number. Conflict significantly exacerbates poverty, with rates three times higher in war-torn nations, particularly affecting 455 million people. India leads in extreme poverty, with 234 million affected, followed by Pakistan, Ethiopia, Nigeria, and the Democratic Republic of the Congo.
 
 Given recent years' high global conflict levels, the report stresses the need for poverty reduction and sustained peace efforts. Poverty reduction methods can include aid and government support in health, education, and infrastructure, which helps growth by increasing human and physical capital.
 
@@ -46,7 +46,7 @@ Former President Obama has also been campaigning for Harris, mainly focusing on 
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 **EU leaders met in Brussels** to discuss [tightening migration policies](https://www.france24.com/en/live-news/20241017-hard-talk-on-migration-expected-at-eu-summit); despite a drop in irregular border crossings, migration remains a crucial issue.
 
@@ -56,11 +56,11 @@ Former President Obama has also been campaigning for Harris, mainly focusing on 
 
 **Business & Finance**
 
-**The European Central Bank** [cut interest rates](https://finance.yahoo.com/news/ecb-accelerates-rate-cuts-counteract-122000158.html) to 3.25% amid signs of economic weakness, prioritizing growth over inflation. Given slow growth in Germany, weak exports, and higher energy prices, the ECB commented it would accelerate future rate cuts if the sluggish trend continues. 
+**The European Central Bank** [cut interest rates](https://finance.yahoo.com/news/ecb-accelerates-rate-cuts-counteract-122000158.html) to 3.25% amid signs of economic weakness, prioritizing growth over inflation. Given slow growth in Germany, weak exports, and higher energy prices, the ECB commented it would accelerate future rate cuts if the sluggish trend continues.
 
-**Blackstone exceeded earnings forecasts**, reporting $1.3 billion in distributable earnings and $1.1 trillion AUM. The firm's private equity and infrastructure funds appreciated while major acquisitions and revived dealmaking boosted performance [(press release)](https://www.blackstone.com/news/press/blackstone-reports-third-quarter-2024-earnings/). 
+**Blackstone exceeded earnings forecasts**, reporting $1.3 billion in distributable earnings and $1.1 trillion AUM. The firm's private equity and infrastructure funds appreciated while major acquisitions and revived dealmaking boosted performance [(press release)](https://www.blackstone.com/news/press/blackstone-reports-third-quarter-2024-earnings/).
 
-A new study suggests weight-loss drugs like Ozempic may help **reduce alcohol and tobacco addiction**. Patients with opioid or alcohol use disorders reported fewer overdoses and intoxication incidents. Clinical trials are ongoing, and shares of Novo Nordisk, Ozempic's maker, jumped 2%** [(read more)](https://www.npr.org/sections/health-shots/2023/08/28/1194526119/ozempic-wegovy-drinking-alcohol-cravings-semaglutide).
+A new study suggests weight-loss drugs like Ozempic may help **reduce alcohol and tobacco addiction**. Patients with opioid or alcohol use disorders reported fewer overdoses and intoxication incidents. Clinical trials are ongoing, and shares of Novo Nordisk, Ozempic's maker, jumped 2%\*\* [(read more)](https://www.npr.org/sections/health-shots/2023/08/28/1194526119/ozempic-wegovy-drinking-alcohol-cravings-semaglutide).
 
 **Science & Tech**
 
@@ -70,7 +70,7 @@ Severe **GPS jamming incidents in Norway** are disrupting aviation in the northe
 
 **Sports & Culture**
 
-**German coach Thomas Tuchel** has been appointed the [new head coach](https://www.footboom1.com/en/news/football/1949740-england-football-names-german-coach-in-historic-move) of the England men’s national football team, effective January 1, 2024. 
+**German coach Thomas Tuchel** has been appointed the [new head coach](https://www.footboom1.com/en/news/football/1949740-england-football-names-german-coach-in-historic-move) of the England men’s national football team, effective January 1, 2024.
 
 A new **park in Bosnia and Herzegovina**, conceived by businessman Halim Zukic, aims to replicate van Gogh’s [“Starry Night”](https://www.smithsonianmag.com/smart-news/this-park-recreates-vincent-van-goghs-the-starry-night-with-a-dazzling-display-of-plants-trees-and-winding-pathways-180985270/#:~:text=A%20new%20park%20in%20Bosnia%20and%20Herzegovina%20hopes%20to%20make,near%20his%20hometown%20of%20Visoko.) on a 25-acre plot.
 
