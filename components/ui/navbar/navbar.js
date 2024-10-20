@@ -55,7 +55,7 @@ export default function Navbar() {
           <Menu className="h-5 w-5" />
           <span className="sr-only">Toggle navigation menu</span>
         </SheetTrigger>
-        <SheetContent className="w-full bg-nl_sec_background">
+        <SheetContent className="bg-nl_sec_background">
           <SheetHeader>
             <SheetTitle></SheetTitle>
             <SheetDescription>
