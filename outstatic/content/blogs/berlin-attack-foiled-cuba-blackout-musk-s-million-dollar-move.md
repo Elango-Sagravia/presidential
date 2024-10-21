@@ -50,35 +50,35 @@ Previously, Musk offered an incentive of[ $100 to every voter](https://www.newsw
 
 **Italy’s top court** has ruled against the government’s plan to detain migrants sent to Albania for processing. This decision undermines Prime Minister Giorgia Meloni’s initiative to manage asylum claims offshore [(read more)](https://www.france24.com/en/live-news/20241018-italy-judges-reject-first-migrant-detentions-in-albania).
 
-### Business & Finance 
+**Business & Finance**
 
-**The SEC approved Bitcoin** options ETFs for the NYSE and CBOE, following a successful rule change allowing options on the iShares Bitcoin Trust. This move is expected to boost liquidity, price efficiency, and volatility management in Bitcoin-related markets [(read more)](https://cryptonews.com/news/bitcoin-price-forecast-sec-approves-nyse-cboe-bitcoin-options-etfs-is-70k-next/%5C). 
+**The SEC approved Bitcoin** options ETFs for the NYSE and CBOE, following a successful rule change allowing options on the iShares Bitcoin Trust. This move is expected to boost liquidity, price efficiency, and volatility management in Bitcoin-related markets [(read more)](https://cryptonews.com/news/bitcoin-price-forecast-sec-approves-nyse-cboe-bitcoin-options-etfs-is-70k-next/%5C).
 
 **Philip Morris, British American Tobacco, and Japan Tobacco** are [nearing a $23.6bn settlement](https://www.bbc.com/news/articles/cvgx74ldnweo) in Canada to compensate smokers and health departments for tobacco-related illnesses. The deal follows a 2015 Quebec court ruling and decades of litigation against the firms.
 
 [CVS ousted CEO](https://www.axios.com/2024/10/01/cvs-health-breakup-caremark-aetna) Karen Lynch as it faces a potential **breakup of its insurance** and retail pharmacy divisions. [David Joyner](https://www.cvshealth.com/about/leadership/david-joyner.html) replaces Lynch and faces challenges like medical costs, regulatory pressure, and intensifying competition.
 
-### Science & Tech 
+**Science & Tech**
 
 **Dr. Philip Nitschke**, the physician known for developing the controversial “suicide pod,” is advocating for the integration of AI in assisted dying. He believes that AI can provide crucial support in evaluating a person’s mental state and ensuring they make informed decisions about end-of-life options [(read more)](https://www.wired.com/story/the-doctor-behind-the-suicide-pod-wants-ai-to-assist-at-the-end-of-life/).
 
 A recent study published in *Nature Aging* indicates that the **rapid rise in life expectancy** observed during the 20th century is slowing, with an expected [peak at around 87 years.](https://www.aljazeera.com/news/2024/10/14/check_is-the-significant-rise-in-life-expectancy-finally-slowing-down-why)
 
-**Sports & Culture** 
+**Sports & Culture**
 
 **Two athletes tragically died** during the World Triathlon Championships in Spain. The incidents occurred during the swim portion of the competition, [prompting an investigation into the circumstances](https://www.surinenglish.com/sport/two-athletes-die-while-competing-world-triathlon-20241017214308-nt.html) surrounding their deaths.
 
 **Art B.asel Paris** showcased vibrant works that reflect the global art scene’s evolving landscape, emphasizing inclusivity and cultural narratives [(read more)](https://www.vanityfair.com/style/story/art-basel-paris-true-colors).
 
-**Deadpool 3,** featuring Ryan Reynolds and Hugh Jackman, has surpassed Barbie to become the [highest-grossing domestic film](https://variety.com/2024/film/box-office/deadpool-wolverine-surpasses-barbie-domestic-box-office-history-1236183713) in 2024, achieving over $600 million at the box office. 
+**Deadpool 3,** featuring Ryan Reynolds and Hugh Jackman, has surpassed Barbie to become the [highest-grossing domestic film](https://variety.com/2024/film/box-office/deadpool-wolverine-surpasses-barbie-domestic-box-office-history-1236183713) in 2024, achieving over $600 million at the box office.
 
 **Comedian Dan Rosen** has uncovered an intriguing travel hack for art lovers: instead of visiting major museums, head to private collections often amassed by historically controversial figures [(read more)](https://www.thrillist.com/travel/nation/private-art-collections-travel-hack).
 
-### Whatnot 
+**Whatnot**
 
-Woman of the Hour explores the chilling true story of a convicted serial killer who appeared as a contestant on the 1970s TV show *The Dating Game* [(read more)](https://variety.com/2024/film/news/true-story-woman-of-the-hour-dating-game-serial-killer-anna-kendrick-1236178905/).  
+Woman of the Hour explores the chilling true story of a convicted serial killer who appeared as a contestant on the 1970s TV show *The Dating Game* [(read more)](https://variety.com/2024/film/news/true-story-woman-of-the-hour-dating-game-serial-killer-anna-kendrick-1236178905/).
 
-An airport introduces a 3-minute [time limit for hugs](https://edition.cnn.com/2024/10/19/travel/airport-introduces-time-limit-on-hugs/index.html). 
+An airport introduces a 3-minute [time limit for hugs](https://edition.cnn.com/2024/10/19/travel/airport-introduces-time-limit-on-hugs/index.html).
 
 The AI tool CyberCheck, used in thousands of criminal investigations across the U.S., [is facing significant scrutiny.](https://www.wired.com/story/cybercheck-crime-reports-prosecutions/)
 
