@@ -11,7 +11,7 @@ slug: 'harris-celebrates-60-italy-and-surrogacy-german-peace-prize'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 22: Harris Celebrates 60, Italy and Surrogacy, German Peace Prize'
 publishedAt: '2024-10-22T11:23:25.885Z'
 ---
@@ -36,7 +36,7 @@ Opposition parties and LGBTQ+ activists have protested the measure, labeling it 
 
 Anne Applebaum, a distinguished historian and journalist, recently received the [prestigious Peace Prize](https://apnews.com/article/germany-peace-prize-ukraine-applebaum-c1106c4393acbd5f7aea61d975a15247) of the German Book Trade during a ceremony held in Frankfurt. In her speech, she strongly advocated for sustained support for Ukraine as it faces ongoing aggression from Russia. Applebaum cautioned that adopting a pacifist stance in such situations can often lead to dangerous appeasement, where the aggressor is encouraged rather than deterred.
 
-She also challenged the prevalent [discussions around peace](https://kyivindependent.com/44-of-ukrainians-believe-its-time-to-start-official-peace-talks-with-russia-survey-finds/), which tend to overlook the severe and destructive repercussions of Russia’s invasion of Ukraine. While her call for military assistance to Ukraine sparked some debate and criticism, it was met with significant applause from many in the audience who resonated with her message. She recently published a [book](https://www.penguinrandomhouse.com/books/725302/autocracy-inc-by-anne-applebaum/) called *Autocracy, Inc.—the Dictators Who Want to Run the World*. 
+She also challenged the prevalent [discussions around peace](https://kyivindependent.com/44-of-ukrainians-believe-its-time-to-start-official-peace-talks-with-russia-survey-finds/), which tend to overlook the severe and destructive repercussions of Russia’s invasion of Ukraine. While her call for military assistance to Ukraine sparked some debate and criticism, it was met with significant applause from many in the audience who resonated with her message. She recently published a [book](https://www.penguinrandomhouse.com/books/725302/autocracy-inc-by-anne-applebaum/) called *Autocracy, Inc.—the Dictators Who Want to Run the World*.
 
 ### BRIEFS
 
@@ -44,15 +44,15 @@ She also challenged the prevalent [discussions around peace](https://kyivindepen
 
 **Moldova's referendum** on joining the European Union narrowly passed. The result reflects growing pro-European sentiment in the country, although not as fast as some would like [(read more)](https://www.dw.com/en/moldova-narrowly-votes-yes-to-eu-membership/a-70544401).
 
-**Brazilian President** Luiz Lula da Silva [canceled his planned trip to Russia](https://www.bbc.com/news/articles/c89l45zeq2eo) for the upcoming BRICS summit after injuring his head at home. 
+**Brazilian President** Luiz Lula da Silva [canceled his planned trip to Russia](https://www.bbc.com/news/articles/c89l45zeq2eo) for the upcoming BRICS summit after injuring his head at home.
 
 During his surprise visit to Kyiv, U.S. Defense Secretary Lloyd Austin announced a new **$400 million military aid** package for Ukraine [(read more)](https://euromaidanpress.com/2024/10/21/pentagon-chief-announces-400-mn-aid-package-during-kyiv-visit/).
 
-**Business & Finance** 
+**Business & Finance**
 
-**Disney** is naming a new CEO in early 2026; **Former Morgan Stanley CEO** James Gorman will replace Nike Executive Chairman Mark Parker in January [(read more)](https://www.cnbc.com/2024/10/21/disney-ceo-succession-plan-board-chair.html). 
+**Disney** is naming a new CEO in early 2026; **Former Morgan Stanley CEO** James Gorman will replace Nike Executive Chairman Mark Parker in January [(read more)](https://www.cnbc.com/2024/10/21/disney-ceo-succession-plan-board-chair.html).
 
-**Cooper Hefner,** son of the late Hugh Hefner, offered to purchase the Playboy brand for [$100 million](https://people.com/cooper-hefner-buy-playboy-for-100-million-dollars-exclusive-8731338) as he seeks to revive the legacy his father built. 
+**Cooper Hefner,** son of the late Hugh Hefner, offered to purchase the Playboy brand for [$100 million](https://people.com/cooper-hefner-buy-playboy-for-100-million-dollars-exclusive-8731338) as he seeks to revive the legacy his father built.
 
 **Mining giant BHP i**s facing a [$47 billion class action](https://www.claimsjournal.com/news/national/2024/10/21/326954.htm) lawsuit related to the 2015 dam collapse in Brazil, which caused severe environmental damage.
 
@@ -70,11 +70,11 @@ Experts evaluated the **top hearing aids** and found Jabra’s Ehance Select 300
 
 Christian Horner praised **Max Verstappen**’s [exceptional performance](https://www.formula1.com/en/latest/article/horner-delivers-crystal-clear-verdict-as-he-dissects-thrilling-verstappen.446u6PoBSNweS0J7OQtl8S) in a thrilling race, highlighting his skill and strategic decision-making that led to victory.
 
-**Whatnot** 
+**Whatnot**
 
 Volkswagen ID receives a raving review [(read more)](https://www.caranddriver.com/reviews/a62638170/2025-volkswagen-id-buzz-test/).
 
-Kansas City will soon be home to the world’s [first barbecue museum](https://www.smithsonianmag.com/smart-news/the-worlds-first-barbecue-museum-is-coming-to-kansas-city-180985298/). 
+Kansas City will soon be home to the world’s [first barbecue museum](https://www.smithsonianmag.com/smart-news/the-worlds-first-barbecue-museum-is-coming-to-kansas-city-180985298/).
 
 Eurostar reduced [last-minute fares](https://www.euronews.com/travel/2024/10/18/eurostar-slashes-last-minute-fares-but-youll-have-to-be-flexible-to-get-a-bargain) for its train services between London and Paris.
 
