@@ -11,7 +11,7 @@ slug: 'indian-dream-royal-heckling-michigan-votes-in-play'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 23: Indian Dream, Royal Heckling, Michigan Votes in Play'
 publishedAt: '2024-10-23T11:35:07.045Z'
 ---
@@ -20,9 +20,9 @@ publishedAt: '2024-10-23T11:35:07.045Z'
 
 ![Young Indian migrants risk dangerous journeys to the U.S. in pursuit of the American Dream](/images/young-indians-are-starting-to-show-up-at-the-us-border-to-chase-the-american-dream--1--E1MD.webp)
 
-Young and educated Indians are increasingly willing to [go to extreme lengths](https://edition.cnn.com/2024/10/22/india/young-indians-chase-american-dream-intl-hnk-dst/index.html) in pursuit of a better life, often choosing dangerous and illegal migration routes to the United States. A growing trend involves these migrants documenting their perilous journeys on social media platforms, presenting a romanticized view of the American Dream. This has become a notable aspect of the broader narrative surrounding illegal immigration. 
+Young and educated Indians are increasingly willing to [go to extreme lengths](https://edition.cnn.com/2024/10/22/india/young-indians-chase-american-dream-intl-hnk-dst/index.html) in pursuit of a better life, often choosing dangerous and illegal migration routes to the United States. A growing trend involves these migrants documenting their perilous journeys on social media platforms, presenting a romanticized view of the American Dream. This has become a notable aspect of the broader narrative surrounding illegal immigration.
 
-More Indian nationals are showing up at the [US-Mexico border](https://www.statista.com/chart/33134/reported-number-of-us-customs-border-protection-encounters-with-indian-nationals/#:~:text=Data%20from%20U.S.%20Customs%20and,also%20stopped%20at%20the%20northern%5C) to seek asylum. Many cite that they lack jobs and opportunities, while others give political reasons. In 2024, just under half of the Indian requests for asylum were granted. The Biden administration has made some [border crackdowns](https://www.pbs.org/newshour/politics/biden-administration-toughens-asylum-restrictions-at-border), but many are still willing to take the risk and pay up to $50,000 to make it happen. 
+More Indian nationals are showing up at the [US-Mexico border](https://www.statista.com/chart/33134/reported-number-of-us-customs-border-protection-encounters-with-indian-nationals/#:~:text=Data%20from%20U.S.%20Customs%20and,also%20stopped%20at%20the%20northern%5C) to seek asylum. Many cite that they lack jobs and opportunities, while others give political reasons. In 2024, just under half of the Indian requests for asylum were granted. The Biden administration has made some [border crackdowns](https://www.pbs.org/newshour/politics/biden-administration-toughens-asylum-restrictions-at-border), but many are still willing to take the risk and pay up to $50,000 to make it happen.
 
 ### Senator Heckles King Charles
 
@@ -36,17 +36,17 @@ As an advocate for a treaty between the government and Indigenous peoples, she e
 
 Many progressive students in Michigan feel divided about whether to [cast their ballots](https://www.politico.com/news/magazine/2024/10/21/uncommitted-movement-michigan-college-voters-00184281) for Kamala Harris. They face pressure to decide between supporting Harris, who has gained some enthusiasm among younger voters, risking their votes on third-party candidates, or abstaining altogether. Many have reluctance to support Kamala Harris due to her perceived alignment with Israel’s actions and the ongoing situation with Gaza.
 
-Many students are caught between their principles and fearing a potential Trump victory, particularly after a notable [uncommitted movement](https://www.uncommittedmovement.com/) during the Democratic primary. During this primary, many college voters chose not to support Biden. Some students will proceed with Kamala Harris anyway, while others say they will pick at the voting booth. Michigan is a possible state that could decide the 2024 election; it usually leans left. Although it has the largest Arab community in the country, many members feel increasingly [alienated](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf) by the Biden-Harris Administration toward Gaza. 
+Many students are caught between their principles and fearing a potential Trump victory, particularly after a notable [uncommitted movement](https://www.uncommittedmovement.com/) during the Democratic primary. During this primary, many college voters chose not to support Biden. Some students will proceed with Kamala Harris anyway, while others say they will pick at the voting booth. Michigan is a possible state that could decide the 2024 election; it usually leans left. Although it has the largest Arab community in the country, many members feel increasingly [alienated](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf) by the Biden-Harris Administration toward Gaza.
 
 ### BRIEFS
 
 **Global Affairs**
 
-**U.S. Secretary of State Antony Blinken** is making another trip to the Middle East this week as regional tensions continue escalating [(read more)](https://www.middleeastmonitor.com/20241021-blinken-heading-to-israel-other-countries-in-middle-east-this-week-state-department/). 
+**U.S. Secretary of State Antony Blinken** is making another trip to the Middle East this week as regional tensions continue escalating [(read more)](https://www.middleeastmonitor.com/20241021-blinken-heading-to-israel-other-countries-in-middle-east-this-week-state-department/).
 
 **Polio is spreading again in Pakistan**, with over a million children [missing vaccines](https://edition.cnn.com/2024/10/21/asia/pakistan-polio-vaccine-intl-hnk/index.html) in September due to misinformation, distrust of health workers, and disruptions from violent attacks on vaccination campaigns.
 
-**Business & Finance** 
+**Business & Finance**
 
 **Mike Jeffries**, the former CEO of Abercrombie & Fitch, was arrested and charged with sex trafficking and other related offenses [(read more)](https://www.nbcnews.com/news/us-news/former-abercrombie-fitch-ceo-mike-jeffries-arrested-sex-trafficking-ch-rcna176555).
 
@@ -60,7 +60,7 @@ A recent study of a **4.5 billion-year-old meteorite** suggests that the buildin
 
 **Meta** has suspended multiple Threads and Instagram accounts that [tracked the private jets](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended) of celebrities like Mark Zuckerberg, Elon Musk, Jeff Bezos, Kim Kardashian, and Donald Trump.
 
-**Sports & Culture** 
+**Sports & Culture**
 
 Leading up to the **2024 World Series**, ESPN’s analysis [ranks potential matchups](https://www.espn.com/mlb/insider/story/_/id/41927657/mlb-2024-world-series-ranking-best-matchups-yankees-dodgers), focusing on the most exciting combinations of teams. The hypothetical clash between the New York Yankees and the Los Angeles Dodgers leads the pack.
 
