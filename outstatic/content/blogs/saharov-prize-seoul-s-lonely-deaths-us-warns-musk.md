@@ -11,7 +11,7 @@ slug: 'saharov-prize-seoul-s-lonely-deaths-us-warns-musk'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 25: Saharov Prize, Seoul’s Lonely Deaths, US Warns Musk'
 publishedAt: '2024-10-25T11:35:11.582Z'
 ---
@@ -20,7 +20,7 @@ publishedAt: '2024-10-25T11:35:11.582Z'
 
 ![Protest advocating for democracy and human rights in Venezuela, highlighting the struggles against Nicolás Maduro's regime](/images/eu-parliament-awards-sakharov-prize-to-venezuela-U3Nj.webp)
 
-Venezuelan opposition figures Maria Corina Machado and Edmundo González Urrutia were awarded the European Parliament’s [Sakharov Prize](https://www.dw.com/en/venezuelan-pro-democracy-figures-win-eus-sakharov-prize/a-70585458) for their dedication to human rights and democracy in Venezuela. The parliament recognized them for representing all the Venezuelans striving for freedom against [Nicolás Maduro’s regime](https://www.britannica.com/biography/Nicolas-Maduro). Machado, a leading pro-democracy figure, is currently [in hiding](https://www.scmp.com/news/world/americas/article/3272862/venezuela-opposition-leader-machado-says-she-hiding-fearing-my-life), while González [fled to Spain](https://www.pbs.org/newshour/world/venezuelan-opposition-candidate-gonzalez-flees-country-for-political-asylum-in-spain) after facing an arrest warrant. The award highlights their courageous efforts for a democratic future in Venezuela. 
+Venezuelan opposition figures Maria Corina Machado and Edmundo González Urrutia were awarded the European Parliament’s [Sakharov Prize](https://www.dw.com/en/venezuelan-pro-democracy-figures-win-eus-sakharov-prize/a-70585458) for their dedication to human rights and democracy in Venezuela. The parliament recognized them for representing all the Venezuelans striving for freedom against [Nicolás Maduro’s regime](https://www.britannica.com/biography/Nicolas-Maduro). Machado, a leading pro-democracy figure, is currently [in hiding](https://www.scmp.com/news/world/americas/article/3272862/venezuela-opposition-leader-machado-says-she-hiding-fearing-my-life), while González [fled to Spain](https://www.pbs.org/newshour/world/venezuelan-opposition-candidate-gonzalez-flees-country-for-political-asylum-in-spain) after facing an arrest warrant. The award highlights their courageous efforts for a democratic future in Venezuela.
 
 The European Parliament awards the [Sakharov Prize for Freedom of Thought](https://www.europarl.europa.eu/sakharovprize/en/home) each year to individuals or organizations dedicated to defending human rights and fundamental freedoms. Established in 1988, it was first awarded to Nelson Mandela. It honors the legacy of Soviet dissident [Andrei Sakharov](https://www.europarl.europa.eu/sakharovprize/en/the-prize/andrei-sakharov), who won the Nobel Peace Prize in 1975.
 
@@ -48,7 +48,7 @@ The DOJ’s warning comes amid rising criticism, particularly from Democrats, wh
 
 **Microsoft's report** reveals that Iranian, Chinese, and Russian hackers are ramping up election interference efforts ahead of the U.S. elections [(read more)](https://blogs.microsoft.com/on-the-issues/2024/10/23/as-the-u-s-election-nears-russia-iran-and-china-step-up-influence-efforts/).
 
-**Business & Finance** 
+**Business & Finance**
 
 **Boeing workers rejected a 35% pay increase** over four years, prolonging the strike at its manufacturing plants. While negotiations have progressed, the union seeks a 40% raise and further benefits, with new talks planned soon [(read more)](https://www.investors.com/news/boeing-union-workers-reject-strike-offer-earnings-boeing-stock/).
 
@@ -62,7 +62,7 @@ The DOJ’s warning comes amid rising criticism, particularly from Democrats, wh
 
 Search engines like **Google and Microsoft** are facing scrutiny over how their AI systems amplify harmful content, particularly about scientific racism [(read more)](https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/).
 
-**Sports & Culture** 
+**Sports & Culture**
 
 **Travis Kelce** feels FOMO as his family attends Taylor Swift’s concert without him [(read more)](https://www.vanityfair.com/style/story/travis-kelce-whole-family-went-to-taylor-swifts-miami-show-without-him-and-he-had-terrible-fomo).
 
@@ -76,9 +76,9 @@ Search engines like **Google and Microsoft** are facing scrutiny over how their 
 
 New York’s LaGuardia ranked as the [best airport in the U.S](https://www.fox5ny.com/news/forbes-ranks-nyc-airport-best-airport-us).
 
-Tim Burton finds the internet [depressing](https://variety.com/2024/film/news/tim-burton-hates-internet-depressed-1236189524/#:~:text=%E2%80%9CIf%20I%20look%20at%20the,more%20quickly%20than%20other%20people.). 
+Tim Burton finds the internet [depressing](https://variety.com/2024/film/news/tim-burton-hates-internet-depressed-1236189524/#:~:text=%E2%80%9CIf%20I%20look%20at%20the,more%20quickly%20than%20other%20people.).
 
-Greek man convicted of entering neighbors’ properties to [smell their shoes](https://www.thrillist.com/amphtml/travel/nation/indigenous-tour-guide-travel-adventures). 
+Greek man convicted of entering neighbors’ properties to [smell their shoes](https://www.thrillist.com/amphtml/travel/nation/indigenous-tour-guide-travel-adventures).
 
 Polish Zoo celebrates the birth of 4 [Sumatran Tigers](https://www.goodnewsnetwork.org/polish-zoo-celebrates-globally-unprecedented-birth-of-4-critically-endangered-sumatran-tigers-look/#).
 
