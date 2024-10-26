@@ -12,8 +12,7 @@ author:
   name: ''
   picture: ''
 status: 'published'
-title: 'Oct 26: Musk’s $1 Million, Coca-Cola Metal Alert, King Charles in Samoa
-'
+title: 'Oct 26: Musk’s $1 Million, Coca-Cola Metal Alert, King Charles in Samoa '
 publishedAt: '2024-10-26T13:43:35.005Z'
 ---
 
@@ -25,7 +24,7 @@ publishedAt: '2024-10-26T13:43:35.005Z'
 
 Elon Musk recently unveiled an initiative to distribute [$1 million](https://www.dw.com/en/elon-musk-offers-1m-daily-prize-to-voters-who-sign-petition/a-70546787) daily to a randomly selected registered voter in Pennsylvania until the 2024 U.S. presidential election. The intention is to gather support for Donald Trump. Musk’s campaign group, [America PAC](https://www.factcheck.org/2024/09/america-pac/), is behind the initiative. It draws from individuals who sign a petition advocating for constitutional rights, mainly free speech and the right to bear arms.
 
-Previously, Musk offered an incentive of [$100 to every voter](https://www.newsweek.com/elon-musk-offers-pennsylvania-voters-100-sign-donald-trump-petition-presidential-election-1971021) who joined the petition. The initiative is crafted to motivate Trump supporters in crucial swing states, where their votes might significantly influence the election outcome. Musk has given [$75 million to Trump’s campaign](https://www.npr.org/2024/10/16/g-s1-28591/elon-musk-donald-trump-america-pac-fec) and hopes to rally over a million supporters. 
+Previously, Musk offered an incentive of [$100 to every voter](https://www.newsweek.com/elon-musk-offers-pennsylvania-voters-100-sign-donald-trump-petition-presidential-election-1971021) who joined the petition. The initiative is crafted to motivate Trump supporters in crucial swing states, where their votes might significantly influence the election outcome. Musk has given [$75 million to Trump’s campaign](https://www.npr.org/2024/10/16/g-s1-28591/elon-musk-donald-trump-america-pac-fec) and hopes to rally over a million supporters.
 
 The initiative has been met with substantial backlash. Legal concerns are being raised, as federal law explicitly prohibits financial incentives for voting. While Musk's payments are directed at individuals signing a petition rather than directly for their votes, [legal experts](https://www.aljazeera.com/news/2024/10/20/us-election-legal-experts-question-elon-musks-planned-cash-giveaways) still call some of this into question.
 
