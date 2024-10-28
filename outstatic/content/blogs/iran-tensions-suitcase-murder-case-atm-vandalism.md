@@ -42,9 +42,7 @@ A disturbing trend has picked up in Germany, where organized crime groups have i
 
 **Global Affairs**
 
-**Georgia’s ruling Georgian Dream**
-
-**party** [won 54% of the vote](https://www.dw.com/en/georgia-ruling-georgian-dream-party-wins-election/a-70611564) in the recent parliamentary elections. Opposition groups are protesting alleged vote-buying and irregularities. International observers reported issues with transparency in the election process.
+**Georgia’s ruling Georgian Dream party** [won 54% of the vote](https://www.dw.com/en/georgia-ruling-georgian-dream-party-wins-election/a-70611564) in the recent parliamentary elections. Opposition groups are protesting alleged vote-buying and irregularities. International observers reported issues with transparency in the election process.
 
 In **Bulgaria’s seventh general election** in just over three years, exit polls indicate that former Prime Minister Boyko Borisov’s center-right GERB party secures most of the votes [(read more)](https://www.dw.com/en/bulgaria-voting-ends-conservatives-lead-in-exit-poll/a-70611168).
 
