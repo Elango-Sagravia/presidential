@@ -72,7 +72,7 @@ New study finds **Arctic ice melt may disrupt ocean circulation**, with potentia
 
 **Phil Lesh**, the iconic bassist and co-founder of the Grateful Dead, [passed away](https://www.sfchronicle.com/entertainment/article/phil-lesh-grateful-dead-obituary-17814137.php#) peacefully at age 84.
 
-### Whatnot
+**Whatnot**
 
 Iceland’s shorter workweek shows [positive results for work-life balance](https://autonomy.work/portfolio/on-firmer-ground-icelands-ongoing-experience-of-shorter-working-weeks/).
 
