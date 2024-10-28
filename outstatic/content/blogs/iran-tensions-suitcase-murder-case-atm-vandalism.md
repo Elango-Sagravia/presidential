@@ -11,7 +11,7 @@ slug: 'iran-tensions-suitcase-murder-case-atm-vandalism'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'Oct 28: Iran Tensions, Suitcase Murder Case, ATM Vandalism'
 publishedAt: '2024-10-28T10:08:38.087Z'
 ---
