@@ -40,15 +40,15 @@ A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/49567
 
 ### BRIEFS
 
-#### Global Affairs
+**Global Affairs**
 
 **Egyptian President** el-Sissi [proposed a two-day ceasefire](https://www.cbsnews.com/news/egypt-president-cease-fire-proposal-gaza-israel-palestine/) between Israel and Hamas to allow aid deliveries and potential prisoner exchanges. Reactions from Israel and Hamas are pending.
 
 **French President Emmanuel Macron** is [visiting Morocco](https://www.euronews.com/2024/10/28/macron-visiting-morocco-amid-new-honeymoon-over-western-sahara-pivot) to strengthen diplomatic and business relations, including support for Moroccan sovereignty over [Western Sahara](https://www.bbc.com/news/world-africa-14115273).
 
-**Japanese PM Shigeru Ishiba** has committed to remaining in office despite recent [election results](https://www.dw.com/en/japan-election-ruling-party-loses-majority-says-nhk/a-70610505). His party’s subpar performance has fueled speculation about potential leadership challenges ([read more](https://www.dw.com/en/japan-pm-shigeru-ishiba-vows-to-stay-despite-election-flop/a-70616955)).
+**Japanese PM Shigeru Ishiba** has committed to remaining in office despite recent [election results](https://www.dw.com/en/japan-election-ruling-party-loses-majority-says-nhk/a-70610505). His party’s subpar performance has fueled speculation about potential leadership challenges [(read more)](https://www.dw.com/en/japan-pm-shigeru-ishiba-vows-to-stay-despite-election-flop/a-70616955).
 
-#### Business & Finance
+**Business & Finance**
 
 **QatarEnergy acquired a 50% stake in TotalEnergies’ 1.25 GW solar project in Iraq**, part of the $27 billion Gas Growth Integrated Project (GGIP). The project aims to boost Iraq’s electricity supply by utilizing flared gas and adding renewable energy capacity [(read more)](https://money.usnews.com/investing/news/articles/2024-10-28/qatarenergy-takes-50-stake-in-totalenergies-solar-project-in-iraq).
 
@@ -62,7 +62,7 @@ A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/49567
 
 **A potential “silent asthma epidemic” is emerging in Africa**, attributed to environmental changes, urbanization, and air pollution [(read more)](https://www.aljazeera.com/news/2024/10/28/why-could-a-silent-asthma-epidemic-be-sweeping-africa).
 
-#### Sports & Culture
+**Sports & Culture**
 
 **Jon Stewart** has [extended his hosting agreement](https://variety.com/2024/tv/news/jon-stewart-daily-show-host-december-2025-1236192487/) with “The Daily Show,” committing to host every Monday through December 2025 while continuing as an executive producer.
 
