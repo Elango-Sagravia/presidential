@@ -20,7 +20,7 @@ publishedAt: '2024-10-29T12:27:09.266Z'
 
 ![Caspian Sea faces a crisis from climate change and pollution, with activists documenting its shrinking shores and ecological decline](/images/the-planet-s-largest-lake-is-shrinking-fast-E1Nj.webp)
 
-The Caspian Sea is facing a crisis due to [climate change](https://edition.cnn.com/2024/10/24/climate/caspian-sea-shrinking-pollution/index.html), water over-extraction, and pollution, which negatively impact its ecology and local communities. Eco-activists, such as Kazakhstan’s Azamat Sarsenbayev and Iran’s Khashayar Javanmardi, are [documenting](https://www.theguardian.com/artanddesign/2024/oct/13/the-big-picture-khashayar-javanmardi-explores-the-decline-of-the-caspian-sea) the sea’s shrinking shores and increasing pollution levels. With diminishing river flows, high evaporation rates, and rising temperatures, the Caspian's water levels are projected to drop by up to 98 feet by 2100. 
+The Caspian Sea is facing a crisis due to [climate change](https://edition.cnn.com/2024/10/24/climate/caspian-sea-shrinking-pollution/index.html), water over-extraction, and pollution, which negatively impact its ecology and local communities. Eco-activists, such as Kazakhstan’s Azamat Sarsenbayev and Iran’s Khashayar Javanmardi, are [documenting](https://www.theguardian.com/artanddesign/2024/oct/13/the-big-picture-khashayar-javanmardi-explores-the-decline-of-the-caspian-sea) the sea’s shrinking shores and increasing pollution levels. With diminishing river flows, high evaporation rates, and rising temperatures, the Caspian's water levels are projected to drop by up to 98 feet by 2100.
 
 The decline of these ecosystems threatens neighboring countries' environment and economic stability. Urgent collaborative action is necessary to prevent a disaster similar to the collapse of the [Aral Sea](https://earth.org/the-aral-sea-catastrophe-understanding-one-of-the-worst-ecological-calamities-of-the-last-century/), although achieving this cooperation will be challenging. The Caspian Sea is a base for the [Russian navy](https://www.intellinews.com/ukraine-war-makes-caspian-sea-environmental-crisis-worse-335432/), and military activity since the Ukraine war has accelerated ecological issues.
 
@@ -36,7 +36,7 @@ In addition to this case, Depardieu faces around [20 other allegations](https://
 
 Trump’s recent [campaign rally](https://www.cbsnews.com/newyork/news/donald-trump-madison-square-garden-rally/) in New York at Madison Square Garden drew thousands of supporters but faced backlash over inflammatory remarks by speakers, including comedian [Tony Hinchcliffe](https://www.scrippsnews.com/us-news/who-is-tony-hinchcliffe-the-comedian-who-called-puerto-rico-floating-garbage), who made offensive jokes about Puerto Ricans and other groups. It drew some bipartisan criticism even from GOP leaders, including Rep. Anthony D’Esposito and Mayor Eric Adams, who condemned the language used by some speakers. Trump focused his speech on familiar campaign themes and high-profile figures such as his wife, Melania Trump [(hear full speech)](https://www.youtube.com/watch?v=XxlwmpQOSrw), who has been somewhat absent from his campaign this election.
 
-A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/4956733-trump-campaign-hinchcliffe-puerto-rico-comments-rally/) the former president from controversial remarks made by comedian Tony Hinchcliffe at a recent New York rally. Campaign adviser Danielle Alvarez clarified that the joke did not represent Trump’s views. The incident drew further attention given Vice President Harris’s simultaneous [outreach](https://lailluminator.com/2024/10/28/harris-puerto-rico/) to Puerto Rican voters, a key demographic in battleground states like Pennsylvania. 
+A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/4956733-trump-campaign-hinchcliffe-puerto-rico-comments-rally/) the former president from controversial remarks made by comedian Tony Hinchcliffe at a recent New York rally. Campaign adviser Danielle Alvarez clarified that the joke did not represent Trump’s views. The incident drew further attention given Vice President Harris’s simultaneous [outreach](https://lailluminator.com/2024/10/28/harris-puerto-rico/) to Puerto Rican voters, a key demographic in battleground states like Pennsylvania.
 
 ### BRIEFS
 
@@ -48,9 +48,9 @@ A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/49567
 
 **Japanese PM Shigeru Ishiba** has committed to remaining in office despite recent [election results](https://www.dw.com/en/japan-election-ruling-party-loses-majority-says-nhk/a-70610505). His party’s subpar performance has fueled speculation about potential leadership challenges ([read more](https://www.dw.com/en/japan-pm-shigeru-ishiba-vows-to-stay-despite-election-flop/a-70616955)).
 
-#### Business & Finance 
+#### Business & Finance
 
-**QatarEnergy acquired a 50% stake in TotalEnergies’ 1.25 GW solar project in Iraq**, part of the $27 billion Gas Growth Integrated Project (GGIP). The project aims to boost Iraq’s electricity supply by utilizing flared gas and adding renewable energy capacity ([read more](https://money.usnews.com/investing/news/articles/2024-10-28/qatarenergy-takes-50-stake-in-totalenergies-solar-project-in-iraq)).
+**QatarEnergy acquired a 50% stake in TotalEnergies’ 1.25 GW solar project in Iraq**, part of the $27 billion Gas Growth Integrated Project (GGIP). The project aims to boost Iraq’s electricity supply by utilizing flared gas and adding renewable energy capacity [(read more)](https://money.usnews.com/investing/news/articles/2024-10-28/qatarenergy-takes-50-stake-in-totalenergies-solar-project-in-iraq).
 
 **Korea Zinc** has completed a [$1.5 billion buyback](https://www.mining.com/web/korea-zinc-attempts-to-fend-off-takeover-with-stake-acquisition/), securing 9.85% of shares to prevent sales to major investor Young Poong and MBK Partners. The ongoing control struggle, led by the Choi family, boosted shares as MBK sought board changes, prolonging the takeover battle.
 
@@ -60,7 +60,7 @@ A Trump campaign adviser [distanced](https://thehill.com/homenews/campaign/49567
 
 **Apple tests a new app** designed [to help prediabetics](https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app) manage their blood sugar levels by logging their dietary choices and using various monitoring devices.
 
-**A potential “silent asthma epidemic” is emerging in Africa**, attributed to environmental changes, urbanization, and air pollution [(read more)](https://www.aljazeera.com/news/2024/10/28/why-could-a-silent-asthma-epidemic-be-sweeping-africa). 
+**A potential “silent asthma epidemic” is emerging in Africa**, attributed to environmental changes, urbanization, and air pollution [(read more)](https://www.aljazeera.com/news/2024/10/28/why-could-a-silent-asthma-epidemic-be-sweeping-africa).
 
 #### Sports & Culture
 
