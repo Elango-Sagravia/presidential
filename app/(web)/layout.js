@@ -8,6 +8,7 @@ import Navbar from "@/components/ui/navbar/navbar";
 import Footer from "@/components/ui/footer/footer";
 import AppProvider from "@/context/appContext";
 import RedditPixel from "@/components/ui/RedditPixel/REdditPixel";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
           </AppProvider>
         </ThemeProvider>
       </body>
+      <GoogleAnalytics gaId="G-3PS7NGG88R" />
     </html>
   );
 }
