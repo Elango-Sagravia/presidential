@@ -2,6 +2,7 @@
 footerBannerContent: 'On this day in 1941, the Mount Rushmore National Memorial, featuring the heads of Presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln, was completed, after nearly 15 years of work.'
 footerBannerTitle: ''
 cutOff: '9'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/diwali--1--c0Mz.webp'
@@ -19,7 +20,7 @@ publishedAt: '2024-10-31T12:38:26.425Z'
 
 ![Diwali, celebrated by Hindus, Sikhs, and Jains, symbolizes light and prosperity through oil lamps, rangoli designs, and festive sweets](/images/diwali--1--I3MT.webp)
 
-Diwali, or Deepavali, is a [festival](https://www.npr.org/2024/10/29/nx-s1-5167938/what-is-diwali) celebrated by Hindu, Sikh, and Jain communities. It honors themes of light, prosperity, and spiritual growth. In Hindu traditions, it signifies Lord Rama's return from exile and Lord Krishna's victory over the demon Narakasura. Sikhs celebrate the release of Guru Hargobind, while Jains commemorate Lord Mahavira's enlightenment. Those belonging to other religions in South Asia sometimes also celebrate it. 
+Diwali, or Deepavali, is a [festival](https://www.npr.org/2024/10/29/nx-s1-5167938/what-is-diwali) celebrated by Hindu, Sikh, and Jain communities. It honors themes of light, prosperity, and spiritual growth. In Hindu traditions, it signifies Lord Rama's return from exile and Lord Krishna's victory over the demon Narakasura. Sikhs celebrate the release of Guru Hargobind, while Jains commemorate Lord Mahavira's enlightenment. Those belonging to other religions in South Asia sometimes also celebrate it.
 
 Celebrations typically involve lighting oil lamps, creating intricate rangoli designs, sharing [sweets](https://www.indiatimes.com/trending/diwali-2024-quick-and-easy-sweets-you-can-make-at-home-644886.html), and cleaning homes. Diwali is celebrated widely across India and the South Asian diaspora, blending cultural heritage with contemporary expressions worldwide. In the [United States](https://www.cbsnews.com/video/diwali-celebrations-go-mainstream-across-the-u-s-as-south-asians-mark-the-festival-of-lights/), there are approximately 5.2 million Indian Americans, making it the second-largest immigrant community. President Biden has hosted a [Diwali celebration at the White House](https://www.livemint.com/news/us-news/diwali-2024-us-election-november-5-election-white-house-president-joe-biden-extends-greetings-11730169119052.html) this week.
 
@@ -35,7 +36,7 @@ In contrast to [last year's](https://edition.cnn.com/2023/11/03/economy/china-ha
 
 Archaeologists uncovered an [ancient Maya city](https://www.dw.com/en/lost-mayan-city-discovered-by-accident-in-mexican-jungle/a-70636302) named Valeriana in Campeche, Mexico. At its peak, the city housed between 30,000 and 50,000 people. Using [lidar technology](https://www.synopsys.com/glossary/what-is-lidar.html#:~:text=Definition,the%20objects%20in%20the%20scene.), researchers identified over 6,000 structures hidden beneath dense forests, including pyramids and agricultural areas. The high-density settlement ranks among the largest Maya sites after Calakmul.
 
-This discovery highlights the region’s rich cultural history, dating back to the [Classic Period](https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period) (250-900 AD) when the Maya civilization flourished across [Mesoamerica](https://education.nationalgeographic.org/resource/resource-library-mesoamerica/). This unique finding challenges previous beliefs about Maya civilizations and suggests their complex societal structures. Lidar has significantly expanded archaeological discoveries in dense vegetation areas, revealing many more potential sites yet to be explored. 
+This discovery highlights the region’s rich cultural history, dating back to the [Classic Period](https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period) (250-900 AD) when the Maya civilization flourished across [Mesoamerica](https://education.nationalgeographic.org/resource/resource-library-mesoamerica/). This unique finding challenges previous beliefs about Maya civilizations and suggests their complex societal structures. Lidar has significantly expanded archaeological discoveries in dense vegetation areas, revealing many more potential sites yet to be explored.
 
 ### BRIEFS
 
