@@ -23,7 +23,7 @@ UNION ALL
     WHERE s.website_id = 1
       AND u.source_id = 2
       AND s.status = 'subscribed'
-      AND u.email LIKE '%@gmail.com';
+      AND u.email LIKE '%@gmail.com'
     LIMIT ${limit}
 )
 LIMIT ${limit};`,
