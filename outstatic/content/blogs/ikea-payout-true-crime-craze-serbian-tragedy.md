@@ -5,7 +5,7 @@ cutOff: '9'
 latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: ''
+coverImage: '/images/ikea-A5Mz.webp'
 description: ''
 slug: 'ikea-payout-true-crime-craze-serbian-tragedy'
 author:
