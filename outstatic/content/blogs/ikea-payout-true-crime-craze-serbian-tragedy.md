@@ -4,13 +4,13 @@ footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
-readTime: '3'
+readTime: '5'
 coverImage: ''
 description: ''
 slug: 'ikea-payout-true-crime-craze-serbian-tragedy'
 author:
   name: ''
-  picture: '/images/ikea-E2Nz.webp'
+  picture: '/images/ikea-Y4Mz.webp'
 status: 'published'
 title: 'Nov 4: IKEA payout, True crime craze, Serbian tragedy'
 publishedAt: '2024-11-04T12:45:51.545Z'
@@ -18,7 +18,7 @@ publishedAt: '2024-11-04T12:45:51.545Z'
 
 ### IKEA pays out
 
-![IKEA establishes a compensation fund for victims of forced labor during East Germany's communist regime](/images/ikea-QwOT.webp)
+![IKEA establishes a compensation fund for victims of forced labor during East Germany's communist regime](/images/ikea-k3NT.webp)
 
 IKEA has announced a [commitment of €6 million ](https://edition.cnn.com/2024/11/03/europe/ikea-six-million-gdr-prisoners-intl/index.html#:~:text=Furniture%20giant%20IKEA%20has%20agreed,pressure%20other%20companies%20to%20follow.)(around $6.5 million) to a compensation fund aimed at supporting victims of forced labor during East Germany's communist regime. This decision follows the findings of an independent [investigation](https://www.cbsnews.com/news/ikea-to-release-report-on-east-german-forced-labor/) that uncovered the disturbing fact that political prisoners were used in the production of IKEA furniture in the 1970s and 1980s.
 
@@ -26,7 +26,7 @@ IKEA has announced a [commitment of €6 million ](https://edition.cnn.com/2024/
 
 ### True crime craze
 
-![True crime media's impact on public perception and legal outcomes, highlighted by the Menendez brothers' case](/images/true-crime-s-popularity-g0Mj.webp)
+![True crime media's impact on public perception and legal outcomes, highlighted by the Menendez brothers' case](/images/true-crime-s-popularity-U2Mj.webp)
 
 The rise in true crime media has [shifted public perception](https://abcnews.go.com/Entertainment/wireStory/true-crimes-popularity-brings-real-change-defendants-society-115436113) and occasionally influenced legal outcomes, as seen in the renewed attention to the [Menendez brothers’ case](https://thestatetimes.com/2024/11/01/the-menendez-brothers-resentenced-and-possible-release-soon/). True crime’s popularity grew after 2014’s *Serial*, often reframing convicted individuals as wrongfully accused or deserving leniency. This reflects broader cultural trends in questioning justice systems and exploring the traumatic origins of criminal behavior.
 
