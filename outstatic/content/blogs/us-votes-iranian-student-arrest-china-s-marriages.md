@@ -26,9 +26,9 @@ Voters in 41 states will vote on 159 ballot initiatives. Florida voters will dec
 
 ### Iran student protest
 
-![](/images/iran-U4OD.webp)
+![Tehran student protests dress code by stripping in public, resulting in her arrest](/images/iran-U4OD.webp)
 
-A female student in Tehran was recently [arrested](https://www.france24.com/en/video/20241104-woman-strips-off-clothes-at-iran-university-in-apparent-protest) after protesting Iran’s strict dress code by stripping her underwear in public. The student, whose identity remains undisclosed, reportedly took this action after members of the Basij paramilitary force allegedly harassed her at Islamic Azad University by tearing her headscarf and clothes. In response, she removed her clothes in defiance, sitting outside the university and later walking in public. 
+A female student in Tehran was recently [arrested](https://www.france24.com/en/video/20241104-woman-strips-off-clothes-at-iran-university-in-apparent-protest) after protesting Iran’s strict dress code by stripping her underwear in public. The student, whose identity remains undisclosed, reportedly took this action after members of the Basij paramilitary force allegedly harassed her at Islamic Azad University by tearing her headscarf and clothes. In response, she removed her clothes in defiance, sitting outside the university and later walking in public.
 
 Videos of her protest circulated widely on social media, showing the woman’s arrest by plainclothes officers who reportedly handled her with force. Amnesty International called for her immediate and unconditional [release](https://www.bbc.com/news/articles/c9vngeezwvno), urging authorities to investigate alleged abuses and protect her from mistreatment. This protest recalls the [2022 Mahsa Amini demonstrations](https://www.france24.com/en/asia-pacific/20240916-two-years-after-death-mahsa-amini-quiet-revolution-in-iran-women-protest-reformers), where thousands protested the death of a young woman arrested for violating Iran’s dress code.
 
@@ -42,7 +42,7 @@ Many young people are choosing not to marry. They cite economic instability, hig
 
 **Global Affairs**
 
-**The Turkish government** has removed [three pro-Kurdish mayors](https://www.middleeasteye.net/news/turkey-unseats-three-pro-kurdish-mayors) from Mardin, Batman, and Halfeti, replacing them with government-appointed trustees due to alleged terrorism-related charges. 
+**The Turkish government** has removed [three pro-Kurdish mayors](https://www.middleeasteye.net/news/turkey-unseats-three-pro-kurdish-mayors) from Mardin, Batman, and Halfeti, replacing them with government-appointed trustees due to alleged terrorism-related charges.
 
 **A political scandal** has [erupted in Israel](https://www.nbcnews.com/news/world/israel-leak-scandal-netanyahu-aide-arrested-gaza-hostage-talks-rcna178617) after it was revealed that Eliezer Feldstein, an aide to Prime Minister Benjamin Netanyahu, may have leaked classified intelligence related to hostage negotiations with Hamas.
 
@@ -50,13 +50,13 @@ Many young people are choosing not to marry. They cite economic instability, hig
 
 **Business & Finance**
 
-**US factory orders fell 0.5%** in September, marking a second consecutive monthly decline after a revised 0.8% drop in August. Business spending on equipment slowed in the third quarter, though core capital goods orders rose 0.7%, exceeding the initial estimate [(read more)](https://finance.yahoo.com/news/us-factory-orders-fall-second-152253214.html). 
+**US factory orders fell 0.5%** in September, marking a second consecutive monthly decline after a revised 0.8% drop in August. Business spending on equipment slowed in the third quarter, though core capital goods orders rose 0.7%, exceeding the initial estimate [(read more)](https://finance.yahoo.com/news/us-factory-orders-fall-second-152253214.html).
 
 **Private Equity firm Stonepeak** will take Air Transport Services Group (ATSG) private in a $3.1 billion deal, boosting ATSG shares by 27%. Stonepeak's $22.5 per share offer reflects a 29.3% premium. The deal, expected to close next year, includes committed equity and debt financing [(press release)](https://stonepeak.com/news/atsg-to-be-acquired-by-stonepeak-for-3-1-billion).
 
 **A Trump re-election could severely impact Europe's economy** through proposed 10% US tariffs, potentially reducing GDP by up to 1.5% (€260bn). Key sectors like autos and chemicals face significant risks, prompting ECB rate cuts, euro weakness, and recession concerns [(full report)](https://www.euronews.com/business/2024/11/04/how-much-could-trumps-tariffs-damage-europes-economy).
 
-**Boeing is reportedly considering selling parts** of its space business, including its Starliner program and ISS operations, to streamline its portfolio. The Starliner has faced delays and cost overruns. Boeing’s CEO aims to focus on fewer, more efficient programs [(read more)](https://www.foxbusiness.com/markets/boeing-looking-sell-space-business-report). 
+**Boeing is reportedly considering selling parts** of its space business, including its Starliner program and ISS operations, to streamline its portfolio. The Starliner has faced delays and cost overruns. Boeing’s CEO aims to focus on fewer, more efficient programs [(read more)](https://www.foxbusiness.com/markets/boeing-looking-sell-space-business-report).
 
 **Science & Tech**
 
@@ -68,13 +68,13 @@ A series of [volcanic eruptions](https://apnews.com/article/indonesia-mount-lewo
 
 **Kim Kardashian** debuted a [diamond cross pendant](https://edition.cnn.com/2024/11/04/style/kim-kardashian-wears-diana-crucifix-intl-scli/index.html) once owned by Princess Diana at the LACMA Art+Film Gala, marking its first public appearance since Diana died in 1997.
 
-**Legendary musician Quincy Jones**, who was 91, [passed away](https://people.com/music/quincy-jones-dead/) on November 3, 2024, at his home in Los Angeles. His family announced his death, celebrating his remarkable life and contributions to music. 
+**Legendary musician Quincy Jones**, who was 91, [passed away](https://people.com/music/quincy-jones-dead/) on November 3, 2024, at his home in Los Angeles. His family announced his death, celebrating his remarkable life and contributions to music.
 
 **Vanity Fair** made a comprehensive list of who has endorsed Kamala Harris—or Donald Trump [(read more)](https://www.vanityfair.com/style/story/celebrity-endorsements-harris-trump?srsltid=AfmBOooigF-a-u0JfJEKnQ8PqCR11R27_LkUXLVe7MohCFZxeX5ORF9I).
 
 **Whatnot**
 
-Lyft continues its “Lyft Up Voting Access” program, providing discounted or free rides to polling places for the tenth consecutive year [(read more)](https://www.goodnewsnetwork.org/lyft-ride-hailing-service-to-lyft-up-voters-offering-discounted-or-free-rides-to-the-polls/). 
+Lyft continues its “Lyft Up Voting Access” program, providing discounted or free rides to polling places for the tenth consecutive year [(read more)](https://www.goodnewsnetwork.org/lyft-ride-hailing-service-to-lyft-up-voters-offering-discounted-or-free-rides-to-the-polls/).
 
 Collins Dictionary’s Word of the Year for 2024 is “brat,” now defined as someone with a “confident, independent, and hedonistic attitude” [(read more)](https://ca.news.yahoo.com/not-just-summer-brat-collins-102145465.html).
 
