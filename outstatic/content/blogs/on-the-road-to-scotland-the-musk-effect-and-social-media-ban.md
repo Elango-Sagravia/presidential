@@ -11,7 +11,7 @@ slug: 'on-the-road-to-scotland-the-musk-effect-and-social-media-ban'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+status: 'published'
 title: 'Nov 8: On the road to Scotland, The Musk effect and social media ban'
 publishedAt: '2024-11-08T12:25:59.828Z'
 ---
@@ -20,7 +20,7 @@ publishedAt: '2024-11-08T12:25:59.828Z'
 
 ![Elon Musk has played a significant role in Donald Trump’s return to the White House](/images/musk-s-influence-on-us-elections-M0Nz.webp)
 
-Elon Musk has played a [significant role](https://www.aljazeera.com/features/2024/11/7/the-elon-musk-effect-how-donald-trump-gained-from-billionaires-support) in Donald Trump’s return to the White House by using his influence and wealth to support Trump’s campaign and promote right-wing messaging on social media. Musk donated over $132 million to Trump’s 2024 campaign, and his platform, X (formerly Twitter), has become an unofficial outlet for pro-Trump narratives. 
+Elon Musk has played a [significant role](https://www.aljazeera.com/features/2024/11/7/the-elon-musk-effect-how-donald-trump-gained-from-billionaires-support) in Donald Trump’s return to the White House by using his influence and wealth to support Trump’s campaign and promote right-wing messaging on social media. Musk donated over $132 million to Trump’s 2024 campaign, and his platform, X (formerly Twitter), has become an unofficial outlet for pro-Trump narratives.
 
 Musk's promotion of Trump included controversial initiatives, such as a [cash giveaway](https://edition.cnn.com/2024/11/04/politics/elon-musk-1-million-giveaway/index.html) for petition signers in crucial swing states, which faced legal scrutiny. Once considered a liberal icon, Musk's [views](https://www.techpolicy.press/tracking-elon-musks-political-activities/) have shifted to the right due to personal experiences and business conflicts, aligning him with Trump’s appeal to young men and attracting criticism from the other side for amplifying misinformation.
 
@@ -28,7 +28,7 @@ Musk's promotion of Trump included controversial initiatives, such as a [cash gi
 
 !["Australia proposes a minimum age of 16 for social media use](/images/australia-to-legislate--world-leading--social-media-ban-for-children-under-16-A4OT.webp)
 
-Australia is [proposing legislation](https://www.npr.org/2024/11/07/nx-s1-5182775/australia-social-media-ban-children) to set a minimum age of 16 for social media use, with companies responsible for enforcement. Prime Minister Anthony Albanese announced the move, saying it aims to protect young people from online harms. Platforms like TikTok, Instagram, and Facebook would have one year to implement measures and face penalties for non-compliance. 
+Australia is [proposing legislation](https://www.npr.org/2024/11/07/nx-s1-5182775/australia-social-media-ban-children) to set a minimum age of 16 for social media use, with companies responsible for enforcement. Prime Minister Anthony Albanese announced the move, saying it aims to protect young people from online harms. Platforms like TikTok, Instagram, and Facebook would have one year to implement measures and face penalties for non-compliance.
 
 Critics, including mental health advocates, argue the law could drive underage users underground, cutting them off from online support. Instead, they suggest age-appropriate spaces and [digital literacy programs](https://www.mediapoweryouth.org/navigating-mental-health-advocacy-on-social-media/). The opposition has shown in-principle support, believing platforms can enforce the restrictions with existing technology. The government plans to exempt cases requiring educational access, with enforcement led by Australia’s eSafety Commissioner.
 
@@ -42,9 +42,9 @@ The search interest extends beyond Scotland; Americans also explore options in N
 
 #### Global Affairs
 
-**Germany’s first three-way coalition government**, led by Chancellor Olaf Scholz, has [collapsed](https://www.theguardian.com/world/2024/nov/07/why-germany-government-collapsed-what-happens-next) following deep divisions among the ruling parties. The Social Democrats (SPD), Free Democrats (FDP), and Greens met for a final attempt at compromise but parted ways after two hours, leading Scholz to dismiss Finance Minister Christian Lindner. 
+**Germany’s first three-way coalition government**, led by Chancellor Olaf Scholz, has [collapsed](https://www.theguardian.com/world/2024/nov/07/why-germany-government-collapsed-what-happens-next) following deep divisions among the ruling parties. The Social Democrats (SPD), Free Democrats (FDP), and Greens met for a final attempt at compromise but parted ways after two hours, leading Scholz to dismiss Finance Minister Christian Lindner.
 
-**China is building new villages** in [disputed Himalayan areas](https://edition.cnn.com/2024/11/05/asia/china-bhutan-border-dst-intl-hnk/index.html) near Bhutan, creating concerns for Bhutan and India. The villages, including Demalong, lie in territories claimed by Bhutan but marked as Chinese on China’s maps. 
+**China is building new villages** in [disputed Himalayan areas](https://edition.cnn.com/2024/11/05/asia/china-bhutan-border-dst-intl-hnk/index.html) near Bhutan, creating concerns for Bhutan and India. The villages, including Demalong, lie in territories claimed by Bhutan but marked as Chinese on China’s maps.
 
 **The Organization of Turkic States’ Council of Foreign Ministers** convened in Bishkek, Kyrgyzstan, to discuss strategies for enhancing [unity among Turkic nations](https://www.aa.com.tr/en/world/meeting-of-turkic-states-foreign-ministers-begins-in-kyrgyzstan/3385581).
 
