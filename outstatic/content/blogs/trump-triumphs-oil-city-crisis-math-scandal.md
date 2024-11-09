@@ -13,10 +13,10 @@ author:
   picture: ''
 status: 'published'
 title: 'Nov 9: Trump triumphs, Oil city crisis, math scandal'
-publishedAt: '2024-11-09T17:56:37.173Z'
+publishedAt: '2024-11-08T17:56:37.000Z'
 ---
 
-### Trump’s big win 
+### Trump’s big win
 
 ![](/images/elections1-20-U2OD.webp)
 
@@ -36,7 +36,7 @@ Liang Ping, a 17-year-old from rural China, was initially celebrated as a [mathe
 
 **Liam Payne case**
 
-[Liam Payne](https://apnews.com/article/liam-payne-death-what-to-know-83bd8655c4c70332d4a847b9d167f1fa), former One Direction member, died on October 16 after falling from a hotel balcony in Buenos Aires. Argentinian prosecutors [charged three individuals](https://apnews.com/article/argentina-payne-death-charged-e73f589a37a4a8f0e80e0b0e71d0f0f4) in connection with his death, including a hotel employee and a suspected drug dealer, accusing them of abandonment leading to death and providing drugs. A toxicology report indicated traces of alcohol, cocaine, and an antidepressant in his system. 
+[Liam Payne](https://apnews.com/article/liam-payne-death-what-to-know-83bd8655c4c70332d4a847b9d167f1fa), former One Direction member, died on October 16 after falling from a hotel balcony in Buenos Aires. Argentinian prosecutors [charged three individuals](https://apnews.com/article/argentina-payne-death-charged-e73f589a37a4a8f0e80e0b0e71d0f0f4) in connection with his death, including a hotel employee and a suspected drug dealer, accusing them of abandonment leading to death and providing drugs. A toxicology report indicated traces of alcohol, cocaine, and an antidepressant in his system.
 
 ### PHOTO OF THE WEEK
 
