@@ -3,7 +3,7 @@ footerBannerContent: 'On this day in 2018, Stan Lee, the American comic book wri
 footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
-relatedArticles: 'global-eyes-on-the-u-s-israel-in-suez-pakistan-s-climate-action'
+relatedArticles: 'https://www.presidentialsummary.com/archives/poland-s-independence-sotomayer-stays-smog-visible-from-space'
 readTime: '5'
 coverImage: '/images/supreme-court-MzMT.jpg'
 description: ''
@@ -22,7 +22,7 @@ publishedAt: '2024-11-12T12:55:46.407Z'
 
 On Monday, Poland celebrated its [Independence Day](https://www.trade.gov.pl/en/news/independence-day-polish-history-and-polands-economic-transformation/), marking the restoration of sovereignty after 123 years of partitions. This pivotal moment in the country's history signified its emergence as a sovereign state after centuries of foreign occupation, shaping Poland's national identity. Despite facing numerous challenges, including rebuilding after World War I and the devastation of World War II, Poland successfully transitioned to a free-market economy in the 1990s, leading to rapid economic growth. There are 10 million Americans of [Polish descent](https://x.com/PolishEmbassyUS/status/1123937677345206274) today.
 
-Polish President Andrzej Duda marked Independence Day by [stressing the need](https://apnews.com/article/poland-independence-day-march-duda-6dc4217f77184dcd8f8562e6c0fac595) for continued U.S. commitment to European security in light of Russian aggression and called for the restoration of Ukraine’s pre-2014 borders. Duda warned that Europe could not ensure its security without U.S. support, criticizing the idea that Europe could manage alone amid Russia’s imperial ambitions. Duda emphasized the importance of strengthening Euro-Atlantic ties. 
+Polish President Andrzej Duda marked Independence Day by [stressing the need](https://apnews.com/article/poland-independence-day-march-duda-6dc4217f77184dcd8f8562e6c0fac595) for continued U.S. commitment to European security in light of Russian aggression and called for the restoration of Ukraine’s pre-2014 borders. Duda warned that Europe could not ensure its security without U.S. support, criticizing the idea that Europe could manage alone amid Russia’s imperial ambitions. Duda emphasized the importance of strengthening Euro-Atlantic ties.
 
 ### Sotomayer stays on bench
 
@@ -36,7 +36,7 @@ However, sources close to Justice Sotomayor have vehemently denied the suggestio
 
 Record-breaking toxic smog has [enveloped](https://edition.cnn.com/2024/11/11/asia/pakistan-punjab-pollution-satellite-images-climate-intl-hnk/index.html) eastern Pakistan and northern India, causing a severe air quality crisis. Satellite imagery reveals a massive cloud of smog over Pakistan’s Punjab province and parts of India, including New Delhi. The pollution, primarily from crop burning, coal plants, and traffic, has led to hazardous air quality readings exceeding 1,000 in some areas.
 
-Hospitals are overwhelmed, with over 30,000 people in Pakistan treated for respiratory issues. In response, authorities have [closed](https://abcnews.go.com/International/wireStory/districts-pakistan-close-parks-zoo-schools-residents-choke-115634446) schools, parks, and outdoor spaces. Children, the elderly, and vulnerable populations are at high risk. Climate change is worsening pollution, necessitating urgent regional cooperation, with calls for long-term solutions to protect public health and address this recurring crisis [(see our write-up)](https://www.geopolitics.world/archives/global-eyes-on-the-u-s-israel-in-suez-pakistan-s-climate-action). 
+Hospitals are overwhelmed, with over 30,000 people in Pakistan treated for respiratory issues. In response, authorities have [closed](https://abcnews.go.com/International/wireStory/districts-pakistan-close-parks-zoo-schools-residents-choke-115634446) schools, parks, and outdoor spaces. Children, the elderly, and vulnerable populations are at high risk. Climate change is worsening pollution, necessitating urgent regional cooperation, with calls for long-term solutions to protect public health and address this recurring crisis [(see our write-up)](https://www.geopolitics.world/archives/global-eyes-on-the-u-s-israel-in-suez-pakistan-s-climate-action).
 
 ### BRIEFS
 
@@ -48,7 +48,7 @@ Hospitals are overwhelmed, with over 30,000 people in Pakistan treated for respi
 
 President-elect **Donald Trump reportedly spoke with Russian President Vladimir Putin** about resolving the Ukraine conflict, though the Kremlin denies this call took place [(read more)](https://www.dw.com/en/trump-talks-ukraine-in-separate-calls-with-putin-scholz-v2/a-70749452).
 
-**Business & Finance** 
+**Business & Finance**
 
 **The FTX estate is suing Binance** and former CEO Changpeng Zhao for $1.76 billion, alleging fraudulent 2021 share repurchases while FTX was insolvent. The lawsuit claims Zhao’s tweets led to FTX’s collapse, exposing misused customer funds. Binance denies the allegations [(see lawsuit)](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations#:~:text=FTX%20alleges%20these%20funds%20were,%2Dfounder%20Sam%20Bankman%2DFried.).
 
@@ -60,7 +60,7 @@ President-elect **Donald Trump reportedly spoke with Russian President Vladimir 
 
 **Three astronauts from the SpaceX Crew-8** mission, who returned from the International Space Station in late October, spoke about their readjustment to life on Earth after spending 235 days in space [(read more)](https://edition.cnn.com/2024/11/08/science/spacex-nasa-crew-8-astronauts-update/index.html).
 
-**Apple’s new “Share Item Location” feature**, now available in iOS, allows users to [share the location](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations) of a lost AirTag with others. 
+**Apple’s new “Share Item Location” feature**, now available in iOS, allows users to [share the location](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations) of a lost AirTag with others.
 
 **Sports & Culture**
 
