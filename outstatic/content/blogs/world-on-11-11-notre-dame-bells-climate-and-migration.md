@@ -7,13 +7,12 @@ relatedArticles: ''
 readTime: '5'
 coverImage: '/images/11_11-EzOT.webp'
 description: ''
-slug: 'world-on-11-11-notre-dame-bells-climate-and-migratio'
+slug: 'world-on-11-11-notre-dame-bells-climate-and-migration'
 author:
   name: ''
   picture: ''
 status: 'published'
-title: 'Nov 11: World on 11/11, Notre Dame bells, climate and migratio
-'
+title: 'Nov 11: World on 11/11, Notre Dame bells, climate and migration'
 publishedAt: '2024-11-11T13:00:16.320Z'
 ---
 
@@ -45,7 +44,7 @@ As climate change worsens, migration patterns driven by weather events may becom
 
 **Elon Musk joins Trump and Zelensky in a call**, with Ukraine thanking him for Starlink's support amid the ongoing conflict [(read more)](https://edition.cnn.com/2024/11/08/europe/ukraine-trump-elon-musk-zelensky-intl-latam/index.html).
 
-**The U.S. and U.K. airstrikes in Yemen t**argeted advanced weapon storage sites, reportedly used by [Houthi rebels](https://www.bbc.com/news/world-middle-east-67614911) to launch attacks on vessels in the Red Sea and Gulf of Aden [(read more)](https://www.aljazeera.com/news/2024/11/10/uk-us-carry-out-strikes-on-yemen-including-sanaa). 
+**The U.S. and U.K. airstrikes in Yemen t**argeted advanced weapon storage sites, reportedly used by [Houthi rebels](https://www.bbc.com/news/world-middle-east-67614911) to launch attacks on vessels in the Red Sea and Gulf of Aden [(read more)](https://www.aljazeera.com/news/2024/11/10/uk-us-carry-out-strikes-on-yemen-including-sanaa).
 
 **Business & Finance**
 
@@ -67,9 +66,9 @@ Over one-third of the world’s tree species are now **at risk of extinction**, 
 
 **The second part of *Yellowstone* Season 5** [premiered](https://eu.usatoday.com/story/entertainment/tv/2024/11/10/yellowstone-season-5-part-2/76111266007/) last night on the Paramount Network.
 
-**Pep Guardiola is facing his first major crisis at Manchester City**, and a four-game losing streak has marked a significant setback in his managerial career [(read more)](https://www.espn.com/soccer/story/_/id/42304501/manchester-citys-recent-struggles-pep-guardiola). 
+**Pep Guardiola is facing his first major crisis at Manchester City**, and a four-game losing streak has marked a significant setback in his managerial career [(read more)](https://www.espn.com/soccer/story/_/id/42304501/manchester-citys-recent-struggles-pep-guardiola).
 
-**“Saturday Night Live”** is preparing for a [shift in tone](https://www.ctvnews.ca/entertainment/saturday-night-live-to-take-on-a-second-trump-term-after-focusing-on-harris-1.7104436) as it returns for its first episode since Donald Trump’s election victory. 
+**“Saturday Night Live”** is preparing for a [shift in tone](https://www.ctvnews.ca/entertainment/saturday-night-live-to-take-on-a-second-trump-term-after-focusing-on-harris-1.7104436) as it returns for its first episode since Donald Trump’s election victory.
 
 **Whatnot**
 
