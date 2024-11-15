@@ -28,13 +28,13 @@ After the recent U.S. presidential election, social media platform X (formerly T
 
 ![Republicans retain House control as Trump returns, with Speaker Mike Johnson facing challenges in advancing key policies](/images/us_-republicans-win-house-U4Mj.webp)
 
-Republicans have [retained control](https://thehill.com/homenews/state-watch/4974235-house-republicans-control-majority/) of the House, granting the GOP unified power in Washington as President-elect Trump returns to office. Decision Desk HQ confirmed the House GOP’s majority after key victories, despite some setbacks among New York Republicans. Speaker [Mike Johnso](https://www.shreveportbossieradvocate.com/news/heres-what-speaker-mike-johnson-had-to-say-following-u-s-house-leadership-elections/article_9d436ef6-a1ea-11ef-92ba-ebe0f1655fea.html), whose leadership rose rapidly, received Trump’s praise and is expected to continue in the Speaker role if he garners full GOP support in January. 
+Republicans have [retained control](https://thehill.com/homenews/state-watch/4974235-house-republicans-control-majority/) of the House, granting the GOP unified power in Washington as President-elect Trump returns to office. Decision Desk HQ confirmed the House GOP’s majority after key victories, despite some setbacks among New York Republicans. Speaker [Mike Johnso](https://www.shreveportbossieradvocate.com/news/heres-what-speaker-mike-johnson-had-to-say-following-u-s-house-leadership-elections/article_9d436ef6-a1ea-11ef-92ba-ebe0f1655fea.html), whose leadership rose rapidly, received Trump’s praise and is expected to continue in the Speaker role if he garners full GOP support in January.
 
 Johnson and top Republicans have outlined plans to revive Trump-era policies on taxes, immigration, and education, but narrow margins and intraparty divides could challenge their agenda. The GOP’s success denies Minority Leader Hakeem Jeffries the chance to become the first Black House Speaker. Republicans are now working to influence necessary [legislative actions](https://thehill.com/homenews/house/4981773-republican-agenda-trump-congress) before the new Congress starts.
 
 ### Silenced in Russia
 
-Dr. Nadezhda Buyanova, a Russian pediatrician, was [sentenced](https://www.euronews.com/2024/11/13/doctor-who-criticised-war-in-ukraine-sentenced-to-five-years-in-russian-prison) to five and a half years in prison on charges of spreading false information about the Russian military. Her arrest followed a complaint by Anastasia Akinshina, a mother who claimed that during a pediatric session, Buyanova criticized Russia’s actions in Ukraine and implied that Akinshina’s late husband, a soldier, was a legitimate target for Ukrainian forces. Buyanova denied the allegations, and her defense argued that no recording or substantial evidence supported the claims, suggesting that the mother’s statement might have stemmed from her personal views on Ukraine. 
+Dr. Nadezhda Buyanova, a Russian pediatrician, was [sentenced](https://www.euronews.com/2024/11/13/doctor-who-criticised-war-in-ukraine-sentenced-to-five-years-in-russian-prison) to five and a half years in prison on charges of spreading false information about the Russian military. Her arrest followed a complaint by Anastasia Akinshina, a mother who claimed that during a pediatric session, Buyanova criticized Russia’s actions in Ukraine and implied that Akinshina’s late husband, a soldier, was a legitimate target for Ukrainian forces. Buyanova denied the allegations, and her defense argued that no recording or substantial evidence supported the claims, suggesting that the mother’s statement might have stemmed from her personal views on Ukraine.
 
 The high-profile case has sparked a public outcry in Russia, with more than 6,500 people signing a petition demanding Buyanova’s release. Her sentence comes amid Russia’s stringent [2022 laws](https://www.hrw.org/news/2022/03/07/russia-criminalizes-independent-war-reporting-anti-war-protests) criminalizing anti-war speech, with over 1,000 people facing similar charges. Rights groups, such as OVD-info, have highlighted Buyanova’s case as an example of increasing repression of dissent in Russia.
 
@@ -48,7 +48,7 @@ Slovakia is proposing an **amendment to Slovakia’s language law**, which is sp
 
 **Indonesian and Australian forces** began [joint combat drills](https://apnews.com/article/indonesia-australia-joint-military-exercise-a65a21004a1ec821c5b2f61d2bb8154e) on Wednesday off Java’s coast, with around 2,000 troops participating in air, maritime, and amphibious operations.
 
-**Business & Finance** 
+**Business & Finance**
 
 **Satirical site The Onion won the bid to acquire Infowars** following Alex Jones’ defamation settlement over false Sandy Hook claims. Supported by victims' families, The Onion will transition the site to new content in early 2025. The Onion plans to parody Infowars, monetizing its audience's gullibility [(read more)](https://www.cnn.com/2024/11/14/business/onion-alex-jones-infowars-auction/index.html).
 
@@ -56,7 +56,7 @@ Slovakia is proposing an **amendment to Slovakia’s language law**, which is sp
 
 **Amazon has launched Haul**, a mobile-only outlet offering products under $20 to compete with low-cost retailers like Temu and Shein. Despite focusing on low prices and free delivery, analysts warn that risks like poor quality and slow shipping will affect success [(see announcement)](https://www.aboutamazon.com/news/retail/affordable-products-amazon-20-dollars-and-under).
 
-Science & Tech
+**Science & Tech**
 
 A newly discovered [300-year-old coral colony](https://www.bbc.com/news/articles/c629ddqg9v6o) in the Solomon Islands, spanning 34 meters wide, is the **largest coral ever recorded** and a resilient “oasis” in deeper waters. It offers crucial insights into ocean health amid climate change pressures.
 
