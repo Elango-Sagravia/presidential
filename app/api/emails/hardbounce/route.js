@@ -1,18 +1,6 @@
 import { query } from "@/lib/db";
 
 export async function POST(request) {
-  if (request.method === "OPTIONS") {
-    return new Response(null, {
-      status: 204, // No Content
-      headers: {
-        "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
-        "Access-Control-Allow-Methods": "POST, OPTIONS",
-        "Access-Control-Allow-Headers": "Content-Type",
-        "Access-Control-Max-Age": "86400", // Cache preflight response for 1 day
-      },
-    });
-  }
-
   try {
     // Parse the request body
     const body = await request.json();
