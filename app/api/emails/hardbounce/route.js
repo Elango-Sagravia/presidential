@@ -1,14 +1,14 @@
 import { query } from "@/lib/db";
 
 export async function POST(request) {
-  // Handle CORS preflight request
   if (request.method === "OPTIONS") {
     return new Response(null, {
       status: 204, // No Content
       headers: {
-        "Access-Control-Allow-Origin": "*", // Replace "*" with your frontend origin for stricter security
+        "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
         "Access-Control-Allow-Methods": "POST, OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type",
+        "Access-Control-Max-Age": "86400", // Cache preflight response for 1 day
       },
     });
   }
@@ -18,7 +18,6 @@ export async function POST(request) {
     const body = await request.json();
     const { email, website_id } = body;
 
-    // Validate input
     if (!email || !website_id) {
       return new Response(
         JSON.stringify({ error: "email and website_id are required" }),
@@ -26,13 +25,12 @@ export async function POST(request) {
           status: 400,
           headers: {
             "Content-Type": "application/json",
-            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
           },
         }
       );
     }
 
-    // Query to update the status to 'unsubscribed'
     const sql = `
       UPDATE subscribers
       SET status = 'unsubscribed'
@@ -40,10 +38,8 @@ export async function POST(request) {
         AND website_id = ?
     `;
 
-    // Execute the query
     const result = await query(sql, [email, website_id]);
 
-    // Check if any rows were affected
     if (result.affectedRows === 0) {
       return new Response(
         JSON.stringify({ error: "No matching subscriber found" }),
@@ -51,13 +47,12 @@ export async function POST(request) {
           status: 404,
           headers: {
             "Content-Type": "application/json",
-            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
           },
         }
       );
     }
 
-    // Return a success response
     return new Response(
       JSON.stringify({
         message: "Subscription status updated to unsubscribed",
@@ -66,7 +61,7 @@ export async function POST(request) {
         status: 200,
         headers: {
           "Content-Type": "application/json",
-          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
         },
       }
     );
@@ -76,7 +71,7 @@ export async function POST(request) {
       status: 500,
       headers: {
         "Content-Type": "application/json",
-        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Origin": "http://127.0.0.1:5500", // Use your exact frontend origin
       },
     });
   }
