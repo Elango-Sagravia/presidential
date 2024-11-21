@@ -2,6 +2,17 @@ import { query } from "@/lib/db";
 
 export async function POST(request) {
   try {
+    // Set CORS headers
+    if (request.method === "OPTIONS") {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          "Access-Control-Allow-Origin": "*", // Allow all origins
+          "Access-Control-Allow-Methods": "POST, OPTIONS", // Allowed methods
+          "Access-Control-Allow-Headers": "Content-Type", // Allowed headers
+        },
+      });
+    }
     // Parse the request body
     const body = await request.json();
     const { email, website_id } = body;
