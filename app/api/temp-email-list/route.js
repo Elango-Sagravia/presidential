@@ -11,10 +11,10 @@ export async function GET(request) {
 
     // Corrected SQL Query
     const sql = `
-      SELECT DISTINCT id, email
+      SELECT DISTINCT id, email, uniqueid
       FROM (
         -- First condition: Users with source_id = 1
-        SELECT u.id, u.email
+        SELECT u.id, u.email, u.uniqueid
         FROM users u
         JOIN subscribers s ON u.id = s.user_id
         WHERE u.source_id = $1
@@ -24,7 +24,7 @@ export async function GET(request) {
         UNION
 
         -- Second condition: Users who opened emails for campaigns with website_id = 3
-        SELECT u.id, u.email
+        SELECT u.id, u.email, u.uniqueid
         FROM users u
         JOIN subscribers s ON u.id = s.user_id
         JOIN emails_open eo ON u.id = eo.user_id
@@ -36,9 +36,9 @@ export async function GET(request) {
         UNION
 
         -- Third condition: Limited subscribers with source_id = 2
-        SELECT id, email
+        SELECT id, email, uniqueid
         FROM (
-          SELECT u.id, u.email
+          SELECT u.id, u.email, u.uniqueid
           FROM users u
           JOIN subscribers s ON u.id = s.user_id
           WHERE u.source_id = $3
