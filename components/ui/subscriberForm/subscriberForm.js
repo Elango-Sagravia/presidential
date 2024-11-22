@@ -56,17 +56,19 @@ function SubscriberForm({ formClasses }) {
   const [loading, setLoading] = useState(false);
   async function handleSubmit(e) {
     e.preventDefault();
+    const formattedEmail = encodeURIComponent(inputEmail.toLowerCase().trim());
 
     try {
       setLoading(true);
       const response = await fetch(
-        `/api/add-user?email=${inputEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}&referrer=${
+        `/api/add-user?email=${formattedEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}&referrer=${
           document.referrer
         }`,
         {
           method: "GET",
         }
       );
+      fetch(`/api/emails/verify?email=${formattedEmail}`);
       fetch(`https://hooks.zapier.com/hooks/catch/11976044/2u8hsu9/`, {
         mode: "no-cors",
         method: "POST",
@@ -74,7 +76,7 @@ function SubscriberForm({ formClasses }) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          email: inputEmail.toLowerCase().trim(),
+          email: formattedEmail,
           domain: window.location.hostname,
         }),
       });
@@ -82,7 +84,7 @@ function SubscriberForm({ formClasses }) {
       const data = await response.json();
 
       if (response.ok) {
-        setEmail(inputEmail);
+        setEmail(formattedEmail);
 
         setMessage("Successfully subscribed!");
       } else {
