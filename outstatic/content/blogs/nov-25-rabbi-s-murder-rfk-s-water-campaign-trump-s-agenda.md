@@ -1,33 +1,38 @@
 ---
-footerBannerContent: ''
+footerBannerContent: 'On this day in 2020, Argentine football star Diego Maradona, considered one of the greatest footballers of all time, died at age 60.'
 footerBannerTitle: ''
-cutOff: '2'
+cutOff: '9'
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
-coverImage: ''
+coverImage: '/images/missing-israeli-rabbi-found-dead-in-uae-k0Nj.jpg'
 description: ''
 slug: 'nov-25-rabbi-s-murder-rfk-s-water-campaign-trump-s-agenda'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/177857797?v=4'
-status: 'draft'
+status: 'published'
 title: 'Nov 25: Rabbi’s murder, RFK’s water campaign, Trump’s agenda'
 publishedAt: '2024-11-25T13:01:18.293Z'
 ---
 
-**Rabbi murdered in UAE**
+### Rabbi murdered in UAE
+
+![](/images/missing-israeli-rabbi-found-dead-in-uae-c3OD.jpg)
 
 Israel has [confirmed](https://www.bbc.com/news/articles/cwy4j5j7503o) the murder of Rabbi Zvi Kogan, who had been missing in the United Arab Emirates (UAE) since Thursday. Kogan, an envoy of the [Chabad Lubavitch organization](https://www.lubavitch.com/emissary-murdered-in-cold-blood/), was found dead after his car was discovered abandoned an hour’s drive from his home. Israeli authorities, including the Mossad, are working alongside UAE officials to investigate the crime. The UAE has arrested three individuals in connection with the murder.
 
 Israel’s Prime Minister condemned the killing as a “criminal antisemitic terrorist incident,” and President Isaac Herzog called it “a vile, antisemitic attack.” The Israeli government has [issued a warning](https://www.timesofisrael.com/liveblog_entry/israel-reiterates-warning-against-nonessential-travel-to-uae-after-death-of-rabbi/) for citizens traveling to the UAE due to the potential risks, citing ongoing terrorist activity.
 
-**RFK and fluoride water**
+### RFK and fluoride water
+
+![](/images/rfk-has-some-interesting-and-weird-ideas-on-how-to-deal-with-health-policies.-kxMz.jpg)
 
 President-elect Donald Trump has [nominated](https://edition.cnn.com/2024/11/14/politics/robert-f-kennedy-donald-trump-hhs/index.html) Robert F. Kennedy Jr. as his Health and Human Services secretary, focusing on health care in his second term. Kennedy is known for his controversial views on public health, particularly his campaign against [water fluoridation](https://edition.cnn.com/2024/11/23/health/fluoride-drinking-water-dg/index.html) due to concerns over various health issues, including arthritis and neurodevelopmental disorders. While fluoride is added to water to prevent tooth decay, its health effects are debated.
 
 [The World Health Organization](https://www.who.int/docs/default-source/wash-documents/wash-chemicals/fluoride-background-document.pdf) warns that excessive fluoride can lead to dental and skeletal fluorosis. Despite the risks, many studies suggest fluoridation has reduced cavities, particularly in children. Recent research has also questioned its potential impact on children's IQ, although the studies have been questionable. In the U.S., fluoridation decisions are made locally, and while most Americans have [access to fluoridated water](https://www.cdc.gov/fluoridation/php/statistics/index.html), the practice remains controversial.
 
-**Trump’s government overhaul**
+### Trump’s government overhaul
 
 The second Trump administration seeks to [dismantle government structures,](https://eu.usatoday.com/story/news/politics/elections/2024/11/24/trump-vow-to-blowtorch-disrupt-government-finds-appeal-with-americans/76407415007/) appealing to supporters frustrated by bureaucracy. His Cabinet choices aim to reduce government size and address grievances over military involvement and a perceived “deep state.” Polling shows declining public trust in U.S. institutions, which fuels the populist movements Trump supports with his "America First" policies focused on protectionism, limiting immigration, and cutting spending. Critics, like Democratic Rep. Lois Frankel, warn that this could hurt vulnerable populations reliant on programs like SNAP and Medicare, increasing inequalities favoring the wealthy. Trump also plans to eliminate the [Department of Education](https://fortune.com/2024/11/20/trump-dismantle-education-department-what-that-would-mean/).
 
@@ -35,7 +40,7 @@ The administration will likely pursue its agenda through executive orders and bu
 
 ### BRIEFS
 
-#### Global Affairs
+**Global Affairs**
 
 **Far-right candidate Calin Georgescu** leads Romania’s presidential election, [heading to a runoff](https://www.bbc.com/news/articles/c9dlw5pq967o) against pro-Europe Prime Minister Marcel Ciolacu in a race dividing voters between nationalist sovereignty and continued Western alignment.
 
@@ -51,7 +56,7 @@ The administration will likely pursue its agenda through executive orders and bu
 
 **Despite earlier optimistic valuations, Goldman Sachs will write off nearly $900 million** after Swedish battery maker Northvolt filed for Chapter 11 bankruptcy. Northvolt, once Europe’s green transition hope, collapsed with $5.8bn debt and minimal cash reserves [(read more)](https://www-ft-com.ezproxy.depaul.edu/content/22df8cf6-d224-4ce8-8d73-a5e3f995fc2c).
 
-#### Science & Tech
+**Science & Tech**
 
 **A new quantum theory** has allowed scientists to make the first-ever depiction of the [shape of a single photon](https://cosmosmagazine.com/science/physics/photon-shape-light-matter/#:~:text=A%20new%20quantum%20theory%20explaining,single%20light%20particle%2C%20a%20photon.), shedding light on how light and matter interact at the quantum level.
 
