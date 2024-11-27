@@ -394,7 +394,7 @@ export default function AdvertiseForm() {
                       By submitting this form you agree to our{" "}
                       <Link
                         className="underline underline-offset-4"
-                        href="/privacy-policy"
+                        href="/policy/privacy-policy"
                         target="_blank"
                       >
                         Privacy Policy
