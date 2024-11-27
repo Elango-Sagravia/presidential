@@ -76,7 +76,7 @@ function SubscriberForm({ formClasses }) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          email: formattedEmail,
+          email: inputEmail.toLowerCase().trim(),
           domain: window.location.hostname,
         }),
       });
@@ -84,7 +84,7 @@ function SubscriberForm({ formClasses }) {
       const data = await response.json();
 
       if (response.ok) {
-        setEmail(formattedEmail);
+        setEmail(inputEmail.toLowerCase().trim());
 
         setMessage("Successfully subscribed!");
       } else {
