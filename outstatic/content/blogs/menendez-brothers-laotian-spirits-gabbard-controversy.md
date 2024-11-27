@@ -13,14 +13,14 @@ author:
   picture: ''
 status: 'published'
 title: 'Nov 26: Menendez brothers, Laotian spirits, Gabbard controversy'
-publishedAt: '2024-11-27T14:22:34.239Z'
+publishedAt: '2024-11-26T06:22:34.000Z'
 ---
 
 ### Menendez brothers
 
 ![](/images/the-menendez-brothers-are-set-to-appear-in-court-for-the-first-time-in-28-years-E3NT.jpg)
 
-Erik and Lyle Menendez [attended](https://abcnews.go.com/US/menendez-brothers-case-back-court-hearing-petition-review/story?id=116127153) a court hearing regarding their habeas corpus petition, which cites new [evidence](https://www.euronews.com/2024/11/25/judge-to-decide-if-new-evidence-could-set-menendez-brothers-free) of abuse by their father, Jose Menendez. The petition includes testimony from a former Menudo member and a letter from Erik to his cousin, revealing abuse that was not available during their 1996 trial. 
+Erik and Lyle Menendez [attended](https://abcnews.go.com/US/menendez-brothers-case-back-court-hearing-petition-review/story?id=116127153) a court hearing regarding their habeas corpus petition, which cites new [evidence](https://www.euronews.com/2024/11/25/judge-to-decide-if-new-evidence-could-set-menendez-brothers-free) of abuse by their father, Jose Menendez. The petition includes testimony from a former Menudo member and a letter from Erik to his cousin, revealing abuse that was not available during their 1996 trial.
 
 Two [paths](https://www.nbcnews.com/news/us-news/menendez-brothers-free-resentencing-rcna181428) for their potential release are being explored: outgoing Los Angeles DA George Gascón recommended resentencing for parole eligibility, while DA-elect Nathan Hochman plans a full review. The brothers also seek clemency from Governor Gavin Newsom, pending Hochman’s assessment. The next court hearing is set for December 11. The View hosts discussed the case, emphasizing the broader issue of abuse awareness, with [Whoopi Goldberg](https://www.newsweek.com/whoopi-goldberg-view-cases-reviewed-menendez-brothers-released-1991378) noting, “This conversation is bigger than just the Menendez brothers.”
 
@@ -46,7 +46,7 @@ Thousands of supporters of **former Pakistani Prime Minister Imran Khan** [defie
 
 **Taiwan** has detected a [Chinese balloon](https://www.reuters.com/world/asia-pacific/taiwan-reports-chinese-balloon-first-time-six-months-2024-11-25/) off its northern coast, the first incident since April. Spotted near Keelung port at 33,000 feet, the balloon disappeared after two hours without entering Taiwanese airspace, according to Taiwan's Ministry of Defense.
 
-**Business & Finance** 
+**Business & Finance**
 
 **Google's antitrust trial nears conclusion.** Prosecutors allege Google monopolized ad tech markets while Google defends its actions as fair innovation. [Publishers testified](https://www.msn.com/en-us/news/us/google-s-us-antitrust-trial-over-online-ad-empire-draws-to-a-close/ar-AA1uJaFo) they were trapped by Google’s overwhelming dominance.
 
@@ -56,7 +56,7 @@ Thousands of supporters of **former Pakistani Prime Minister Imran Khan** [defie
 
 **Science & Tech**
 
-**The bunkbed conjecture in probability theory** was recently disproven by a team of mathematicians [(read more)](https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/). 
+**The bunkbed conjecture in probability theory** was recently disproven by a team of mathematicians [(read more)](https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/).
 
 **Archaeologists** have made a groundbreaking discovery of [4,000-year-old fish-trapping canals in Belize](https://apnews.com/article/maya-fish-canal-civilization-pyramids-ebec21901049b634ab910d8190cf89ef), uncovering evidence of early landscape manipulation by the predecessors of the ancient Maya civilization.
 
@@ -70,7 +70,7 @@ Thousands of supporters of **former Pakistani Prime Minister Imran Khan** [defie
 
 **Whatnot**
 
-Macon, Georgia, is planning a dramatic way to ring in 2025. On New Year’s Eve, at midnight, the Macon-Bibb County Commission has approved a plan to implode the vacant 16-story Hotel Gordon [(read more)](https://apnews.com/article/macon-georgia-new-years-hotel-implosion-demolition-ff2a2bcdb4dec5a66b536a682855ba4a). 
+Macon, Georgia, is planning a dramatic way to ring in 2025. On New Year’s Eve, at midnight, the Macon-Bibb County Commission has approved a plan to implode the vacant 16-story Hotel Gordon [(read more)](https://apnews.com/article/macon-georgia-new-years-hotel-implosion-demolition-ff2a2bcdb4dec5a66b536a682855ba4a).
 
 A DHL cargo plane operating on behalf of the logistics company crashed near Vilnius International Airport in Lithuania early on Monday, killing at least one person [(read more)](https://www.dw.com/en/dhl-cargo-plane-crashes-near-vilnius-airport-in-lithuania/a-70875160).
 
