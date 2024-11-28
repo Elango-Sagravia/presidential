@@ -3,6 +3,7 @@ emailHtml: ''
 footerBannerContent: 'On this day in 1943, the Tehrān Conference, attended by Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin, opened, with Stalin pressing for an invasion of France.'
 footerBannerTitle: ''
 cutOff: '9'
+latest: 'true'
 relatedArticles: ''
 readTime: '4'
 coverImage: '/images/word-of-the-year-g1Nj.webp'
@@ -20,7 +21,7 @@ publishedAt: '2024-11-28T13:02:53.942Z'
 
 ![](/images/word-of-the-year-c1ND.webp)
 
-“Demure,” a word that surged in popularity over the summer, has been named Dictionary.com’s 2024 [word of the year](https://edition.cnn.com/2024/11/26/style/demure-dictionary-2024-word-of-the-year-hnk-intl/index.html). Usage of the word skyrocketed by 1,200% from January to August, mainly due to TikToker Jools Lebron’s [viral videos](https://www.cosmopolitan.com/entertainment/celebs/a61865984/very-demure-tiktok-trend/). In these satirical clips, Lebron humorously describes her appearance and behavior as “very demure, very mindful” while exaggerating how she presents herself in various situations. 
+“Demure,” a word that surged in popularity over the summer, has been named Dictionary.com’s 2024 [word of the year](https://edition.cnn.com/2024/11/26/style/demure-dictionary-2024-word-of-the-year-hnk-intl/index.html). Usage of the word skyrocketed by 1,200% from January to August, mainly due to TikToker Jools Lebron’s [viral videos](https://www.cosmopolitan.com/entertainment/celebs/a61865984/very-demure-tiktok-trend/). In these satirical clips, Lebron humorously describes her appearance and behavior as “very demure, very mindful” while exaggerating how she presents herself in various situations.
 
 Traditionally, the term is used to describe reserved or modest behavior. It was most commonly cited in Victorian literature read in high school. Now, the word has taken on a new meaning, especially regarding a person’s appearance and actions in public. [Celebrities](https://www.axios.com/2024/08/25/demure-tiktok-trend-business-bandwagon) like Kim Kardashian and Jennifer Lopez have also embraced the trend. “[Brat](https://www.theguardian.com/books/2024/nov/01/brat-wins-collins-dictionary-word-of-the-year-2024#:~:text=Though%20Collins%20already%20defined%20%E2%80%9Cbrat,independent%2C%20and%20hedonistic%20attitude%E2%80%9D.)” was named Collins Dictionary’s 2024 word.
 
@@ -34,9 +35,9 @@ Another emerging trend with Thanksgiving is that more people [opt not](https://w
 
 ### Haaretz sanctioned
 
-Israel’s government [approved a proposal](https://edition.cnn.com/2024/11/25/middleeast/israel-sanctions-haaretz-over-comments-intl-hnk/index.html) by Communications Minister Shlomo Karhi on November 24, 2024, mandating that any government-funded body refrain from communicating with or advertising in [Haaretz](https://www.britannica.com/topic/Haaretz). This decision came in response to editorials criticized for undermining Israel’s legitimacy and self-defense. 
+Israel’s government [approved a proposal](https://edition.cnn.com/2024/11/25/middleeast/israel-sanctions-haaretz-over-comments-intl-hnk/index.html) by Communications Minister Shlomo Karhi on November 24, 2024, mandating that any government-funded body refrain from communicating with or advertising in [Haaretz](https://www.britannica.com/topic/Haaretz). This decision came in response to editorials criticized for undermining Israel’s legitimacy and self-defense.
 
-The immediate trigger was remarks made by Haaretz publisher Amos Schocken during a conference in London, where he expressed support for Palestinian “[freedom fighters](https://www.middleeasteye.net/news/haaretz-disavows-own-publisher-calling-palestinians-freedom-fighters)” and criticized Israeli policies. Schocken later clarified that he was not referring to Hamas but to a broader group. The move has sparked controversy, with Haaretz denouncing it as an attack on press freedom, likening it to authoritarian tactics used by leaders like Putin and Erdogan. Media freedom is one of the talking points used to defend Israel. 
+The immediate trigger was remarks made by Haaretz publisher Amos Schocken during a conference in London, where he expressed support for Palestinian “[freedom fighters](https://www.middleeasteye.net/news/haaretz-disavows-own-publisher-calling-palestinians-freedom-fighters)” and criticized Israeli policies. Schocken later clarified that he was not referring to Hamas but to a broader group. The move has sparked controversy, with Haaretz denouncing it as an attack on press freedom, likening it to authoritarian tactics used by leaders like Putin and Erdogan. Media freedom is one of the talking points used to defend Israel.
 
 Israel used to have the [highest ranking](https://rsf.org/en/region/middle-east-north-africa) in terms of media freedom in the Middle East and Northern Africa. However, it lost its spot to Qatar this year.
 
@@ -46,7 +47,7 @@ Israel used to have the [highest ranking](https://rsf.org/en/region/middle-east-
 
 **The ceasefire** between [Israel and Hezbollah](https://www.bbc.com/news/articles/cx2d3gj9ewxo) came into effect early Wednesday and has sparked a range of [reactions](https://www.bbc.com/news/videos/c2k0ezg2p3go). In Lebanon, residents expressed cautious optimism but noted the devastation caused by the conflict, highlighting destroyed homes and businesses.
 
-**The arrest of a 27-year-old Norwegian** man on [espionage charges](https://www.newsweek.com/norwegian-student-arrested-spying-us-embassy-russia-iran-1990293) for allegedly aiding Russia and Iran has sparked widespread concern and highlighted Norway’s strategic vulnerabilities. 
+**The arrest of a 27-year-old Norwegian** man on [espionage charges](https://www.newsweek.com/norwegian-student-arrested-spying-us-embassy-russia-iran-1990293) for allegedly aiding Russia and Iran has sparked widespread concern and highlighted Norway’s strategic vulnerabilities.
 
 **Business & Finance**
 
@@ -70,7 +71,7 @@ Three people tragically [lost their lives](https://www.ladbible.com/news/world-n
 
 **Whatnot**
 
-What life is like for turkeys at a farm sanctuary [(read here)](https://eu.usatoday.com/story/news/nation/2024/11/27/thanksgiving-turkeys-roam-farm-sanctuary/76575534007/). 
+What life is like for turkeys at a farm sanctuary [(read here)](https://eu.usatoday.com/story/news/nation/2024/11/27/thanksgiving-turkeys-roam-farm-sanctuary/76575534007/).
 
 Elon Musk publicly names government employees he wants to cut [(read more)](https://edition.cnn.com/2024/11/27/business/elon-musk-government-employees-targets/index.html).
 
