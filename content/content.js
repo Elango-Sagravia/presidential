@@ -39,12 +39,6 @@ const content = {
     formSection: {
       left: [
         {
-          title: "General Inquiries",
-          type: "email",
-          href: "contact@presidentialsummary.com",
-          content: "contact@presidentialsummary.com",
-        },
-        {
           title: "Front desk",
           type: "phone",
           href: "+1 (307) 429-0673",
@@ -56,12 +50,7 @@ const content = {
           href: "contact@presidentialsummary.com",
           content: "contact@presidentialsummary.com",
         },
-        {
-          title: "Speak to sales",
-          type: "link",
-          href: "contact@presidentialsummary.com",
-          content: "contact@presidentialsummary.com",
-        },
+        
       ],
     },
   },
@@ -76,20 +65,39 @@ const content = {
       list: [
         {
           question: "How do I subscribe to the newsletter?",
-          answer: `To subscribe, enter your email address in the subscription box and click "Join Free." Our newsletters are sent every weekday, ensuring you stay updated with concise geopolitical news and analysis.`,
+          answer: `Simply enter your email in the subscription box and click "Join Free."`,
         },
         {
           question: "How often will I receive newsletters?",
-          answer: `You will receive our newsletters every weekday, keeping you informed with daily geopolitical insights.`,
+          answer: `The Presidential Summary is delivered six days a week—Monday through Saturday. We take Sundays off, so you can too.`,
         },
         {
           question: "What type of content will be included in the newsletters?",
-          answer: `Our newsletters feature concise summaries of the most important geopolitical news, expert analysis, and key insights to keep you informed.`,
+          answer: `The newsletter features concise summaries of global affairs, geopolitics, macroeconomics, and more. Additionally, it includes quick updates on technology, culture, sports, and lighthearted news.`,
         },
         {
           question: "How do I unsubscribe or change my email preferences?",
           answer: `To unsubscribe or update your email preferences, click the link provided at the bottom of any newsletter email. You can manage your subscription settings there.`,
         },
+      ],
+    },
+    formSection: {
+      left: [
+      
+        {
+          title: "General Inquiries",
+          type: "email",
+          href: "contact@presidentialsummary.com",
+          content: "contact@presidentialsummary.com",
+        },
+        {
+          title: "Front desk",
+          type: "phone",
+          href: "+1 (307) 429-0673",
+          content: "(307) 429-0673",
+        },
+        
+        
       ],
     },
   },

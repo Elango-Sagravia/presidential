@@ -1,3 +1,4 @@
+
 "use client";
 
 import { Input } from "@/components/ui/input";
@@ -116,7 +117,7 @@ export default function ContactForm() {
           }`}
         >
           <div className="flex-1 flex flex-col">
-            {content.advertise.formSection.left.map((el, index) => (
+            {content.contactPage.formSection.left.map((el, index) => (
               <div key={el.title} className={`${cn(index > 0 && "mt-8")}`}>
                 <p className="text-sm text-nl_background font-bold mb-2 uppercase">
                   {el.title}
@@ -324,3 +325,4 @@ export default function ContactForm() {
     </div>
   );
 }
+
