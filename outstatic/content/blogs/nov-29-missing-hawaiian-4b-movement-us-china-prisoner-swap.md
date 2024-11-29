@@ -41,14 +41,15 @@ The US detainees included Mark Swidan, who faced a death sentence on drug charge
 
 ### BRIEFS
 
-**Global Affairs**\
+**Global Affairs**
+
 A Russian [aerial assault](https://www.france24.com/en/europe/20241128-ukraine-s-energy-facilities-under-massive-enemy-attack-minister-says) on **Ukraine’s energy infrastructure** has left over a million households without power, marking the 11th such attack this year. The strikes targeted facilities nationwide, triggering emergency outages across multiple regions, including Kyiv, Lviv, and Odesa.
 
 **The European Parliament** has [approved](https://www.dw.com/en/eu-lawmakers-greenlight-von-der-leyens-top-team/a-70899620) the new European Commission, led by Ursula von der Leyen, with 370 votes in favor, 282 against, and 36 abstentions.
 
 **The ICC's chief prosecutor, Karim Khan**, has sought an [arrest warrant](https://www.dw.com/en/myanmar-icc-prosecutor-seeks-arrest-warrant-for-junta-chief/a-70897488) for Myanmar's junta leader, Min Aung Hlaing, citing reasonable grounds for his criminal responsibility for crimes against humanity against the Rohingya Muslim minority.
 
-### Business & Finance
+**Business & Finance**
 
 **French bond yields briefly surpassed Greece’s** as political turmoil deepened. Macron’s weakened government struggles with reforms, facing no-confidence threats from far-right leader Le Pen. Investors fear rising deficits and [economic instability](https://www.morningstar.com/news/marketwatch/20241128229/frances-bond-yields-rise-above-greeces-for-first-time-amid-political-instability-in-paris), eroding confidence in the Eurozone’s second-largest economy.
 
@@ -65,7 +66,7 @@ New research using **fossilized dinosaur droppings** (coprolites) sheds light on
 
 **Seoul experienced its heaviest November snowfall since 1907,** with 16.1 cm (6.3 inches) [recorded](https://edition.cnn.com/2024/11/27/asia/seoul-korea-record-snow-intl-hnk/index.html) on Wednesday, delighting residents but causing significant disruption.
 
-### Sports & Culture
+**Sports & Culture**
 
 The Netflix documentary It’s All Over The Kiss That Changed Spanish Soccer **sheds light on the deeper systemic issues within Spanish women’s soccer**, amplified by the [infamous kiss](https://edition.cnn.com/2024/11/26/sport/luis-rubiales-spain-netflix-documentary-spt-intl/index.html) between Luis Rubiales and Jennifer Hermoso during the 2023 World Cup final.
 
