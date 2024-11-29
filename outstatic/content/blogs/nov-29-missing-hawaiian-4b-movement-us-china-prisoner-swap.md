@@ -17,7 +17,8 @@ title: 'Nov 29: Missing Hawaiian, 4B movement, US-China prisoner swap'
 publishedAt: '2024-11-29T12:56:34.000Z'
 ---
 
-### Missing Hawaiian woman\
+### Missing Hawaiian woman
+
 \
 ![Missing Hawaiian Woman: Search continues for Hannah Kobayashi, last seen in LA before disappearance and father's death.](/images/hawaii-U4Nz.webp)
 
