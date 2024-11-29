@@ -17,8 +17,7 @@ title: 'Nov 29: Missing Hawaiian, 4B movement, US-China prisoner swap'
 publishedAt: '2024-11-29T12:56:34.000Z'
 ---
 
-### Missing Hawaiian woman
-
+### Missing Hawaiian woman\
 \
 ![Missing Hawaiian Woman: Search continues for Hannah Kobayashi, last seen in LA before disappearance and father's death.](/images/hawaii-U4Nz.webp)
 
@@ -28,7 +27,6 @@ As they continue the search for Hannah, the case raises questions about her circ
 
 ### 4B movement’s influence on America
 
-### \
 ![4B Movement's Influence: South Korean 4B movement gains traction in the U.S., challenging traditional gender roles.](/images/hawaii2-Q0ND.webp)
 
 The 4B movement, originating from South Korea, has recently [gained attention](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314) in the U.S. as a response to the victory of Donald Trump. The rollback of reproductive rights and the cultural acceptance of sexual rhetoric are frustrating young women. This movement is gaining in both Korea and the U.S. because women are agitated by growing violence against women, and societal pressures are increasingly rejecting traditional gender roles. The movement’s core principles are no marriage, no dating, no childbirth, and no sex.
