@@ -15,6 +15,28 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
   console.log(relatedArticles);
   const { isSubscribed } = useAppContext();
   console.log("object :>> ", blog);
+  if (!isSubscribed && blog.emailHtml) {
+    return (
+      <div className="bg-[#f0f1f3] py-10">
+        <div
+          className="archive"
+          dangerouslySetInnerHTML={{ __html: blog.emailHtmlPreview }}
+        />
+        <div className="max-w-[600px] mx-auto bg-white py-16">
+          <SubscriberForm formClasses="w-4/5 flex flex-col gap-2 md:mx-auto bg-white" />
+        </div>
+      </div>
+    );
+  } else if (isSubscribed && blog.emailHtml) {
+    return (
+      <div className="bg-[#f0f1f3] py-10">
+        <div
+          className="archive"
+          dangerouslySetInnerHTML={{ __html: blog.emailHtml }}
+        />
+      </div>
+    );
+  }
   return (
     <>
       <section

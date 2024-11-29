@@ -21,6 +21,8 @@ async function getData(params) {
     "relatedArticles",
     "footerBannerTitle",
     "footerBannerContent",
+    "emailHtml",
+    "emailHtmlPreview",
   ]);
   if (!post) {
     notFound();

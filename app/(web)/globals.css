@@ -87,4 +87,21 @@ input {
   body {
     @apply bg-background text-foreground;
   }
+
+  .archive td {
+    padding-top: 0 !important;
+    padding-bottom: 10px !important;
+  }
+  .archive h3 {
+    margin-bottom: 10px !important;
+  }
+  .archive h2 {
+    font-weight: 600 !important;
+  }
+  .archive td p {
+    margin-bottom: 15px !important;
+  }
+  .archive td p:empty {
+    margin-bottom: 0px !important;
+  }
 }
