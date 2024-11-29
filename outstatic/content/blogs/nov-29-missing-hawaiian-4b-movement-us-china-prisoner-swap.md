@@ -17,7 +17,8 @@ title: 'Nov 29: Missing Hawaiian, 4B movement, US-China prisoner swap'
 publishedAt: '2024-11-29T12:56:34.000Z'
 ---
 
-### Missing Hawaiian woman\
+### Missing Hawaiian woman
+
 \
 ![Missing Hawaiian Woman: Search continues for Hannah Kobayashi, last seen in LA before disappearance and father's death.](/images/hawaii-U4Nz.webp)
 
@@ -25,8 +26,9 @@ The unresolved Hannah Kobayashi’s two-week disappearance, followed by the rece
 
 As they continue the search for Hannah, the case raises questions about her circumstances, including her distressing communications and who she was with during her last known sightings. The family is urging the community to support the ongoing search for Hannah and come forward with any information that could be helpful.
 
-### 4B movement’s influence on America\
-\
+### 4B movement’s influence on America
+
+### \
 ![4B Movement's Influence: South Korean 4B movement gains traction in the U.S., challenging traditional gender roles.](/images/hawaii2-Q0ND.webp)
 
 The 4B movement, originating from South Korea, has recently [gained attention](https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314) in the U.S. as a response to the victory of Donald Trump. The rollback of reproductive rights and the cultural acceptance of sexual rhetoric are frustrating young women. This movement is gaining in both Korea and the U.S. because women are agitated by growing violence against women, and societal pressures are increasingly rejecting traditional gender roles. The movement’s core principles are no marriage, no dating, no childbirth, and no sex.
@@ -76,9 +78,9 @@ Alabama A&M University has [retracted its earlier announcement](https://www.cbsn
 
 **Whatnot**
 
-How a dog contest became a Thanksgiving tradition [(read more)](https://www.npr.org/2024/11/27/nx-s1-5207906/westminster-national-dog-show-thanksgiving-akc). 
+How a dog contest became a Thanksgiving tradition [(read more)](https://www.npr.org/2024/11/27/nx-s1-5207906/westminster-national-dog-show-thanksgiving-akc).
 
 A social media ban for under-16s passes the Australian Senate [(read more)](https://people.com/australia-passes-social-media-ban-for-kids-under-16-8753204).\
-Zuckerberg dines with Trump in Mar-a-Lago [(read more)](https://www.news18.com/world/grateful-for-the-invitation-mark-zuckerberg-dines-with-trump-after-years-of-strained-ties-9138876.html). 
+Zuckerberg dines with Trump in Mar-a-Lago [(read more)](https://www.news18.com/world/grateful-for-the-invitation-mark-zuckerberg-dines-with-trump-after-years-of-strained-ties-9138876.html).
 
 Travel TikTok accounts to scroll while your flight is delayed [(read more)](https://www.thrillist.com/news/nation/best-travel-tiktok-accounts-traveltok).
