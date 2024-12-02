@@ -20,7 +20,7 @@ publishedAt: '2024-12-02T13:06:59.528Z'
 
 President Joe Biden issued a full pardon for his son, Hunter Biden, covering federal gun and tax convictions. Biden cited selective prosecution and political motivations, emphasizing his belief in justice but acknowledging raw politics influenced the cases [(official statement)](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/01/statement-from-president-joe-biden-11/).
 
-**New FBI director**
+### New FBI director
 
 ![Trump nominates Kash Patel as FBI director, sparking controversy over his criticism of the agency](/images/donald-trump-nominates-loyalist-kash-patel-as-fbi-director-UxMj.webp)
 
@@ -28,7 +28,7 @@ Trump’s [nomination](https://edition.cnn.com/2024/11/30/politics/kash-patel-fb
 
 He has openly called for a "housecleaning" of the Justice Department, raising concerns about his potential to politicize the FBI. Following his nomination, Kash Patel [expressed](https://www.msn.com/en-us/news/politics/what-kash-patel-has-said-about-the-fbi/ar-AA1v4uDz?ocid=BingNewsSerp) his gratitude to Trump by claiming that “it is the honor of the lifetime and returning the FBI to its rightful mission: protecting the American people.”
 
-**Greenland opens international airport** 
+### Greenland opens international airport
 
 ![Nuuk International Airport opens in Greenland, enhancing tourism with larger planes, nonstop flights, and economic growth](/images/greenland-opens-major-international-airport-which-could-open-tourism-IxNz.webp)
 
@@ -36,7 +36,7 @@ Greenland is becoming more [accessible](https://edition.cnn.com/2024/11/27/trave
 
 While tourism numbers are expected to rise, officials are focused on finding a balance to avoid [overwhelming](https://www.msn.com/en-us/travel/news/greenland-is-gorgeous-and-uncrowded-now-here-come-the-americans/ar-AA1sIp4J) the region. The opening of Nuuk’s airport is just the first step, as two more airports are planned for 2026, further opening up Greenland for exploration while preserving its unique and remote charm.
 
-**FIFA should compensate** 
+### FIFA should compensate
 
 A FIFA-commissioned report has concluded that FIFA is [responsible](https://www.npr.org/2024/11/30/nx-s1-5211297/soccer-qatar-world-cup-saudi-arabia-human-rights) for compensating migrant workers harmed during the construction of the 2022 World Cup venues in Qatar. The report, released on November 30, acknowledged severe human rights abuses, including worker deaths, injuries, unpaid wages, and crippling debts due to recruitment fees. While FIFA took steps to address human rights concerns, the report found that it indirectly contributed to some of the negative impacts.
 
@@ -54,7 +54,7 @@ The study recommends that FIFA use its $50 million [Qatar legacy fund](https://i
 
 **Business & Finance**
 
-**Black Friday spending in the U.S. shifted online**, with e-commerce sales [growing](https://www.msn.com/en-us/money/other/total-us-black-friday-spending-in-stores-and-online-rose-34-year-over-year-data-shows/ar-AA1v2GPn?ocid=BingNewsSerp) 14.6% year-over-year, while in-store sales increased only 0.7% or declined when adjusted for inflation. 
+**Black Friday spending in the U.S. shifted online**, with e-commerce sales [growing](https://www.msn.com/en-us/money/other/total-us-black-friday-spending-in-stores-and-online-rose-34-year-over-year-data-shows/ar-AA1v2GPn?ocid=BingNewsSerp) 14.6% year-over-year, while in-store sales increased only 0.7% or declined when adjusted for inflation.
 
 **Elon Musk filed an injunction against OpenAI to halt its transition to a for-profit.** Musk [alleges ](https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/)anticompetitive practices, stating that OpenAI required investors in its latest funding round to avoid funding its rivals, including xAI. Musk donated $44 million to OpenAI when it was a non-profit and asserts that its conversion to a for-profit undermines the terms of his donation.
 
@@ -62,7 +62,7 @@ The study recommends that FIFA use its $50 million [Qatar legacy fund](https://i
 
 **Science & Tech**
 
-**The chocolate industry faces significant sustainability challenges**, driven by reduced cocoa yields and rising prices. In [response](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/#:~:text=a%20Sustainability%20Problem.-,Science%20Thinks%20It%27s%20Found%20the%20Answer,and%20improve%20farmer%20revenue%20streams.), a team at ETH Zurich has developed an innovative chocolate-making method. 
+**The chocolate industry faces significant sustainability challenges**, driven by reduced cocoa yields and rising prices. In [response](https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/#:~:text=a%20Sustainability%20Problem.-,Science%20Thinks%20It%27s%20Found%20the%20Answer,and%20improve%20farmer%20revenue%20streams.), a team at ETH Zurich has developed an innovative chocolate-making method.
 
 **The 2024 Atlantic hurricane season** was record-breaking, [highlighting](https://www.theverge.com/2024/11/26/24306445/atlantic-hurricane-season-end-2024-noaa) the urgent need for reliable forecasting and disaster response amid growing political and climate-related challenges.
 
@@ -72,14 +72,14 @@ Researchers have [discovered](https://edition.cnn.com/2024/11/26/science/egyptia
 
 Mikaela Shiffrin’s pursuit of her 100th World Cup win was [interrupted ](https://edition.cnn.com/2024/11/30/sport/mikaela-shiffrin-world-cup-win-100-spt-intl/index.html)on Saturday after **she crashed out of the giant slalom** at the Stifel Killington Cup in Vermont.
 
-Mohammad Rasoulof, an Iranian director and outspoken critic of the regime, risked his life to make[ “The Seed of the Sacred Fig”](https://www.nbcnews.com/pop-culture/the-seed-of-the-sacred-fig-interview-iranian-director-rasoulof-rcna180183) while facing an eight-year prison sentence for his activism. 
+Mohammad Rasoulof, an Iranian director and outspoken critic of the regime, risked his life to make[ “The Seed of the Sacred Fig”](https://www.nbcnews.com/pop-culture/the-seed-of-the-sacred-fig-interview-iranian-director-rasoulof-rcna180183) while facing an eight-year prison sentence for his activism.
 
-#### Whatnot
+**Whatnot**
 
 Crypto entrepreneur eats banana artwork bought for $6.2m [(read more)](https://www.bbc.com/news/articles/cqj051glrr9o).
 
-Vietnam approves north-south highspeed rail link [(read more)](https://www.dw.com/en/vietnam-greenlights-north-south-highspeed-rail-link/a-70928215). 
+Vietnam approves north-south highspeed rail link [(read more)](https://www.dw.com/en/vietnam-greenlights-north-south-highspeed-rail-link/a-70928215).
 
 A Russian stowaway flew from New York to Paris and caused a disturbance [(read more)](https://edition.cnn.com/2024/11/30/us/delta-stowaway-passenger-return-flight/index.html).
 
-The most European city in North America [(read more)](https://dailypassport.com/most-european-city-north-america-quebec-city-canada/). 
+The most European city in North America [(read more)](https://dailypassport.com/most-european-city-north-america-quebec-city-canada/).
