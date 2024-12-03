@@ -12,10 +12,38 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Presidential summary",
-  description: "Stay informed, widen your worldview",
-};
+// export const metadata = {
+//   title: "Presidential summary",
+//   description: "Stay informed, widen your worldview",
+// };
+
+const thumbnail = "/og.png";
+const baseUrl = process.env.url;
+export async function generateMetadata() {
+  const title = "Presidential summary";
+
+  const description = "Stay informed, widen your worldview";
+
+  return {
+    metadataBase: new URL(process.env.url),
+    title,
+    description,
+    themeColor: "black",
+    openGraph: {
+      title,
+      description,
+      url: baseUrl,
+      images: [
+        {
+          url: thumbnail,
+          secureUrl: thumbnail,
+          alt: "Presidential Summary",
+        },
+      ],
+      type: "website",
+    },
+  };
+}
 
 export default function RootLayout({ children }) {
   return (
