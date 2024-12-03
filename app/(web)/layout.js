@@ -28,7 +28,7 @@ export async function generateMetadata() {
     metadataBase: new URL(process.env.url),
     title,
     description,
-    themeColor: "black",
+    themeColor: "#4c305f",
     openGraph: {
       title,
       description,
