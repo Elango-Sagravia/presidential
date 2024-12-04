@@ -104,4 +104,8 @@ input {
   .archive td p:empty {
     margin-bottom: 0px !important;
   }
+  .archive a {
+    color: #0000ee !important;
+    text-decoration: underline;
+  }
 }

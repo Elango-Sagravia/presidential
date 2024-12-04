@@ -20,7 +20,12 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
       <div className="bg-[#f0f1f3] py-10">
         <div
           className="archive"
-          dangerouslySetInnerHTML={{ __html: blog.emailHtmlPreview }}
+          dangerouslySetInnerHTML={{
+            __html: blog.emailHtmlPreview.replaceAll(
+              "<a",
+              `<a target="_blank"`
+            ),
+          }}
         />
         <div className="max-w-[600px] mx-auto bg-white py-16">
           <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" />
@@ -32,7 +37,9 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
       <div className="bg-[#f0f1f3] py-10">
         <div
           className="archive"
-          dangerouslySetInnerHTML={{ __html: blog.emailHtml }}
+          dangerouslySetInnerHTML={{
+            __html: blog.emailHtml.replaceAll("<a", `<a target="_blank"`),
+          }}
         />
       </div>
     );
