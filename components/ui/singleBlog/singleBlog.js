@@ -23,7 +23,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
           dangerouslySetInnerHTML={{ __html: blog.emailHtmlPreview }}
         />
         <div className="max-w-[600px] mx-auto bg-white py-16">
-          <SubscriberForm formClasses="w-4/5 flex flex-col gap-2 md:mx-auto bg-white" />
+          <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" />
         </div>
       </div>
     );
