@@ -12,7 +12,7 @@ description: 'Musk’s pay deal rejection, Notre Dame reopens, COVID lab leak th
 slug: 'musk-pay-deal-rejected-notre-dame-reopens-tracing-covid-origins'
 author:
   name: ''
-  picture: ''
+  picture: '/images/ps-dec-4-1-EyNj.jpg'
 status: 'published'
 title: 'Dec 4: Musk pay deal rejected, Notre Dame reopens, Tracing Covid origins'
 publishedAt: '2024-12-04T18:18:18.044Z'
