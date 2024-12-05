@@ -10,11 +10,25 @@ import content from "@/content/content";
 import SubscriberForm from "../subscriberForm/subscriberForm";
 import RelatedArticles from "../relatedArticles/relatedArticles";
 import garamond from "@/components/garamond";
+import { useSearchParams } from "next/navigation";
+import { useEffect } from "react";
 
 const SingleBlog = ({ blog, relatedArticles, index }) => {
-  console.log(relatedArticles);
-  const { isSubscribed } = useAppContext();
-  console.log("object :>> ", blog);
+  const { isSubscribed, setEmail } = useAppContext();
+
+  const searchParams = useSearchParams();
+  const rawEmail = searchParams.get("email");
+  const email = rawEmail
+    ? decodeURIComponent(rawEmail.toLowerCase().trim())
+    : null;
+  useEffect(() => {
+    if (email) {
+      console.log("Filtered email:", email);
+      setEmail(email);
+      // You can now use the email in your component or for logic
+    }
+  }, []);
+
   if (!isSubscribed && blog.emailHtml) {
     return (
       <div className="bg-[#f0f1f3] py-10">
