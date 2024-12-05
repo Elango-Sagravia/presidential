@@ -6,7 +6,7 @@ import libre from "@/components/libre-font";
 import content from "@/content/content";
 
 export default function Subscribe() {
-  const { isSubscribed } = useAppContext();
+  const { isSubscribed, setEmail, email } = useAppContext();
   return (
     <div className="bg-nl_sec_background">
       <div
@@ -35,9 +35,16 @@ export default function Subscribe() {
                 Thank you for subscribing.
               </h5>
               <p className="sm:w-2/3 mt-4 sm:text-center">
-                We sent you a welcome email. If you don't see it, check your
-                spam or junk folders.
+                We sent you a welcome email to {email}. If you don't see it,
+                check your spam or junk folders.
               </p>
+
+              <button
+                onClick={() => setEmail("")}
+                className="sm:w-2/3 mt-4 sm:text-center underline"
+              >
+                click here to subscribe with different email
+              </button>
             </div>
           )}
 
