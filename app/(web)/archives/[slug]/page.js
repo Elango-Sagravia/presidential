@@ -7,6 +7,7 @@ import {
 } from "outstatic/server";
 import { remark } from "remark";
 import html from "remark-html";
+import { Suspense } from "react";
 
 async function getData(params) {
   const post = getDocumentBySlug("blogs", params.slug, [
@@ -59,7 +60,13 @@ export default async function Home({ params }) {
   );
   return (
     <div>
-      <SingleBlog index={index} blog={blog} relatedArticles={relatedArticles} />
+      <Suspense>
+        <SingleBlog
+          index={index}
+          blog={blog}
+          relatedArticles={relatedArticles}
+        />
+      </Suspense>
     </div>
   );
 }
