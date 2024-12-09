@@ -35,8 +35,8 @@ export default function Subscribe() {
                 Thank you for subscribing.
               </h5>
               <p className="sm:w-2/3 mt-4 sm:text-center">
-                We sent you a welcome email to {email}. If you don't see it,
-                please check your spam or junk folders.
+                We sent you a welcome email to <strong>{email}</strong>. If you
+                don't see it, please check your spam or junk folders.
               </p>
 
               <button
