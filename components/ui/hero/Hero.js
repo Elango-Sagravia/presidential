@@ -34,9 +34,9 @@ export default function Hero() {
               </p>
               <button
                 onClick={() => setEmail("")}
-                className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70 underline"
+                className="mt-4 text-sm w-full md:w-3/4 text-black/70 underline text-left"
               >
-                click here to subscribe with different email
+                Click here to subscribe with different email
               </button>
             </>
           ) : (
