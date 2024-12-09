@@ -36,14 +36,14 @@ export default function Subscribe() {
               </h5>
               <p className="sm:w-2/3 mt-4 sm:text-center">
                 We sent you a welcome email to {email}. If you don't see it,
-                check your spam or junk folders.
+                please check your spam or junk folders.
               </p>
 
               <button
                 onClick={() => setEmail("")}
                 className="sm:w-2/3 mt-4 text-left md:text-center underline"
               >
-                Click here to subscribe with different email
+                Subscribe with different email
               </button>
             </div>
           )}
