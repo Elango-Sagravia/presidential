@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className="hidden lg:block px-4 md:px-16 py-8 bg-black text-white ">
-        <div className="flex justify-between">
+        <div className="flex justify-between ">
           <div className="flex flex-col justify-between">
             <Link href="/">
               <div className="w-32 md:w-48">
@@ -36,6 +36,28 @@ export default function Footer() {
             </div>
           </div>
           <div>
+            <ul className="ml-60">
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://www.threads.net/@presidentialsummary">Threads</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div>
             <ul>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -50,6 +72,10 @@ export default function Footer() {
           </div>
         </div>
       </footer>
+
+      {/* mobile footer */}
+
+
       <footer className="block lg:hidden px-4 md:px-16 py-8 bg-black text-white ">
         <div className="justify-between">
           <div className="flex flex-col justify-between">
@@ -59,7 +85,31 @@ export default function Footer() {
               </div>
             </Link>
           </div>
-          <div className="mt-8">
+
+          <div className="flex">
+            <div className="mt-8">
+            <ul>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://www.threads.net/@presidentialsummary">Threads</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
+              </li>
+              <li className="py-2 hover:underline underline-offset-8">
+                <Link href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
+              </li>
+            </ul>
+          </div>
+          <div className="mt-8 ml-10">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link href="/advertise">Advertise</Link>
@@ -72,6 +122,8 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+           </div>
+         
           <div>
             <ul className="flex mt-4">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
