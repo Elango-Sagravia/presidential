@@ -38,22 +38,22 @@ export default function Footer() {
           <div>
             <ul className="ml-60">
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
+                <Link target="_blank"  href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
+                <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://www.threads.net/@presidentialsummary">Threads</Link>
+                <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
+                <Link target="_blank" href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
+                <Link target="_blank" href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
               </li>
             </ul>
           </div>
@@ -90,22 +90,22 @@ export default function Footer() {
             <div className="mt-8">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
+                <Link target="_blank" href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
+                <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://www.threads.net/@presidentialsummary">Threads</Link>
+                <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
+                <Link target="_blank" href="https://www.reddit.com/user/PresidentialSummary/?rdt=44381">Reddit</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
+                <Link target="_blank" href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
               </li>
             </ul>
           </div>
