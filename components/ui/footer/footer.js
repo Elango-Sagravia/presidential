@@ -87,7 +87,7 @@ export default function Footer() {
           </div>
 
           <div className="flex">
-            <div className="mt-8">
+          <div className="mt-8">
             <ul>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
@@ -125,7 +125,7 @@ export default function Footer() {
            </div>
          
           <div>
-            <ul className="flex mt-4">
+            <ul className="flex mt-8">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
                 <Link href="/policy/privacy-policy">Privacy policy</Link>
               </li>
