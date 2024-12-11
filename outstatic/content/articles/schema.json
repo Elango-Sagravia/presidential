@@ -1,0 +1,13 @@
+{
+  "title": "articles",
+  "type": "object",
+  "properties": {
+    "readTime": {
+      "required": true,
+      "description": "enter the number in minutes",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "readTime"
+    }
+  }
+}
