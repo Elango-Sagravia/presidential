@@ -1,12 +1,13 @@
 ---
-title: 'some-test-blog'
-status: 'published'
+readTime: '10'
+coverImage: '/images/gp-dec-10-1-YwMj.jpg'
+description: 'Lorem ipsum odor amet, consectetuer adipiscing elit. Integer vulputate magna justo cubilia proin dis enim himenaeos. Proin cubilia ex bibendum ex ad vel. Vehicula platea in id volutpat blandit convallis adipiscing natoque feugiat. Integer mauris inceptos inceptos massa tempus. Curae posuere primis cras tempus; ullamcorper sed parturient cursus quisque. Sit placerat conubia arcu vivamus sed habitant. Proin purus tortor orci elementum lorem.'
+slug: 'some-test-blog'
 author:
   name: 'Adeline'
   picture: ''
-slug: 'some-test-blog'
-description: 'Lorem ipsum odor amet, consectetuer adipiscing elit. Integer vulputate magna justo cubilia proin dis enim himenaeos. Proin cubilia ex bibendum ex ad vel. Vehicula platea in id volutpat blandit convallis adipiscing natoque feugiat. Integer mauris inceptos inceptos massa tempus. Curae posuere primis cras tempus; ullamcorper sed parturient cursus quisque. Sit placerat conubia arcu vivamus sed habitant. Proin purus tortor orci elementum lorem.'
-coverImage: '/images/gp-dec-10-1-YwMj.jpg'
+status: 'published'
+title: 'some-test-blog'
 publishedAt: '2024-12-10T14:28:19.194Z'
 ---
 
