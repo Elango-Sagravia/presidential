@@ -1,7 +1,7 @@
 import { query } from "@/lib/db";
 
 export async function GET(request) {
-  const website_id = 1;
+  const website_id = 1; // Fixed website ID
   const { searchParams } = new URL(request.url);
   const date = searchParams.get("date") || "2024-10-08"; // Replace with default or provided date
 
@@ -30,6 +30,31 @@ export async function GET(request) {
        ORDER BY total_subscribers DESC;`,
       [date, 1]
     );
+
+    // Email opens query: Count of emails opened on the given date for website_id = 1
+    const emailOpensResult = await query(
+      `SELECT COUNT(*) AS email_opens
+       FROM emails_open
+       JOIN campaigns ON emails_open.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_open.opened_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailOpensCount = emailOpensResult.rows[0]?.email_opens || 0;
+
+    // Emails unsubscribe query: Count of unsubscribes on the given date for website_id = 1
+    const emailUnsubscribesResult = await query(
+      `SELECT COUNT(*) AS email_unsubscribes
+       FROM emails_unsubscribe
+       JOIN campaigns ON emails_unsubscribe.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_unsubscribe.unsubscribed_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailUnsubscribesCount =
+      emailUnsubscribesResult.rows[0]?.email_unsubscribes || 0;
 
     // Desktop: browser and platform counts
     const browserDesktopResult = await query(
@@ -180,6 +205,14 @@ export async function GET(request) {
         count: sumCounts(tabletBrowsers), // Sum of browsers and platforms counts for tablet
         browsers: tabletBrowsers,
         platforms: tabletPlatforms,
+      },
+      email_opens: {
+        date,
+        count: emailOpensCount,
+      },
+      email_unsubscribes: {
+        date,
+        count: emailUnsubscribesCount,
       },
     };
 
