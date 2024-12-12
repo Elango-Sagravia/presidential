@@ -1,6 +1,6 @@
 ---
 readTime: '10'
-coverImage: '/images/54134374639_3e8f64a00d_o-k1MD.jpg'
+coverImage: '/images/54134374639_3e8f64a00d_o-gzNT.jpg'
 description: 'COP29 in Baku, Azerbaijan, aimed high with a $300 billion-a-year climate action pledge by 2035. However, the conference saw walkouts from many developing and smaller nations, which highlighted glaring inequities and procedural flaws in the negotiations. This account unpacks the $300 billion pledge and the contentious politics surrounding it, and dissects the persistent disparities in climate responsibility, the widening finance gap, and the structural imbalances in global decision-making. It raises critical questions: Is COP29 a genuine turning point in climate action or a symbolic gesture to placate global concerns? Readers are invited to evaluate whether the outcomes represent meaningful progress or an act of greenwashing.'
 slug: 'cop29-the-300-billion-act-of-tokenism'
 author:
@@ -107,33 +107,23 @@ As the world turns its attention to COP30 in Belém, Brazil, it remains clear th
 
 ## Sources:
 
-**Key takeaways from COP29: a contentious finance deal, carbon markets, more** ([https://www.esgdive.com/news/key-takeaways-from-cop29-a-contentious-deal-carbon-markets-more/734082/#:\~:text=The%20final%20COP29%20finance%20deal,least”%20%24300%20billion%20per%20year.](https://www.esgdive.com/news/key-takeaways-from-cop29-a-contentious-deal-carbon-markets-more/734082/#:~:text=The%20final%20COP29%20finance%20deal,least%E2%80%9D%20%24300%20billion%20per%20year.))\
-**Developing nations blast 300 billion USD COP29 climate deal as insufficient**
-
-(<https://www.onmanorama.com/lifestyle/news/2024/11/25/cop29-summit-developing-nations-300-billion-dollars.html>)
-
-**COP29 ends in $300 billion deal, widespread dismay — and eyes toward COP30**
-
-(<https://news.mongabay.com/2024/11/cop29-ends-in-300-billion-deal-widespread-dismay-and-eyes-toward-cop30/>)
-
-**Developing nations blast $300 billion COP29 climate deal as insufficient**
-
-(<https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/>)
-
-**Key aspects of the Paris Agreement**\
-(<https://unfccc.int/most-requested/key-aspects-of-the-paris-agreement>)
-
-**Failures and Successes of Paris Agreement**
-
-([https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:\\\~:text=Despite facing setbacks and failures,historical context and political perspectives.](https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:%5C~:text=Despite%20facing%20setbacks%20and%20failures,historical%20context%20and%20political%20perspectives.))
-
-**Getting a New Climate Finance Deal this Week Hinges on 3 Elements**\
-(<https://www.wri.org/insights/ncqg-climate-finance-negotiations-cop29>)
-
-**Key Outcomes from COP29: Unpacking the New Global Climate Finance Goal and Beyond**\
-(<https://www.wri.org/insights/cop29-outcomes-next-steps>)\
-**The Intergovernmental Panel on Climate Change**\
-([https://www.ipcc.ch](https://www.ipcc.ch/))
-
-**Global Climate Agreements: Successes and Failures \[Overview and History\]**\
-(<https://www.cfr.org/backgrounder/paris-global-climate-change-agreements>)
+ 1. **Key takeaways from COP29: a contentious finance deal, carbon markets, more** \
+    ([https://www.esgdive.com/news/key-takeaways-from-cop29-a-contentious-deal-carbon-markets-more/734082/#:\~:text=The%20final%20COP29%20finance%20deal,least”%20%24300%20billion%20per%20year.](https://www.esgdive.com/news/key-takeaways-from-cop29-a-contentious-deal-carbon-markets-more/734082/#:~:text=The%20final%20COP29%20finance%20deal,least%E2%80%9D%20%24300%20billion%20per%20year.))
+ 2. **Developing nations blast 300 billion USD COP29 climate deal as insufficient**\
+    (<https://www.onmanorama.com/lifestyle/news/2024/11/25/cop29-summit-developing-nations-300-billion-dollars.html>)
+ 3. **COP29 ends in $300 billion deal, widespread dismay — and eyes toward COP30**\
+    (<https://news.mongabay.com/2024/11/cop29-ends-in-300-billion-deal-widespread-dismay-and-eyes-toward-cop30/>)
+ 4. **Developing nations blast $300 billion COP29 climate deal as insufficient**\
+    (<https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/>)
+ 5. **Key aspects of the Paris Agreement**\
+    (<https://unfccc.int/most-requested/key-aspects-of-the-paris-agreement>)
+ 6. **Failures and Successes of Paris Agreement**\
+    ([https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:\\\~:text=Despite facing setbacks and failures,historical context and political perspectives.](https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:%5C~:text=Despite%20facing%20setbacks%20and%20failures,historical%20context%20and%20political%20perspectives.))
+ 7. **Getting a New Climate Finance Deal this Week Hinges on 3 Elements**\
+    (<https://www.wri.org/insights/ncqg-climate-finance-negotiations-cop29>)
+ 8. **Key Outcomes from COP29: Unpacking the New Global Climate Finance Goal and Beyond**\
+    (<https://www.wri.org/insights/cop29-outcomes-next-steps>)
+ 9. **The Intergovernmental Panel on Climate Change**\
+    ([https://www.ipcc.ch](https://www.ipcc.ch/))
+10. **Global Climate Agreements: Successes and Failures \[Overview and History\]**\
+    (<https://www.cfr.org/backgrounder/paris-global-climate-change-agreements>)
