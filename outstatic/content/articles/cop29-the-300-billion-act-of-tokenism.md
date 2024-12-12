@@ -1,7 +1,7 @@
 ---
 readTime: '10'
-coverImage: ''
-description: ''
+coverImage: '/images/54134374639_3e8f64a00d_o-E1Nz.jpg'
+description: 'COP29 in Baku, Azerbaijan, aimed high with a $300 billion-a-year climate action pledge by 2035. However, the conference saw walkouts from many developing and smaller nations, which highlighted glaring inequities and procedural flaws in the negotiations. This account unpacks the $300 billion pledge and the contentious politics surrounding it, and dissects the persistent disparities in climate responsibility, the widening finance gap, and the structural imbalances in global decision-making. It raises critical questions: Is COP29 a genuine turning point in climate action or a symbolic gesture to placate global concerns? Readers are invited to evaluate whether the outcomes represent meaningful progress or an act of greenwashing.'
 slug: 'cop29-the-300-billion-act-of-tokenism'
 author:
   name: ''
@@ -125,7 +125,7 @@ As the world turns its attention to COP30 in Belém, Brazil, it remains clear th
 
 **Failures and Successes of Paris Agreement**
 
-(<https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:\~:text=Despite%20facing%20setbacks%20and%20failures,historical%20context%20and%20political%20perspectives.>)
+([https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:\\\~:text=Despite facing setbacks and failures,historical context and political perspectives.](https://ace-usa.org/blog/research/research-foreignpolicy/failures-and-successes-of-the-paris-agreement/#:%5C~:text=Despite%20facing%20setbacks%20and%20failures,historical%20context%20and%20political%20perspectives.))
 
 **Getting a New Climate Finance Deal this Week Hinges on 3 Elements**\
 (<https://www.wri.org/insights/ncqg-climate-finance-negotiations-cop29>)
