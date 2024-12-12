@@ -6,7 +6,7 @@ slug: 'cop29-the-300-billion-act-of-tokenism'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/191345410?v=4'
-status: 'published'
+status: 'draft'
 title: 'COP29 - The $300 Billion Act of Tokenism?'
 publishedAt: '2024-12-12T10:28:59.345Z'
 ---
@@ -21,7 +21,7 @@ While some hailed the COP29 summit as progress, others, particularly representat
 
 As COP29 commenced, the head of the [World Meteorological Organization (WMO)](https://www.un.org/en/climatechange/reports), a U.N. agency responsible for monitoring weather, climate, and water resources, issued a stark warning to journalists in Baku. Declaring that the planet is on "red alert," he highlighted that 2024 has officially been the hottest year on record, emphasising the urgency of the situation. The [scientific community](https://www.unep.org/resources/adaptation-gap-report-2024) is increasingly alarmed about the rapid acceleration of climate change, with evidence indicating that global warming is advancing faster than current efforts to mitigate it. What was once a hypothetical concern is now an undeniable reality, with its impacts being felt worldwide—most acutely by nations vulnerable to environmental shifts.
 
-![](/images/screenshot-2024-12-11-at-5.59.48-pm-A0OD.png)
+![](/images/screenshot-2024-12-11-at-5.59.48-pm-Y1Nj.png)
 
 *Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
 
