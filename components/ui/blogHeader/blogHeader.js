@@ -6,7 +6,7 @@ export default function BlogHeader() {
       <div
         className={`px-4 md:px-16 pt-20 ${libre.className} leading-tight max-w-7xl mx-auto`}
       >
-        <h1 className="text-4xl text-nl_background">Blogs</h1>
+        <h1 className="text-4xl text-nl_background">Articles</h1>
       </div>
     </div>
   );
