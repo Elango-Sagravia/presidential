@@ -1,6 +1,6 @@
 ---
 readTime: '10'
-coverImage: '/images/54134374639_3e8f64a00d_o-gzNT.jpg'
+coverImage: '/images/54134374639_3e8f64a00d_o-I1OT.jpg'
 description: 'COP29 in Baku, Azerbaijan, aimed high with a $300 billion-a-year climate action pledge by 2035. However, the conference saw walkouts from many developing and smaller nations, which highlighted glaring inequities and procedural flaws in the negotiations. This account unpacks the $300 billion pledge and the contentious politics surrounding it, and dissects the persistent disparities in climate responsibility, the widening finance gap, and the structural imbalances in global decision-making. It raises critical questions: Is COP29 a genuine turning point in climate action or a symbolic gesture to placate global concerns? Readers are invited to evaluate whether the outcomes represent meaningful progress or an act of greenwashing.'
 slug: 'cop29-the-300-billion-act-of-tokenism'
 author:
