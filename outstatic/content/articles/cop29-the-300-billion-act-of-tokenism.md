@@ -33,7 +33,7 @@ While some voiced strong opposition to the summit's outcomes, others sought to h
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQee1guFO9QwShlNmtV_akdtcnAaUKG7anIf-IU3o0AghryYssekgHV7LYZaG-jTHgmlXVi_45x3Iv6jl9TPhDeWSd2OFI2WUVi3CWAG9F9sKEFOUbgjApncROhLfLWZVyISkkiA?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
-*Simon Stiell addresses the closing plenary of COP29 in Baku and waves a copy of the Paris Agreement. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
+*source-Simon Stiell addresses the closing plenary of COP29 in Baku and waves a copy of the Paris Agreement. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
 Though the analogy is compelling, it feels misplaced given the history of missed climate commitments. Consider the track record: at the[ 2009 UN Climate Change Conference in Copenhagen (COP15)](https://unfccc.int/conference/copenhagen-climate-change-conference-december-2009), developed countries committed to mobilizing $100 billion annually by 2020 to support developing nations in combating climate change. The Paris Agreement reaffirmed this target and extended the commitment to 2025 while stipulating that future financial goals should be determined based on the needs and priorities of developing countries. Despite the pledge, the $100 billion [target was not met by the 2020 deadline](https://www.iied.org/countries-missing-deadlines-submit-climate-plans-more-half-time). It was only achieved in 2023, three years later, as reported by the[ Organization for Economic Cooperation and Development (OECD)](https://www.oecd.org/en/topics/sub-issues/climate-finance-and-the-usd-100-billion-goal.html), illustrating a pattern of overdue premiums.
 
@@ -45,7 +45,7 @@ The key issue of the $300 billion COP29 deal lies in the inadequacy of the pledg
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAMOZxE0hVY5siY2t57tKE-dbPaNA3dKUK0vmtNhDHz7K-6p6bMdOe3KlxfLNxXaQZusHO7VTWdQ62ZoMEtSiT3T83yDZMxehbmLb155kQLKN4_QQ0vFrrPY6eDCx-QNhnbRlj?key=Vg_W9OPiul62wjpB3mjP2C9i)**
 
-*Source: [https://www.cfr.org/backgrounder/paris-global-climate-change-agreements](https://www.cfr.org/backgrounder/paris-global-climate-change-agreements)*
+*source-Source: [https://www.cfr.org/backgrounder/paris-global-climate-change-agreements](https://www.cfr.org/backgrounder/paris-global-climate-change-agreements)*
 
 According to the [Independent High-Level Expert Group on Climate Finance](https://unclimatesummit.org/at-least-1-trillion-in-climate-finance-needed-each-year-report-finds/), developing countries require approximately $1 trillion in external climate finance annually by 2030, increasing to $1.3 trillion by 2035. Of this, around $500 billion annually should come from public funding, while the remainder would need to be mobilized from private sources. Public [finance instruments, such as guarantees or co-investments](https://www.wri.org/insights/ncqg-climate-finance-negotiations-cop29), are essential to reduce risks and attract private investment in emerging markets and technologies. While the COP29 finance deal’s $300 billion annual commitment by 2035 marks an increase over previous pledges, it falls dramatically short of the estimated $1.3 trillion needed annually. The proposed $300 billion fund represents only a fraction of what is needed and highlights a significant funding gap. Furthering concerns about the gap between Climate change and Climate action.
 
@@ -59,7 +59,7 @@ Developing countries face a significant shortfall in adaptation funding, with an
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4caO_LRIKA6qJMW_hRrTUkn14cpS2hXXsE38yTuKeSQw6QqJ35EL9-XS16PZjKPykGm-9RjodDuIB0lKiPNyQQDlrsU-9m8pHS8Ucg7KCoL0zEkt2swvltioHDrMQXImnO1280g?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
-*UN Secretary-General António Guterres addressing the High-Level Dialogue on Loss and Damage at COP29 in Baku, Azerbaijan. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
+*source-UN Secretary-General António Guterres addressing the High-Level Dialogue on Loss and Damage at COP29 in Baku, Azerbaijan. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
 The issue of loss and damage was a central focus at COP29, with the [Loss and Damage Fund being fully operationalized during the summit.](https://unfccc.int/news/cop29-un-climate-conference-agrees-to-triple-finance-to-developing-countries-protecting-lives-and) Originally established at COP27, the fund is designed to assist developing countries, especially those most vulnerable to climate impacts, in addressing both economic and non-economic losses. In addition, the [Warsaw International Mechanism for Loss and Damage (WIM)](https://unfccc.int/topics/adaptation-and-resilience/workstreams/loss-and-damage/warsaw-international-mechanism) was reviewed at COP29, emphasizing coordination and complementarity between the new fund and existing climate policies. This review was crucial for streamlining the relationship between new funding mechanisms and ongoing climate actions under the Paris Agreement.
 
@@ -73,7 +73,7 @@ Indian negotiator Chandni Raina recently [pointed out a critical gap](https://ww
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeK04uxS1EVb_fr4gaDb0rMmHvavtTWe3l5gIGaCr_FiadEWLE_AvP5zF5HvJCNCLYypRD6A2bvNPo_sXoGtaQxJA69Zpv7m7L3BiMuJuxDam6dC-5je8FDC5rSKst66ACAZwlz?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
-*Civil Society Actions around the COP29 venue in Baku Azerbaijan, 2024. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
+*source-Civil Society Actions around the COP29 venue in Baku Azerbaijan, 2024. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
 First, there is a [growing call for other wealthy nations](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/), such as emerging economies with higher economic capacities like China, and oil-rich Gulf states, to also contribute significantly to climate finance. Although these nations are not typically bound by the same obligations as developed countries, there is increasing recognition of their wealth and emissions profiles, which make them capable of stepping up their contributions. Some of these nations already contribute to climate action initiatives in developing countries, often through multilateral financial institutions like the [Green Climate Fund.](https://unfccc.int/process/bodies/funds-and-financial-entities/green-climate-fund) Yet, there is a need for more transparent and consistent contributions from these countries to meet the global climate finance goals.
 
@@ -93,7 +93,7 @@ Raina brought attention to these inequalities, criticizing not only the insuffic
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRIRpQDjTB-rvL9kpMZN2d5uFknVorsMgoABh6Z56bLyZ5OTFfNQQM_2SjsQlXr1Mqffyfl44RK7XJsxsQYNi5o7Np25W1R9Pj6ltbIQ1fUTPBYffy8V1paV4zDcd-mfbd8eq-ZA?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
-*Chandni Raina of India as she speaks during a closing plenary meeting at COP29 in Baku. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
+*source-Chandni Raina of India as she speaks during a closing plenary meeting at COP29 in Baku. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
 In an unprecedented act of protest, delegations from these vulnerable nations staged a collective walkout, condemning the lack of meaningful engagement with their concerns. The LDC negotiating bloc, representing 45 nations and over 1.1 billion people, issued a scathing statement describing how years of effort to establish a robust climate finance framework had been effectively dismantled in the final agreement. “Despite exhaustive attempts to collaborate with key players, our appeals were met with indifference,” the [LDC group stated](https://www.firstpost.com/explainers/cop29-un-climate-summit-baku-300-billion-dollars-finance-deal-india-developing-nations-13838480.html). “This casual dismissal not only erodes the fragile trust that sustains these negotiations but also mocks the very spirit of global solidarity.”
 
