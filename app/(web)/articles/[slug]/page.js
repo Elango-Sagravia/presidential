@@ -45,10 +45,10 @@ const customStyles = {
   h3: "text-2xl font-bold mt-8 mb-4",
   p: "mb-4",
   img: "max-w-full h-auto",
-  a: "text-blue-500 hover:text-blue-700",
+  a: "text-blue-500 hover:text-blue-700 break-words",
   ol: "list-decimal list-inside mb-4",
   ul: "list-disc list-inside mb-4",
-  li: "ml-4",
+  li: "ml-4 mb-4",
 };
 export default async function Home({ params }) {
   const blog = await getData(params);
@@ -59,11 +59,17 @@ export default async function Home({ params }) {
     .replace(/<img /g, `<img class="${customStyles.img}" `)
     .replace(/<a /g, `<a target="_blank" class="${customStyles.a}" `)
     .replace(/<ol>/g, `<ol class="${customStyles.ol}">`)
-    .replace(/<li>/g, `<li class="${customStyles.li}">`);
+    .replace(/<li>/g, `<li class="${customStyles.li}">`)
+    .replace(/<p class="mb-4"><em>source-/g, `<p class="mb-4 source-link"><em>`)
+    .replace(/<p class="mb-4">source-/g, `<p class="mb-4 source-link">`)
+    .replace(
+      /<p class="mb-4"><img/g,
+      `<p class="mb-2 md:ml-[-40px] md:mr-[-40px]" style=""><img`
+    );
   return (
     <>
       <section
-        className={`w-full md:w-4/5 lg:w-3/5 px-4 md:px-0 mx-auto pt-16 pb-16 md:pt-32 max-w-7xl `}
+        className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-16 pb-16 md:pt-32 max-w-7xl `}
       >
         <BlogInfo date={blog.publishedAt} read_time={blog.readTime} />
         <BlogTitle title={blog.title} />

@@ -46,7 +46,7 @@ export default async function blogs() {
       <BlogHeader />
       <section className="px-4 md:px-16 pt-4 pb-32 max-w-7xl mx-auto mt-8">
         {blogs.map((blog, index) => (
-          <div key={index} className="flex flex-col md:flex-row mb-12">
+          <div key={index} className="flex flex-col md:flex-row mb-20">
             <div className="md:basis-1/3">
               <Link href={`/articles/${blog.slug}`}>
                 <img src={blog.coverImage} width="100%"></img>
