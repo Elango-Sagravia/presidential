@@ -62,9 +62,13 @@ export default async function blogs() {
                   {blog.readTime} MIN READ
                 </p>
               </div>
-              <h2 className="text:2xl md:text-3xl text-nl_background font-bold mt-2">
+              <Link
+                href={`/articles/${blog.slug}`}
+                className="text:2xl md:text-3xl text-nl_background font-bold
+                mt-2"
+              >
                 {blog.title}
-              </h2>
+              </Link>
               <p className="text-sm md:text-md mt-2">
                 {truncateDescription(blog.description, blog.slug)}
               </p>
