@@ -23,7 +23,7 @@ As COP29 commenced, the head of the [World Meteorological Organization (WMO)](ht
 
 ![](/images/screenshot-2024-12-11-at-5.59.48-pm-EzMD.png)
 
-*Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
+*source-Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
 
 This growing alarm is rooted in the stark realities of our planet's warming trajectory. Scientific data, such as[ ice core analyses](https://nsidc.org/learn/ask-scientist/core-climate-history#:~:text=Once%20an%20air%20mass%20reaches,the%20lower%20the%20ancient%20temperature.), reveal that this increase surpasses anything seen in the past 800,000 years. Such warming is already causing devastating effects, including rising sea levels, extreme heat waves, droughts, storms and cyclones and widespread ecological degradation. With each passing year, the time to reverse or even mitigate these impacts dwindles. At its core, the fight against climate change is a race against time, Yet, despite the overwhelming scientific evidence and the pressing nature of this crisis, the collective response of global leaders and lawmakers remains painfully inadequate.
 
