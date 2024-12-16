@@ -20,3 +20,7 @@ Dolor pellentesque nisl lectus placerat quam torquent dui purus. Curabitur lacin
 Luctus natoque morbi metus venenatis interdum habitant. Nam habitant gravida praesent ligula; maximus vitae eget id. Diam laoreet suspendisse torquent; gravida aenean eleifend aptent malesuada orci. Curabitur etiam finibus a; rutrum elit taciti lorem ante. Ultrices ornare ante scelerisque maximus in nibh suspendisse. Vestibulum vehicula consectetur fusce urna lorem egestas. Maecenas ipsum cubilia suscipit dignissim ridiculus curabitur at. Augue cubilia metus hac egestas; potenti mus tortor parturient porta.
 
 Et cubilia dis consequat tortor fermentum. Vivamus tincidunt facilisi class vulputate malesuada sollicitudin vitae laoreet. Senectus cras nostra libero leo nisl nulla vel. Efficitur parturient ac magna, suscipit fringilla varius vitae amet. Dis hendrerit ante dis sagittis blandit cubilia duis. Neque porttitor diam elementum non purus ridiculus. Ante facilisi molestie lobortis fringilla semper aliquet duis duis. Tellus litora rhoncus vivamus arcu arcu eleifend.
+
+![](/images/an-dec-16-2-AyMT.png)
+
+source-Source:[https://presidentialsummary.com](https://www.presidentialsummary.com/)
