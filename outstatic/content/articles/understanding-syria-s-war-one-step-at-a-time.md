@@ -1,7 +1,7 @@
 ---
 readTime: '10'
 coverImage: '/images/241213-syria-mb-1226-e9b06e.jpg-Y1MD.jpg'
-description: ''
+description: 'On December 8, 2024, the curtain finally fell on Assad''s barbaric dynasty—a regime that had gripped Syria for over five decades. Bashar al-Assad, the once unyielding president, fled to Moscow, leaving behind a fractured nation governed by a complex mosaic of rebel factions. These groups, shaped by years of civil war, reflect the diverse ideological, ethnic, and regional divides that now dominate Syria’s post-Assad power dynamics.'
 slug: 'understanding-syria-s-war-one-step-at-a-time'
 author:
   name: ''
@@ -21,7 +21,7 @@ With the recent fall of Damascus following a ten-day rebel offensive, the moment
 
 However, these peaceful protests were met with shocking brutality. By the sixth month, rights groups reported over 2,000 deaths, prompting immediate international condemnation and calls for intervention. Rights organisations highlighted the regime's widespread use of force against civilians, revealing the [war’s staggering toll](https://www.context.news/socioeconomic-inclusion/syria-the-war-in-numbers). Hundreds of thousands have since been killed, and more than half the country’s prewar population—have been displaced.
 
-## **The Early Opposition: FSA** 
+## **The Early Opposition: FSA**
 
 Back in July 2011, as the uprising was still gathering momentum, the **Free Syrian Army (FSA)** emerged as the first organised opposition force. Formed by defectors from Assad’s military, the FSA aimed to resist the regime’s brutality and push for a democratic Syria.
 
@@ -31,13 +31,13 @@ However, infighting, a lack of funding, and threats from rising rival Islamist g
 
 *source- Fighters in a faction of the Turkey-backed Syrian National Army man at a checkpoint in the Tal Battal area near al-Bab city on 26 September 2023. Source: [https://www.middleeasteye.net/news/who-are-syrian-national-army](https://www.middleeasteye.net/news/who-are-syrian-national-army)*
 
-With [Turkey firmly in control](https://carnegieendowment.org/sada/2018/11/turkeys-gradual-efforts-to-professionalize-syrian-allies?lang=en), the SNA focuses on securing Turkish interests in northern Syria, particularly countering the Islamic State (ISIS) and restraining the growing influence of Syrian Kurdish troops led by the People’s Protection Units (YPG), both of which Ankara labels as terrorist organisations. 
+With [Turkey firmly in control](https://carnegieendowment.org/sada/2018/11/turkeys-gradual-efforts-to-professionalize-syrian-allies?lang=en), the SNA focuses on securing Turkish interests in northern Syria, particularly countering the Islamic State (ISIS) and restraining the growing influence of Syrian Kurdish troops led by the People’s Protection Units (YPG), both of which Ankara labels as terrorist organisations.
 
 ## **Jabhat al-Nusra vs. ISIS**
 
 By early 2012, as Assad’s brutal crackdown intensified, extremists found opportunities to establish themselves amid the unrest stemming from the civil war. [Jabhat al-Nusra](https://www.understandingwar.org/report/jabhat-al-nusra-syria), in January 2012, announced itself as al-Qaeda’s official branch in Syria, with Ayman al-Zawahiri, rallying Sunni Muslims worldwide to join the jihad against Assad. With battlefield victories and a steady influx of recruits, Jabhat al-Nusra rapidly became one of the most [formidable forces](https://www.bbc.com/news/world-middle-east-18048033) opposing the Assad regime.
 
-At the heart of this group’s rise is Abu Mohammed al-Jolani, who is an important figurehead even in the current state of post-Assad Syria. Jolani’s journey began in Iraq, where he worked alongside al-Qaeda leader [Abu Bakr al-Baghdadi](https://www.britannica.com/biography/Abu-Bakr-al-Baghdadi), who sent Jolani to Syria with funding to establish **Jabhat al-Nusra** as a covert extension of AQI. The FSA and the Nusra front differed in their ideological approaches and[ openly disagreed with each other](https://www.bbc.com/news/world-middle-east-18048033). This ideological dispute was a cause for concern as Western leaders who wanted to arm the rebels to fight in their anti-Assad fight worried about the weapons falling into the wrong hands. Western leaders and the FSA fought for democracy in Syria, but Nusra was interested in the creation of Syria as an Islamic state ruled under Sharia. Further confusion and division unravelled in 2013 when Baghdadi unilaterally declared a merger between AQI and Nusra, forming the **Islamic State of Iraq and Syria (ISIS) and Levant (ISIL).** 
+At the heart of this group’s rise is Abu Mohammed al-Jolani, who is an important figurehead even in the current state of post-Assad Syria. Jolani’s journey began in Iraq, where he worked alongside al-Qaeda leader [Abu Bakr al-Baghdadi](https://www.britannica.com/biography/Abu-Bakr-al-Baghdadi), who sent Jolani to Syria with funding to establish **Jabhat al-Nusra** as a covert extension of AQI. The FSA and the Nusra front differed in their ideological approaches and[ openly disagreed with each other](https://www.bbc.com/news/world-middle-east-18048033). This ideological dispute was a cause for concern as Western leaders who wanted to arm the rebels to fight in their anti-Assad fight worried about the weapons falling into the wrong hands. Western leaders and the FSA fought for democracy in Syria, but Nusra was interested in the creation of Syria as an Islamic state ruled under Sharia. Further confusion and division unravelled in 2013 when Baghdadi unilaterally declared a merger between AQI and Nusra, forming the **Islamic State of Iraq and Syria (ISIS) and Levant (ISIL).**
 
 *![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiVjbeceLjREsa8L7BGAosTgqnc3WjTX1XvqTUxv7vjRwzODO95klFvrc7AqFVzK1mSvSf_a2_v_J0TQS_HgrVADuNTA_z_jJcO5sM3mM31QyWrXh9W58nji3ynP2AyRWkdNJWZg?key=adrKalGTQ9hKLNQkuvqexgZT)*
 
@@ -89,24 +89,24 @@ The collapse of the Assad regime has left Syria vulnerable and its future uncert
 
 A transitional government, headed by Mohammed al-Bashir, has pledged stability but faces immense challenges. On December 15, 2024, U.S. Secretary of State Antony Blinken confirmed “direct contact” with HTS rebels—a surprising move given that Washington has designated HTS a terrorist organization since 2018. Western, Arab, and Turkish leaders cautiously support a vision of a unified, peaceful Syria, though their optimism is tempered by the region’s fraught history.
 
-Is this Syria’s long-awaited liberation or the prelude to further chaos? The comparisons are hard to avoid: Afghanistan, Libya, and Yemen—nations where revolution brought fleeting hope, only to descend into turmoil and human rights crises. Whether Syria’s story will echo theirs remains to be seen. For now, the world watches as the next chapter of Syria’s history unfolds—one that could signify either hard-won progress or compromised peace where history stubbornly repeats itself. 
+Is this Syria’s long-awaited liberation or the prelude to further chaos? The comparisons are hard to avoid: Afghanistan, Libya, and Yemen—nations where revolution brought fleeting hope, only to descend into turmoil and human rights crises. Whether Syria’s story will echo theirs remains to be seen. For now, the world watches as the next chapter of Syria’s history unfolds—one that could signify either hard-won progress or compromised peace where history stubbornly repeats itself.
 
 ### **Source**
 
-1. Syria’s Crisis and the Global Response ([https://www.cfr.org/backgrounder/syrias-crisis-and-global-response](https://www.cfr.org/backgrounder/syrias-crisis-and-global-response))
+1. Syria’s Crisis and the Global Response (<https://www.cfr.org/backgrounder/syrias-crisis-and-global-response>)
 
-2. Syria’s Civil War: The Descent Into Horror ([https://www.cfr.org/article/syrias-civil-war](https://www.cfr.org/article/syrias-civil-war))
+2. Syria’s Civil War: The Descent Into Horror (<https://www.cfr.org/article/syrias-civil-war>)
 
-3. After Fall of Assad Dynasty, Syria’s Risky New Moment ([https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment](https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment))
+3. After Fall of Assad Dynasty, Syria’s Risky New Moment (<https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment>)
 
-4. Who are the rebels in Syria? ([https://www.bbc.com/news/articles/ce313jn453zo](https://www.bbc.com/news/articles/ce313jn453zo))
+4. Who are the rebels in Syria? (<https://www.bbc.com/news/articles/ce313jn453zo>)
 
-5. [https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/](https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/)
+5. <https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/>
 
-6. [https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf](https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf)
+6. <https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf>
 
-7. [https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html](https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html)
+7. <https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html>
 
-8. [https://www.usip.org/syria-timeline-uprising-against-assad](https://www.usip.org/syria-timeline-uprising-against-assad)
+8. <https://www.usip.org/syria-timeline-uprising-against-assad>
 
-9. [https://www.middleeasteye.net/news/who-are-syrian-national-army](https://www.middleeasteye.net/news/who-are-syrian-national-army)
+9. <https://www.middleeasteye.net/news/who-are-syrian-national-army>
