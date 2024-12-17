@@ -4,6 +4,7 @@ import Hero from "@/components/ui/hero/Hero";
 import Latest from "@/components/ui/latest/latest";
 import ArchiveHome from "@/components/ui/archiveHome/archiveHome";
 import Subscribe from "@/components/ui/subscribe/subscribe";
+import NewsLetterAd from "@/components/ui/newsletterAd/newsLetterAd";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <Hero />
       <Latest />
       <ArchiveHome />
+      <NewsLetterAd />
       <Subscribe />
     </main>
   );
