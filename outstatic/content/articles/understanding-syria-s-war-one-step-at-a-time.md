@@ -103,7 +103,7 @@ Is this Syria’s long-awaited liberation or the prelude to further chaos? The c
 
 5. <https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/>
 
-6. <https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf>
+6. [https://www.uscirf.gov/sites/default/files/2021-05/Syria Chapter AR2021.pdf](https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf)
 
 7. <https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html>
 
