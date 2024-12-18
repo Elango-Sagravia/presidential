@@ -13,14 +13,14 @@ import { GoogleAnalytics } from "@next/third-parties/google";
 const inter = Inter({ subsets: ["latin"] });
 
 // export const metadata = {
-//   title: "Presidential summary",
+//   title: "Presidential Summary",
 //   description: "Stay informed, widen your worldview",
 // };
 
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Presidential summary";
+  const title = "Presidential Summary";
 
   const description = "Stay informed, widen your worldview";
 
