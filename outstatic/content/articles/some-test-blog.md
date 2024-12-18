@@ -6,7 +6,7 @@ slug: 'some-test-blog'
 author:
   name: 'Adeline'
   picture: ''
-status: 'published'
+status: 'draft'
 title: 'some-test-blog'
 publishedAt: '2024-12-10T14:28:19.194Z'
 ---
