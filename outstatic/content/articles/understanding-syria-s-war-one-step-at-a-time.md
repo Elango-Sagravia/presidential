@@ -93,13 +93,13 @@ Is this Syria’s long-awaited liberation or the prelude to further chaos? The c
 
 ### **Source**
 
-1. Syria’s Crisis and the Global Response (<https://www.cfr.org/backgrounder/syrias-crisis-and-global-response>)
+1. **Syria’s Crisis and the Global Response** (<https://www.cfr.org/backgrounder/syrias-crisis-and-global-response>)
 
-2. Syria’s Civil War: The Descent Into Horror (<https://www.cfr.org/article/syrias-civil-war>)
+2. **Syria’s Civil War: The Descent Into Horror** (<https://www.cfr.org/article/syrias-civil-war>)
 
-3. After Fall of Assad Dynasty, Syria’s Risky New Moment (<https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment>)
+3. **After Fall of Assad Dynasty, Syria’s Risky New Moment** (<https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment>)
 
-4. Who are the rebels in Syria? (<https://www.bbc.com/news/articles/ce313jn453zo>)
+4. **Who are the rebels in Syria?** (<https://www.bbc.com/news/articles/ce313jn453zo>)
 
 5. <https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/>
 
