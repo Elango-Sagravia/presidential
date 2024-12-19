@@ -32,5 +32,19 @@ export default function sitemap() {
     priority: 1,
   }));
 
-  return [...mainPagesUrl, ...postUrls, ...pagesUrl, ...policiesUrl];
+  const articles = getDocumentSlugs("articles");
+  const articlesUrl = articles.map((slug) => ({
+    url: `${process.env.url}/articles/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly",
+    priority: 1,
+  }));
+
+  return [
+    ...mainPagesUrl,
+    ...postUrls,
+    ...pagesUrl,
+    ...policiesUrl,
+    ...articlesUrl,
+  ];
 }
