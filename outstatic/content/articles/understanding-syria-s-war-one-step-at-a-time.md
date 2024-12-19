@@ -93,12 +93,12 @@ Is this Syria’s long-awaited liberation or the prelude to further chaos? The c
 
 ### **Source**
 
-1. Syria’s Crisis and the Global Response ([https://www.cfr.org/backgrounder/syrias-crisis-and-global-response](https://www.cfr.org/backgrounder/syrias-crisis-and-global-response))
-2. Syria’s Civil War: The Descent Into Horror ([https://www.cfr.org/article/syrias-civil-war](https://www.cfr.org/article/syrias-civil-war))
-3. After Fall of Assad Dynasty, Syria’s Risky New Moment ([https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment](https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment))
-4. Who are the rebels in Syria? ([https://www.bbc.com/news/articles/ce313jn453zo](https://www.bbc.com/news/articles/ce313jn453zo))
-5. [https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/](https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/)
-6. [https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf](https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf)
-7. [https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html](https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html)
-8. [https://www.usip.org/syria-timeline-uprising-against-assad](https://www.usip.org/syria-timeline-uprising-against-assad)
-9. [https://www.middleeasteye.net/news/who-are-syrian-national-army](https://www.middleeasteye.net/news/who-are-syrian-national-army)
+1. Syria’s Crisis and the Global Response (<https://www.cfr.org/backgrounder/syrias-crisis-and-global-response>)
+2. Syria’s Civil War: The Descent Into Horror (<https://www.cfr.org/article/syrias-civil-war>)
+3. After Fall of Assad Dynasty, Syria’s Risky New Moment (<https://www.cfr.org/expert-brief/after-fall-assad-dynasty-syrias-risky-new-moment>)
+4. Who are the rebels in Syria? (<https://www.bbc.com/news/articles/ce313jn453zo>)
+5. Turkey and the armed Syrian opposition: From Free Syrian Army to Syrian National Army ( [https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/)](https://www.clingendael.org/pub/2019/strategies-of-turkish-proxy-warfare-in-northern-syria/1-turkey-and-the-armed-syrian-opposition-from-free-syrian-army-to-syrian-national-army/)
+6. SYRIA, USCIRF–Recommended for Countries of Particular Concern (CPC) ([ https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf)](https://www.uscirf.gov/sites/default/files/2021-05/Syria%20Chapter%20AR2021.pdf)
+7. Assad exhibited little of the tackiness of Iraq’s Saddam. But his rule was just as brutal [(https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html](https://edition.cnn.com/2024/12/12/middleeast/assad-brutal-rule-syria-intl-hnk/index.html)
+8. Syria Timeline: Since the Uprising Against Assad[(https://www.usip.org/syria-timeline-uprising-against-assad)](https://www.usip.org/syria-timeline-uprising-against-assad)
+9. The Syrian National Army: Rebels, thugs or Turkish proxies?[(https://www.middleeasteye.net/news/who-are-syrian-national-army)](https://www.middleeasteye.net/news/who-are-syrian-national-army)
