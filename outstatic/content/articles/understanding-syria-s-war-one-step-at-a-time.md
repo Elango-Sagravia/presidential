@@ -77,7 +77,7 @@ After years of stalemate, the conflict reignited in 2024. Rebel forces regrouped
 
 Renewed rebel offensives in 2024 tested the regime’s resilience. With Russia preoccupied by its war in Ukraine and Iran weakened by the Israel-Hamas conflict, Assad’s critical allies faltered. By November, key cities like Aleppo, Homs, and Daraa fell to rebel forces in swift succession.
 
-![](/images/b2-MyMz.jpg)
+![](/images/b2-M0NT.jpg) 
 
 *source- Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
 
