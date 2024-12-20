@@ -45,6 +45,8 @@ async function sendEmail(email, slug) {
 export async function POST(request) {
   try {
     const blogs = await getData();
+    console.log(blogs);
+
     const blog = blogs.find((blog) => blog.latest);
     console.log(blog);
 
