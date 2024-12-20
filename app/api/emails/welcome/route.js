@@ -44,12 +44,15 @@ async function sendEmail(email, slug) {
 // API handler function for POST request
 export async function POST(request) {
   try {
-    const response = await fetch("/api/blogs/latest", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+    const response = await fetch(
+      "https://www.presidentialsummary.com/api/blogs/latest",
+      {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+        },
+      }
+    );
     const blogs = await response.json(); // Parse the response as JSON
     console.log(blogs);
 
