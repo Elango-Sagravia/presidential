@@ -46,6 +46,7 @@ export async function POST(request) {
   try {
     const blogs = await getData();
     const blog = blogs.find((blog) => blog.latest);
+    console.log(blog);
 
     const body = await request.json(); // Parse the request body as JSON
     const { email } = body;
