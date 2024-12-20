@@ -44,7 +44,8 @@ async function sendEmail(email, slug) {
 // API handler function for POST request
 export async function POST(request) {
   try {
-    const blogs = await getData();
+    const response = await fetch("/api/blogs/latest");
+    const blogs = await response.json(); // Parse the response as JSON
     console.log(blogs);
 
     const blog = blogs.find((blog) => blog.latest);
