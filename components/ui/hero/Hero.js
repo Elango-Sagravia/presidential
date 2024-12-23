@@ -7,9 +7,11 @@ import Image from "next/image";
 import libre from "@/components/libre-font";
 import content from "@/content/content";
 import { cn } from "@/lib/utils";
+import NewsletterAd from "../newsletterAd/newsLetterAd";
 
 export default function Hero() {
   const { isSubscribed, email, setEmail } = useAppContext();
+  // console.log(isSubscribed);
 
   return (
     <div className="bg-nl_sec_background">
