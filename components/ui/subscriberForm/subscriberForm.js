@@ -69,7 +69,7 @@ function SubscriberForm({ formClasses }) {
         }
       );
       fetch(`/api/emails/verify?email=${formattedEmail}`);
-      fetch(`https://hooks.zapier.com/hooks/catch/11976044/2u8hsu9/`, {
+      fetch(`/api/emails/welcome`, {
         mode: "no-cors",
         method: "POST",
         headers: {
@@ -77,7 +77,6 @@ function SubscriberForm({ formClasses }) {
         },
         body: JSON.stringify({
           email: inputEmail.toLowerCase().trim(),
-          domain: window.location.hostname,
         }),
       });
 

@@ -7,6 +7,7 @@ import { usePathname } from "next/navigation";
 const routes = [
   { path: "/advertise", name: "Advertise" },
   { path: "/archives", name: "Archives" },
+  { path: "/articles", name: "Articles" },
   { path: "/contact", name: "Contact us" },
 ];
 import {
