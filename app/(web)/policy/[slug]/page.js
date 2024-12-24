@@ -46,7 +46,7 @@ export async function generateMetadata({ params }) {
     title: post.title,
     description: post.description,
     alternates: {
-      canonical: `https://www.presidentialsummary.com/policies/${slug}`,
+      canonical: `https://www.presidentialsummary.com/policy/${slug}`,
     },
   };
 }
