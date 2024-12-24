@@ -25,7 +25,7 @@ import { cn } from "@/lib/utils";
 import countries from "@/data/countries";
 import { SelectItemIndicator, SelectItemText } from "@radix-ui/react-select";
 
-const quarters = ["Q3 2024", "Q4 2024", "Q1 2025", "Q2 2025"];
+const quarters = ["Q4 2024", "Q1 2025", "Q2 2025", "Q3 2025"];
 const stages = [
   "Bootstrap",
   "Venture-backed",
