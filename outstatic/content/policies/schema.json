@@ -1,0 +1,13 @@
+{
+  "title": "policies",
+  "type": "object",
+  "properties": {
+    "seoTitle": {
+      "required": false,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "seo title"
+    }
+  }
+}
