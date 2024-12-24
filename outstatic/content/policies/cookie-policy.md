@@ -7,6 +7,8 @@ author:
 slug: 'cookie-policy'
 description: ''
 coverImage: ''
+seoTitle: 'Cookie Policy - Presidential Summary'
+seoDescription: ''
 publishedAt: '2024-08-20T15:22:36.000Z'
 ---
 
