@@ -7,6 +7,8 @@ author:
 slug: 'refund-policy'
 description: ''
 coverImage: ''
+seoTitle: 'Refund Policy - Presidential Summary'
+seoDescription: 'Presidential Summary’s refund policy for newsletter advertisers prioritizes transparency and client experience '
 publishedAt: '2024-08-20T15:26:11.000Z'
 ---
 
