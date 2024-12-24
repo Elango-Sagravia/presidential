@@ -20,9 +20,9 @@ const inter = Inter({ subsets: ["latin"] });
 const thumbnail = "/og.png";
 const baseUrl = process.env.url;
 export async function generateMetadata() {
-  const title = "Presidential Summary";
+  const title = "Presidential Summary - Stay Informed with Insightful Newsletters";
 
-  const description = "Stay informed, widen your worldview";
+  const description = "Get the latest updates and expert analysis through Presidential Summary newsletters. Stay informed with our trusted news and insights.";
 
   return {
     metadataBase: new URL(process.env.url),

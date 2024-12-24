@@ -39,6 +39,15 @@ function truncateDescription(description, slug) {
     </>
   );
 }
+
+export const metadata = {
+  title: "Presidential Summary Articles - Expert News & Analysis",
+  description:
+    "Explore comprehensive research and expert opinions from Presidential Summary, offering in-depth coverage of international relations and geopolitical affairs.",
+  alternates: {
+    canonical: "https://www.presidentialsummary.com/articles",
+  },
+};
 export default async function blogs() {
   const blogs = await getData();
   return (

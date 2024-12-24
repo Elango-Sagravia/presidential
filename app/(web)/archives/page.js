@@ -18,7 +18,14 @@ async function getData() {
 
   return blogs;
 }
-
+export const metadata = {
+  title: "Presidential Summary Archives - Explore Past Newsletters",
+  description:
+    "Browse the archives of Presidential Summary to access past newsletters. Stay updated with valuable insights and news analysis.",
+  alternates: {
+    canonical: "https://www.presidentialsummary.com/archives",
+  },
+};
 export default async function archive() {
   const blogs = await getData();
   return (

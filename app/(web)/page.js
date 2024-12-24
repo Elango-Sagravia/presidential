@@ -5,6 +5,12 @@ import Latest from "@/components/ui/latest/latest";
 import ArchiveHome from "@/components/ui/archiveHome/archiveHome";
 import Subscribe from "@/components/ui/subscribe/subscribe";
 
+export const metadata = {
+  alternates: {
+    canonical: "https://www.presidentialsummary.com/",
+  },
+};
+
 export default function Home() {
   return (
     <main>
