@@ -7,6 +7,8 @@ author:
 slug: 'terms-of-use'
 description: ''
 coverImage: ''
+seoTitle: 'Terms of Use - Presidential Summary'
+seoDescription: 'Presidential Summary’s terms and conditions lay out the reader’s rights and explain our policies to ensure transparency and accountability.'
 publishedAt: '2024-08-20T15:03:06.000Z'
 ---
 
