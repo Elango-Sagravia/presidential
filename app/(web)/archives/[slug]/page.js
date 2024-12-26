@@ -1,5 +1,5 @@
 import SingleBlog from "@/components/ui/singleBlog/singleBlog";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import {
   getDocumentBySlug,
   getDocuments,
@@ -26,8 +26,7 @@ async function getData(params) {
     "emailHtmlPreview",
   ]);
   if (!post) {
-    // notFound();
-    return null;
+    redirect("/archives");
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
@@ -49,15 +48,6 @@ export async function generateStaticParams() {
 export default async function Home({ params }) {
   const blog = await getData(params);
 
-  // Handle redirect here
-  if (!blog) {
-    return {
-      redirect: {
-        destination: "/archives",
-        permanent: true, // 301 redirect
-      },
-    };
-  }
   const blogs = await getDocuments("blogs", [
     "title",
     "slug",

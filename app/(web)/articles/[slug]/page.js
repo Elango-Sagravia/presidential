@@ -1,7 +1,7 @@
 import BlogInfo from "@/components/ui/blogInfo/blogInfo";
 import BlogTitle from "@/components/ui/blogTitle/blogTitle";
 
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import {
   getDocumentBySlug,
   getDocuments,
@@ -21,8 +21,7 @@ async function getData(params) {
     "readTime",
   ]);
   if (!post) {
-    // notFound();
-    return null;
+    redirect("/articles");
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
@@ -53,14 +52,7 @@ const customStyles = {
 };
 export default async function Home({ params }) {
   const blog = await getData(params);
-  if (!blog) {
-    return {
-      redirect: {
-        destination: "/articles",
-        permanent: true, // 301 redirect
-      },
-    };
-  }
+
   const styledContent = blog.content
     .replace(/<h2>/g, `<h2 class="${customStyles.h2}">`)
     .replace(/<h3>/g, `<h3 class="${customStyles.h3}">`)
