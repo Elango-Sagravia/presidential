@@ -26,13 +26,7 @@ async function getData(params) {
     "emailHtmlPreview",
   ]);
   if (!post) {
-    // Return a 301 redirect to the archives page
-    return {
-      redirect: {
-        destination: "/archives",
-        permanent: true, // 301 redirect
-      },
-    };
+    notFound();
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");

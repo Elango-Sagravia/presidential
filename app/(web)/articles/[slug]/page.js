@@ -21,12 +21,7 @@ async function getData(params) {
     "readTime",
   ]);
   if (!post) {
-    return {
-      redirect: {
-        destination: "/archives",
-        permanent: true, // 301 redirect
-      },
-    };
+    notFound();
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
