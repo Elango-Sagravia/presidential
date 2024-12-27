@@ -28,6 +28,8 @@ We may collect personal information that you voluntarily provide to us when you 
 
 \- Mailing address
 
+We use Leadfeeder to gather information about visitors to our website, including your name, email, designation, and company. This data is collected for sales purposes to help us identify potential leads and improve our sales processes. Leadfeeder tracks this information based on visitor interactions, such as IP addresses, pages visited, and session duration. For more details on how Leadfeeder processes data, please refer to [their privacy policy](https://www.leadfeeder.com/privacy/).
+
 In compliance with the CAN-SPAM Act, all emails sent from us will clearly state who the email is from and provide clear information on how to contact the sender. In addition, all email messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further email communication from us.
 
 **1.2 Non-Personal Information**
