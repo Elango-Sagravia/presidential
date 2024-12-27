@@ -6,6 +6,9 @@ import ArchiveHome from "@/components/ui/archiveHome/archiveHome";
 import Subscribe from "@/components/ui/subscribe/subscribe";
 
 export const metadata = {
+  title: "Presidential Summary - Stay Informed with Insightful Newsletters",
+  description:
+    "Get the latest updates and expert analysis through Presidential Summary newsletters. Stay informed with our trusted news and insights.",
   alternates: {
     canonical: "https://www.presidentialsummary.com/",
   },
