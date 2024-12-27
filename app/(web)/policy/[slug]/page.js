@@ -40,10 +40,10 @@ export async function generateMetadata({ params }) {
   const { slug } = params;
 
   // Fetch metadata for the slug
-  const post = getDocumentBySlug("policies", slug, [
-    "seoTitle, seoDescription",
+  const post = getDocumentBySlug("policies", params.slug, [
+    "seoTitle",
+    "seoDescription",
   ]);
-
   return {
     title: post.seoTitle,
     description: post.seoDescription,
