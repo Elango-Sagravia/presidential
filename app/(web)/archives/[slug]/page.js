@@ -45,6 +45,18 @@ export async function generateStaticParams() {
   const posts = getDocumentSlugs("blogs");
   return posts.map((slug) => ({ slug }));
 }
+
+export async function generateMetadata({ params }) {
+  const { slug } = params;
+
+  // Fetch metadata for the slug
+  const post = getDocumentBySlug("blogs", params.slug, ["slug"]);
+  return {
+    alternates: {
+      canonical: `https://www.presidentialsummary.com/archives/${slug}`,
+    },
+  };
+}
 export default async function Home({ params }) {
   const blog = await getData(params);
 
