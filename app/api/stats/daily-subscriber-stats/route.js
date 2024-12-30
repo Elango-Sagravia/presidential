@@ -136,6 +136,16 @@ export async function GET(request) {
        ORDER BY total_subscribers DESC;`,
       [date, 1]
     );
+    const emailSentResult = await query(
+      `SELECT COUNT(*) AS email_sent
+       FROM emails_sent
+       JOIN campaigns ON emails_sent.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1
+       AND DATE(emails_sent.created_at) = $2;`,
+      [website_id, date]
+    );
+
+    const emailSentCount = emailSentResult.rows[0]?.email_sent || 0;
 
     // Helper function to sum up counts
     const sumCounts = (list) => list.reduce((acc, row) => acc + row.count, 0);
@@ -213,6 +223,10 @@ export async function GET(request) {
       email_unsubscribes: {
         date,
         count: emailUnsubscribesCount,
+      },
+      email_sent: {
+        date,
+        count: emailSentCount, // Add the count of emails sent
       },
     };
 
