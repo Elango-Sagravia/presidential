@@ -36,6 +36,18 @@ export async function markdownToHtml(markdown) {
   const result = await remark().use(html).process(markdown);
   return result.toString();
 }
+
+export async function generateMetadata({ params }) {
+  const { slug } = params;
+
+  // Fetch metadata for the slug
+  const post = getDocumentBySlug("articles", params.slug, ["slug"]);
+  return {
+    alternates: {
+      canonical: `https://www.presidentialsummary.com/articles/${slug}`,
+    },
+  };
+}
 export async function generateStaticParams() {
   const posts = getDocumentSlugs("articles");
   return posts.map((slug) => ({ slug }));
