@@ -68,7 +68,7 @@ function SubscriberForm({ formClasses }) {
           method: "GET",
         }
       );
-      fetch(`/api/emails/verify?email=${formattedEmail}`);
+      // fetch(`/api/emails/verify?email=${formattedEmail}`);
       fetch(`/api/emails/welcome`, {
         mode: "no-cors",
         method: "POST",

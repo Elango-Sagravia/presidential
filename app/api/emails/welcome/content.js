@@ -44,10 +44,14 @@ export const emailContent = `<!doctype html>
     <style type="text/css">
       @media only screen and (min-width:480px) {
         .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-10 { width:10% !important; max-width: 10%; }
+.mj-column-per-90 { width:90% !important; max-width: 90%; }
       }
     </style>
     <style media="screen and (min-width:480px)">
       .moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-10 { width:10% !important; max-width: 10%; }
+.moz-text-html .mj-column-per-90 { width:90% !important; max-width: 90%; }
     </style>
     
   
@@ -244,135 +248,6 @@ export const emailContent = `<!doctype html>
       <div
          style="height:10px;line-height:10px;"
       >&#8202;</div>
-    <!-- Spotlight -->
-      
-      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    
-      
-      <div  class="mj_fsection" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-        
-        <table
-           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
-        >
-          <tbody>
-            <tr>
-              <td
-                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
-              >
-                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="" ><![endif]-->
-            
-      <div
-         style="height:0px;line-height:0px;"
-      >&#8202;</div>
-    
-          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-            
-      <div
-         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
-      >
-        
-      <table
-         border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#ffffff;vertical-align:top;" width="100%"
-      >
-        <tbody>
-          
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 12px 0px 12px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:white;"
-      ><h2 style="
-          color:#4D3060;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #4D3060;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">INTRO</h2></div>
-    
-                </td>
-              </tr>
-            
-        </tbody>
-      </table>
-    
-      </div>
-    
-          <!--[if mso | IE]></td></tr></table><![endif]-->
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        
-      </div>
-    
-      
-      <!--[if mso | IE]></td></tr></table><![endif]-->
-    
-    <!-- Spotlight contents --><!-- Content sections -->
-      
-      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
-    
-      
-      <div  style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
-        
-        <table
-           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
-        >
-          <tbody>
-            <tr>
-              <td
-                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
-              >
-                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
-            
-      <div
-         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
-      >
-        
-      <table
-         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
-      >
-        <tbody>
-          
-              <tr>
-                <td
-                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
-                >
-                  
-      <div
-         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4">We belong to <a href="https://www.sagravia.com/" target="_blank">Sagravia</a>, a network of specialized newsletters that keeps you informed and entertained. Presidential Summary was the very first newsletter launched by Sagravia. Like all great things, we started small—just a few stories handpicked to deliver the most crucial news of the day. But with time, research, and a commitment to quality, we grew into a trusted source for global affairs and more.</p></div>
-    
-                </td>
-              </tr>
-            
-        </tbody>
-      </table>
-    
-      </div>
-    
-          <!--[if mso | IE]></td></tr></table><![endif]-->
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        
-      </div>
-    
-      
-      <!--[if mso | IE]></td></tr></table><![endif]-->
-    
-    
-      <div
-         style="height:10px;line-height:10px;"
-      >&#8202;</div>
     <!-- Spotlight 2 -->
       
       <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
@@ -504,9 +379,9 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.presidentialsummary.com/archives/%slug%?email=test@test.com" 
+              href="https://www.presidentialsummary.com/archives/%slug%" 
               target="_blank"
-             >Check the latest issue</a></div>
+             >Check out our latest issue</a></div>
     
                 </td>
               </tr>
@@ -530,8 +405,414 @@ export const emailContent = `<!doctype html>
                   
       <div
          style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
-      ><p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, you will receive another email with instructions on how to add us to your safelist.</p>
-          <p style="font-size: 16px; line-height: 1.4">Happy reading!</p></div>
+      ><p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, please verify your email by following the instructions below.</p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    
+    
+      <div
+         style="height:10px;line-height:10px;"
+      >&#8202;</div>
+    
+      
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="mj_fsection-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div  class="mj_fsection" style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        
+        <table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
+        >
+          <tbody>
+            <tr>
+              <td
+                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="" ><![endif]-->
+            
+      <div
+         style="height:0px;line-height:0px;"
+      >&#8202;</div>
+    
+          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+            
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#ffffff;vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px 0px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:white;"
+      ><h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">VERIFY</h2></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div  style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        
+        <table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
+        >
+          <tbody>
+            <tr>
+              <td
+                 style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"
+              >
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+            
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          <!-- Main Instructions -->
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p></div>
+    
+                </td>
+              </tr>
+            <!-- Verify Button -->
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><a style="
+              display:block;
+              background:#4D3060;
+              font-size: 16px;
+              line-height: 1.5;
+              padding: 10px;
+              text-align: center;
+              width: 100px; 
+              margin: 0 auto;
+              border-radius: 0px;
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.presidentialsummary.com/verified" 
+              target="_blank"
+             >Verify</a></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:16px;line-height:16px;"
+      >&#8202;</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4; "> To ensure every issue of Presidential Summary reaches your inbox, simply reply with ‘<strong>hello</strong>’ or follow the steps below to whitelist our email address. </p></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:4px;line-height:4px;"
+      >&#8202;</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;  ">
+            <strong>Gmail users:</strong> Move us to your Primary inbox.
+          </p></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:4px;line-height:4px;"
+      >&#8202;</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;"
+      >
+        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:60px;" ><![endif]-->
+                
+      <div
+         class="mj-column-per-10 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:10%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="right" style="font-size:0px;padding:0 10px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:right;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">-</p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+              <!--[if mso | IE]></td><td style="vertical-align:top;width:540px;" ><![endif]-->
+                
+      <div
+         class="mj-column-per-90 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:90%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:0 10px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">
+                <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
+              </p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+      </div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;"
+      >
+        <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:60px;" ><![endif]-->
+                
+      <div
+         class="mj-column-per-10 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:10%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="right" style="font-size:0px;padding:0 10px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:right;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">-</p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+              <!--[if mso | IE]></td><td style="vertical-align:top;width:540px;" ><![endif]-->
+                
+      <div
+         class="mj-column-per-90 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:90%;"
+      >
+        
+      <table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      >
+        <tbody>
+          
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:0 10px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">
+                <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
+              </p></div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+      </div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:10px;line-height:10px;"
+      >&#8202;</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;">
+            <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
+          </p></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   style="font-size:0px;word-break:break-word;"
+                >
+                  
+      <div
+         style="height:4px;line-height:4px;"
+      >&#8202;</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td
+                   align="left" style="font-size:0px;padding:10px 12px;word-break:break-word;"
+                >
+                  
+      <div
+         style="font-family:Roboto+Serif;font-size:13px;line-height:1;text-align:left;color:#000000;"
+      ><p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.presidentialsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p></div>
     
                 </td>
               </tr>
