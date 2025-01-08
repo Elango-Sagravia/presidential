@@ -8,21 +8,20 @@ async function getData() {
   return blogs;
 }
 // Create a transporter for Gmail
-const transporter = nodemailer.createTransport({
-  service: "Gmail", // Use Gmail service
-  host: "smtp.gmail.com",
+let transporter = nodemailer.createTransport({
+  host: "email-smtp.us-west-1.amazonaws.com",
   port: 465,
   secure: true, // Use TLS
   auth: {
-    user: "no-reply@sagravia.com", // Your Gmail address
-    pass: "okxv ymta sdzb akwm", // Your Gmail App Password
+    user: process.env.SMTP_USERNAME, // Your email address
+    pass: process.env.SMTP_PASSWORD, // Your email password
   },
 });
 
 // Function to send an email
 async function sendEmail(email, slug) {
   let mailOptions = {
-    from: '"Presidential Summary" <no-reply@presidentialsummary.com>', // Sender email address
+    from: '"Presidential Summary" <no-reply@mail.presidentialsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Welcome to Presidential Summary!",
