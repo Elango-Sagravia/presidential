@@ -1,5 +1,11 @@
 import { query } from "@/lib/db";
 
+function containsDomain(email, domains) {
+  return domains.some((domain) => email.includes(domain));
+}
+
+const domains = ["yahoo.com", "ymail.com", "aol.com", "rocketmail.com"];
+
 export async function GET(request) {
   try {
     const { searchParams } = new URL(request.url);
@@ -58,10 +64,15 @@ export async function GET(request) {
     ]);
 
     // Return the results as JSON
-    return new Response(JSON.stringify(results.rows), {
-      status: 200,
-      headers: { "Content-Type": "application/json" },
-    });
+    return new Response(
+      JSON.stringify(
+        results.rows.filter((row) => !containsDomain(row.email, domains))
+      ),
+      {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
+      }
+    );
   } catch (error) {
     console.error("Error fetching data:", error);
     return new Response(JSON.stringify({ error: "Internal Server Error" }), {
