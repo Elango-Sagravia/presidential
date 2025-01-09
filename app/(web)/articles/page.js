@@ -58,7 +58,7 @@ export default async function blogs() {
           <div key={index} className="flex flex-col md:flex-row mb-20">
             <div className="md:basis-1/3">
               <Link href={`/articles/${blog.slug}`}>
-                <img src={blog.coverImage} width="100%"></img>
+                <img src={blog.coverImage} width="100%" alt={blog.title}></img>
               </Link>
             </div>
             <div className="md:basis-1/2 md:pl-8">
