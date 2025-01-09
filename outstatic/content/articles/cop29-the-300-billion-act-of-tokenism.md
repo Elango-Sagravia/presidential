@@ -21,7 +21,7 @@ While some hailed the COP29 summit as progress, others, particularly representat
 
 As COP29 commenced, the head of the [World Meteorological Organization (WMO)](https://www.un.org/en/climatechange/reports), a U.N. agency responsible for monitoring weather, climate, and water resources, issued a stark warning to journalists in Baku. Declaring that the planet is on "red alert," he highlighted that 2024 has officially been the hottest year on record, emphasising the urgency of the situation. The [scientific community](https://www.unep.org/resources/adaptation-gap-report-2024) is increasingly alarmed about the rapid acceleration of climate change, with evidence indicating that global warming is advancing faster than current efforts to mitigate it. What was once a hypothetical concern is now an undeniable reality, with its impacts being felt worldwide—most acutely by nations vulnerable to environmental shifts.
 
-![](/images/screenshot-2024-12-11-at-5.59.48-pm-EzMD.png)
+![The Legacy of Missed Climate Deadlines](/images/screenshot-2024-12-11-at-5.59.48-pm-EzMD.png)
 
 *source-Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
 
@@ -31,7 +31,7 @@ This inadequacy was sharply criticised by Indian delegate [Chandni Raina](https:
 
 While some voiced strong opposition to the summit's outcomes, others sought to highlight its merits and potential. [UN chief Simon Stiell](https://www.firstpost.com/explainers/cop29-un-climate-summit-baku-300-billion-dollars-finance-deal-india-developing-nations-13838480.html) acknowledged the complexity of the negotiations and praised the outcome, calling it "an insurance policy for humanity against global warming." However, he also cautioned, "Like any insurance policy, it only works if the premiums are paid in full and on time."
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQee1guFO9QwShlNmtV_akdtcnAaUKG7anIf-IU3o0AghryYssekgHV7LYZaG-jTHgmlXVi_45x3Iv6jl9TPhDeWSd2OFI2WUVi3CWAG9F9sKEFOUbgjApncROhLfLWZVyISkkiA?key=Vg_W9OPiul62wjpB3mjP2C9i)
+![Simon Stiell addresses the closing plenary of COP29 in Baku and waves a copy of the Paris Agreement](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQee1guFO9QwShlNmtV_akdtcnAaUKG7anIf-IU3o0AghryYssekgHV7LYZaG-jTHgmlXVi_45x3Iv6jl9TPhDeWSd2OFI2WUVi3CWAG9F9sKEFOUbgjApncROhLfLWZVyISkkiA?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
 *source-Simon Stiell addresses the closing plenary of COP29 in Baku and waves a copy of the Paris Agreement. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
@@ -43,7 +43,7 @@ Delayed climate action comes with a cost, one that compounds over time. While co
 
 The key issue of the $300 billion COP29 deal lies in the inadequacy of the pledged amount compared to the expectations of developing nations. Wealthy countries, the primary historical contributors to greenhouse gas emissions, have committed to providing $300 billion annually by 2035—far less than the $1.3 trillion sought by developing nations. Experts have emphasized that this higher figure is crucial to address climate challenges effectively as ​​this figure aims to support both mitigation efforts (reducing emissions) and adaptation strategies (addressing climate change impacts). According to the [World Resources Institute, ](https://www.wri.org/news/statement-cop29-finance-deal-downpayment-safer-more-equitable-future)$1.3 trillion per year is required to transition to clean energy, build resilient infrastructure, and address loss and damage caused by climate change.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAMOZxE0hVY5siY2t57tKE-dbPaNA3dKUK0vmtNhDHz7K-6p6bMdOe3KlxfLNxXaQZusHO7VTWdQ62ZoMEtSiT3T83yDZMxehbmLb155kQLKN4_QQ0vFrrPY6eDCx-QNhnbRlj?key=Vg_W9OPiul62wjpB3mjP2C9i)**
+**![Climate Finance Gap: $300 Billion vs. $1.3 Trillion](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAMOZxE0hVY5siY2t57tKE-dbPaNA3dKUK0vmtNhDHz7K-6p6bMdOe3KlxfLNxXaQZusHO7VTWdQ62ZoMEtSiT3T83yDZMxehbmLb155kQLKN4_QQ0vFrrPY6eDCx-QNhnbRlj?key=Vg_W9OPiul62wjpB3mjP2C9i)**
 
 *source-Source: [https://www.cfr.org/backgrounder/paris-global-climate-change-agreements](https://www.cfr.org/backgrounder/paris-global-climate-change-agreements)*
 
@@ -57,7 +57,7 @@ In climate finance, adaptation and loss and damage (L&D) funds are essential com
 
 Developing countries face a significant shortfall in adaptation funding, with an estimated gap ranging between $194 billion and $366 billion annually. As [Obed Koringo, climate policy adviser at CARE International,](https://www.care.org/media-and-press/cop29-the-agreement-fails-developing-countries-struggle-against-climate-change/) emphasized, "Adaptation is an essential lifeline for vulnerable communities, yet the Global Goal on Adaptation still lacks the crucial means of implementation." This lack of adequate funding poses a severe challenge, particularly for the [most vulnerable nations](https://www.unep.org/news-and-stories/press-release/climate-impacts-accelerate-finance-gap-adaptation-efforts-least-50), where equitable distribution and favourable terms are critical for their survival. Furthermore, there is a continued reliance on unsustainable debt structures, which must be addressed for long-term viability. Despite the urgency, the[ Global Goal on Adaptation (GGA)](https://unfccc.int/topics/adaptation-and-resilience/workstreams/gga) lacks measurable "means of implementation," with negotiators debating whether to use quantifiable indicators or broader "enablers" such as governance and transparency. Negotiators were meant to make further progress at COP29 by selecting indicators, but discussions were derailed. While a technical workshop planned for 2025 aims to develop adaptation indicators, the need for actionable,[ measurable support is urgent](https://reliefweb.int/report/world/adaptation-gap-report-2023-underfinanced-underprepared-inadequate-investment-and-planning-climate-adaptation-leaves-world-exposed-enru). The current systems often exacerbate inequalities by imposing lengthy processes and conditions that delay the delivery of critical support.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4caO_LRIKA6qJMW_hRrTUkn14cpS2hXXsE38yTuKeSQw6QqJ35EL9-XS16PZjKPykGm-9RjodDuIB0lKiPNyQQDlrsU-9m8pHS8Ucg7KCoL0zEkt2swvltioHDrMQXImnO1280g?key=Vg_W9OPiul62wjpB3mjP2C9i)
+![UN Secretary-General António Guterres addressing the High-Level Dialogue on Loss and Damage at COP29 in Baku, Azerbaijan](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4caO_LRIKA6qJMW_hRrTUkn14cpS2hXXsE38yTuKeSQw6QqJ35EL9-XS16PZjKPykGm-9RjodDuIB0lKiPNyQQDlrsU-9m8pHS8Ucg7KCoL0zEkt2swvltioHDrMQXImnO1280g?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
 *source-UN Secretary-General António Guterres addressing the High-Level Dialogue on Loss and Damage at COP29 in Baku, Azerbaijan. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
@@ -71,7 +71,7 @@ The [principle of Common but Differentiated Responsibilities (CBDR) ](https://ww
 
 Indian negotiator Chandni Raina recently [pointed out a critical gap](https://www.reuters.com/sustainability/sustainable-finance-reporting/wealthy-countries-back-raising-cop29-climate-deal-300-billion-sources-say-2024-11-23/), stating that the $300 billion climate finance pledge “does not address the needs and priorities of developing countries.” She noted that this amount is incompatible with the principle of CBDR, particularly as it avoids concrete demands such as region-specific targets, income-based allocations, or adaptation-focused spending. Furthering the belief that the lack of concrete and targeted actions suggests token gestures rather than a substantial step toward global climate equity.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeK04uxS1EVb_fr4gaDb0rMmHvavtTWe3l5gIGaCr_FiadEWLE_AvP5zF5HvJCNCLYypRD6A2bvNPo_sXoGtaQxJA69Zpv7m7L3BiMuJuxDam6dC-5je8FDC5rSKst66ACAZwlz?key=Vg_W9OPiul62wjpB3mjP2C9i)
+![Civil Society Actions around the COP29 venue in Baku Azerbaijan, 2024.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeK04uxS1EVb_fr4gaDb0rMmHvavtTWe3l5gIGaCr_FiadEWLE_AvP5zF5HvJCNCLYypRD6A2bvNPo_sXoGtaQxJA69Zpv7m7L3BiMuJuxDam6dC-5je8FDC5rSKst66ACAZwlz?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
 *source-Civil Society Actions around the COP29 venue in Baku Azerbaijan, 2024. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
@@ -91,7 +91,7 @@ The negotiations at COP29 also highlighted a troubling power imbalance, with fos
 
 Raina brought attention to these inequalities, criticizing not only the insufficient financial commitments but also procedural issues. She revealed that the[ Indian delegation was denied an opportunity to speak ](https://www.business-standard.com/india-news/too-little-too-distant-india-rejects-300-bn-climate-finance-at-cop29-124112400036_1.html)before the deal was adopted—an incident emblematic of the systemic power imbalances dominating climate talks. This sentiment of exclusion was echoed by delegates from Least Developed Countries (LDCs) and Small Island Developing States (SIDS), many of whom felt sidelined throughout the negotiation process.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRIRpQDjTB-rvL9kpMZN2d5uFknVorsMgoABh6Z56bLyZ5OTFfNQQM_2SjsQlXr1Mqffyfl44RK7XJsxsQYNi5o7Np25W1R9Pj6ltbIQ1fUTPBYffy8V1paV4zDcd-mfbd8eq-ZA?key=Vg_W9OPiul62wjpB3mjP2C9i)
+![Chandni Raina of India as she speaks during a closing plenary meeting at COP29 in Baku.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRIRpQDjTB-rvL9kpMZN2d5uFknVorsMgoABh6Z56bLyZ5OTFfNQQM_2SjsQlXr1Mqffyfl44RK7XJsxsQYNi5o7Np25W1R9Pj6ltbIQ1fUTPBYffy8V1paV4zDcd-mfbd8eq-ZA?key=Vg_W9OPiul62wjpB3mjP2C9i)
 
 *source-Chandni Raina of India as she speaks during a closing plenary meeting at COP29 in Baku. Source: [https://www.flickr.com/photos/unfccc/albums/](https://www.flickr.com/photos/unfccc/albums/)*
 
