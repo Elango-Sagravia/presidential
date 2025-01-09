@@ -13,7 +13,7 @@ publishedAt: '2024-12-17T09:03:07.552Z'
 
 On December 8, 2024, the curtain finally fell on Assad's barbaric dynasty—a regime that had gripped Syria for over five decades. Bashar al-Assad, the once unyielding president, [fled to Moscow,](https://abcnews.go.com/International/syrian-rebels-claimed-4-cities-24-hours-now/story?id=116562929) leaving behind a fractured nation governed by a complex mosaic of rebel factions. These groups, shaped by years of civil war, reflect the diverse ideological, ethnic, and regional divides that now dominate Syria’s post-Assad power dynamics.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_CYTV1QKOlCJPpYVs6wuDA6dUxl-17D9reZzSH3K3V548JaTcfDAmjLstJbhskZ9fMwVDOPT9t2aKELkzhAcaLc-jNg4mSsqUuKts0xHC4EnRL-4k4G1HypQnbdnhrg8eCVH72A?key=adrKalGTQ9hKLNQkuvqexgZT)
+![Syrians remove a statue of Hafez al-Assad, the father of Bashar al-Assad, in Damascus on Monday.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_CYTV1QKOlCJPpYVs6wuDA6dUxl-17D9reZzSH3K3V548JaTcfDAmjLstJbhskZ9fMwVDOPT9t2aKELkzhAcaLc-jNg4mSsqUuKts0xHC4EnRL-4k4G1HypQnbdnhrg8eCVH72A?key=adrKalGTQ9hKLNQkuvqexgZT)
 
 *source- Syrians remove a statue of Hafez al-Assad, the father of Bashar al-Assad, in Damascus on Monday. Source: [https://www.nbcnews.com/news/world/syria-assad-was-overthrown-what-happened-rcna183945](https://www.nbcnews.com/news/world/syria-assad-was-overthrown-what-happened-rcna183945)*
 
@@ -27,7 +27,7 @@ Back in July 2011, as the uprising was still gathering momentum, the **Free Syri
 
 However, infighting, a lack of funding, and threats from rising rival Islamist groups began to erode its strength. By August 2016, Turkey stepped in to regroup and reorganise. This effort culminated in [Operation Euphrates Shield](https://www.aljazeera.com/opinions/2017/2/3/operation-euphrates-shield-progress-and-scope), bringing together various rebel factions (including former FSA fighters) to form the **Syrian National Army (SNA)**—also known as the Turkish-backed Free Syrian Army (TFSA).
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6Au02zMKRLIQpctWs2eSQEbh2HqnZsFJqQW607VCHHBKyQEUJ2kf8et_-Y2ZqdEKNvm2nCrHgxbiojk4ER35OxTFMakxxkGqQlpQ9lukNCAEum5CKvk_jaT5_-F0O9MjDIZjR-g?key=adrKalGTQ9hKLNQkuvqexgZT)
+![Fighters in a faction of the Turkey-backed Syrian National Army man at a checkpoint in the Tal Battal area near al-Bab city on 26 September 2023](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6Au02zMKRLIQpctWs2eSQEbh2HqnZsFJqQW607VCHHBKyQEUJ2kf8et_-Y2ZqdEKNvm2nCrHgxbiojk4ER35OxTFMakxxkGqQlpQ9lukNCAEum5CKvk_jaT5_-F0O9MjDIZjR-g?key=adrKalGTQ9hKLNQkuvqexgZT)
 
 *source- Fighters in a faction of the Turkey-backed Syrian National Army man at a checkpoint in the Tal Battal area near al-Bab city on 26 September 2023. Source: [https://www.middleeasteye.net/news/who-are-syrian-national-army](https://www.middleeasteye.net/news/who-are-syrian-national-army)*
 
@@ -39,7 +39,7 @@ By early 2012, as Assad’s brutal crackdown intensified, extremists found oppor
 
 At the heart of this group’s rise is Abu Mohammed al-Jolani, who is an important figurehead even in the current state of post-Assad Syria. Jolani’s journey began in Iraq, where he worked alongside al-Qaeda leader [Abu Bakr al-Baghdadi](https://www.britannica.com/biography/Abu-Bakr-al-Baghdadi), who sent Jolani to Syria with funding to establish **Jabhat al-Nusra** as a covert extension of AQI. The FSA and the Nusra front differed in their ideological approaches and[ openly disagreed with each other](https://www.bbc.com/news/world-middle-east-18048033). This ideological dispute was a cause for concern as Western leaders who wanted to arm the rebels to fight in their anti-Assad fight worried about the weapons falling into the wrong hands. Western leaders and the FSA fought for democracy in Syria, but Nusra was interested in the creation of Syria as an Islamic state ruled under Sharia. Further confusion and division unravelled in 2013 when Baghdadi unilaterally declared a merger between AQI and Nusra, forming the **Islamic State of Iraq and Syria (ISIS) and Levant (ISIL).**
 
-*![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiVjbeceLjREsa8L7BGAosTgqnc3WjTX1XvqTUxv7vjRwzODO95klFvrc7AqFVzK1mSvSf_a2_v_J0TQS_HgrVADuNTA_z_jJcO5sM3mM31QyWrXh9W58nji3ynP2AyRWkdNJWZg?key=adrKalGTQ9hKLNQkuvqexgZT)*
+*![Jolani rebranded al-Nusra Front as Jabhat Fatah al-Sham in 2016. The following year, it became Hayat Tahrir al-Sham](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeiVjbeceLjREsa8L7BGAosTgqnc3WjTX1XvqTUxv7vjRwzODO95klFvrc7AqFVzK1mSvSf_a2_v_J0TQS_HgrVADuNTA_z_jJcO5sM3mM31QyWrXh9W58nji3ynP2AyRWkdNJWZg?key=adrKalGTQ9hKLNQkuvqexgZT)*
 
 *source- Jolani rebranded al-Nusra Front as Jabhat Fatah al-Sham in 2016. The following year, it became Hayat Tahrir al-Sham. Source: [https://www.bbc.com/news/articles/c0q0w1g8zqvo](https://www.bbc.com/news/articles/c0q0w1g8zqvo)*
 
@@ -49,7 +49,7 @@ Jolani opposed this move, split from AQI, rebranding Jabhat al-Nusra as [Jabhat 
 
 At the same time that FSA and ISIS were looking to materialise their goals for Syria amidst the chaos of the civil war, Kurdish forces sought to consolidate control over northern Syria, establishing the autonomous region of Rojava. Their efforts clashed with ISIS, whose ambition to establish a caliphate directly threatened Kurdish territorial gains. The **Syrian Democratic Forces (SDF)**, a U.S.-backed coalition of Kurdish-led militias, became the main ground force fighting ISIS. Militarily led by the People’s Protection Units (YPG), the SDF’s ties to the Kurdistan Workers' Party (PKK)—a group Turkey considers a terrorist organisation—strained U.S.-Turkey relations.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOSTi-gvxtTe9fKNjagYusLtMGOAMeIYrA9ZHHhGtRWfT2IJl-mRFlV1lsT5CUmE8I-biELQdU7-wXcJaRGun8PpMLVlL9RQMJgTGkzyoSl1w7OdM0hnroJLRaMXiZjgm_DnRX?key=adrKalGTQ9hKLNQkuvqexgZT)
+![Syrians sit in the back of a truck as they flee the city of Afrin in northern Syria after Turkish forces and their allies took control of the Kurdish-majority city on March 18, 2018](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeOSTi-gvxtTe9fKNjagYusLtMGOAMeIYrA9ZHHhGtRWfT2IJl-mRFlV1lsT5CUmE8I-biELQdU7-wXcJaRGun8PpMLVlL9RQMJgTGkzyoSl1w7OdM0hnroJLRaMXiZjgm_DnRX?key=adrKalGTQ9hKLNQkuvqexgZT)
 
 *source- Syrians sit in the back of a truck as they flee the city of Afrin in northern Syria after Turkish forces and their allies took control of the Kurdish-majority city on March 18, 2018. Source: [https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups](https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-turkey-and-armed-kurdish-groups)*
 
@@ -63,7 +63,7 @@ The complexity of the Syrian struggle extends beyond internal factions. As the c
 
 By September 2013, the Obama administration decided to act, pressuring Assad to dismantle his chemical weapons arsenal. The intervention was precise but far from decisive, leaving the broader conflict to persist.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoBkGn3CEefcYs_GXX14LVTmwGcMYrOSEx-AoXUOzfCb_HyBhyrfwLkIDPkZcASYRSBtCSNitKvKZCqvsu9v_cBXI86tyZqVzArk-px9ZSSCwMOkcUQRPoTyBEgf8LbueRuuX8vA?key=adrKalGTQ9hKLNQkuvqexgZT)
+![External Players and Proxy Wars](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoBkGn3CEefcYs_GXX14LVTmwGcMYrOSEx-AoXUOzfCb_HyBhyrfwLkIDPkZcASYRSBtCSNitKvKZCqvsu9v_cBXI86tyZqVzArk-px9ZSSCwMOkcUQRPoTyBEgf8LbueRuuX8vA?key=adrKalGTQ9hKLNQkuvqexgZT)
 
 *source- Source: [https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps](https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps)*
 
@@ -77,7 +77,7 @@ After years of stalemate, the conflict reignited in 2024. Rebel forces regrouped
 
 Renewed rebel offensives in 2024 tested the regime’s resilience. With Russia preoccupied by its war in Ukraine and Iran weakened by the Israel-Hamas conflict, Assad’s critical allies faltered. By November, key cities like Aleppo, Homs, and Daraa fell to rebel forces in swift succession.
 
-![](/images/b2-M0NT.jpg) 
+![Assad’s Fall](/images/b2-M0NT.jpg)
 
 *source- Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
 
