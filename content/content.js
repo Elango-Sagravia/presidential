@@ -26,7 +26,7 @@ const content = {
           description: "of our subscribers open our newsletters daily.",
         },
         {
-          title: "7.1k",
+          title: "7.1K",
           description: "new subscribers join Presidential Summary every month.",
         },
         {
