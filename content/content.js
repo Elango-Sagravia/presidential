@@ -22,11 +22,11 @@ const content = {
       heading: "Reach new customers with Presidential Summary.",
       list: [
         {
-          title: "54%",
+          title: "26.3%",
           description: "of our subscribers open our newsletters daily.",
         },
         {
-          title: "10k",
+          title: "7.1k",
           description: "new subscribers join Presidential Summary every month.",
         },
         {
@@ -50,7 +50,6 @@ const content = {
           href: "contact@presidentialsummary.com",
           content: "contact@presidentialsummary.com",
         },
-        
       ],
     },
   },
@@ -83,7 +82,6 @@ const content = {
     },
     formSection: {
       left: [
-      
         {
           title: "General Inquiries",
           type: "email",
@@ -96,8 +94,6 @@ const content = {
           href: "+1 (307) 429-0673",
           content: "(307) 429-0673",
         },
-        
-        
       ],
     },
   },
