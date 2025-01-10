@@ -10,6 +10,13 @@ const domains = [
   "aol.com",
   "rocketmail.com",
   "yahoo",
+  "att.net",
+  "sbcglobal.net",
+  "bellsouth.net",
+  "flash.net",
+  "pacbell.net",
+  "nvbell.net",
+  "swbell.net",
 ];
 // const domains = [];
 
