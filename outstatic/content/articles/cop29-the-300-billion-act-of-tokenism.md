@@ -23,7 +23,7 @@ As COP29 commenced, the head of the [World Meteorological Organization (WMO)](ht
 
 ![The Legacy of Missed Climate Deadlines](/images/screenshot-2024-12-11-at-5.59.48-pm-EzMD.png)
 
-*source-Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
+*source- The sustainable development goals progress chart 2023.* *Source [https://unstats.un.org/sdgs/report/2023/progress-chart/](https://unstats.un.org/sdgs/report/2023/progress-chart/)*
 
 This growing alarm is rooted in the stark realities of our planet's warming trajectory. Scientific data, such as[ ice core analyses](https://nsidc.org/learn/ask-scientist/core-climate-history#:~:text=Once%20an%20air%20mass%20reaches,the%20lower%20the%20ancient%20temperature.), reveal that this increase surpasses anything seen in the past 800,000 years. Such warming is already causing devastating effects, including rising sea levels, extreme heat waves, droughts, storms and cyclones and widespread ecological degradation. With each passing year, the time to reverse or even mitigate these impacts dwindles. At its core, the fight against climate change is a race against time, Yet, despite the overwhelming scientific evidence and the pressing nature of this crisis, the collective response of global leaders and lawmakers remains painfully inadequate.
 
@@ -45,7 +45,7 @@ The key issue of the $300 billion COP29 deal lies in the inadequacy of the pledg
 
 **![Climate Finance Gap: $300 Billion vs. $1.3 Trillion](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeAMOZxE0hVY5siY2t57tKE-dbPaNA3dKUK0vmtNhDHz7K-6p6bMdOe3KlxfLNxXaQZusHO7VTWdQ62ZoMEtSiT3T83yDZMxehbmLb155kQLKN4_QQ0vFrrPY6eDCx-QNhnbRlj?key=Vg_W9OPiul62wjpB3mjP2C9i)**
 
-*source-Source: [https://www.cfr.org/backgrounder/paris-global-climate-change-agreements](https://www.cfr.org/backgrounder/paris-global-climate-change-agreements)*
+*source- World’s average temperature against pledges for 2030 and beyond according to the Climate Action Tracker. Source: [https://www.cfr.org/backgrounder/paris-global-climate-change-agreements](https://www.cfr.org/backgrounder/paris-global-climate-change-agreements)*
 
 According to the [Independent High-Level Expert Group on Climate Finance](https://unclimatesummit.org/at-least-1-trillion-in-climate-finance-needed-each-year-report-finds/), developing countries require approximately $1 trillion in external climate finance annually by 2030, increasing to $1.3 trillion by 2035. Of this, around $500 billion annually should come from public funding, while the remainder would need to be mobilized from private sources. Public [finance instruments, such as guarantees or co-investments](https://www.wri.org/insights/ncqg-climate-finance-negotiations-cop29), are essential to reduce risks and attract private investment in emerging markets and technologies. While the COP29 finance deal’s $300 billion annual commitment by 2035 marks an increase over previous pledges, it falls dramatically short of the estimated $1.3 trillion needed annually. The proposed $300 billion fund represents only a fraction of what is needed and highlights a significant funding gap. Furthering concerns about the gap between Climate change and Climate action.
 
