@@ -79,7 +79,7 @@ Renewed rebel offensives in 2024 tested the regime’s resilience. With Russia p
 
 ![Assad’s Fall](/images/b2-M0NT.jpg)
 
-*source- Map shows the progression of Syrian rebel forces before and after President Assad had fled the country. Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
+*source- Map shows the progression of Syrian rebel forces before and after President Assad fled the country. Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
 
 On December 8, Damascus fell, and Assad fled to Moscow, an exit as unceremonious as it was inevitable. The decisive advances of the Islamist group Hay’at Tahrir al-Sham (HTS), partnered with the Turkish-backed Syrian National Army (SNA), left the regime with little resistance. Abu Mohammed al-Jolani, the leader of HTS, emerged as the face of the rebel victory. Yet even as Jolani proclaimed a vision for an “inclusive” Syria, reports surfaced of SNA forces targeting Kurdish groups.
 
