@@ -65,7 +65,7 @@ By September 2013, the Obama administration decided to act, pressuring Assad to 
 
 ![External Players and Proxy Wars](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoBkGn3CEefcYs_GXX14LVTmwGcMYrOSEx-AoXUOzfCb_HyBhyrfwLkIDPkZcASYRSBtCSNitKvKZCqvsu9v_cBXI86tyZqVzArk-px9ZSSCwMOkcUQRPoTyBEgf8LbueRuuX8vA?key=adrKalGTQ9hKLNQkuvqexgZT)
 
-*source- Source: [https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps](https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps)*
+*source-  Map shows the territorial control of various groups as of December 3, 2024. Source: [https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps](https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps)*
 
 In September 2014, the U.S.-led coalition, joined by the UK, France, Jordan, Turkey, Canada, and Australia—launched air campaigns against the Islamic State (ISIS) and Jabhat al-Nusra. Fueled by America’s longstanding grudge against al-Qaeda, rooted in 9/11 and other attacks, the campaign sought to cripple ISIS rather than directly challenge Assad’s regime. By 2019, the U.S.-led coalition and the Kurdish-led Syrian Democratic Forces (SDF) had reduced ISIS territory to a mere 2% of its former expanse. The Pentagon declared the caliphate dismantled, though scattered ISIS militants persisted in Syria and Iraq.
 
@@ -79,7 +79,7 @@ Renewed rebel offensives in 2024 tested the regime’s resilience. With Russia p
 
 ![Assad’s Fall](/images/b2-M0NT.jpg)
 
-*source- Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
+*source- Map shows the progression of Syrian rebel forces before and after President Assad had fled the country. Source: [https://www.bbc.com/news/articles/c2ex7ek9pyeo](https://www.bbc.com/news/articles/c2ex7ek9pyeo)*
 
 On December 8, Damascus fell, and Assad fled to Moscow, an exit as unceremonious as it was inevitable. The decisive advances of the Islamist group Hay’at Tahrir al-Sham (HTS), partnered with the Turkish-backed Syrian National Army (SNA), left the regime with little resistance. Abu Mohammed al-Jolani, the leader of HTS, emerged as the face of the rebel victory. Yet even as Jolani proclaimed a vision for an “inclusive” Syria, reports surfaced of SNA forces targeting Kurdish groups.
 
