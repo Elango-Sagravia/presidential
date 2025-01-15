@@ -24,7 +24,7 @@ async function sendEmail(email, slug) {
     from: '"Presidential Summary" <no-reply@mail.presidentialsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
-    subject: "Welcome to Presidential Summary!",
+    subject: "Welcome to Presidential Summary",
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
