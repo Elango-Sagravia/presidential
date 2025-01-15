@@ -1,6 +1,6 @@
 ---
 readTime: '10'
-coverImage: '/images/241213-syria-mb-1226-e9b06e.jpg-Y1MD.jpg'
+coverImage: '/images/w1-kxNz.jpg'
 description: 'On December 8, 2024, the curtain finally fell on Assad''s barbaric dynasty—a regime that had gripped Syria for over five decades. Bashar al-Assad, the once unyielding president, fled to Moscow, leaving behind a fractured nation governed by a complex mosaic of rebel factions. These groups, shaped by years of civil war, reflect the diverse ideological, ethnic, and regional divides that now dominate Syria’s post-Assad power dynamics.'
 slug: 'understanding-syria-s-war-one-step-at-a-time'
 author:
@@ -65,7 +65,7 @@ By September 2013, the Obama administration decided to act, pressuring Assad to 
 
 ![External Players and Proxy Wars](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdoBkGn3CEefcYs_GXX14LVTmwGcMYrOSEx-AoXUOzfCb_HyBhyrfwLkIDPkZcASYRSBtCSNitKvKZCqvsu9v_cBXI86tyZqVzArk-px9ZSSCwMOkcUQRPoTyBEgf8LbueRuuX8vA?key=adrKalGTQ9hKLNQkuvqexgZT)
 
-*source-  Map shows the territorial control of various groups as of December 3, 2024. Source: [https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps](https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps)*
+*source- Map shows the territorial control of various groups as of December 3, 2024. Source: [https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps](https://www.aljazeera.com/news/2024/12/1/who-controls-what-in-syria-in-maps)*
 
 In September 2014, the U.S.-led coalition, joined by the UK, France, Jordan, Turkey, Canada, and Australia—launched air campaigns against the Islamic State (ISIS) and Jabhat al-Nusra. Fueled by America’s longstanding grudge against al-Qaeda, rooted in 9/11 and other attacks, the campaign sought to cripple ISIS rather than directly challenge Assad’s regime. By 2019, the U.S.-led coalition and the Kurdish-led Syrian Democratic Forces (SDF) had reduced ISIS territory to a mere 2% of its former expanse. The Pentagon declared the caliphate dismantled, though scattered ISIS militants persisted in Syria and Iraq.
 
