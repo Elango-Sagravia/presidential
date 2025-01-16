@@ -45,7 +45,7 @@ export async function POST(request) {
     if (unsubscribeResult.rows.length === 0) {
       return new Response(
         JSON.stringify({ message: "Unsubscribe record already exists" }),
-        { status: 409, headers: { "Content-Type": "application/json" } }
+        { headers: { "Content-Type": "application/json" } }
       );
     }
 
