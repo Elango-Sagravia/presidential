@@ -1,4 +1,4 @@
-import changeFormat from "@/components/dateFormat";
+import { changeFormatDate } from "@/components/dateFormat";
 import ComplainceHeader from "@/components/ui/complainceHeader/complainceHeader";
 import ComplianceContentPrivacyPolicy from "@/components/ui/ComplianceContentPrivacyPolicy/ComplianceContentPrivacyPolicy";
 import SinglePolicyPage from "@/components/ui/singlePolicyPage/singlePolicyPage";
@@ -60,7 +60,7 @@ export default async function Home({ params }) {
     <main>
       <ComplainceHeader
         title={policy.title}
-        date={changeFormat(policy.publishedAt)}
+        date={changeFormatDate(policy.publishedAt)}
       />
       <div className="w-full md:w-4/5 lg:w-2/3 px-4 md:px-0 mx-auto  mt-8 max-w-7xl mb-32">
         <SinglePolicyPage policy={policy} />

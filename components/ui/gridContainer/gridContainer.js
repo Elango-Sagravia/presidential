@@ -2,7 +2,7 @@ import Image from "next/image";
 import { BookOpen } from "lucide-react";
 import Link from "next/link";
 import libre from "@/components/libre-font";
-import changeFormat from "@/components/dateFormat";
+import { changeFormatDay } from "@/components/dateFormat";
 
 export default function GridContainer({
   hideButton,
@@ -33,7 +33,7 @@ export default function GridContainer({
             </div>
             <div className="flex items-center gap-2 py-2 text-nl_background">
               <p className="text-[10px] font-bold uppercase">
-                {changeFormat(item.publishedAt)}
+                {changeFormatDay(item.publishedAt)}
               </p>
               <p className="rounded-full bg-nl_background w-[5px] h-[5px]"></p>
               <p className="text-[10px] font-bold uppercase">

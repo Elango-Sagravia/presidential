@@ -5,7 +5,7 @@ import Image from "next/image";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import Link from "next/link";
 import libre from "@/components/libre-font";
-import changeFormat from "@/components/dateFormat";
+import { changeFormatDay } from "@/components/dateFormat";
 
 export default function FancyCard({ article }) {
   const [isHovered, setIsHovered] = useState(false);
@@ -40,7 +40,7 @@ export default function FancyCard({ article }) {
       >
         <div className="flex items-center gap-2 py-4 px-4 sm:px-16 text-nl_background">
           <p className="text-[12px] font-bold uppercase">
-            {changeFormat(article.publishedAt)}
+            {changeFormatDay(article.publishedAt)}
           </p>
           <p className="rounded-full bg-nl_background w-[5px] h-[5px]"></p>
           <p className="text-[12px] font-bold uppercase">

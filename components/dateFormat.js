@@ -1,24 +1,17 @@
-// const options = {
-//   weekday: "short",
-//   day: "2-digit",
-//   month: "short",
-//   year: "numeric",
-// };
+export const changeFormatDate = (isoDate) => {
+  const options = {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+  };
+  const formattedDate = new Date(isoDate).toLocaleDateString("en-GB", options);
 
-// const changeFormat = (isoDate) => {
-//   const formattedDate = new Date(isoDate).toLocaleDateString("en-GB", options);
+  return formattedDate;
+};
 
-//   return formattedDate;
-// };
-
-// export default changeFormat;
-
-const options = { weekday: "long" };
-
-const changeFormat = (isoDate) => {
+export const changeFormatDay = (isoDate) => {
+  const options = { weekday: "long" };
   const formattedDay = new Date(isoDate).toLocaleDateString("en-GB", options);
 
   return formattedDay;
 };
-
-export default changeFormat;

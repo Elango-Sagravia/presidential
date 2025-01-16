@@ -1,4 +1,4 @@
-import changeFormat from "@/components/dateFormat";
+import { changeFormatDate } from "@/components/dateFormat";
 import BlogHeader from "@/components/ui/blogHeader/blogHeader";
 import Link from "next/link";
 import { getDocuments } from "outstatic/server";
@@ -64,7 +64,7 @@ export default async function blogs() {
             <div className="md:basis-1/2 md:pl-8">
               <div className="flex items-center gap-2  text-nl_background mt-2 md:mt-0">
                 <p className="text-[12px] font-bold uppercase">
-                  {changeFormat(blog.publishedAt)}
+                  {changeFormatDate(blog.publishedAt)}
                 </p>
                 <p className="rounded-full bg-nl_background w-[5px] h-[5px]"></p>
                 <p className="text-[12px] font-bold uppercase">
