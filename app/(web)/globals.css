@@ -114,8 +114,3 @@ input {
     color: grey;
   }
 }
-
-/* globals.css */
-html {
-  @apply scroll-smooth;
-}
