@@ -31,8 +31,8 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
 
   if (!isSubscribed && blog.emailHtml) {
     return (
-      <div className="bg-[#f0f1f3] pt-5">
-        <div className="bg-nl_background w-[600px] mx-auto">
+      <div className="bg-[#f0f1f3] pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto ">
           <h1
             className={`text-2xl py-5 px-5 text-center text-white`}
             style={{ fontFamily: "Roboto" }}
@@ -58,8 +58,8 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
     );
   } else if (isSubscribed && blog.emailHtml) {
     return (
-      <div className="bg-[#f0f1f3] pt-5">
-        <div className="bg-nl_background w-[600px] mx-auto">
+      <div className="bg-[#f0f1f3] pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto">
           <h1
             className={`text-2xl py-5 px-5 text-center text-white`}
             style={{ fontFamily: "Roboto" }}
@@ -81,7 +81,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
   return (
     <>
       <section
-        className={`w-full md:w-4/5 lg:w-2/3 px-4 md:px-0 mx-auto pt-16 pb-16 md:pt-32 max-w-7xl ${
+        className={`w-full md:w-4/5 lg:w-2/3 px-4 md:px-0 mx-auto pb-16 md:pt-32 max-w-7xl ${
           isSubscribed && "md:pb-32"
         }`}
       >

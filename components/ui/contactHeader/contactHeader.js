@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 export default function ContactHeader() {
   return (
     <div>
-      <div className="flex px-4 md:px-16 py-16 lg:py-28 lg:min-h-[500px] max-w-7xl mx-auto">
+      <div className="flex px-4 md:px-16 pt-40 pb-24 lg:pt-44 lg:min-h-[550px] max-w-7xl mx-auto">
         <div className="flex-1">
           <h1
             className={`${cn(

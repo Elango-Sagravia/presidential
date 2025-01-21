@@ -82,7 +82,7 @@ export default async function Home({ params }) {
   return (
     <>
       <section
-        className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-16 pb-16 md:pt-32 max-w-7xl `}
+        className={`article w-full md:w-3/5 lg:w-1/2 px-4 md:px-0 mx-auto pt-40 pb-16 md:pt-44 max-w-7xl `}
       >
         <BlogInfo date={blog.publishedAt} read_time={blog.readTime} />
         <BlogTitle title={blog.title} />
