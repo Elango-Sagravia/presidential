@@ -114,3 +114,8 @@ input {
     color: grey;
   }
 }
+
+/* Add this for smooth scrolling */
+html {
+  @apply scroll-smooth;
+}
