@@ -24,7 +24,7 @@ export default async function Latest() {
   const blog = blogs.find((blog) => blog.latest);
   return (
     <div>
-      <div id="target-section" className="px-8 py-16 md:px-16 max-w-7xl mx-auto">
+      <div className="px-8 py-16 md:px-16 max-w-7xl mx-auto">
         <HeadingWithUnderline text="Latest issue" />
         <FancyCard article={blog} />
       </div>
