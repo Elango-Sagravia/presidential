@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The mysterious note left by Ryan Routh sparks discussions and raises questions. Learn more.'
+metaTitle: 'Ryan Routh: A Note Left Behind'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 latest: 'true'
 relatedArticles: ''
