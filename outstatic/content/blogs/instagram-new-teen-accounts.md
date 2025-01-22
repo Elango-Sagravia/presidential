@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Instagram’s new features for teen accounts prioritize safety and privacy in digital spaces.'
+metaTitle: 'Instagram Rolls Out Teen Account Features'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
