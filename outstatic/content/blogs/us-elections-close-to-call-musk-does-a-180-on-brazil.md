@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Get insights into the close-call US elections and Musk''s surprising change of stance on Brazil. Stay informed on key events.'
+metaTitle: 'US Elections Close, Musk’s Brazil Turnaround'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: 'us-elections-close-to-call'
