@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Julian Assange set to speak, while Missouri''s execution sparks a heated debate over justice and human rights. Read the latest here.'
+metaTitle: 'Assange Speech, Missouri Execution Debate'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
