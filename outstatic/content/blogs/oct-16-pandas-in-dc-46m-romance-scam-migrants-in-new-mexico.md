@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Pandas in DC, a $46M romance scam, and New Mexico’s migrant challenges highlight Oct 16 updates.'
+metaTitle: 'Oct 16: Pandas, Romance Scams & Migrant Issues'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1793, Marie-Antoinette, queen consort of Louis XVI (king of France), was guillotined following the French Revolution.'
 footerBannerTitle: ''
 cutOff: '10'
@@ -28,11 +32,11 @@ See the history of [panda diplomacy](https://www.bbc.com/future/article/20240226
 
 ### $46M Romance Scam Busted
 
-In Hong Kong, a significant case of a [deepfake romance scam](https://edition.cnn.com/2024/10/15/asia/hong-kong-deepfake-romance-scam-intl-hnk/index.html) has come to light, with reports indicating that victims have been defrauded nearly $46 million. The authorities stepped up and raided the operations, arresting 27 suspects, including digital media graduates. 
+In Hong Kong, a significant case of a [deepfake romance scam](https://edition.cnn.com/2024/10/15/asia/hong-kong-deepfake-romance-scam-intl-hnk/index.html) has come to light, with reports indicating that victims have been defrauded nearly $46 million. The authorities stepped up and raided the operations, arresting 27 suspects, including digital media graduates.
 
 These perpetrators are known to leverage advanced technology to fabricate false identities, drawing individuals into elaborate emotional relationships [(example)](https://edition.cnn.com/interactive/2023/12/asia/chinese-scam-operations-american-victims-intl-hnk-dst/). Scammers often employ images of attractive individuals to manipulate and deceive victims, ultimately convincing them to transfer funds.
 
-In a related case earlier this year, a British multinational design and engineering company in Hong Kong [lost $25 million](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html) to fraudsters who used deepfake technology to pose as the company’s chief financial officer. 
+In a related case earlier this year, a British multinational design and engineering company in Hong Kong [lost $25 million](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html) to fraudsters who used deepfake technology to pose as the company’s chief financial officer.
 
 ### Migrants in New Mexico
 
@@ -44,13 +48,13 @@ Authorities are amping up efforts to address this growing humanitarian crisis. N
 
 ### Filipinas Arrested for Surrogacy
 
-Thirteen pregnant women from the Philippines have been [accused of acting as surrogate](https://edition.cnn.com/2024/10/13/asia/philippine-women-arrested-cambodia-surrogacy-intl-hnk/index.html) mothers in Cambodia after being recruited online. Following a police raid in Kandal province, they were charged under laws [banning commercial surrogacy](https://www.sbs.com.au/news/dateline/article/dodging-a-crackdown-in-cambodia-this-australian-couple-smuggled-the-surrogate-carrying-their-twins/xcegk0hfs). The law was put in place to protect women from being victims of human trafficking. While the women are currently in hospital care, they face potential prison sentences of two to five years after giving birth. 
+Thirteen pregnant women from the Philippines have been [accused of acting as surrogate](https://edition.cnn.com/2024/10/13/asia/philippine-women-arrested-cambodia-surrogacy-intl-hnk/index.html) mothers in Cambodia after being recruited online. Following a police raid in Kandal province, they were charged under laws [banning commercial surrogacy](https://www.sbs.com.au/news/dateline/article/dodging-a-crackdown-in-cambodia-this-australian-couple-smuggled-the-surrogate-carrying-their-twins/xcegk0hfs). The law was put in place to protect women from being victims of human trafficking. While the women are currently in hospital care, they face potential prison sentences of two to five years after giving birth.
 
 Authorities view them as offenders rather than victims and say they knew the implications before agreeing. The Philippine Embassy confirmed their involvement and ensured proper procedures were followed during the investigation.
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 **Albania started its EU negotiations**, a significant milestone in its long-standing aspiration to join the European Union [(read more)](https://www.dw.com/en/albania-starts-eu-membership-talks-after-russias-wake-up-call-to-bloc/a-70505418).
 
@@ -58,13 +62,13 @@ Authorities view them as offenders rather than victims and say they knew the imp
 
 **The Sveriges Riksbank Prize** in Economic Sciences in Memory of Alfred Nobel 2024 was awarded jointly to [Daron Acemoglu, Simon Johnson, and James A. Robinson](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/) for their studies of how institutions are formed and affect prosperity.
 
-**Business & Finance** 
+**Business & Finance**
 
 **Walgreens will close 1,200 stores**—10% of its total footprint—due to competition from online pharmacies; **CEO Tim Wentworth says** 25% of stores are not profitable [(read more)](https://edition.cnn.com/2024/06/27/business/walgreens-closures/index.html).
 
 **Crude oil prices drop 4%** this week as China shifts to Russian crude amid U.S. sanctions on Iran, which raised shipping costs [(read more)](https://energynews.pro/en/us-sanctions-on-iran-to-tighten-china-crude-flows-and-raise-shipping-costs/).
 
-**Science & Tech** 
+**Science & Tech**
 
 The world’s greatest living mathematician weighs in on OpenAI’s new GPT-01, saying it’s **impressive but still no** replacement for human mathematicians [(see his inputs)](https://nextshark.com/mathematician-terence-tao-artificial-intelligence).
 
@@ -72,15 +76,15 @@ EMspace has achieved a **remarkable breakthrough** by enabling the first-ever co
 
 **NASA’s LunaRecycle challenge** offers a [$3 million prize](https://supercarblondie.com/nasa-paying-3-million-who-figures-out-how-to-do-this-one-thing-in-space/) for innovative projects that recycle materials on the Moon’s surface.
 
-**Sports & Culture** 
+**Sports & Culture**
 
-**The *Six Kings Slam* tennis tournament** kicks off tomorrow in Riyadh, featuring Nadal, Djokovic, Sinner, Alcaraz, Medvedev, and Rune [(see the schedule)](https://www.dazn.com/en-US/news/tennis/six-kings-slam-schedule-dates-and-where-to-watch-the-tennis-tournament/1q6vlmmb0k6ad1h6w8iu7ilbe4). 
+**The *Six Kings Slam* tennis tournament** kicks off tomorrow in Riyadh, featuring Nadal, Djokovic, Sinner, Alcaraz, Medvedev, and Rune [(see the schedule)](https://www.dazn.com/en-US/news/tennis/six-kings-slam-schedule-dates-and-where-to-watch-the-tennis-tournament/1q6vlmmb0k6ad1h6w8iu7ilbe4).
 
 Rufus Wainwright denounces Donald Trump’s use of his **“Hallelujah” cover** [(watch video)](https://www.youtube.com/watch?v=FGVtZUe-lT4).
 
 **Sean “Diddy” Combs faces six more lawsuits**, including one involving a man who was underage at the time of the alleged incident ([read more](https://pitchfork.com/news/sean-diddy-combs-sued-by-six-more-people-including-man-underage-at-time-of-alleged-incident/), warning—sensitive).
 
-**Whatnot** 
+**Whatnot**
 
 McDonald’s launches new [ad on the Vegas’ Sphere](https://www.tmz.com/2024/10/11/mcdonalds-chicken-big-mac-las-vegas-sphere/).
 
