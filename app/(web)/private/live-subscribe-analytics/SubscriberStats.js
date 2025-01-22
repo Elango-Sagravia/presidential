@@ -241,7 +241,7 @@ const SubscriberStats = () => {
   );
 
   return (
-    <div className="p-6 lg:pt-10">
+    <div className="p-6 pt-40 lg:pt-40">
       <h1 className="text-2xl font-bold text-center mb-4">
         Daily Subscriber Stats from {start_date} to {end_date}
       </h1>
