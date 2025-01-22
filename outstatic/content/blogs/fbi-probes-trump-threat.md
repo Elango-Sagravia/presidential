@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The FBI investigates serious threats linked to Trump, sparking political and security concerns.'
+metaTitle: 'FBI Probes Trump Threat Allegations'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
