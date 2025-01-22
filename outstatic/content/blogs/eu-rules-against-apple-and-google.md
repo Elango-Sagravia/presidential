@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The EU cracks down on Apple and Google with significant rulings. Discover how these decisions could reshape tech practices.'
+metaTitle: 'EU Rulings Shake Apple & Google’s Practices'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
