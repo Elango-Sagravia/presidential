@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Ryan Reynolds and Blake Lively continue their streak of box office triumphs. Explore their latest achievements.'
+metaTitle: 'Reynolds & Lively Dominate Box Office Wins'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '10'
 relatedArticles: ''
 readTime: '5'
