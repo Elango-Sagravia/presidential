@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Get details on the Russian strike in Poltava and its implications for the ongoing conflict.'
+metaTitle: 'Russian Strike in Poltava | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 latest: 'true'
 relatedArticles: ''
