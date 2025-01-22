@@ -1,4 +1,8 @@
 ---
+metaDescription: 'X fallout impacts markets as Republicans rise in the House and a Russian doctor faces jail.'
+metaTitle: 'Nov 15 News: X Fallout & Russian Doctor Jailed'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1988, the Palestine National Council, led by PLO chairman Yasser Arafat, declared independence for a state of Palestine in the West Bank and Gaza Strip.'
 footerBannerTitle: ''
 cutOff: '9'
