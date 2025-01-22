@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Analyze the key moments and outcomes of the Trump vs Harris debate. A pivotal moment in American politics.'
+metaTitle: 'Trump vs Harris Debate: High-Stakes Showdown'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
