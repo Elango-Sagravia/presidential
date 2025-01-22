@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore IKEA''s payout, the growing true crime craze, and Serbia''s latest tragedy. A mix of news and culture.'
+metaTitle: 'IKEA Payout, True Crime Craze, Serbian Tragedy'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2008, Barack Obama became the first African American to be elected president of the United States.'
 footerBannerTitle: ''
 cutOff: '9'
