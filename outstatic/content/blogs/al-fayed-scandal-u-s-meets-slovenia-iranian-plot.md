@@ -1,4 +1,8 @@
 ---
+metaDescription: 'The Al-Fayed scandal unfolds as the U.S. meets Slovenia amidst Iranian plot revelations. Stay updated.'
+metaTitle: 'Al-Fayed Scandal, U.S.-Slovenia Meet & Iranian Plot'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1945, the charter for the United Nations entered into force, establishing the organization to maintain world peace and foster friendly relations among nations.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -26,9 +30,9 @@ The accusations include various forms of sexual misconduct and exploitation, wit
 
 ![President Joe Biden meets Slovenian PM Robert Golob at the White House](/images/biden-meets-with-slovenian-pm-M4NT.webp)
 
-President Joe Biden met [Slovenian PM](https://www.voanews.com/a/biden-welcomes-slovenian-leader-golob-to-white-house/7832878.html) Robert Golob at the White House, highlighting Slovenia’s key role in a recent U.S.-Russia prisoner swap. Slovenia recently participated in a significant [prisoner exchange](https://apnews.com/article/slovenia-russia-spies-prisoner-023bdc4a9f705d4bcb15a0f6df53f815) involving two Russian spies who had been detained for 19 months. Biden thanked Golob for Slovenia’s diplomatic efforts and underscored the importance of European unity in addressing challenges like war with Russia and Ukraine. They also discussed energy security, regional stability, and other global issues. 
+President Joe Biden met [Slovenian PM](https://www.voanews.com/a/biden-welcomes-slovenian-leader-golob-to-white-house/7832878.html) Robert Golob at the White House, highlighting Slovenia’s key role in a recent U.S.-Russia prisoner swap. Slovenia recently participated in a significant [prisoner exchange](https://apnews.com/article/slovenia-russia-spies-prisoner-023bdc4a9f705d4bcb15a0f6df53f815) involving two Russian spies who had been detained for 19 months. Biden thanked Golob for Slovenia’s diplomatic efforts and underscored the importance of European unity in addressing challenges like war with Russia and Ukraine. They also discussed energy security, regional stability, and other global issues.
 
-This marks the first Oval Office visit by a Slovenian leader in 18 years and recognizes Slovenia’s contributions as a NATO and EU member in transatlantic relations. Journalists playfully asked if he had any intentions of meeting with [Melania Trump](https://abcnews.go.com/Politics/photos/melania-trumps-hometown-slovenia-43900485), a native of Slovenia. 
+This marks the first Oval Office visit by a Slovenian leader in 18 years and recognizes Slovenia’s contributions as a NATO and EU member in transatlantic relations. Journalists playfully asked if he had any intentions of meeting with [Melania Trump](https://abcnews.go.com/Politics/photos/melania-trumps-hometown-slovenia-43900485), a native of Slovenia.
 
 ### Iran Assassination Plot
 
@@ -36,11 +40,11 @@ This marks the first Oval Office visit by a Slovenian leader in 18 years and rec
 
 The United States has announced [new charges](https://www.pbs.org/newshour/world/revolutionary-guard-official-charged-in-alleged-plot-to-kill-iranian-american-activist) against several Iranian officials, including Brigadier General Ruhollah Bazghandi of the [Islamic Revolutionary Guard Corps](https://www.cfr.org/backgrounder/irans-revolutionary-guards) (IRGC), related to an alleged plot to assassinate Iranian-American journalist Masih Alinejad in New York City. Alinejad, an outspoken critic of the Iranian regime and advocate for women's rights, has been targeted due to her activism.
 
-The FBI has leveled serious accusations against Bazghandi and his associates, claiming that they orchestrated a plot to carry out an assassination and enlisted various criminals to bring this plan to fruition. The situation mirrors the broad and [persistent tensions](https://www.bbc.com/news/world-middle-east-24316661.amp) between the U.S. and Iran. 
+The FBI has leveled serious accusations against Bazghandi and his associates, claiming that they orchestrated a plot to carry out an assassination and enlisted various criminals to bring this plan to fruition. The situation mirrors the broad and [persistent tensions](https://www.bbc.com/news/world-middle-east-24316661.amp) between the U.S. and Iran.
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 Before **Georgia**’s crucial parliamentary elections, pro-Europe demonstrators [rallied against the ruling Georgian Dream party](https://www.rferl.org/a/georgia-election-dream-zurabishvili-saakashvili-russia-kobakhidze/33165650.html), which faces accusations of aligning with Russia.
 
@@ -54,7 +58,7 @@ Before **Georgia**’s crucial parliamentary elections, pro-Europe demonstrators
 
 **Kering expects its 2024 operating profit to be half of last year’s** due to a [worsening sales slump at Gucci](https://www.kering.com/en/news/revenue-for-the-third-quarter-of-2024), which dropped 25% in Q3. Declining demand in Japan and China hit luxury consumption, impacting other brands like Yves Saint Laurent.
 
-**Science & Tech** 
+**Science & Tech**
 
 **Apple’s Craig Federighi** discussed the company’s iPhone AI advancements, highlighting features like enhanced photo editing and user experiences [(read more)](https://www.theverge.com/2024/10/23/24277489/apple-intelligence-iphone-ai-photo-editing-craig-federighi-interview).
 
@@ -68,11 +72,11 @@ Before **Georgia**’s crucial parliamentary elections, pro-Europe demonstrators
 
 **Eminem** has publicly expressed his [support for Vice President Kamala Harris](https://www.newsweek.com/eminem-backs-kamala-harris-long-time-fans-share-mixed-reactions-1973596), which has prompted mixed reactions from his long-time fans.
 
-**Whatnot** 
+**Whatnot**
 
 The U.S. and Israel warn of a [potential terrorist attack in Sri Lanka](https://edition.cnn.com/2024/10/23/politics/us-israel-warn-potential-attack-sri-lanka/index.html).
 
-A Polish funeral home apologizes after a corpse fell out of a hearse during transport [(read more)](https://nypost.com/2024/10/21/world-news/corpse-falls-out-of-hearse-during-transport-funeral-home-apologizes-unexpected-technical-failure/). 
+A Polish funeral home apologizes after a corpse fell out of a hearse during transport [(read more)](https://nypost.com/2024/10/21/world-news/corpse-falls-out-of-hearse-during-transport-funeral-home-apologizes-unexpected-technical-failure/).
 
 Sicily will soon be accessible via the [world’s longest suspension bridge](https://www.goodnewsnetwork.org/worlds-longest-suspension-bridge-sees-construction-to-start-this-year-fulfilling-2000-year-old-dreams/).
 
