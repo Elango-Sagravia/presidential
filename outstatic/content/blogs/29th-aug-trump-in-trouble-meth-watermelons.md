@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Uncover Trump''s latest controversies and the shocking meth-watermelon scandal. Dive into the top stories for August 29.'
+metaTitle: 'Trump Trouble & Meth Watermelons on Aug 29'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
