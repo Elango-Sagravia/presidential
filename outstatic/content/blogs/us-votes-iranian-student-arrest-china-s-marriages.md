@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Learn about U.S. voting trends, Iranian student arrests, and China''s declining marriage rates. A global perspective.'
+metaTitle: 'US Votes, Iranian Arrest, & China''s Marriage Woes'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2013, India launched its first interplanetary spacecraft, the unmanned Mars Orbiter Mission.'
 footerBannerTitle: ''
 cutOff: '9'
