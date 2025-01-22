@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Protests erupt over Gaza, Congo’s mpox drive gains attention, and Musk throws support behind Trump.'
+metaTitle: 'Global Protests Over Gaza & Musk Backs Trump'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
@@ -16,7 +22,7 @@ publishedAt: '2024-10-07T13:17:11.376Z'
 
 ### Global Demonstrations Mark October 7th
 
-On the eve of the October 7 anniversary of Hamas’s attacks, [global demonstrations](https://www.dw.com/en/fresh-rallies-held-globally-on-eve-of-october-7-anniversary/a-70416959) took place, reflecting solid sentiments on both sides of the Israeli-Palestinian conflict. In Morocco, tens of thousands gathered in Rabat, protesting against the normalization of relations with Israel and demanding an end to military actions in Gaza. 
+On the eve of the October 7 anniversary of Hamas’s attacks, [global demonstrations](https://www.dw.com/en/fresh-rallies-held-globally-on-eve-of-october-7-anniversary/a-70416959) took place, reflecting solid sentiments on both sides of the Israeli-Palestinian conflict. In Morocco, tens of thousands gathered in Rabat, protesting against the normalization of relations with Israel and demanding an end to military actions in Gaza.
 
 Simultaneously, Berlin saw rallies supporting Israel, with participants emphasizing the fight against antisemitism while remembering hostages taken by Hamas. In London, memorials were held for the victims, while cities like Sydney and Melbourne experienced pro-Palestinian and pro-Israeli protests. These events highlight the ongoing tensions surrounding this complex issue and heavily divided public opinion. While the situations in the Middle East continue to escalate, these demonstrations are likely to continue.
 
@@ -26,15 +32,15 @@ Simultaneously, Berlin saw rallies supporting Israel, with participants emphasiz
 
 The Democratic Republic of Congo has launched its [pox vaccination campaign](https://www.france24.com/en/live-news/20241005-dr-congo-launches-mpox-vaccination-drive-hoping-to-curb-outbreak), starting with healthcare workers in Goma. The program aims to protect at-risk populations, and 265,000 doses have been received. However, millions more doses will arrive from France, Japan, and the U.S.
 
-This year alone, the country has reported over 30,000 Mpox cases and nearly 1,000 deaths, primarily affecting children under five. The government plans to prioritize vaccinations for high-risk groups and seeks additional supplies suitable for children. The World Health Organization has also approved the [first diagnostic test](https://www.who.int/news/item/03-10-2024-who-approves-first-mpox-diagnostic-test-for-emergency-use--boosting-global-access) for the virus. Mpox has also spread to various parts of East and Central Africa. 
+This year alone, the country has reported over 30,000 Mpox cases and nearly 1,000 deaths, primarily affecting children under five. The government plans to prioritize vaccinations for high-risk groups and seeks additional supplies suitable for children. The World Health Organization has also approved the [first diagnostic test](https://www.who.int/news/item/03-10-2024-who-approves-first-mpox-diagnostic-test-for-emergency-use--boosting-global-access) for the virus. Mpox has also spread to various parts of East and Central Africa.
 
-### Musk Campaigns with Trump 
+### Musk Campaigns with Trump
 
 ![Elon Musk and Donald Trump](/images/musk-campaigns-with-trump-AwMD.webp)
 
-Donald Trump returned to Butler, Pennsylvania, the site of the [July assassination attempt](https://www.cnbc.com/2024/10/05/trump-assassination-attempt-musk-vance-butler-return.html), for a campaign rally that began as a commemoration but quickly became a standard political event. The former president launched familiar attacks against Vice President Kamala Harris, who now leads the Democratic ticket. 
+Donald Trump returned to Butler, Pennsylvania, the site of the [July assassination attempt](https://www.cnbc.com/2024/10/05/trump-assassination-attempt-musk-vance-butler-return.html), for a campaign rally that began as a commemoration but quickly became a standard political event. The former president launched familiar attacks against Vice President Kamala Harris, who now leads the Democratic ticket.
 
-Tesla CEO Elon Musk, a new Trump ally, joined him onstage to endorse the Republican candidate, highlighting Trump’s role in preserving democracy. Despite previous tensions between Trump and Musk, the rally showcased their [alliance](https://thehill.com/policy/technology/4906822-elon-musk-donald-trump-democracy/) ahead of the upcoming election, with Musk calling Trump’s leadership crucial for the country. Kamala Harris has also been campaigning with a rather unlikely person, former [Republican Congresswoman](https://www.politico.com/news/2024/10/03/kamala-harris-liz-cheney-republicans-wisconsin-00182470) Liz Cheney, in an attempt to get anti-Trump Republicans on board with her campaign. 
+Tesla CEO Elon Musk, a new Trump ally, joined him onstage to endorse the Republican candidate, highlighting Trump’s role in preserving democracy. Despite previous tensions between Trump and Musk, the rally showcased their [alliance](https://thehill.com/policy/technology/4906822-elon-musk-donald-trump-democracy/) ahead of the upcoming election, with Musk calling Trump’s leadership crucial for the country. Kamala Harris has also been campaigning with a rather unlikely person, former [Republican Congresswoman](https://www.politico.com/news/2024/10/03/kamala-harris-liz-cheney-republicans-wisconsin-00182470) Liz Cheney, in an attempt to get anti-Trump Republicans on board with her campaign.
 
 ### Menendez Brothers Case Reviewed
 
