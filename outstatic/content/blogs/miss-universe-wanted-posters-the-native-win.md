@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Celebrating Miss Universe highlights, native victories, and the rise of true crime stories.'
+metaTitle: 'Miss Universe & Native Wins | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1959, the American dramatic film Ben-Hur had its world premiere, later winning an unprecedented 11 Academy Awards.'
 footerBannerTitle: ''
 cutOff: '9'
@@ -20,9 +24,9 @@ publishedAt: '2024-11-18T13:16:43.279Z'
 
 ![Victoria Kjaer Theilvig becomes the first Dane to win Miss Universe](/images/denmark-wins-miss-universe--1--gxND.jpg)
 
-Victoria Kjaer Theilvig of Denmark [made history](https://edition.cnn.com/2024/11/16/style/miss-universe-2024-winner-denmark-intl-hnk/index.html) as the first Dane to win Miss Universe at the 2024 competition in Mexico City. The 21-year-old competitive dancer and aspiring lawyer triumphed over 120 contestants, accepting the crown from 2023 winner Sheynnis Palacios. Theilvig impressed judges with her confidence and encouraging message to "keep fighting. The first runner-up was Chidimma Adetshina of Nigeria, who was in the news earlier. Her entrance caused a Nigeria- South African [Row](https://www.aljazeera.com/features/2024/9/17/how-a-beauty-queen-became-the-face-of-south-africa-nigeria-tensions) as she is also a South African citizen. Her entry opened a lot of emotions for those in South Africa with a Nigerian background. 
+Victoria Kjaer Theilvig of Denmark [made history](https://edition.cnn.com/2024/11/16/style/miss-universe-2024-winner-denmark-intl-hnk/index.html) as the first Dane to win Miss Universe at the 2024 competition in Mexico City. The 21-year-old competitive dancer and aspiring lawyer triumphed over 120 contestants, accepting the crown from 2023 winner Sheynnis Palacios. Theilvig impressed judges with her confidence and encouraging message to "keep fighting. The first runner-up was Chidimma Adetshina of Nigeria, who was in the news earlier. Her entrance caused a Nigeria- South African [Row](https://www.aljazeera.com/features/2024/9/17/how-a-beauty-queen-became-the-face-of-south-africa-nigeria-tensions) as she is also a South African citizen. Her entry opened a lot of emotions for those in South Africa with a Nigerian background.
 
-This year’s contest tried to modernize more by removing age and marital restrictions, welcoming contestants from countries like Cuba and Eritrea for the first time. The 73rd Miss Universe highlighted resilience and inclusivity amidst ongoing [controversies](https://wspartners.bbc.com/episode/w3ct67gd) in some national pageants and debates about whether or not these [pageants](https://medium.com/change-becomes-you/in-an-already-sexist-world-do-we-really-need-beauty-pageants-b25706a59f1d) should become a thing of the past. 
+This year’s contest tried to modernize more by removing age and marital restrictions, welcoming contestants from countries like Cuba and Eritrea for the first time. The 73rd Miss Universe highlighted resilience and inclusivity amidst ongoing [controversies](https://wspartners.bbc.com/episode/w3ct67gd) in some national pageants and debates about whether or not these [pageants](https://medium.com/change-becomes-you/in-an-already-sexist-world-do-we-really-need-beauty-pageants-b25706a59f1d) should become a thing of the past.
 
 ### Antisemitism on campus
 
@@ -62,7 +66,7 @@ A study shows that **exercise promotes nerve growth and repair by releasing bioc
 
 **Sports & Culture**
 
-**Bela Karolyi**, the [influential gymnastics coach](https://eu.usatoday.com/story/sports/olympics/2024/11/16/bela-karolyi-usa-gymnastics-coach-dies/76368196007/) who helped shape the careers of Olympic gold medalists Nadia Comaneci and Mary Lou Retton, **has passed away at 82.** 
+**Bela Karolyi**, the [influential gymnastics coach](https://eu.usatoday.com/story/sports/olympics/2024/11/16/bela-karolyi-usa-gymnastics-coach-dies/76368196007/) who helped shape the careers of Olympic gold medalists Nadia Comaneci and Mary Lou Retton, **has passed away at 82.**
 
 **Mike Tyson** revealed that he [nearly died](https://www.huffpost.com/entry/mike-tyson-health-scare-before-jake-paul-fight_n_6739ae86e4b0ebe12e365830) in June after undergoing eight blood transfusions and losing half his blood, but still fought Jake Paul at 58, expressing gratitude for the experience despite losing by unanimous decision.
 
@@ -70,7 +74,7 @@ A study shows that **exercise promotes nerve growth and repair by releasing bioc
 
 **Whatnot**
 
-The Airbus A321XLR, the world’s longest-range single-aisle commercial aircraft, made its inaugural flight with Iberia from Madrid to Boston [(read more)](https://www.yahoo.com/lifestyle/world-longest-range-single-aisle-104623623.html). 
+The Airbus A321XLR, the world’s longest-range single-aisle commercial aircraft, made its inaugural flight with Iberia from Madrid to Boston [(read more)](https://www.yahoo.com/lifestyle/world-longest-range-single-aisle-104623623.html).
 
 Neuroscientists teach rats to drive tiny cars, exploring skill acquisition and brain plasticity [(read more)](https://www.wired.com/story/these-rats-learned-to-drive-and-they-love-it/).
 
