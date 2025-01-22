@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Discover the details behind the ousting of a U.S. senator and what it means for American politics. Get the latest updates.'
+metaTitle: 'Senator Ousted: The Latest Political Fallout'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 relatedArticles: ''
 readTime: '5'
