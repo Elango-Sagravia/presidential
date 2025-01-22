@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Kamala Harris gains momentum in key states as elections approach. Find out what this means for the U.S. political landscape.'
+metaTitle: 'Harris Surges in Key States Ahead of Elections'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 relatedArticles: ''
 readTime: '5'
