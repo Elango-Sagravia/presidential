@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Explore the top stories from August 30th, including Germany’s drinking age discussions and other global updates.'
+metaTitle: 'Aug 30th Highlights: Germany’s Drinking Age Debate'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
