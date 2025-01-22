@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The Federal Reserve cuts rates while criminal apps emerge as a growing concern on September 20th.'
+metaTitle: '20th Sept: Fed Rate Cuts & Criminal Apps'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
