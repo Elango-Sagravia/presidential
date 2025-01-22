@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Discover Starship''s leap forward, highlights from Amazon''s visit, and the ongoing Māori protests demanding justice and equality.'
+metaTitle: 'Starship Milestone, Amazon Visit & Māori Protest'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2002, a NATO summit in Prague extended an official invitation to Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia, and Slovenia to join the alliance.'
 footerBannerTitle: ''
 cutOff: '9'
@@ -36,7 +40,7 @@ This visit differs with the incoming Trump administration’s climate policy, wh
 
 Thousands of Māori individuals and supporters are [protesting](https://www.aljazeera.com/news/2024/11/19/why-are-new-zealands-maori-protesting-over-colonial-era-treaty-bill) against the Treaty Principles Bill introduced by the ACT Party in New Zealand. The bill seeks to redefine the principles of the [Treaty of Waitangi](https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief), emphasizing equality among all citizens and aiming to eliminate “race-based politics.” Critics, including Māori activists, argue it undermines Māori rights and self-determination, protected in the Māori version of the Treaty.
 
-Protests, including a significant nine-day [hikoi](https://www.bbc.com/news/live/ckgrwem73gmt), have erupted. The protests also express broader discontent with government policies on Maori affairs. Although the protests are intense, the bill is unlikely to gain enough support in Parliament. There are undeniable ongoing tensions regarding Indigenous rights in New Zealand. There are significant [disparities](https://teara.govt.nz/en/ethnic-inequalities) between the Maori and other New Zealanders on an institutional level regarding health, poverty, and education.  
+Protests, including a significant nine-day [hikoi](https://www.bbc.com/news/live/ckgrwem73gmt), have erupted. The protests also express broader discontent with government policies on Maori affairs. Although the protests are intense, the bill is unlikely to gain enough support in Parliament. There are undeniable ongoing tensions regarding Indigenous rights in New Zealand. There are significant [disparities](https://teara.govt.nz/en/ethnic-inequalities) between the Maori and other New Zealanders on an institutional level regarding health, poverty, and education.
 
 ### BRIEFS
 
@@ -58,13 +62,13 @@ Science & Tech
 
 **Off-brand oral versions of GLP-1 drugs like Ozempic** are [proliferating online](https://www.wired.com/story/telehealth-companies-compounded-glp-1-pills-ozempic-wegovy-novo-nordisk-zepbound-mounjaro-eli-lilly/), marketed as more accessible alternatives to injections. These compounded pills, tablets, or drops lack FDA approval and rigorous testing, raising concerns about their safety and efficacy.
 
-**Tesla’s V4** **Superchargers**, launching in 2025, will significantly [upgrade](https://www.techtimes.com/articles/308351/20241119/tesla-supercharger-v4-upgrade-coming-next-year-offering-500kw-evs-12mw-semi.htm) charging speeds, delivering up to 500kW for EVs and 1.2MW for Tesla Semi trucks. 
+**Tesla’s V4** **Superchargers**, launching in 2025, will significantly [upgrade](https://www.techtimes.com/articles/308351/20241119/tesla-supercharger-v4-upgrade-coming-next-year-offering-500kw-evs-12mw-semi.htm) charging speeds, delivering up to 500kW for EVs and 1.2MW for Tesla Semi trucks.
 
-**Paleontologists** recently discovered the first-ever [mummified saber-tooth cub](https://eu.usatoday.com/story/news/world/2024/11/20/mummified-saber-tooth-cub-discovered/76425582007/), dating back 35,000 to 37,000 years, in the permafrost of Yakutia, Russia. 
+**Paleontologists** recently discovered the first-ever [mummified saber-tooth cub](https://eu.usatoday.com/story/news/world/2024/11/20/mummified-saber-tooth-cub-discovered/76425582007/), dating back 35,000 to 37,000 years, in the permafrost of Yakutia, Russia.
 
 **Sports & Culture**
 
-**Rafael Nadal**, one of tennis’ greatest icons, [retired at 38](https://edition.cnn.com/2024/11/19/sport/rafael-nadal-farewell-to-the-king-of-clay-spt-intl/index.html) after Spain’s Davis Cup loss to the Netherlands, ending a career marked by 22 Grand Slam wins and unparalleled clay-court dominance. 
+**Rafael Nadal**, one of tennis’ greatest icons, [retired at 38](https://edition.cnn.com/2024/11/19/sport/rafael-nadal-farewell-to-the-king-of-clay-spt-intl/index.html) after Spain’s Davis Cup loss to the Netherlands, ending a career marked by 22 Grand Slam wins and unparalleled clay-court dominance.
 
 **Jennifer Lawrence**, despite warnings from loved ones about safety risks, chose to co-produce *Bread and Roses*, a documentary highlighting the plight of Afghan women under Taliban rule [(read more)](https://people.com/jennifer-lawrence-pregnant-family-encouraged-her-not-to-do-documentary-bread-and-roses-dangerous-8747795).
 
