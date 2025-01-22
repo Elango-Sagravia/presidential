@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Oval Office visit sparks discussion, China remains silent on key issues, and a hush money twist shocks the political world.'
+metaTitle: 'Oval Office Talks, China’s Silence & Hush Money Update'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day, Apollo 12 was launched, carrying Charles Conrad, Jr., Richard F. Gordon, Jr., and Alan L. Bean, and five days later made the second landing on the Moon.'
 footerBannerTitle: ''
 cutOff: '9'
@@ -20,15 +24,15 @@ publishedAt: '2024-11-14T12:21:49.898Z'
 
 ![President-elect Trump meets President Biden in Washington](/images/white-house-UxMD.webp)
 
-President-elect Donald Trump [returned](https://www.nbcnews.com/politics/white-house/biden-host-trump-white-house-symbolic-peaceful-transfer-power-rcna179619) to Washington to meet President Joe Biden at a significant moment, marking the peaceful transfer of power. In their brief interaction, Biden emphasized the need for a smooth transition, which Trump acknowledged, mentioning the challenges of political life. This meeting is notable since, after the 2020 election, Trump did not invite Biden to the White House, disputing the results instead. 
+President-elect Donald Trump [returned](https://www.nbcnews.com/politics/white-house/biden-host-trump-white-house-symbolic-peaceful-transfer-power-rcna179619) to Washington to meet President Joe Biden at a significant moment, marking the peaceful transfer of power. In their brief interaction, Biden emphasized the need for a smooth transition, which Trump acknowledged, mentioning the challenges of political life. This meeting is notable since, after the 2020 election, Trump did not invite Biden to the White House, disputing the results instead.
 
-The outgoing president hosting the president is an old-time [tradition](https://www.whitehousehistory.org/presidential-inaugurations-traditions-transitions). Melania Trump did not attend this visit, but Jill Biden extended a letter to her, ensuring her team's readiness to assist with the transition. The reasons for her [declining this visit](https://www.usatoday.com/story/news/politics/elections/2024/11/13/melania-trump-declines-invitation-jill-biden/76252863007/) have yet to be revealed. There is widespread speculation that she might not live in the White House full-time once her husband is inaugurated in January. 
+The outgoing president hosting the president is an old-time [tradition](https://www.whitehousehistory.org/presidential-inaugurations-traditions-transitions). Melania Trump did not attend this visit, but Jill Biden extended a letter to her, ensuring her team's readiness to assist with the transition. The reasons for her [declining this visit](https://www.usatoday.com/story/news/politics/elections/2024/11/13/melania-trump-declines-invitation-jill-biden/76252863007/) have yet to be revealed. There is widespread speculation that she might not live in the White House full-time once her husband is inaugurated in January.
 
 ### China memorials
 
 ![Zhuhai authorities remove memorials after a deadly car attack](/images/china-clears-memorials-EzMz.webp)
 
-Authorities in Zhuhai, China, [removed offerings](https://www.taipeitimes.com/News/world/archives/2024/11/13/2003826851) at the site of a car attack that killed 35 people and injured 43, triggering public outrage over the delayed government response and censorship efforts. The attack, allegedly driven by a man angered by his [divorce settlement](https://apnews.com/article/china-crash-crowd-zhuhai-3db25fd49b1313c462bbf4e0214f3834#:~:text=Police%20say%20he%20was%20upset%20about%20his%20divorce,-0%20seconds%20of&text=People%20laid%20floral%20tributes%20and,severely%20injuring%20dozens%20of%20others.), was not initially reported by significant state media, as the government focused instead on promoting the Zhuhai airshow and Chinese President Xi Jinping’s travels. 
+Authorities in Zhuhai, China, [removed offerings](https://www.taipeitimes.com/News/world/archives/2024/11/13/2003826851) at the site of a car attack that killed 35 people and injured 43, triggering public outrage over the delayed government response and censorship efforts. The attack, allegedly driven by a man angered by his [divorce settlement](https://apnews.com/article/china-crash-crowd-zhuhai-3db25fd49b1313c462bbf4e0214f3834#:~:text=Police%20say%20he%20was%20upset%20about%20his%20divorce,-0%20seconds%20of&text=People%20laid%20floral%20tributes%20and,severely%20injuring%20dozens%20of%20others.), was not initially reported by significant state media, as the government focused instead on promoting the Zhuhai airshow and Chinese President Xi Jinping’s travels.
 
 Security personnel quickly cleared flowers and messages left by citizens, and social media platforms censored posts discussing the incident ([watch video](https://www.nbcnews.com/news/world/zhuhai-car-attack-china-removes-memorials-censors-online-outrage-rcna179917), warning—sensitive). The Chinese Ministry of Foreign Affairs defended the country’s commitment to public safety. However, experts like Hong Kong’s Rose Luqiu noted that the rapid censorship aligns with typical efforts to control narratives around incidents involving mass casualties in China.
 
@@ -48,7 +52,7 @@ Although Trump was convicted in May, his lawyers cited a recent [Supreme Court r
 
 **Indonesian and Australian troops** began joint combat drills off Java Island as both countries work on expanding military cooperation amid regional tensions, particularly with China [(read more)](https://apnews.com/article/indonesia-australia-joint-military-exercise-a65a21004a1ec821c5b2f61d2bb8154e).
 
-**Business & Finance** 
+**Business & Finance**
 
 **SoftBank-backed Swiggy's shares surged 17%** on its first day of trading on the Indian stock exchange, reflecting investor confidence in rapid online delivery demand. Despite losses and antitrust scrutiny, Swiggy raised [$1.4 billion](https://finance.yahoo.com/news/swiggy-ipo-debut-tests-demand-013000885.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGYedHCofFTTyuRcHj-prrfhs96s1O2XVL2-mXwL1S-Igruf3InmR3BEEnOcHUgvtm2kcBSq10BQ1sJkJWCc15yp0RfOzMn-MbaTdgO-YMwT9QgW5aigkdZQw_8LJzp8AWktiemdfegc0Jg0JGiMqq9cwuC4d1RY8GHLtMh56M44). Dutch tech investor Prosus, holding a 25% stake in Swiggy, announced a $2 billion gain from its investment.
 
@@ -68,7 +72,7 @@ Although Trump was convicted in May, his lawyers cited a recent [Supreme Court r
 
 **Some Harry Potter fans** were shocked to recently discover a difference between the U.K. and U.S. editions of the first *Harry Potter* film [(read more)](https://people.com/some-harry-potter-fans-shocked-by-uk-and-us-first-film-difference-8744073).
 
-**LSU’s decision** to unveil a [live caged tiger](https://edition.cnn.com/2024/11/10/sport/lsu-alabama-caged-tiger-sec-spt-intl/index.html) at its stadium for the first time in nearly a decade has sparked significant backlash. 
+**LSU’s decision** to unveil a [live caged tiger](https://edition.cnn.com/2024/11/10/sport/lsu-alabama-caged-tiger-sec-spt-intl/index.html) at its stadium for the first time in nearly a decade has sparked significant backlash.
 
 **Whatnot**
 
