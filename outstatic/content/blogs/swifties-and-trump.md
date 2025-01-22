@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Explore how Taylor Swift fans, known as Swifties, are influencing politics, and Trump’s unexpected ties to the movement.'
+metaTitle: 'Swifties & Trump: Pop Culture Meets Politics'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
