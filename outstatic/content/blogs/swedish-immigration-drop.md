@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Sweden’s immigration rate sees a significant drop, sparking political and social debates nationwide.'
+metaTitle: 'Swedish Immigration Drop Sparks Debate'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
