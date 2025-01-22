@@ -1,4 +1,10 @@
 ---
+metaDescription: 'A tragic fire at a Kenyan boarding school raises safety concerns and prompts national mourning.'
+metaTitle: 'Kenyan Boarding School Fire | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
