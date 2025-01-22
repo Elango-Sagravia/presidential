@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Learn why Google is under fire, updates on golden visas, and the fight for democracy in Hong Kong. Latest global news here.'
+metaTitle: 'Google Criticism, Golden Visas & Hong Kong Democracy'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1963, U.S. President John F. Kennedy was assassinated in Dallas, Texas, while riding in an open car.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -20,7 +24,7 @@ publishedAt: '2024-11-22T13:35:07.919Z'
 
 ![](/images/google-must-divest-chrome-to-end-monopoly--us-regulators-say-ExOT.webp)
 
-US prosecutors have [demanded](https://www.dw.com/en/google-must-divest-chrome-to-end-monopoly-us-regulators-say/a-70838012) that Google sell its Chrome browser, share data and search results with competitors, and end its dominance in the online search market. The Department of Justice’s proposal aims to break Google’s control over 90% of the search engine market by removing its ability to use Chrome as a gateway for personalized ads. 
+US prosecutors have [demanded](https://www.dw.com/en/google-must-divest-chrome-to-end-monopoly-us-regulators-say/a-70838012) that Google sell its Chrome browser, share data and search results with competitors, and end its dominance in the online search market. The Department of Justice’s proposal aims to break Google’s control over 90% of the search engine market by removing its ability to use Chrome as a gateway for personalized ads.
 
 This move follows Google's significant [antitrust loss](https://www.dw.com/en/us-court-rules-google-is-monopoly-in-antitrust-case/a-69863869) in August when a US court ruled that the company’s payments to secure default search positions on mobile devices were anti-competitive. If the court agrees to the Justice Department’s plan, it could significantly impact Google’s business model, though the company has argued against such drastic actions. A trial on the issue is set for April 2025, with a ruling expected by September.
 
@@ -44,7 +48,7 @@ Lai defended his work in his testimony, stating it reflects the values of Hong K
 
 **The International Criminal Court** (ICC) has [issued](https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa#https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa) arrest warrants for Israeli Prime Minister Netanyahu, former defense minister Yoav Gallant, and Hamas leaders over alleged war crimes linked to the Gaza conflict and the October 2023 attacks.
 
-The U.S. has [vetoed](https://www.bbc.com/news/articles/cjr4p9rg8zlo) a draft resolution at the UN Security Council that called for an immediate, unconditional **ceasefire in Gaza**, marking its fourth veto in the ongoing conflict. 
+The U.S. has [vetoed](https://www.bbc.com/news/articles/cjr4p9rg8zlo) a draft resolution at the UN Security Council that called for an immediate, unconditional **ceasefire in Gaza**, marking its fourth veto in the ongoing conflict.
 
 **Business & Finance**
 
@@ -58,9 +62,9 @@ The U.S. has [vetoed](https://www.bbc.com/news/articles/cjr4p9rg8zlo) a draft re
 
 **Science & Tech**
 
-**The Reykjanes Peninsula** in Iceland has experienced its seventh volcanic eruption since December 2023 [(read more)](https://edition.cnn.com/2024/11/21/europe/iceland-volcano-erupts-reykjanes-intl/index.html#:~:text=A%20new%20volcanic%20eruption%20that,%2C%20Nov.20%2C%202024.&text=A%20volcano%20near%20Iceland's%20capital,in%20the%20area%20since%20December.). 
+**The Reykjanes Peninsula** in Iceland has experienced its seventh volcanic eruption since December 2023 [(read more)](https://edition.cnn.com/2024/11/21/europe/iceland-volcano-erupts-reykjanes-intl/index.html#:~:text=A%20new%20volcanic%20eruption%20that,%2C%20Nov.20%2C%202024.&text=A%20volcano%20near%20Iceland's%20capital,in%20the%20area%20since%20December.).
 
-**Researchers have created** a pioneering early map of the estimated [37.2 trillion cells](https://apnews.com/article/cell-atlas-brain-microbiome-cancer-f67154e18db8db7385721a958999eaa4) in the human body, focusing on how these cells function and interact. 
+**Researchers have created** a pioneering early map of the estimated [37.2 trillion cells](https://apnews.com/article/cell-atlas-brain-microbiome-cancer-f67154e18db8db7385721a958999eaa4) in the human body, focusing on how these cells function and interact.
 
 **Sports & Culture**
 
@@ -76,6 +80,6 @@ Italian village offers $1 homes to Americans upset by the US election result [(r
 
 The fourth tourist dies after suspected mass tainted alcohol poisoning in Laos [(read more)](https://www.france24.com/en/live-news/20241121-four-tourists-die-after-suspected-laos-methanol-poisoning).
 
-Duct-taped banana artwork sells for $6.2m in NYC [(read more)](https://www.bbc.com/news/articles/cy87202v43no). 
+Duct-taped banana artwork sells for $6.2m in NYC [(read more)](https://www.bbc.com/news/articles/cy87202v43no).
 
-The 17-year-old girl passes the bar exam, just like her brother did the previous year [(read more)](https://abcnews.go.com/GMA/Living/teen-sophia-park-passes-california-bar/story?id=115865056). 
+The 17-year-old girl passes the bar exam, just like her brother did the previous year [(read more)](https://abcnews.go.com/GMA/Living/teen-sophia-park-passes-california-bar/story?id=115865056).
