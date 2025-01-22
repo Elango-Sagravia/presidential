@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Election safety takes the spotlight as new measures ensure secure voting experiences.'
+metaTitle: 'Election Safety: Key Measures in Place'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '11'
 relatedArticles: ''
 readTime: '5'
