@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Breaking news on the Cairns helicopter crash and its implications. Read the full story for updates and key details.'
+metaTitle: 'Helicopter Crash in Cairns: Tragedy Strikes'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 relatedArticles: ''
 readTime: '5'
