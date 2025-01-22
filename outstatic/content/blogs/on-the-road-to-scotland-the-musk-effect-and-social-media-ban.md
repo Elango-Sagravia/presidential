@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore the Musk effect, a social media ban debate, and a scenic road trip to Scotland in this update.'
+metaTitle: 'Scotland Road Trip, Musk Effect & Social Media Ban'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2013, the Philippines was struck by Super Typhoon Haiyan, one of the most powerful cyclones ever recorded to hit land.'
 footerBannerTitle: ''
 cutOff: '9'
