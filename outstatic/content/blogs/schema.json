@@ -60,7 +60,7 @@
     },
     "metaTitle": {
       "required": false,
-      "description": "add metadata title",
+      "description": "",
       "fieldType": "String",
       "dataType": "string",
       "title": "metaTitle"
