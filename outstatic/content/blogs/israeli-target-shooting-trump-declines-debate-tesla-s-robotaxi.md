@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Israeli target shooting incidents and Tesla’s groundbreaking Robotaxi developments make news.'
+metaTitle: 'Israeli Shooting & Tesla’s Robotaxi Advances'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1984, American astronaut Kathryn Sullivan became the first woman to walk in space.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -20,13 +24,13 @@ publishedAt: '2024-10-11T11:52:34.713Z'
 
 ![Swedish authorities investigate a shooting near Elbit Systems in Gothenburg, arresting a 13-year-old suspect](/images/shooting-in-sweden-at-an-israeli-defense-contractor-A0ND.webp)
 
-Swedish authorities are launching an investigation into a [shooting incident](https://www.dw.com/en/sweden-police-investigate-shooting-near-israeli-target/a-70453656) that occurred near the premises of Israeli defense contractor Elbit Systems in Gothenburg. Although there were no reported injuries, a young suspect, believed to be as young as 13, was apprehended at the scene. The investigation contains charges of attempted murder and aggravated weapons-related offenses. 
+Swedish authorities are launching an investigation into a [shooting incident](https://www.dw.com/en/sweden-police-investigate-shooting-near-israeli-target/a-70453656) that occurred near the premises of Israeli defense contractor Elbit Systems in Gothenburg. Although there were no reported injuries, a young suspect, believed to be as young as 13, was apprehended at the scene. The investigation contains charges of attempted murder and aggravated weapons-related offenses.
 
 Bomb squad personnel were on the scene to deal with a suspected hazardous object. This incident comes in the wake of a series of security threats directed at Israeli interests in Sweden amidst the broader Israel-Hamas conflict, including previous instances of explosives and [assaults on Israeli embassies](https://www.lemonde.fr/en/international/article/2024/10/02/danish-police-investigate-two-explosions-near-israeli-embassy_6727953_4.html) in Sweden and Denmark.
 
 ### Trump Declines Debate Rematch with Harris
 
-Donald Trump officially [declined a second presidential debate](https://www.politico.com/news/2024/10/09/trump-harris-debate-no-rematch-00183179) with Kamala Harris. He felt it wasn’t necessary, citing the late stage of the election process and the fact that early voting had already begun. Trump also stated that Harris would not deviate from Biden’s policies. This came after Harris proposed an [October 23 debate on CNN](https://edition.cnn.com/2024/09/21/politics/presidential-debate-harris-trump-cnn/index.html), and Fox News also offered to host another debate later in the month. 
+Donald Trump officially [declined a second presidential debate](https://www.politico.com/news/2024/10/09/trump-harris-debate-no-rematch-00183179) with Kamala Harris. He felt it wasn’t necessary, citing the late stage of the election process and the fact that early voting had already begun. Trump also stated that Harris would not deviate from Biden’s policies. This came after Harris proposed an [October 23 debate on CNN](https://edition.cnn.com/2024/09/21/politics/presidential-debate-harris-trump-cnn/index.html), and Fox News also offered to host another debate later in the month.
 
 Trump mentioned that while Harris had agreed to an ABC News debate in September, she did not accept Fox’s invitation to earlier debates in the month. Both candidates’ running mates, J.D. Vance for Republicans and Tim Walz for Democrats, [debated on October 1](https://www.presidentialsummary.com/archives/vp-debate-georgia-abortion-ban-overturned-mexico-s-first-female-president). Fox News made a final offer for a debate in late October, but it seems the presidential race will proceed without another confrontation between the top contenders.
 
@@ -44,7 +48,7 @@ A new report shows how messaging apps like WhatsApp, Telegram, and Viber are use
 
 The report pointed out that these apps don't have the usual ways of controlling what's posted, and their paid features let political groups reach many people and spread false information. In response, the report suggests making it harder for business accounts to join and changing the rules to control encrypted platforms while still keeping the benefits of encryption for activists and human rights supporters.
 
-### BRIEFS 
+### BRIEFS
 
 **Global Affairs**
 
@@ -56,13 +60,13 @@ Zelensky, in Paris for discussions with President Macron, asserted that a ceasef
 
 The [Nobel Peace Prize 2024](https://www.nobelprize.org/nobel-peace-prize-2024-nihon-hidankyo/) went to Japanese anti-nuclear group Nihon Hidankyo *“for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again.”*
 
-**Business & Finance** 
+**Business & Finance**
 
 Amazon Prime Day, launched in 2015, evolved into a major shopping event, offering deep discounts across various products. [Read more](https://www.nbcnews.com/select/shopping/amazon-prime-day-history-ncna1269819).
 
 NVIDIA CEO [Jensen Huang’s net worth hit $109 billion](https://www.tomshardware.com/tech-industry/jensen-huang-is-now-worth-more-than-intel-personal-net-worth-currently-valued-at-usd109b-vs-intels-usd96b-market-cap), exceeding Intel’s market cap of $96 billion.
 
-**Science & Tech** 
+**Science & Tech**
 
 [Did you see the northern lights?](https://abcnews.go.com/US/severe-solar-storm-cause-tech-disruptions-bring-northern/story?id=114648477) A severe solar storm made them visible far south in the U.S., illuminating skies from Maine to Washington, D.C.
 
@@ -76,13 +80,13 @@ Actress Jenna Fischer, known for her role as Pam Beesly in *The Office*, has rev
 
 Han Kang became the first South Korean to win the [Nobel Prize in Literature](https://www.nobelprize.org/prizes/literature/2024/press-release/) *"for her intense poetic prose that confronts historical traumas and exposes the fragility of human life."*
 
-**Sports** 
+**Sports**
 
 Rafael Nadal announced his retirement from professional tennis, citing persistent injuries that hindered his performance. [Read more](https://www.cnn.com/2024/10/10/sport/rafael-nadal-tennis-retirement-spt-intl/index.html).
 
 Hurricane Milton caused significant damage to the roof of Tropicana Field, home to the Tampa Bay Rays. [Watch video](https://www.espn.com/mlb/story/_/id/41709613/roof-tropicana-field-sustains-major-damage-hurricane-milton).
 
-**Whatnot** 
+**Whatnot**
 
 A new TikTok trend shows women taking solo bachelorette trips, focusing on [self-care and personal growth](https://www.thrillist.com/news/nation/solo-bachelorette-trip-popular-tiktok-interview).
 
