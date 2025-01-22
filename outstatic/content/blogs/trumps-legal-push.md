@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Trump intensifies his legal efforts amidst high-profile cases. Stay updated on the key developments.'
+metaTitle: 'Trump’s Legal Push: Latest Developments'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 relatedArticles: ''
 readTime: '5'
