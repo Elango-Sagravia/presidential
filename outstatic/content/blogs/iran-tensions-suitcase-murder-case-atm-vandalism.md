@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore Iran tensions, a suitcase murder case, and rising ATM vandalism incidents globally.'
+metaTitle: 'Iran Tensions & ATM Vandalism | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1886, U.S. President Grover Cleveland officially dedicated the Statue of Liberty, a gift from France, on Bedloe''s Island in Upper New York Bay.'
 footerBannerTitle: ''
 cutOff: '9'
