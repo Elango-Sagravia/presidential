@@ -67,7 +67,7 @@
     },
     "metaDescription": {
       "required": false,
-      "description": "please enter description here",
+      "description": "",
       "fieldType": "String",
       "dataType": "string",
       "title": "metaDescription"
