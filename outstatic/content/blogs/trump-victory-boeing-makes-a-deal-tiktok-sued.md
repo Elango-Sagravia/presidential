@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Trump’s legal victory, Boeing’s new deal, and TikTok facing lawsuits shape the latest news cycle.'
+metaTitle: 'Trump Victory, Boeing Deal & TikTok Lawsuit'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1860, Abraham Lincoln was elected president of the United States, leading to the secession of Southern states and the Civil War.'
 footerBannerTitle: ''
 cutOff: '8'
