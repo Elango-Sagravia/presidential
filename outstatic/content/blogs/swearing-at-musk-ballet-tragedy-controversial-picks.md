@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Elon Musk faces public backlash, a ballet tragedy shocks audiences, and controversial picks spark global conversations.'
+metaTitle: 'Musk Criticism, Ballet Tragedy & Controversial Choices'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1910, Francisco Madero launched a failed revolt that sparked the Mexican Revolution, inspiring leaders like Pancho Villa and Emiliano Zapata.'
 footerBannerTitle: ''
 cutOff: '9'
