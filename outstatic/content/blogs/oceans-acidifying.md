@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Explore the alarming rate of ocean acidification and its impact on marine ecosystems. Learn how this silent crisis affects global biodiversity.'
+metaTitle: 'Oceans Acidifying: The Silent Climate Crisis'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
