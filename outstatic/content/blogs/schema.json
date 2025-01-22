@@ -57,6 +57,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "EmailHtmlPreview"
+    },
+    "metaTitle": {
+      "required": false,
+      "description": "add metadata title",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "metaTitle"
     }
   }
 }
