@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore the Sakharov Prize winners, Seoul''s lonely death crisis, and the US warning to Musk. Stories that matter.'
+metaTitle: 'Sakharov Prize, Seoul''s Loneliness, Musk''s Warning'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1881, Pablo Picasso, the renowned Spanish painter, sculptor, and co-founder of the Cubist movement, was born.'
 footerBannerTitle: ''
 cutOff: '9'
