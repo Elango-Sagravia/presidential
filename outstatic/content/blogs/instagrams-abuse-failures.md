@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Instagram criticized for failures in addressing abuse issues on its platform. Latest developments here.'
+metaTitle: 'Instagram Faces Abuse Failures Backlash'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '7'
 relatedArticles: ''
 readTime: '5'
