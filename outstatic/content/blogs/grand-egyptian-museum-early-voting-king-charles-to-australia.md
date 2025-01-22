@@ -1,4 +1,8 @@
 ---
+metaDescription: 'The Grand Egyptian Museum opening, early voting trends, and King Charles’ plans to visit Australia.'
+metaTitle: 'Grand Egyptian Museum Opens & Early Voting'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1979, Mother Teresa, founder of a Roman Catholic order dedicated to the poor and destitute in India, was named the recipient of the Nobel Prize for Peace.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -22,7 +26,7 @@ publishedAt: '2024-10-17T12:02:36.972Z'
 
 The Grand Egyptian Museum in Cairo has officially opened its doors to the public, showcasing a rich collection of artifacts from ancient Egypt [(see photos)](https://www.bbc.com/news/articles/c4gdjpdd18yo). Visitors can now explore remarkable exhibits, including mummies and intricately designed coffins, which offer insights into the burial practices of ancient civilizations. The museum will also be housing a vast collection of ancient Egyptian artifacts, including the treasures of Tutankhamun.
 
-This partial opening is a significant milestone toward the museum’s complete inauguration, which aims to attract global attention and enhance cultural tourism in Egypt. The [Grand Egyptian Museum](https://grandegyptianmuseum.org/) has been under construction for approximately 15 years, with its initial groundbreaking in 2002. However, it faced numerous delays due to various challenges, including financial constraints and the impact of the COVID-19 pandemic. 
+This partial opening is a significant milestone toward the museum’s complete inauguration, which aims to attract global attention and enhance cultural tourism in Egypt. The [Grand Egyptian Museum](https://grandegyptianmuseum.org/) has been under construction for approximately 15 years, with its initial groundbreaking in 2002. However, it faced numerous delays due to various challenges, including financial constraints and the impact of the COVID-19 pandemic.
 
 ### Early Voting in Georgia
 
@@ -36,7 +40,7 @@ In another related update, [German export trade](https://www.dw.com/en/german-ex
 
 King Charles is poised to embark on his inaugural official [visit to Australia](https://www.nbcnews.com/news/world/australia-awaits-king-charles-first-big-overseas-tour-cancer-diagnosis-rcna175654) as monarch, an event of considerable importance as it marks his first significant trip following his [cancer diagnosis](https://www.nbcnews.com/news/world/king-charles-diagnosed-cancer-rcna137293). This visit has rekindled the ongoing debate within Australia regarding its political structure, specifically the nation's identity as a constitutional monarchy, compared to the prospect of transitioning to a republic.
 
- Recent polls indicate a slight majority of Australians still support the monarchy, though the royal visit has elicited various reactions among the populace. The king's ties to Australia, forged while studying at the Australian National University, imbue the trip with added emotional resonance. His visit coincides with the Commonwealth Heads of Government Meeting in Samoa, highlighting the broader context of Commonwealth relations and cooperation.
+Recent polls indicate a slight majority of Australians still support the monarchy, though the royal visit has elicited various reactions among the populace. The king's ties to Australia, forged while studying at the Australian National University, imbue the trip with added emotional resonance. His visit coincides with the Commonwealth Heads of Government Meeting in Samoa, highlighting the broader context of Commonwealth relations and cooperation.
 
 ### North Korea's Mass Military Drive
 
@@ -56,7 +60,7 @@ The U.S. is sending a **diplomatic message to Israel**, giving it 30 days to [im
 
 The **FTC's "click to cancel" rule** mandates businesses make canceling subscriptions as simple as signing up. It prohibits in-person-only cancellations and excessive hoops. The rule faced opposition but passed narrowly, 3-2 [(read more)](https://www.usnews.com/news/top-news/articles/2024-10-16/ftc-takes-on-subscription-traps-with-click-to-cancel-rule).
 
-**Boeing plans to raise** $25 billion over three years to boost liquidity amid a machinist strike and aircraft program issues. Analysts predict equity offerings first, aiming to strengthen Boeing's balance sheet and ease credit downgrade risks [(read more)](https://www.nbcnews.com/business/business-news/boeing-raise-much-25-billion-shore-balance-sheet-rcna175580). 
+**Boeing plans to raise** $25 billion over three years to boost liquidity amid a machinist strike and aircraft program issues. Analysts predict equity offerings first, aiming to strengthen Boeing's balance sheet and ease credit downgrade risks [(read more)](https://www.nbcnews.com/business/business-news/boeing-raise-much-25-billion-shore-balance-sheet-rcna175580).
 
 European tech founders and VC firms, including founders of Stripe and Wise, have called for a unified **pan-European entity**, EU Inc., to simplify regulations and boost cross-border collaboration, aiming to accelerate startup growth and innovation across the EU [(read more)](https://www.cnbc.com/2024/10/14/european-founders-call-for-single-eu-startup-body-to-boost-tech-sector.html).
 
@@ -80,7 +84,7 @@ This Bosnian Village attracts hikers for their pie [(see photos)](https://www.th
 
 Disney’s new skip-the-line plan costs [more than the park ticket](https://edition.cnn.com/travel/disney-parks-new-line-skip-plan/index.html).
 
-The annual wife-carrying championship attracts competitive couples to Maine [(watch video)](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b). 
+The annual wife-carrying championship attracts competitive couples to Maine [(watch video)](https://apnews.com/article/wife-carrying-contest-maine-finland-cee06d37164e1c3dd7f4f9787500085b).
 
 Standing desks may do [more harm than good.](https://scitechdaily.com/heart-health-alert-study-reveals-standing-desks-may-do-more-harm-than-good/)
 
