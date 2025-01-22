@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Port workers strike a deal, FIFA decisions on Israel, and October political surprises highlighted.'
+metaTitle: 'Port Workers Deal & October FIFA Surprises'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: 'world-view-on-iran-israel-conflict-diddy-faces-new-charges'
