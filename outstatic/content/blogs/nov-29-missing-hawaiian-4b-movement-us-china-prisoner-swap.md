@@ -1,4 +1,7 @@
 ---
+metaDescription: 'Breaking news on the US-China prisoner swap, missing Hawaiian funds, and a $4B movement.'
+metaTitle: 'US-China Prisoner Swap | Presidential Summary'
+emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: 'On this day in 1947, the United Nations General Assembly adopted a resolution calling for the partition of Palestine into separate Arab and Jewish states.'
 footerBannerTitle: ''
