@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Uber faces significant fines as legal and market challenges continue on August 28th.'
+metaTitle: 'Uber Fined on 28th Aug: Details Inside'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
