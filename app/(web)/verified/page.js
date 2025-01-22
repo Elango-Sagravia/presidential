@@ -2,11 +2,24 @@
 
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
+import { useAppContext } from "@/context/appContext";
 
 const Verified = () => {
   const router = useRouter();
+  const { isSubscribed, setEmail } = useAppContext();
+
+  const searchParams = useSearchParams();
+  const rawEmail = searchParams.get("email");
+  const email = rawEmail
+    ? decodeURIComponent(rawEmail.toLowerCase().trim())
+    : null;
 
   useEffect(() => {
+    if (email) {
+      console.log("Filtered email:", email);
+      setEmail(email);
+      // You can now use the email in your component or for logic
+    }
     // Redirect to homepage after 3 seconds
     const timer = setTimeout(() => {
       router.push("/"); // Replace '/' with your homepage route if different
