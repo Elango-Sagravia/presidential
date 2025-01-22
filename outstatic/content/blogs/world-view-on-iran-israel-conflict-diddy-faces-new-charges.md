@@ -1,4 +1,10 @@
 ---
+metaDescription: 'A deep dive into the Iran-Israel conflict, new charges against Diddy, and more global news.'
+metaTitle: 'Iran-Israel Conflict & Diddy Case | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: 'israel-launches-ground-offensive-rutte-takes-nato-helm-iran-escalates'
