@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Trump triumphs in politics, the oil city faces a crisis, and a global math scandal shocks the education sector.'
+metaTitle: 'Trump’s Wins, Oil Crisis & Global Math Scandal'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1989, the Berlin Wall, a long-standing symbol of the Cold War, was opened by the East German government.'
 footerBannerTitle: ''
 cutOff: '5'
