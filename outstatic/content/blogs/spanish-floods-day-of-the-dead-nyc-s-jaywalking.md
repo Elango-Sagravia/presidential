@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Floods in Spain and New York City’s jaywalking controversies bring unexpected social challenges.'
+metaTitle: 'Spanish Floods & NYC’s Jaywalking Debate'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1952, the United States tested the first thermonuclear bomb on an atoll in the Marshall Islands, led by Edward Teller and other scientists.'
 footerBannerTitle: ''
 cutOff: '9'
@@ -34,19 +38,19 @@ Council member Mercedes Narcisse, who sponsored the bill, stated that the law sh
 
 ### Dia de los Muertos
 
-Today, many Mexicans and the Mexican diaspora observe [Dia de los Muertos](https://eu.usatoday.com/story/graphics/2024/10/28/day-of-the-dead-dia-de-los-muertos-visual-guide/75790458007/), or Day of the Dead, celebrated from October 31 to November 2. It honors departed loved ones with rituals blending Aztec and Catholic [traditions](https://www.nationalgeographic.com/culture/article/top-ten-day-of-dead-mexico). Key symbols include the ofrenda, or altar, which holds offerings like food, flowers, and sugar skulls, thought to nourish spirits with their “essence.” Skeletons playfully depict life after death, while alebrijes, colorful mythical creatures, serve as spirit guides. 
+Today, many Mexicans and the Mexican diaspora observe [Dia de los Muertos](https://eu.usatoday.com/story/graphics/2024/10/28/day-of-the-dead-dia-de-los-muertos-visual-guide/75790458007/), or Day of the Dead, celebrated from October 31 to November 2. It honors departed loved ones with rituals blending Aztec and Catholic [traditions](https://www.nationalgeographic.com/culture/article/top-ten-day-of-dead-mexico). Key symbols include the ofrenda, or altar, which holds offerings like food, flowers, and sugar skulls, thought to nourish spirits with their “essence.” Skeletons playfully depict life after death, while alebrijes, colorful mythical creatures, serve as spirit guides.
 
-Thirty-seven million Americans have some kind of Mexican heritage. The holiday initially stemmed from the [Oaxaca region of Mexico](https://www.axios.com/local/salt-lake-city/2023/11/01/dia-los-muertos-day-dead-latinos) but became popular among Mexican communities in the 1970s thanks to the [Chicano movement](https://www.history.com/news/chicano-movement). This was a way to help Mexican Americans embrace Mexican culture and overcome the shame they felt over widespread racism. 
+Thirty-seven million Americans have some kind of Mexican heritage. The holiday initially stemmed from the [Oaxaca region of Mexico](https://www.axios.com/local/salt-lake-city/2023/11/01/dia-los-muertos-day-dead-latinos) but became popular among Mexican communities in the 1970s thanks to the [Chicano movement](https://www.history.com/news/chicano-movement). This was a way to help Mexican Americans embrace Mexican culture and overcome the shame they felt over widespread racism.
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 **North Korea test-fired an intercontinental ballistic missile**, marking its first such [launch](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5) in nearly a year. The missile’s flight reached altitudes over 7,000 kilometers, suggesting advancements in North Korea’s missile technology, potentially with Russian assistance.
 
 **The EU is closely watching the U.S. presidential election**; many [prefer](https://www.dw.com/en/us-election-2024-why-the-eu-wants-kamala-harris-in-the-white-house-v2/a-70644670) the prospect of Kamala Harris, mainly based on her overall predictability in transatlantic relations.
 
-**Business & Finance** 
+**Business & Finance**
 
 **US unemployment claims hit a five-month low**, consumer spending rose, and labor costs saw the smallest gain since 2021, reflecting economic resilience. With inflation on a downward trend, the Fed is expected to cut rates in November [(read more)](https://abcnews.go.com/Business/wireStory/us-applications-jobless-benefits-fall-layoffs-remain-historically-115348959).
 
@@ -60,7 +64,7 @@ Thirty-seven million Americans have some kind of Mexican heritage. The holiday i
 
 **Scientists discovered that methazolamide**, a glaucoma drug, can help clear tau protein build-up in the brains of zebrafish and mice, which could lead to exciting new treatments for dementia like Alzheimer’s [(read more)](https://scitechdaily.com/scientists-discover-common-eye-medication-could-outsmart-alzheimers/).
 
-**Scientists have discovered Argentina's oldest-known fossil of a giant tadpole**, dating back over 160 million years. This [fossil](https://apnews.com/article/tadpole-frog-fossil-amphibian-evolution-e59f5b95d2e35ff6d66b3bd2c4304ed4) is a whopping 20 million years older than the previous record holder. 
+**Scientists have discovered Argentina's oldest-known fossil of a giant tadpole**, dating back over 160 million years. This [fossil](https://apnews.com/article/tadpole-frog-fossil-amphibian-evolution-e59f5b95d2e35ff6d66b3bd2c4304ed4) is a whopping 20 million years older than the previous record holder.
 
 **Sports & Culture**
 
@@ -78,4 +82,4 @@ Venice doubles its tourist tax for some visitors [(read more)](https://www.thril
 
 Canada wants more overseas tourists to visit [(find out why)](https://www.bbc.com/news/articles/cp396g01g6xo).
 
-How to destress on your wellness retreat [(read how)](https://www.thrillist.com/travel/how-to-actually-destress-on-vacation). 
+How to destress on your wellness retreat [(read how)](https://www.thrillist.com/travel/how-to-actually-destress-on-vacation).
