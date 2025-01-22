@@ -1,4 +1,10 @@
 ---
+metaDescription: 'The NYC Mayor faces serious charges, sparking debates on governance and accountability. Read the full story.'
+metaTitle: 'NYC Mayor Faces Charges: Legal Trouble Unfolds'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
