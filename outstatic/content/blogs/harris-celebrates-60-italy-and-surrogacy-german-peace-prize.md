@@ -1,4 +1,8 @@
 ---
+metaDescription: 'VP Harris celebrates her 60th, Italy faces surrogacy debates, and Germany announces its Peace Prize winner. Catch the latest news.'
+metaTitle: 'Harris at 60, Italy''s Surrogacy Debate & Peace Prize'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2010, WikiLeaks, founded by Julian Assange, released thousands of classified U.S. documents relating to the wars in Iraq and Afghanistan.'
 footerBannerTitle: ''
 cutOff: '8'
