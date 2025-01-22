@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Get the latest updates on ABBA, Trump, Taylor Swift, and a recent attack on August 31st. Stay informed with the top headlines.'
+metaTitle: 'Aug 31st News: ABBA, Trump, Taylor Swift & Attack'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
