@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Explore new US housing initiatives aimed at tackling affordability and boosting infrastructure development.'
+metaTitle: 'US Housing Plans Unveiled | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 relatedArticles: ''
 readTime: '5'
