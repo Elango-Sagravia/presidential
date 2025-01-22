@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Jimmy Carter’s voting record and new stats revealing a billion people live in poverty.'
+metaTitle: 'Jimmy Carter Votes & Global Poverty Stats'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1867, the U.S. flag was flown over Sitka after a deal for the U.S. purchase of Alaska was approved.'
 footerBannerTitle: ''
 cutOff: '8'
