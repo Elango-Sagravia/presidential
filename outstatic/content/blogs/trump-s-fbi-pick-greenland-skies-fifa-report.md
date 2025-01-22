@@ -1,4 +1,6 @@
 ---
+metaDescription: 'Discover Trump''s new FBI pick, Greenland skies, and FIFA''s latest report in this comprehensive news summary.'
+metaTitle: 'Trump''s FBI Pick & FIFA Insights | Presidential Summary'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: 'On this day in 1993, Colombian drug lord Pablo Escobar, head of the Medellín cartel and one of the most powerful drug traffickers of the 1980s and early ''90s, was killed in a shoot-out with authorities.'
