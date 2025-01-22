@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Celebrating Poland''s independence, Sotomayor''s stay, and smog visible from space updates.'
+metaTitle: 'Poland''s Independence Day | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2018, Stan Lee, the American comic book writer who helped create iconic characters like Spider-Man and the Avengers, died at age 95.'
 footerBannerTitle: ''
 cutOff: '9'
