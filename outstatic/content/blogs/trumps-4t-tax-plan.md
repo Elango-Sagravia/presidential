@@ -1,6 +1,12 @@
 ---
+metaDescription: 'Explore Trump’s proposed $4 trillion tax plan and its potential implications for the economy.'
+metaTitle: 'Trump’s $4T Tax Plan: Economic Impact'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
-latest: ''
+latest: 'true'
 relatedArticles: ''
 readTime: '5'
 coverImage: '/images/9th-aug--trump-s--4t-tax-plan--hottest-year-ever-E5Mj.webp'
