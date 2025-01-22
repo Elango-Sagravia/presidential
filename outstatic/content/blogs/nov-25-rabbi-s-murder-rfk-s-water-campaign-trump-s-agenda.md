@@ -1,4 +1,8 @@
 ---
+metaDescription: 'A tragic rabbi murder, RFK’s water campaign, and Trump’s evolving agenda make headlines on Nov 25.'
+metaTitle: 'Nov 25: Rabbi’s Murder & Trump’s Agenda'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2020, Argentine football star Diego Maradona, considered one of the greatest footballers of all time, died at age 60.'
 footerBannerTitle: ''
 cutOff: '9'
