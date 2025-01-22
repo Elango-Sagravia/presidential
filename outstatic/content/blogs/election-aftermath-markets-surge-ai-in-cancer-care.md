@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Dive into the election aftermath, market surges, and revolutionary AI advancements in cancer treatment.'
+metaTitle: 'Election Results, Market Gains & AI Cancer Breakthroughs'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2000, the U.S. presidential election ended in a statistical tie between Al Gore and George W. Bush, later settled by the U.S. Supreme Court.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -18,7 +22,7 @@ publishedAt: '2024-11-07T12:56:12.599Z'
 
 ### Election aftermath
 
-Kamala Harris officially [conceded](https://www.dw.com/en/us-election-result-donald-trump-wins-over-kamala-harris-v2/live-70708290) to Republican Donald Trump in a [speech](https://www.youtube.com/watch?v=fnUouF8oDbs) at Howard University on Wednesday. In it, she thanked her supporters and urged them to continue their efforts to bring about change. Trump also won the popular vote, becoming the first Republican since George W. Bush in 2004. Trump [celebrated](https://www.npr.org/2024/11/06/nx-s1-5181584/trump-celebrates-historic-win-in-speech) his historic win, promising to usher in a “golden age of America.” 
+Kamala Harris officially [conceded](https://www.dw.com/en/us-election-result-donald-trump-wins-over-kamala-harris-v2/live-70708290) to Republican Donald Trump in a [speech](https://www.youtube.com/watch?v=fnUouF8oDbs) at Howard University on Wednesday. In it, she thanked her supporters and urged them to continue their efforts to bring about change. Trump also won the popular vote, becoming the first Republican since George W. Bush in 2004. Trump [celebrated](https://www.npr.org/2024/11/06/nx-s1-5181584/trump-celebrates-historic-win-in-speech) his historic win, promising to usher in a “golden age of America.”
 
 Trump’s win was both broad and strategic. His [campaign](https://www.aljazeera.com/news/2024/11/7/us-election-results-how-did-donald-trump-break-the-blue-wall) aimed to reshape American electoral coalitions, reaching out to traditionally Democratic constituencies such as union members, working-class families, and Black and Latino men. At the same time, he appealed to those who had grown disillusioned with the political process, especially men in overlooked communities who felt abandoned by both parties. See the election results [here](https://news.sky.com/story/us-election-results-donald-trumps-victory-in-maps-and-charts-13248974).
 
@@ -58,7 +62,7 @@ The study will focus on personalized cancer treatment, comparing the efficacy of
 
 → **Beijing-based Space Transportation** has successfully tested its [hypersonic passenger plane](https://www.independent.co.uk/tech/hypersonic-plane-china-concorde-space-transportation-b2638972.html?utm_source=pocket-newtab-en-gb), the Yunxing, which can fly from London to New York in under 2 hours.
 
-→ Scientists have achieved a groundbreaking **“smell teleportation” technology** developed by [Osmo](https://www.osmo.ai/blog/teleporting-scent). This technology uses AI to analyze and recreate scents remotely, allowing users to experience fragrances without being physically present [(read more)](https://www.uniladtech.com/science/space/scientists-virtual-universe-simulation-history-unbelievable-949941-20240612). 
+→ Scientists have achieved a groundbreaking **“smell teleportation” technology** developed by [Osmo](https://www.osmo.ai/blog/teleporting-scent). This technology uses AI to analyze and recreate scents remotely, allowing users to experience fragrances without being physically present [(read more)](https://www.uniladtech.com/science/space/scientists-virtual-universe-simulation-history-unbelievable-949941-20240612).
 
 → Amazon founder **Jeff Bezos congratulated Donald Trump** on his [re-election](https://edition.cnn.com/2024/11/06/media/jeff-bezos-congratulates-trump-victory-amazon-post/index.html), calling it an “extraordinary political comeback and decisive victory.”
 
@@ -76,6 +80,6 @@ The study will focus on personalized cancer treatment, comparing the efficacy of
 
 → Nintendo confirms Switch games will be compatible with its next console [(read more)](https://www.aljazeera.com/economy/2024/11/6/nintendo-says-switch-games-will-be-playable-on-next-console).
 
-→ China’s navy cautions young personnel about the risks of online dating and virtual gambling [(read more)](https://www.usnews.com/news/world/articles/2024-11-04/china-warns-young-soldiers-against-online-dating-gambling). 
+→ China’s navy cautions young personnel about the risks of online dating and virtual gambling [(read more)](https://www.usnews.com/news/world/articles/2024-11-04/china-warns-young-soldiers-against-online-dating-gambling).
 
 → A guide to Norway’s fjords [(read more)](https://www.thrillist.com/travel/nation/things-to-do-norwegian-fjords-cruise-ports).
