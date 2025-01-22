@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Updates on the Titan sub malfunction, Oktoberfest opening, and key September 21 global events.'
+metaTitle: 'Titan Sub Malfunction & Oktoberfest | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 latest: 'true'
 relatedArticles: ''
