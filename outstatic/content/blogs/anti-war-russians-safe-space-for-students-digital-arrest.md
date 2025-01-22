@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Discover how anti-war Russians find safety, efforts for student safe spaces, and the rise of digital arrests.'
+metaTitle: 'Anti-War Protests, Student Safety & Digital Arrests'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2007, Amazon.com began selling the Kindle, a wireless electronic reading device that played a key role in popularizing e-books.'
 footerBannerTitle: ''
 cutOff: '9'
@@ -20,7 +24,7 @@ publishedAt: '2024-11-19T13:05:00.613Z'
 
 ![Russian opposition figures in Berlin call for an end to the Ukraine war](/images/russians-in-berlin-hold-protest-march--1--I3Mj.webp)
 
-In Berlin, prominent Russian opposition figures—Yulia Navalnaya, Vladimir Kara-Murza, and Ilya Yashin—led a [demonstration](https://www.dw.com/en/russian-opposition-in-exile-holds-berlin-protest-march/a-70804993) calling for an end to the war in Ukraine and the removal of President Vladimir Putin. Hundreds gathered at Potsdamer Platz, marching to the Russian Embassy with banners saying “No Putin. No War” and “Victory for Ukraine.” [Navalnaya](https://www.bbc.com/news/articles/ce9g4ln2d8eo), whose husband Alexei Navalny died in prison, is committed to continuing his opposition work. 
+In Berlin, prominent Russian opposition figures—Yulia Navalnaya, Vladimir Kara-Murza, and Ilya Yashin—led a [demonstration](https://www.dw.com/en/russian-opposition-in-exile-holds-berlin-protest-march/a-70804993) calling for an end to the war in Ukraine and the removal of President Vladimir Putin. Hundreds gathered at Potsdamer Platz, marching to the Russian Embassy with banners saying “No Putin. No War” and “Victory for Ukraine.” [Navalnaya](https://www.bbc.com/news/articles/ce9g4ln2d8eo), whose husband Alexei Navalny died in prison, is committed to continuing his opposition work.
 
 The situation with the Ukraine war has been a challenging subject for Russians abroad. While many are vocal about it, some might not share the same distaste for Putin. For example, tensions flared in Vienna on May 9th, as pro-Russian and pro-Ukrainian groups [clashed](https://www.newsweek.com/russians-ukrainians-face-off-vienna-over-9th-may-victory-day-1799284) during “Victory Day” celebrations. Some of the Russian supporters said this was only about the Nazi defeat in 1945, while some said they were against all wars and it is partly NATOS fault. This reflects conflicting narratives about history and the ongoing war in Ukraine.
 
