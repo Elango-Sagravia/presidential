@@ -1,4 +1,10 @@
 ---
+metaDescription: 'August 24th highlights include the EU''s ban on passport stamps, a massive diamond discovery, and protests in Indonesia.'
+metaTitle: 'Aug 24th: EU Passport Stamp Ban & Rare Diamond'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
