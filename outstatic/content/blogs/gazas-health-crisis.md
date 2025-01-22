@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Uncover the ongoing health crisis in Gaza and the urgent need for humanitarian aid to address critical issues.'
+metaTitle: 'Gaza’s Health Crisis: Urgent Call for Aid'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '9'
 relatedArticles: ''
 readTime: '5'
