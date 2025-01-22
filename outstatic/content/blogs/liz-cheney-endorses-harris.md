@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Liz Cheney backs Harris, signaling bipartisan shifts in the political landscape.'
+metaTitle: 'Liz Cheney Endorses Harris | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
