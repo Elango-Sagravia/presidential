@@ -1,4 +1,7 @@
 ---
+metaDescription: 'Explore Thanksgiving trends, the Word of the Year, and Haaretz sanctions shaping global narratives.'
+metaTitle: 'Thanksgiving Trends & Word of the Year 2023'
+emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: 'On this day in 1943, the Tehrān Conference, attended by Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin, opened, with Stalin pressing for an invasion of France.'
 footerBannerTitle: ''
