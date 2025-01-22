@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Temu''s CEO makes history by topping China''s rich list, redefining success in tech.'
+metaTitle: 'Temu CEO Tops China''s Rich List | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
