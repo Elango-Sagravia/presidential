@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore the Menendez brothers'' story, Laotian spiritual beliefs, and Gabbard''s controversy. Catch up on impactful narratives.'
+metaTitle: 'Menendez Brothers, Laotian Spirits, Gabbard Controversy'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1942, Casablanca premiered, directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, becoming one of Hollywood''s most-revered films.'
 footerBannerTitle: ''
 cutOff: '9'
