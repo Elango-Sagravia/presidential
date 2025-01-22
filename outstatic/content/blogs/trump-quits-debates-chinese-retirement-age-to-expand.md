@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Trump Quits Debates: China’s Retirement Age	Trump exits debates as China expands retirement age policies. Key details revealed.'
+metaTitle: 'Trump Quits Debates: China’s Retirement Age'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
