@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Skydiving grandmas inspire adventure and resilience in this September 2 news highlight.'
+metaTitle: 'Grandma Skydivers Thrill | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 latest: 'true'
 relatedArticles: ''
