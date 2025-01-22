@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Explore Musk''s million-dollar move, a metal contamination alert, and King Charles''s visit to Samoa. Read more.'
+metaTitle: 'Musk’s $1M Move, Metal Alert, King Charles in Samoa'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1958, America''s first jet airliner, the Boeing 707, entered service for Pan American World Airways.'
 footerBannerTitle: ''
 cutOff: '10'
