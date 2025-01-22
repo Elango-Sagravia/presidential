@@ -1,4 +1,8 @@
 ---
+metaDescription: 'France’s weight loss drugs, whooping cough rise, and Obama’s endorsement for Harris dominate news.'
+metaTitle: 'Weight Loss Drugs & Obama’s Support for Harris'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1492, the New World was "discovered" when land (most likely San Salvador) was sighted in the Caribbean from the Pinta during Christopher Columbus''s historic voyage.'
 footerBannerTitle: ''
 cutOff: '8'
