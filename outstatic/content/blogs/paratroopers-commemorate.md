@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Celebrate Paratroopers’ Day with a look at their history, bravery, and contributions to global military efforts.'
+metaTitle: 'Paratroopers’ Day: Honoring Heroes'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
