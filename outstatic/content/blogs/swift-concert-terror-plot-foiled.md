@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Authorities foil a terror plot targeting a Taylor Swift concert. Read how swift action averted a potential tragedy.'
+metaTitle: 'Taylor Swift Concert: Terror Plot Foiled'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '11'
 relatedArticles: ''
 readTime: '5'
