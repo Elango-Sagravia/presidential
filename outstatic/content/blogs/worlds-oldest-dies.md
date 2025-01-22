@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Honoring the life and legacy of the world’s oldest individual as their journey comes to an end.'
+metaTitle: 'World’s Oldest Passes Away: A Legacy Remembered'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '5'
 relatedArticles: ''
 readTime: '5'
