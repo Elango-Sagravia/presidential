@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Poland’s abortion laws and Australia’s digital disconnect take focus on August 27th updates.'
+metaTitle: '27th Aug: Poland Abortion & Australia Issues'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
