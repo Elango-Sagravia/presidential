@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Anti-whaling activism rises as Texas man spared in asylum case highlights systemic issues.'
+metaTitle: 'Anti-Whaling Activism & Texas Asylum Case'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1812, Napoleon began his disastrous retreat from Russia.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -28,7 +32,7 @@ A French resident, Watson wrote a letter from prison to French President Emmanue
 
 The Texas Supreme Court [halted the scheduled execution](https://edition.cnn.com/2024/10/17/us/robert-roberson-texas-execution-lawfulness/index.html) of Robert Roberson, convicted of killing his 2-year-old daughter in 2002. His conviction was tied to shaken baby syndrome, a diagnosis now questioned by medical experts. Roberson’s supporters, including bipartisan lawmakers, argue his daughter died from complications related to pneumonia, not abuse.
 
-Lawmakers issued a subpoena for Roberson to testify before a Texas House committee next week, invoking a rarely-used legal maneuver. The ruling came after hours of last-minute appeals. Roberson, who has autism, has maintained his innocence, and his lawyers argue that flawed science led to his conviction. He now awaits further legal proceedings while his testimony is scheduled for Monday—the U.S. is the only remaining Western country that practices the [death penalty](https://www.bbc.com/news/world-45835584). It is a divisive issue that many people have strong feelings about. Currently, 23 states have abolished it, while 27 still allow it. 
+Lawmakers issued a subpoena for Roberson to testify before a Texas House committee next week, invoking a rarely-used legal maneuver. The ruling came after hours of last-minute appeals. Roberson, who has autism, has maintained his innocence, and his lawyers argue that flawed science led to his conviction. He now awaits further legal proceedings while his testimony is scheduled for Monday—the U.S. is the only remaining Western country that practices the [death penalty](https://www.bbc.com/news/world-45835584). It is a divisive issue that many people have strong feelings about. Currently, 23 states have abolished it, while 27 still allow it.
 
 ### Secret Service Failings
 
@@ -40,7 +44,7 @@ Acting Director Ronald Rowe, who took over after Kimberly Cheatle resigned, has 
 
 ### Biden Strengthens Transatlantic Ties
 
-President Joe Biden visited Berlin, where he was awarded Germany’s Grand Cross of the Order of Merit [(watch video)](https://www.dw.com/en/biden-meets-allies-in-berlin/video-70539143). He met with German Chancellor Olaf Scholz, French President Emmanuel Macron, and UK Prime Minister Keir Starmer. This was a farewell visit and an attempt to strengthen Transatlantic ties before the US presidential elections. Their talks focused on [Ukraine and the Middle East](https://www.cbsnews.com/news/biden-berlin-ukraine-european-allies/). The leaders reaffirmed support for Ukraine against Russia’s aggression and discussed President Zelenskyy’s [victory plan](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5), including using [frozen Russian assets](https://www.euronews.com/2024/10/11/frozen-russian-assets-and-35-million-eu-loan-to-ukraine-whats-at-stake) to aid Ukraine. 
+President Joe Biden visited Berlin, where he was awarded Germany’s Grand Cross of the Order of Merit [(watch video)](https://www.dw.com/en/biden-meets-allies-in-berlin/video-70539143). He met with German Chancellor Olaf Scholz, French President Emmanuel Macron, and UK Prime Minister Keir Starmer. This was a farewell visit and an attempt to strengthen Transatlantic ties before the US presidential elections. Their talks focused on [Ukraine and the Middle East](https://www.cbsnews.com/news/biden-berlin-ukraine-european-allies/). The leaders reaffirmed support for Ukraine against Russia’s aggression and discussed President Zelenskyy’s [victory plan](https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5), including using [frozen Russian assets](https://www.euronews.com/2024/10/11/frozen-russian-assets-and-35-million-eu-loan-to-ukraine-whats-at-stake) to aid Ukraine.
 
 They also addressed the death of [Hamas leader](https://edition.cnn.com/2024/10/18/world/what-next-for-hamas-intl/index.html) Yahya Sinwar, calling for the release of Israeli hostages and increased humanitarian aid to Gaza. British Prime Minister Starmer emphasized the urgent need for Gaza aid while backing Israel’s right to self-defense. The leaders remain committed to stabilizing both regions.
 
@@ -48,7 +52,7 @@ They also addressed the death of [Hamas leader](https://edition.cnn.com/2024/10/
 
 **Global Affairs**
 
-**Ireland’s Prime Minister**, Simon Harris, announces that Ireland will unilaterally [suspend trade with Israel](https://www.euronews.com/my-europe/2024/10/16/ireland-will-not-wait-for-eu-to-unilaterally-suspend-trade-with-israel-pm-harris) on goods from the occupied West Bank within weeks, ahead of an EU-wide decision. 
+**Ireland’s Prime Minister**, Simon Harris, announces that Ireland will unilaterally [suspend trade with Israel](https://www.euronews.com/my-europe/2024/10/16/ireland-will-not-wait-for-eu-to-unilaterally-suspend-trade-with-israel-pm-harris) on goods from the occupied West Bank within weeks, ahead of an EU-wide decision.
 
 **Bart De Wever**’s potential rise to Belgium’s prime ministership embodies a complex interplay of Flemish nationalism and the challenges of governing a divided nation [(read more)](https://www.politico.eu/article/bart-de-wever-belgium-antwerp-elections-europe/)
 
@@ -60,7 +64,7 @@ They also addressed the death of [Hamas leader](https://edition.cnn.com/2024/10/
 
 **China’s economy** grew [4.6% in Q3](https://www.chinadaily.com.cn/a/202410/18/WS6711c18ea310f1265a1c8481.html), slightly above forecasts but slower than Q2, as a weak property sector hampers post-COVID recovery. Despite better-than-expected consumption and output, markets await more stimulus details [(stimulus details)](https://amp.theguardian.com/world/2024/sep/24/china-economy-stimulus-package-measures-yuan-pbc).
 
-**Science & Tech** 
+**Science & Tech**
 
 **Google Flights** introduces new tools like price tracking and fare drop notifications to help users find [cheaper flights](https://www.thrillist.com/news/nation/google-flights-cheapest-flight-new-feature-save-money).
 
@@ -76,7 +80,7 @@ Seventeen-year-old [Ryan Williams](https://edition.cnn.com/2024/10/12/sport/ryan
 
 **The Democratic National Committee** uses [Taylor Swift’s Eras tour](https://www.nbcnews.com/tech/taylor-swifts-eras-tour-miami-dnc-youth-voter-campaign-rcna176005) to engage young voters ahead of the 2024 election.
 
-**Whatnot** 
+**Whatnot**
 
 Archaeologists in northeastern China discovered a [5,000-year-old jade dragon artifact](https://www.smithsonianmag.com/smart-news/archaeologists-discover-mysterious-jade-dragon-artifact-at-a-5000-year-old-tomb-in-china-180985288/).
 
