@@ -1,4 +1,8 @@
 ---
+metaDescription: 'US defense for Israel, Trump avoids attacks, and Indiana Jones tomb discoveries.'
+metaTitle: 'US Backs Israel Defense | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1959, a final conference on the Antarctic Treaty convened in Washington, D.C., leading to the treaty''s signing by 12 countries.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -46,7 +50,7 @@ He emphasized a coordinated federal response involving various agencies, includi
 
 ### BRIEFS
 
-**Global Affairs** 
+**Global Affairs**
 
 Ukrainian President Zelensky says North Korea is sending citizens to assist the Russian military in its fight against Ukraine [(read more)](https://edition.cnn.com/2024/10/14/europe/north-korea-russia-ukraine-military-zelensky-intl/index.html).
 
@@ -58,13 +62,13 @@ Boeing cuts 17,000 jobs, 10% of its workforce, and halts the 777X and 767 Freigh
 
 Unilever sells its Russian operations to Arnest Group, a Russian perfume company owned by Alexey Sagal; Sagal acquired Heineken’s Russian assets last year [(read more)](https://www.theguardian.com/business/2024/oct/10/unilever-sells-russian-business-after-pressure-from-campaigners).
 
-**Science & Tech** 
+**Science & Tech**
 
 Recent research shows cells from various species can exchange “text messages “ using RNA, allowing them to communicate across the evolutionary divide [(read more)](https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/#:~:text=7%3A00%20AM-,Cells%20From%20Different%20Species%20Can%20Exchange%20%27Text%20Messages%27%20Using%20RNA,organisms%20widely%20separated%20by%20evolution.).
 
 Hurricane Helene causes extensive damage to North Carolina solar farms, leading to power outages; [volunteer efforts](https://apnews.com/article/hurricane-helene-solar-power-north-carolina-095b6ff5f1290ac7439f12b555f9845d) are helping restore power.
 
-A new form of online fraud—scammers convince victims they are under a [“digital” arrest](https://www.aljazeera.com/news/2024/10/11/what-are-digital-arrests-the-newest-deepfake-tool-used-by-cybercriminals#:~:text=Digital%20arrest%20is%20a%20new,scammer%20through%20video%2Dconferencing%20software.), coercing them to stay connected via video-conferencing software as part of the scam. 
+A new form of online fraud—scammers convince victims they are under a [“digital” arrest](https://www.aljazeera.com/news/2024/10/11/what-are-digital-arrests-the-newest-deepfake-tool-used-by-cybercriminals#:~:text=Digital%20arrest%20is%20a%20new,scammer%20through%20video%2Dconferencing%20software.), coercing them to stay connected via video-conferencing software as part of the scam.
 
 The director of *I, Robot* accuses Elon Musk of ripping off his designs for Tesla’s Optimus and Robotaxi [(read more)](https://www.bbc.com/news/articles/ced04q39w33o).
 
@@ -76,7 +80,7 @@ TikTok rapidly emerges as a news source, but news and political accounts compris
 
 A study shows viewing original museum artworks activates the brain more than looking at reproductions [(read more)](https://www.theguardian.com/science/2024/oct/03/real-art-in-museums-stimulates-brain-much-more-than-reprints-study-finds).
 
-**Whatnot** 
+**Whatnot**
 
 Texas sets an execution date for Robert Roberson, convicted in 2003; [appeals over DNA evidence](https://time.com/7086477/robert-roberson-execution-date-texas-appeals/).
 
