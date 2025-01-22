@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Dive into Maori protests, the canonization of a millennial, and Trump''s ongoing legal battles. Stories shaping today.'
+metaTitle: 'Nov 23: Maori Protests, Millennial Saint, Trump Legal'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1963, the first episode of the British science-fiction television series Doctor Who aired, becoming a landmark of British popular culture.'
 footerBannerTitle: ''
 cutOff: '6'
@@ -24,7 +28,7 @@ publishedAt: '2024-11-23T13:55:43.210Z'
 
 Thousands of Māori individuals and supporters are [protesting](https://www.aljazeera.com/news/2024/11/19/why-are-new-zealands-maori-protesting-over-colonial-era-treaty-bill) against the Treaty Principles Bill introduced by the ACT Party in New Zealand. The bill seeks to redefine the principles of the [Treaty of Waitangi](https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief), emphasizing equality among all citizens and aiming to eliminate “race-based politics.” Critics, including Māori activists, argue it undermines Māori rights and self-determination, protected in the Māori version of the Treaty.
 
-Protests, including a significant nine-day [hikoi](https://www.bbc.com/news/live/ckgrwem73gmt), have erupted. The protests also express broader discontent with government policies on Maori affairs. Although the protests are intense, the bill is unlikely to gain enough support in Parliament. There are undeniable ongoing tensions regarding Indigenous rights in New Zealand. There are significant [disparities](https://teara.govt.nz/en/ethnic-inequalities) between the Maori and other New Zealanders on an institutional level regarding health, poverty, and education.  
+Protests, including a significant nine-day [hikoi](https://www.bbc.com/news/live/ckgrwem73gmt), have erupted. The protests also express broader discontent with government policies on Maori affairs. Although the protests are intense, the bill is unlikely to gain enough support in Parliament. There are undeniable ongoing tensions regarding Indigenous rights in New Zealand. There are significant [disparities](https://teara.govt.nz/en/ethnic-inequalities) between the Maori and other New Zealanders on an institutional level regarding health, poverty, and education.
 
 ### RECAP
 
@@ -58,6 +62,6 @@ Trump’s legal issues as a sitting president would navigate a legal gray area, 
 
 ![](/images/elon-musk-with-donald-trump-k4MT.webp)
 
-Elon Musk with Donald Trump and other guests at a viewing event for the launch of the sixth test flight of the SpaceX Starship in Brownsville, Texas, on November 19th. 
+Elon Musk with Donald Trump and other guests at a viewing event for the launch of the sixth test flight of the SpaceX Starship in Brownsville, Texas, on November 19th.
 
 Photo by Brandon Bell/Pool via REUTERS.
