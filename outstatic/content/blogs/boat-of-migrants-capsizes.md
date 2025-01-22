@@ -1,4 +1,10 @@
 ---
+metaDescription: 'A migrant boat tragedy highlights the ongoing risks and challenges of global migration.'
+metaTitle: 'Migrant Boat Capsizes | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
