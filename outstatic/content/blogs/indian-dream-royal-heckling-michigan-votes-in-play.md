@@ -1,4 +1,8 @@
 ---
+metaDescription: 'India’s aspirations, royal heckling incidents, and Michigan’s pivotal votes take center stage.'
+metaTitle: 'Indian Dream, Royal Heckling & Michigan Votes'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1983, suicide bombers drove explosives into the barracks of U.S. Marines and French paratroopers in Beirut, killing 241 U.S. servicemen and 58 French troops.'
 footerBannerTitle: ''
 cutOff: '9'
