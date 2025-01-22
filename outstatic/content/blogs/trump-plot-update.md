@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Uncover the latest updates on Trump''s alleged plot and its implications for his political future. Read the full story.'
+metaTitle: 'Trump Plot Update: New Developments Emerge'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
