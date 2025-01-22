@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Read about Israel''s strikes in Yemen and Kamala Harris''s promises for improved border solutions. Stay updated on global news.'
+metaTitle: 'Israel Strikes Yemen & Harris on Border Solutions'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
@@ -18,7 +24,7 @@ publishedAt: '2024-09-30T15:07:05.710Z'
 
 ![Israel Strikes Yemen](/images/israel-kills-hezbollah-leader-nasrallah-in-airstrike-UzNj.webp)
 
-On Sunday, Israel conducted [airstrikes](https://www.dw.com/en/israel-strikes-yemen-as-lebanon-attacks-continue/live-70354520) on Houthi targets in Yemen, in addition to strikes on Hezbollah targets in Lebanon. The strikes, which hit power plants and ports in Hodeidah, were in response to Houthi missile attacks on Israel, including an attempt to strike Ben Gurion Airport. 
+On Sunday, Israel conducted [airstrikes](https://www.dw.com/en/israel-strikes-yemen-as-lebanon-attacks-continue/live-70354520) on Houthi targets in Yemen, in addition to strikes on Hezbollah targets in Lebanon. The strikes, which hit power plants and ports in Hodeidah, were in response to Houthi missile attacks on Israel, including an attempt to strike Ben Gurion Airport.
 
 The Iran-backed Houthis have intensified attacks on Israel in solidarity with the Palestinians since the Gaza war broke out on [October 7](https://www.csis.org/analysis/hamass-october-7-attack-visualizing-data). Despite increased Israeli retaliation, Houthi leaders have reiterated their support for Gaza and Lebanon. This signals a broader regional confrontation, as the Houthis, aligned with Iran and Hezbollah, form part of the ["Axis of Resistance,"](https://www.latimes.com/world-nation/story/2024-09-26/axis-of-resistance-explained-iran-israel) which seeks to oppose Israel in the Middle East and challenge US and Western dominance in the region.
 
@@ -30,7 +36,7 @@ In her speech, Harris emphasized "common sense" policies that balance border sec
 
 ### Austrian Far-Right Party Wins Big in Election
 
-In Austria's recent general election on Sunday, the far-right Freedom Party (FPO) achieved a [historic victory](https://www.dw.com/en/austrias-far-right-fp%C3%B6-wins-parliamentary-vote/a-70354491), securing nearly 30% of the vote. It was expected that they would get the most votes, but not close to a third of the votes overall. The ruling conservative OVP, led by Chancellor Karl Nehammer, also performed slightly better than expected, with around 26.2%. The other parties, such as the Social Democrats and Greens, did poorly in comparison. The Social Democrat Party that rules Austria’s capital, Vienna, secured barely over  20%.
+In Austria's recent general election on Sunday, the far-right Freedom Party (FPO) achieved a [historic victory](https://www.dw.com/en/austrias-far-right-fp%C3%B6-wins-parliamentary-vote/a-70354491), securing nearly 30% of the vote. It was expected that they would get the most votes, but not close to a third of the votes overall. The ruling conservative OVP, led by Chancellor Karl Nehammer, also performed slightly better than expected, with around 26.2%. The other parties, such as the Social Democrats and Greens, did poorly in comparison. The Social Democrat Party that rules Austria’s capital, Vienna, secured barely over 20%.
 
 Voters surveyed identified immigration and economic concerns as the top priorities influencing their decisions. Although the FPO emerged as the leading party, analysts believe it could face difficulties forming a government without securing enough coalition partners. Nehammer has ruled out working under FPO leader Herbert Kickl, leaving room for potential coalitions with other parties.
 
@@ -44,18 +50,18 @@ Walz, a native of Nebraska, focuses on [appealing to rural voters](https://www.b
 
 ![Floods Kill Over 140 in Nepal](/images/floods-kill-120-in-nepal-EwOT.webp)
 
-Nepal is facing [significant floods](https://www.yahoo.com/news/death-toll-nepal-floods-landslides-114832287.html) and landslides after two days of intense rain, resulting in at least 148 deaths and over 100 injuries. More than 50 people are still missing, and around 3,600 have been rescued from the hard-hit Kathmandu valley. Many areas in the valley remain isolated and cut off due to blocked roads, which has hindered rescue missions and led to tragic fatalities. 
+Nepal is facing [significant floods](https://www.yahoo.com/news/death-toll-nepal-floods-landslides-114832287.html) and landslides after two days of intense rain, resulting in at least 148 deaths and over 100 injuries. More than 50 people are still missing, and around 3,600 have been rescued from the hard-hit Kathmandu valley. Many areas in the valley remain isolated and cut off due to blocked roads, which has hindered rescue missions and led to tragic fatalities.
 
 Nepal expects more rain through Tuesday, and the situation is very severe. Ten thousand rescue workers have been mobilized and are on the ground. These floods are a sobering reminder of how climate change intensifies storms. 2024 has been a dire year for disastrous weather, particularly this last month. Many [corners of the world](https://www.bbc.com/news/articles/cn5zx2zx5xvo) have been experiencing severe floods.
 
 ### Briefs
 
-[**Youth vaping is down at a 10-year low.**](https://edition.cnn.com/2024/09/05/health/youth-vaping-decline-e-cigarette-nicotine-pouches/index.html) 
+[**Youth vaping is down at a 10-year low.**](https://edition.cnn.com/2024/09/05/health/youth-vaping-decline-e-cigarette-nicotine-pouches/index.html)
 
-[**Tokyo Zoo says bye to their pandas. China took them back.**](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/09/29/tearful-goodbye-to-tokyo-zoo-pandas) 
+[**Tokyo Zoo says bye to their pandas. China took them back.**](https://www.thestar.com.my/aseanplus/aseanplus-news/2024/09/29/tearful-goodbye-to-tokyo-zoo-pandas)
 
 [**This company was richer than Apple, Facebook, and Google combined. Read about the Dutch East indie company.**](https://dutchreview.com/culture/history/how-rich-was-the-dutch-east-india-company/)
 
-[**SpaceX launches the rescue mission for stranded astronauts.**](https://www.voanews.com/a/spacex-launches-rescue-mission-for-2-nasa-astronauts-stranded-in-space/7803409.html) 
+[**SpaceX launches the rescue mission for stranded astronauts.**](https://www.voanews.com/a/spacex-launches-rescue-mission-for-2-nasa-astronauts-stranded-in-space/7803409.html)
 
 [**The top two college football powerhouses met on Saturday.**](https://www.nbcnews.com/sports/college-football/alabama-vs-georgia-clash-rivals-test-two-powerhouses-college-football-rcna172806)
