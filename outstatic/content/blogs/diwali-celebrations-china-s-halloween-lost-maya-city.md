@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Discover the vibrant Diwali celebrations, China’s unique Halloween traditions, and a lost Maya city.'
+metaTitle: 'Diwali & China’s Halloween Celebrations'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1941, the Mount Rushmore National Memorial, featuring the heads of Presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln, was completed, after nearly 15 years of work.'
 footerBannerTitle: ''
 cutOff: '9'
