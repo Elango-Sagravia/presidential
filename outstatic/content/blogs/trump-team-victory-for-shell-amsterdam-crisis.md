@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Trump’s legal team scores a win, Shell secures a major victory, and Amsterdam faces a housing crisis. Get the latest updates.'
+metaTitle: 'Trump Team Win, Shell’s Victory & Amsterdam Crisis'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 2015, terrorists staged coordinated attacks in Paris, with the deadliest occurring at the Bataclan theatre, killing at least 130 people and wounding more than 350.'
 footerBannerTitle: ''
 cutOff: '8'
@@ -34,9 +38,9 @@ Shell CEO Wael Sawan welcomed the decision, seeing it as beneficial for Shell an
 
 ![](/images/dutch-tram-set-on-fire-in-new-amsterdam-unrest--1--E0OT.jpg)
 
-In Amsterdam, a group armed with sticks and firecrackers set a tram [ablaze](https://www.dw.com/en/dutch-tram-set-on-fire-in-new-amsterdam-unrest/a-70759392) at the ’40-’45 Square on Monday, shattering its windows, though the tram was empty and no one was hurt. Police quickly extinguished the fire, dispersed the crowd, and made several arrests. This incident follows escalating tensions after Israeli football fans [clashed](https://www.theguardian.com/world/2024/nov/11/what-happened-amsterdam-israeli-football-fans) with locals during a match between Maccabi Tel Aviv and Ajax Amsterdam. 
+In Amsterdam, a group armed with sticks and firecrackers set a tram [ablaze](https://www.dw.com/en/dutch-tram-set-on-fire-in-new-amsterdam-unrest/a-70759392) at the ’40-’45 Square on Monday, shattering its windows, though the tram was empty and no one was hurt. Police quickly extinguished the fire, dispersed the crowd, and made several arrests. This incident follows escalating tensions after Israeli football fans [clashed](https://www.theguardian.com/world/2024/nov/11/what-happened-amsterdam-israeli-football-fans) with locals during a match between Maccabi Tel Aviv and Ajax Amsterdam.
 
-Five more people were detained on Monday for alleged involvement in those earlier attacks. The violence drew sharp criticism from Dutch Prime Minister Dick Schoof, who condemned the attacks as “antisemitic.” Some of the protestors physically beat groups of Tel Aviv supporters. Amsterdam has since imposed a temporary ban on pro-Palestinian protests in response to the unrest. Many believe it is unfair and pointed to some unsavory actions by [Tel Aviv supporters](https://www.aljazeera.com/news/2024/11/8/israeli-football-fans-clash-with-protesters-in-amsterdam) who shouted anti-Arab slurs and tore down Palestinian flags.  
+Five more people were detained on Monday for alleged involvement in those earlier attacks. The violence drew sharp criticism from Dutch Prime Minister Dick Schoof, who condemned the attacks as “antisemitic.” Some of the protestors physically beat groups of Tel Aviv supporters. Amsterdam has since imposed a temporary ban on pro-Palestinian protests in response to the unrest. Many believe it is unfair and pointed to some unsavory actions by [Tel Aviv supporters](https://www.aljazeera.com/news/2024/11/8/israeli-football-fans-clash-with-protesters-in-amsterdam) who shouted anti-Arab slurs and tore down Palestinian flags.
 
 ### BRIEFS
 
@@ -76,4 +80,4 @@ Nighttime bike rides from Zhengzhou to Kaifeng, China, have become popular among
 
 Melania Trump will likely skip Wednesday's White House meeting with Jill Biden [(read more)](https://edition.cnn.com/2024/11/11/politics/melania-trump-jill-biden/index.html).
 
- A list of the best gifts to give to travel lovers [(read more)](https://www.thrillist.com/travel/nation/best-travel-accessories-editor-recommendations).
+A list of the best gifts to give to travel lovers [(read more)](https://www.thrillist.com/travel/nation/best-travel-accessories-editor-recommendations).
