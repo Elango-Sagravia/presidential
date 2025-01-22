@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Details on the foiled Berlin attack, Cuba''s blackout, and Musk''s latest million-dollar decision. Read now.'
+metaTitle: 'Berlin Attack Foiled, Cuban Blackout & Musk''s Moves'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1833, Alfred Nobel, the inventor of dynamite and founder of the Nobel Prizes, was born in Stockholm.'
 footerBannerTitle: ''
 cutOff: '9'
