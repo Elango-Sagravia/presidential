@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Telegram’s latest updates and the Rouble’s market trends dominate the headlines. Explore the analysis.'
+metaTitle: 'Telegram & Rouble: 26th Aug Insights'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '6'
 relatedArticles: ''
 readTime: '5'
