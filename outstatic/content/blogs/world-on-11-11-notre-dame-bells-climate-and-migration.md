@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Notre Dame bells, climate migration, and global updates from the world on November 11.'
+metaTitle: 'World Updates: 11/11 Events | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1918, the Allied powers and Germany signed an armistice, ending World War I six hours later.'
 footerBannerTitle: ''
 cutOff: '9'
