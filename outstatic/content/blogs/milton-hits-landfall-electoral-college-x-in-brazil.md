@@ -1,4 +1,8 @@
 ---
+metaDescription: 'Storm Milton makes landfall, updates on the Electoral College, and Brazil''s surprising developments. Get the details.'
+metaTitle: 'Milton Hits Landfall, Electoral College & Brazil'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1970, Fiji gained independence from Great Britain, ending nearly a century of colonial rule. '
 footerBannerTitle: ''
 cutOff: '8'
