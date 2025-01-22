@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Highlights from the VP debate, Georgia''s abortion ban reversal, and Mexico''s first female president.'
+metaTitle: 'VP Debate & Mexico''s Milestone | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
@@ -24,7 +30,7 @@ The debate highlighted the significant divide between the two campaigns. Immigra
 
 ![Georgia Overturns Controversial Six-Week Abortion Ban](/images/georgia-overturns-controversial-abortion-ban-gwNj.webp)
 
-A Georgia judge struck down the state’s six-week abortion ban, ruling it [unconstitutional](https://edition.cnn.com/2024/09/30/politics/georgia-abortion-ban/index.html). Judge Robert McBurney declared that the Living Infants Fairness and Equality (LIFE) Act infringed on women’s state constitutional rights, stating that abortion restrictions before fetal viability violate liberty and privacy rights. The ruling may allow greater access to abortion in Georgia and neighboring states, though the state plans to appeal. 
+A Georgia judge struck down the state’s six-week abortion ban, ruling it [unconstitutional](https://edition.cnn.com/2024/09/30/politics/georgia-abortion-ban/index.html). Judge Robert McBurney declared that the Living Infants Fairness and Equality (LIFE) Act infringed on women’s state constitutional rights, stating that abortion restrictions before fetal viability violate liberty and privacy rights. The ruling may allow greater access to abortion in Georgia and neighboring states, though the state plans to appeal.
 
 Georgia's ban has heavily curbed the number of abortions since it took effect in 2022 after the overturning of U.S. Supreme Court [Roe v. Wade](https://www.bbc.com/news/world-us-canada-54513499). Governor Brian Kemp criticized the decision, while reproductive rights advocates celebrated it as a victory for bodily autonomy.
 
@@ -44,7 +50,7 @@ While Ohio law allows private citizens to file criminal charges, a court hearing
 
 ### French Court Tries Rwandan Doctor for Genocide
 
-Eugene Rwamucyo, a 65-year-old former doctor, commenced his [trial in France](https://www.france24.com/en/europe/20241001-rwandan-doctor-trial-france-genocide) on Tuesday over his alleged involvement in the horrific Rwandan genocide back in 1994. He's facing serious charges, including genocide and crimes against humanity, for supposedly spreading anti-Tutsi propaganda and participating in mass murders to cover up the atrocities. 
+Eugene Rwamucyo, a 65-year-old former doctor, commenced his [trial in France](https://www.france24.com/en/europe/20241001-rwandan-doctor-trial-france-genocide) on Tuesday over his alleged involvement in the horrific Rwandan genocide back in 1994. He's facing serious charges, including genocide and crimes against humanity, for supposedly spreading anti-Tutsi propaganda and participating in mass murders to cover up the atrocities.
 
 After leaving Rwanda, Rwamucyo worked as a doctor in France and Belgium. This case is the eighth trial in France related to the genocide, where around 800,000 Tutsis were killed. If convicted, he could spend life in prison. His lawyer maintains that his client was just trying to avoid a health crisis by burying bodies and denies the allegations, claiming they're rooted in his opposition to the current Rwandan government. The trial is set to run until October 29, with about 60 witnesses expected to testify.
 
@@ -52,11 +58,11 @@ After leaving Rwanda, Rwamucyo worked as a doctor in France and Belgium. This ca
 
 [**Many Korean adoptees discover they were taken under pretenses.**](https://apnews.com/article/south-korean-adoptions-investigation-united-states-europe-67d6bb03fddede7dcca199c2e3cd486e)
 
-[**AI has helped Shein become the biggest polluter in fast fashion.**](https://www.wired.com/story/shein-is-officially-the-biggest-polluter-in-fast-fashion-ai-is-making-things-worse/) 
+[**AI has helped Shein become the biggest polluter in fast fashion.**](https://www.wired.com/story/shein-is-officially-the-biggest-polluter-in-fast-fashion-ai-is-making-things-worse/)
 
 [**Kris Kristofferson, a famous country singer and songwriter, died at 88.**](https://variety.com/2024/film/obituaries-people-news/kris-kristofferson-dead-country-music-legend-actor-1236159472/)
 
-[**School bus fire in Thailand kills 23.**](https://www.bbc.com/news/articles/c0jwqzzw986o%27) 
+[**School bus fire in Thailand kills 23.**](https://www.bbc.com/news/articles/c0jwqzzw986o%27)
 
 [**Jimmy Carter turns 100. Read about his tips for longevity.**](https://www.today.com/health/men-s-health/jimmy-carter-turns-100-longevity-habits-rcna173018)
 
