@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Dive into the fascinating world of amateurs exploring space and their contributions to innovation.'
+metaTitle: 'Amateurs in Space: The Future of Exploration'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
