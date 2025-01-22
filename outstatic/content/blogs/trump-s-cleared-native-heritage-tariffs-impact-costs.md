@@ -1,4 +1,6 @@
 ---
+metaDescription: 'Trump cleared of allegations, insights into Native heritage, and the impact of tariffs on U.S. costs. Get the latest news.'
+metaTitle: 'Trump Cleared, Heritage & Tariff Impact Costs'
 emailHtmlPreview: ''
 emailHtml: ''
 footerBannerContent: 'On this day in 1982, Michael Jackson released Thriller, which became the best-selling album in the world and won a record-setting eight Grammy Awards.'
@@ -36,7 +38,7 @@ Native American Heritage Month is [celebrated](https://www.today.com/life/holida
 
 **Germany needs workers**
 
-Germany is experiencing a significant [labor shortage](https://www.dw.com/en/germany-needs-288000-foreign-workers-annually-until-2040-study/a-70885279#:~:text=Germany%3A%20288%2C000%20foreign%20workers%20needed%20annually%20until%202040,-11%2F26%2F2024&text=Despite%20recent%20reforms%20to%20labor,to%20be%20filled%20by%20immigrants.), projected to worsen due to a shrinking workforce, which could decline by 10% by 2040. The Bertelsmann Foundation estimates that Germany will need around 288,000 skilled immigrant workers annually and possibly up to 368,000 by 2060. Despite [reforms to labor migration laws](https://www.dw.com/en/germanys-new-immigration-law-promises-easier-visa-process/a-66000520) in 2023, barriers and discrimination remain, hindering the attraction of skilled workers. Regions like [Thuringia and Saxony-Anhalt](https://www.google.com/maps/place/Saxony-Anhalt,+Germany/@51.9841583,10.5549464,8z/data=!3m1!4b1!4m6!3m5!1s0x47a5f099e8512481:0xd11dc516e80ede74!8m2!3d51.9502649!4d11.6922734!16zL20vMDlocmM?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) will face the most challenges, while cities like Berlin and Hamburg may be less impacted due to higher immigration levels. While immigration remains a hot issue in Germany, it turns out that immigrants are still needed. 
+Germany is experiencing a significant [labor shortage](https://www.dw.com/en/germany-needs-288000-foreign-workers-annually-until-2040-study/a-70885279#:~:text=Germany%3A%20288%2C000%20foreign%20workers%20needed%20annually%20until%202040,-11%2F26%2F2024&text=Despite%20recent%20reforms%20to%20labor,to%20be%20filled%20by%20immigrants.), projected to worsen due to a shrinking workforce, which could decline by 10% by 2040. The Bertelsmann Foundation estimates that Germany will need around 288,000 skilled immigrant workers annually and possibly up to 368,000 by 2060. Despite [reforms to labor migration laws](https://www.dw.com/en/germanys-new-immigration-law-promises-easier-visa-process/a-66000520) in 2023, barriers and discrimination remain, hindering the attraction of skilled workers. Regions like [Thuringia and Saxony-Anhalt](https://www.google.com/maps/place/Saxony-Anhalt,+Germany/@51.9841583,10.5549464,8z/data=!3m1!4b1!4m6!3m5!1s0x47a5f099e8512481:0xd11dc516e80ede74!8m2!3d51.9502649!4d11.6922734!16zL20vMDlocmM?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D) will face the most challenges, while cities like Berlin and Hamburg may be less impacted due to higher immigration levels. While immigration remains a hot issue in Germany, it turns out that immigrants are still needed.
 
 **Lost hiker found**
 
@@ -44,13 +46,13 @@ What began as a routine workday in northeast British Columbia became an [incredi
 
 ### THE BIG QUESTION
 
-**What can get more expensive with Trump's new tariffs?** 
+**What can get more expensive with Trump's new tariffs?**
 
-Many voters for Donald Trump did not vote for him because of his MAGA policies and social issues; they voted for him based on [economic factors](https://apnews.com/article/trump-harris-economy-immigration-11db37c033328a7ef6af71fe0a104604). However, will these be relieved by his [tariff plans](https://www.theguardian.com/us-news/2024/nov/27/trump-tariffs-explained), particularly the ones he plans to have with China, Mexico, and Canada, the US's largest trading partners? 
+Many voters for Donald Trump did not vote for him because of his MAGA policies and social issues; they voted for him based on [economic factors](https://apnews.com/article/trump-harris-economy-immigration-11db37c033328a7ef6af71fe0a104604). However, will these be relieved by his [tariff plans](https://www.theguardian.com/us-news/2024/nov/27/trump-tariffs-explained), particularly the ones he plans to have with China, Mexico, and Canada, the US's largest trading partners?
 
 President-elect Donald Trump’s proposed 25% tariff on goods from Mexico and Canada could significantly [impact American consumers](https://edition.cnn.com/2024/11/26/business/tariffs-mexico-canada-more-expensive/index.html). Gas prices could rise by 25 to 75 cents per gallon as the U.S. imports much of its oil from Canada. Food prices would also increase, especially for items like avocados, which the U.S. imports heavily from Mexico. Cars and car parts from Mexico, valued at nearly $45 billion in 2023, would become more expensive, affecting manufacturers and consumers. Alcohol imports, including Mexican beer and tequila, would also increase prices. With Mexico now the [U.S.’s top trading partner](https://www.forbes.com/sites/kenroberts/2024/02/07/2023-results-are-in-us-has-new-top-port-trade-partner-export-import/), these tariffs would disrupt supply chains, leading to higher costs for a wide range of goods, ultimately burdening U.S. consumers and businesses.
 
-Donald Trump was democratically elected and will have a chance to prove himself to voters in January. So, many of his plans and effectiveness remain to be seen. However, when examining the impact of tariffs, it seems that the “voters for economic reasons” did not have this in mind when casting a vote. 
+Donald Trump was democratically elected and will have a chance to prove himself to voters in January. So, many of his plans and effectiveness remain to be seen. However, when examining the impact of tariffs, it seems that the “voters for economic reasons” did not have this in mind when casting a vote.
 
 ### PHOTO OF THE WEEK
 
