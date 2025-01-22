@@ -1,4 +1,10 @@
 ---
+metaDescription: 'Read about the devastating impact of Typhoon Yagi on Vietnam and the ongoing relief efforts. Stay informed on weather news.'
+metaTitle: 'Typhoon Yagi Strikes Vietnam: Weather Updates'
+emailHtmlPreview: ''
+emailHtml: ''
+footerBannerContent: ''
+footerBannerTitle: ''
 cutOff: '8'
 latest: 'true'
 relatedArticles: ''
