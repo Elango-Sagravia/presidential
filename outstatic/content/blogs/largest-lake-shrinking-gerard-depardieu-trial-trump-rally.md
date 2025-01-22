@@ -1,4 +1,8 @@
 ---
+metaDescription: 'US defense for Israel, Trump avoids attacks, and Indiana Jones tomb discoveries.'
+metaTitle: 'US Backs Israel Defense | Presidential Summary'
+emailHtmlPreview: ''
+emailHtml: ''
 footerBannerContent: 'On this day in 1929, 16 million shares of U.S. stocks were sold in a massive panic on "Black Tuesday," deepening the financial collapse that led to the Great Depression.'
 footerBannerTitle: ''
 cutOff: '9'
