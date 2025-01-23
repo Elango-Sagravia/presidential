@@ -1,23 +1,4 @@
-import { NextResponse } from "next/server";
 import { query } from "@/lib/db";
-// Verify the SNS message
-async function verifySNSMessage(message) {
-  try {
-    // Fetch the SigningCertURL and validate the signature
-    const certResponse = await fetch(message.SigningCertURL);
-    const cert = await certResponse.text();
-
-    // Validate the message signature using a cryptographic library (e.g., Node's crypto)
-    // This part requires parsing and recreating the string-to-sign.
-    // Refer to AWS SNS signature validation documentation for exact implementation.
-
-    // For now, returning true as a placeholder
-    return true;
-  } catch (err) {
-    console.error("Failed to verify SNS message:", err);
-    return false;
-  }
-}
 
 // Extract campaign_id and user_id from headers
 function extractCampaignAndUser(headers) {
@@ -36,8 +17,9 @@ function extractCampaignAndUser(headers) {
   return { campaign_id, user_id };
 }
 
-// Process Bounce Events
-async function handleBounceEvent(bounce, mail) {
+// Process Bounce Event
+async function handleBounceEvent(event) {
+  const { bounce, mail } = event;
   const { headers, messageId } = mail;
   const { bouncedRecipients, bounceType, bounceSubType, timestamp } = bounce;
 
@@ -102,7 +84,7 @@ async function handleBounceEvent(bounce, mail) {
       status,
       action,
       mail.source,
-      mail.tags["ses:source-ip"][0],
+      mail.tags["ses:source-ip"] ? mail.tags["ses:source-ip"][0] : null,
       bounce.remoteMtaIp,
       bounce.reportingMTA,
       timestamp,
@@ -118,65 +100,28 @@ async function handleBounceEvent(bounce, mail) {
   }
 }
 
-// Process SNS Notification
-async function processSNSNotification(notification) {
-  const { Type, bounce, mail } = JSON.parse(notification);
-
-  // Only handle "Bounce" type events
-  if (Type === "Bounce") {
-    await handleBounceEvent(bounce, mail);
-  } else {
-    console.log("Unsupported notification type:", Type);
-  }
-}
-
 export async function POST(req) {
   try {
     const body = await req.json();
-
-    // Verify SNS message
-    const isVerified = await verifySNSMessage(body);
-    if (!isVerified) {
+    console.log("Body: " + body);
+    // Verify the event type is a bounce
+    if (body.eventType !== "Bounce") {
       return NextResponse.json(
-        { error: "Invalid SNS message" },
+        { error: "Event type not supported" },
         { status: 400 }
       );
     }
 
-    // Handle different SNS message types
-    switch (body.Type) {
-      case "SubscriptionConfirmation": {
-        if (!body.SubscribeURL) {
-          return NextResponse.json(
-            { error: "Missing SubscribeURL in SubscriptionConfirmation" },
-            { status: 400 }
-          );
-        }
-        // Confirm the subscription
-        console.log("Confirming subscription:", body.SubscribeURL);
-        await fetch(body.SubscribeURL);
-        return NextResponse.json({ message: "Subscription confirmed" });
-      }
+    // Process the bounce event
+    await handleBounceEvent(body);
 
-      case "Notification": {
-        console.log("Notification received:", body.Message);
-        console.log(body);
-        // Process the notification
-        await processSNSNotification(body.Message);
-        return NextResponse.json({ message: "Notification processed" });
-      }
-
-      default: {
-        return NextResponse.json(
-          { error: "Unknown SNS message type" },
-          { status: 400 }
-        );
-      }
-    }
+    return NextResponse.json({
+      message: "Bounce event processed successfully",
+    });
   } catch (err) {
-    console.error("Error processing SNS notification:", err);
+    console.error("Error processing bounce event:", err);
     return NextResponse.json(
-      { error: "Failed to process SNS notification" },
+      { error: "Failed to process bounce event" },
       { status: 500 }
     );
   }
