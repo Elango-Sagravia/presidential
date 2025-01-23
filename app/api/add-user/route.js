@@ -41,7 +41,7 @@ export async function GET(request) {
 
       const updateUserQuery = `
         UPDATE users
-        SET browser = $1, device = $2, platform = $3, country = $4, updated_at = NOW(), referrer = $6
+        SET browser = $1, device = $2, platform = $3, country = $4, updated_at = NOW(), referrer = $6, source_id = $7
         WHERE id = $5;
       `;
       await query(updateUserQuery, [
@@ -51,6 +51,7 @@ export async function GET(request) {
         country,
         userId,
         referrer,
+        1,
       ]);
     } else {
       // User doesn't exist, insert a new user
