@@ -1,4 +1,19 @@
+import { NextResponse } from "next/server";
 import { query } from "@/lib/db";
+
+// Verify the SNS message
+async function verifySNSMessage(message) {
+  try {
+    const certResponse = await fetch(message.SigningCertURL);
+    const cert = await certResponse.text();
+
+    // Validate the message signature (placeholder for actual validation)
+    return true;
+  } catch (err) {
+    console.error("Failed to verify SNS message:", err);
+    return false;
+  }
+}
 
 // Extract campaign_id and user_id from headers
 function extractCampaignAndUser(headers) {
@@ -17,16 +32,14 @@ function extractCampaignAndUser(headers) {
   return { campaign_id, user_id };
 }
 
-// Process Bounce Event
-async function handleBounceEvent(event) {
-  const { bounce, mail } = event;
+// Process Bounce Events
+async function handleBounceEvent(bounce, mail) {
   const { headers, messageId } = mail;
   const { bouncedRecipients, bounceType, bounceSubType, timestamp } = bounce;
 
   // Extract campaign_id and user_id
   const { campaign_id, user_id } = extractCampaignAndUser(headers);
 
-  // Only process if campaign_id and user_id exist
   if (!campaign_id || !user_id) {
     console.error("Missing campaign_id or user_id in mail headers");
     return;
@@ -35,7 +48,6 @@ async function handleBounceEvent(event) {
   for (const recipient of bouncedRecipients) {
     const { emailAddress, status, action, diagnosticCode } = recipient;
 
-    // SQL query to insert or update bounce data
     const queryText = `
       INSERT INTO email_bounce (
         user_id,
@@ -91,7 +103,6 @@ async function handleBounceEvent(event) {
     ];
 
     try {
-      // Execute the query using the imported query function
       await query(queryText, queryValues);
       console.log(`Bounce recorded for email: ${emailAddress}`);
     } catch (err) {
@@ -100,28 +111,52 @@ async function handleBounceEvent(event) {
   }
 }
 
+// Process SNS Notification
+async function processSNSNotification(notification) {
+  const parsedMessage = JSON.parse(notification.Message);
+
+  if (parsedMessage.eventType !== "Bounce") {
+    console.log("Unsupported notification type:", parsedMessage.eventType);
+    return;
+  }
+
+  await handleBounceEvent(parsedMessage.bounce, parsedMessage.mail);
+}
+
 export async function POST(req) {
   try {
     const body = await req.json();
-    console.log("Body: " + body);
-    // Verify the event type is a bounce
-    if (body.eventType !== "Bounce") {
+
+    // Verify SNS message
+    const isVerified = await verifySNSMessage(body);
+    if (!isVerified) {
       return NextResponse.json(
-        { error: "Event type not supported" },
+        { error: "Invalid SNS message" },
         { status: 400 }
       );
     }
 
-    // Process the bounce event
-    await handleBounceEvent(body);
+    // Handle SNS Notification
+    if (body.Type === "Notification") {
+      console.log("Processing SNS Notification:", body.Message);
+      await processSNSNotification(body);
+      return NextResponse.json({ message: "Notification processed" });
+    }
 
-    return NextResponse.json({
-      message: "Bounce event processed successfully",
-    });
-  } catch (err) {
-    console.error("Error processing bounce event:", err);
+    if (body.Type === "SubscriptionConfirmation" && body.SubscribeURL) {
+      console.log("Confirming subscription:", body.SubscribeURL);
+      await fetch(body.SubscribeURL);
+      return NextResponse.json({ message: "Subscription confirmed" });
+    }
+
     return NextResponse.json(
-      { error: "Failed to process bounce event" },
+      { error: "Unsupported SNS message type" },
+      { status: 400 }
+    );
+  } catch (err) {
+    console.error("Error processing SNS notification:", err);
+    return NextResponse.json(
+      { error: "Failed to process SNS notification" },
       { status: 500 }
     );
   }
