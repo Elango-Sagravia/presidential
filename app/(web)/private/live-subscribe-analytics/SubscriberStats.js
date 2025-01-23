@@ -249,6 +249,8 @@ const SubscriberStats = () => {
       <h2>Total unsubscribers: {data.email_unsubscribes.count}</h2>
       <h2>Total email sent: {data.email_sent.count}</h2>
       <h2>Total email opens: {data.email_opens.count}</h2>
+      <h2>Total hard bounce: {data.email_bounces.hard_bounces}</h2>
+      <h2>Total soft bounce: {data.email_bounces.soft_bounces}</h2>
 
       {/* Country Stats */}
       <h3 className="text-xl font-bold mt-8 mb-4">Country Stats</h3>

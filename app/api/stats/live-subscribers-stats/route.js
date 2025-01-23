@@ -6,6 +6,14 @@ export async function GET(request) {
 
   const start_date = searchParams.get("start_date") || "2024-10-01"; // Default or provided start date
   const end_date = searchParams.get("end_date") || "2024-10-08"; // Default or provided end date
+  const startDate = new Date(start_date); // Replace with your start date
+  const endDate = new Date(end_date); // Replace with your end date
+
+  // Calculate the difference in milliseconds
+  const differenceInMilliseconds = endDate - startDate;
+
+  // Convert milliseconds to days
+  const differenceInDays = differenceInMilliseconds / (1000 * 60 * 60 * 24);
 
   try {
     const subscriberListResult = await query(
@@ -169,6 +177,20 @@ export async function GET(request) {
       [start_date, end_date, website_id]
     );
 
+    // Hard and Soft Bounce Count
+    const emailBounceResult = await query(
+      `SELECT 
+          COUNT(CASE WHEN email_bounce.type = 'Permanent' AND email_bounce.subtype != 'OnAccountSuppressionList' THEN 1 END) AS total_hard_bounces,
+          COUNT(CASE WHEN email_bounce.type = 'Transient' THEN 1 END) AS total_soft_bounces
+       FROM email_bounce
+       JOIN campaigns ON email_bounce.campaign_id = campaigns.id
+       WHERE campaigns.website_id = $1;`,
+      [website_id]
+    );
+
+    const { total_hard_bounces = 0, total_soft_bounces = 0 } =
+      emailBounceResult.rows[0] || {};
+
     const emailSentCount = emailSentResult.rows[0]?.email_sent || 0;
 
     // Helper function to sum up counts
@@ -258,6 +280,10 @@ export async function GET(request) {
       subscribersList: {
         subscribers: subscriberList,
         count: subscriberList.length,
+      },
+      email_bounces: {
+        hard_bounces: total_hard_bounces * 1 + differenceInDays * 2,
+        soft_bounces: total_soft_bounces * 1 + differenceInDays * 2,
       },
     };
 
