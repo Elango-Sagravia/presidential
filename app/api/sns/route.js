@@ -55,6 +55,7 @@ export async function POST(req) {
 
       case "Notification": {
         console.log("Notification received:", body.Message);
+        console.log(body);
         // Process the notification
         await processSNSNotification(body.Message);
         return NextResponse.json({ message: "Notification processed" });
