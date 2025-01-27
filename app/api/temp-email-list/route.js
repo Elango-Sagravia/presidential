@@ -4,21 +4,21 @@ function containsDomain(email, domains) {
   return domains.some((domain) => email.includes(domain));
 }
 
-// const domains = [
-//   "yahoo.com",
-//   "ymail.com",
-//   "aol.com",
-//   "rocketmail.com",
-//   "yahoo",
-//   "att.net",
-//   "sbcglobal.net",
-//   "bellsouth.net",
-//   "flash.net",
-//   "pacbell.net",
-//   "nvbell.net",
-//   "swbell.net",
-// ];
-const domains = [];
+const domains = [
+  "yahoo.com",
+  "ymail.com",
+  "aol.com",
+  "rocketmail.com",
+  "yahoo",
+  "att.net",
+  "sbcglobal.net",
+  "bellsouth.net",
+  "flash.net",
+  "pacbell.net",
+  "nvbell.net",
+  "swbell.net",
+];
+// const domains = [];
 
 export async function GET(request) {
   try {

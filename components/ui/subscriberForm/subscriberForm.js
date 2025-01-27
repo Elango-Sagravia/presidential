@@ -6,6 +6,25 @@ import { useState } from "react";
 import { useAppContext } from "@/context/appContext";
 import LoadingSpinner from "@/components/ui/loading-spinner";
 
+function containsDomain(email, domains) {
+  return domains.some((domain) => email.includes(domain));
+}
+
+const domains = [
+  "yahoo.com",
+  "ymail.com",
+  "aol.com",
+  "rocketmail.com",
+  "yahoo",
+  "att.net",
+  "sbcglobal.net",
+  "bellsouth.net",
+  "flash.net",
+  "pacbell.net",
+  "nvbell.net",
+  "swbell.net",
+];
+
 function detectBrowser() {
   let userAgent = navigator.userAgent;
 
@@ -69,16 +88,18 @@ function SubscriberForm({ formClasses }) {
         }
       );
       // fetch(`/api/emails/verify?email=${formattedEmail}`);
-      fetch(`/api/emails/welcome`, {
-        mode: "no-cors",
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          email: inputEmail.toLowerCase().trim(),
-        }),
-      });
+      if (!containsDomain(inputEmail.toLowerCase().trim(), domains)) {
+        fetch(`/api/emails/welcome`, {
+          mode: "no-cors",
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            email: inputEmail.toLowerCase().trim(),
+          }),
+        });
+      }
 
       const data = await response.json();
 
