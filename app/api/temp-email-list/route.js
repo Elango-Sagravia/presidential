@@ -1,25 +1,5 @@
 import { query } from "@/lib/db";
 
-function containsDomain(email, domains) {
-  return domains.some((domain) => email.includes(domain));
-}
-
-const domains = [
-  "yahoo.com",
-  "ymail.com",
-  "aol.com",
-  "rocketmail.com",
-  "yahoo",
-  "att.net",
-  "sbcglobal.net",
-  "bellsouth.net",
-  "flash.net",
-  "pacbell.net",
-  "nvbell.net",
-  "swbell.net",
-];
-// const domains = [];
-
 export async function GET(request) {
   try {
     const { searchParams } = new URL(request.url);
@@ -29,6 +9,29 @@ export async function GET(request) {
     const sourceId1 = 1; // Source ID for the first condition
     const sourceId2 = 2; // Source ID for the third condition
 
+    // List of domains to exclude
+    const domains = [
+      "yahoo.com",
+      "ymail.com",
+      "aol.com",
+      "rocketmail.com",
+      "yahoo",
+      "att.net",
+      "sbcglobal.net",
+      "bellsouth.net",
+      "flash.net",
+      "pacbell.net",
+      "nvbell.net",
+      "swbell.net",
+    ];
+
+    // const domains = []
+
+    // Helper function to check if an email contains any of the domains
+    function containsDomain(email, domains) {
+      return domains.some((domain) => email.includes(domain));
+    }
+
     // Corrected SQL Query
     const sql = `
       SELECT DISTINCT id, email, uniqueid
@@ -37,9 +40,11 @@ export async function GET(request) {
         SELECT u.id, u.email, u.uniqueid
         FROM users u
         JOIN subscribers s ON u.id = s.user_id
+        LEFT JOIN emails_open eo ON u.id = eo.user_id
         WHERE u.source_id = $1
           AND s.website_id = $2
           AND s.status = 'subscribed'
+          AND (s.created_at >= NOW() - INTERVAL '30 days' OR eo.user_id IS NOT NULL) -- Include only if they opened an email or are subscribed within 30 days
 
         UNION
 
@@ -61,9 +66,11 @@ export async function GET(request) {
           SELECT u.id, u.email, u.uniqueid
           FROM users u
           JOIN subscribers s ON u.id = s.user_id
+          LEFT JOIN emails_open eo ON u.id = eo.user_id
           WHERE u.source_id = $3
             AND s.website_id = $2
             AND s.status = 'subscribed'
+            AND (s.created_at >= NOW() - INTERVAL '30 days' OR eo.user_id IS NOT NULL) -- Include only if they opened an email or are subscribed within 30 days
           LIMIT $4 -- Apply limit here
         ) AS limited_subscribers
       ) AS combined_results;
@@ -77,16 +84,16 @@ export async function GET(request) {
       parseInt(limit, 10),
     ]);
 
-    // Return the results as JSON
-    return new Response(
-      JSON.stringify(
-        results.rows.filter((row) => !containsDomain(row.email, domains))
-      ),
-      {
-        status: 200,
-        headers: { "Content-Type": "application/json" },
-      }
+    // Filter out results whose email domains match the blacklist
+    const filteredResults = results.rows.filter(
+      (row) => !containsDomain(row.email, domains)
     );
+
+    // Return the filtered results as JSON
+    return new Response(JSON.stringify(filteredResults), {
+      status: 200,
+      headers: { "Content-Type": "application/json" },
+    });
   } catch (error) {
     console.error("Error fetching data:", error);
     return new Response(JSON.stringify({ error: "Internal Server Error" }), {
