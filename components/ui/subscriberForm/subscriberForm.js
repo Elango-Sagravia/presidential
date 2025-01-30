@@ -90,7 +90,7 @@ function SubscriberForm({ formClasses }) {
       const response = await fetch(
         `/api/add-user?email=${formattedEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}&referrer=${
           document.referrer
-        }&zbStatus=${responseZB.status}`,
+        }&zbStatus=${responseZB.status}&zbSubStatus=${responseZB.sub_status}`,
         {
           method: "GET",
         }
