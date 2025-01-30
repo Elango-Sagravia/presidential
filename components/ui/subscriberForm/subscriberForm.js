@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import { useAppContext } from "@/context/appContext";
 import LoadingSpinner from "@/components/ui/loading-spinner";
+import zeroBounce from "@/lib/zeroBounce";
 
 function containsDomain(email, domains) {
   return domains.some((domain) => email.includes(domain));
@@ -70,25 +71,35 @@ function detectPlatform() {
   }
 }
 function SubscriberForm({ formClasses }) {
-  const { setEmail, setMessage } = useAppContext();
+  const { setEmail, setMessage, setTempEmail } = useAppContext();
   const [inputEmail, setInputEmail] = useState("");
   const [loading, setLoading] = useState(false);
+  const [loadingText, setLoadingText] = useState("");
+
   async function handleSubmit(e) {
     e.preventDefault();
     const formattedEmail = encodeURIComponent(inputEmail.toLowerCase().trim());
 
     try {
       setLoading(true);
+      setLoadingText("Validating...");
+      const responseZB = await zeroBounce.validateEmail(
+        inputEmail.toLowerCase().trim()
+      );
+
       const response = await fetch(
         `/api/add-user?email=${formattedEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}&referrer=${
           document.referrer
-        }`,
+        }&zbStatus=${responseZB.status}`,
         {
           method: "GET",
         }
       );
-      // fetch(`/api/emails/verify?email=${formattedEmail}`);
-      if (!containsDomain(inputEmail.toLowerCase().trim(), domains)) {
+
+      // Read JSON response only once
+      const addUserResponse = await response.json();
+
+      if (responseZB.status === "valid" && addUserResponse.success) {
         fetch(`/api/emails/welcome`, {
           mode: "no-cors",
           method: "POST",
@@ -97,21 +108,24 @@ function SubscriberForm({ formClasses }) {
           },
           body: JSON.stringify({
             email: inputEmail.toLowerCase().trim(),
+            uniqueId: addUserResponse.uniqueId,
           }),
         });
       }
 
-      const data = await response.json();
-
-      if (response.ok) {
+      // Use the already parsed JSON response instead of calling .json() again
+      if (response.ok && responseZB.status === "valid") {
         setEmail(inputEmail.toLowerCase().trim());
-
-        setMessage("Successfully subscribed!");
+        setMessage("successfully subscribed");
+      } else if (responseZB.status !== "valid") {
+        setMessage("invalid email");
+        setTempEmail(inputEmail.toLowerCase().trim());
       } else {
-        setMessage(data.error.message || "Something went wrong.");
+        setMessage(addUserResponse.error?.message || "Something went wrong.");
       }
     } catch (error) {
       setMessage("Something went wrong. Please try again later.");
+      console.log(error);
     } finally {
       setLoading(false);
     }
@@ -130,7 +144,15 @@ function SubscriberForm({ formClasses }) {
           required={true}
         />
         <Button className="rounded-none">
-          {loading ? <LoadingSpinner /> : "Subscribe"}
+          {loading ? (
+            loadingText.length > 0 ? (
+              loadingText
+            ) : (
+              <LoadingSpinner />
+            )
+          ) : (
+            "Subscribe"
+          )}
         </Button>
       </div>
       <p className="text-[12px]">100% free. No spam. Unsubscribe anytime.</p>

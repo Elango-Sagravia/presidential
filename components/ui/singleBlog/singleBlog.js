@@ -14,7 +14,7 @@ import { useSearchParams } from "next/navigation";
 import { useEffect } from "react";
 
 const SingleBlog = ({ blog, relatedArticles, index }) => {
-  const { isSubscribed, setEmail } = useAppContext();
+  const { isSubscribed, setEmail, message, tempEmail } = useAppContext();
 
   const searchParams = useSearchParams();
   const rawEmail = searchParams.get("email");
@@ -29,7 +29,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
     }
   }, []);
 
-  if (!isSubscribed && blog.emailHtml) {
+  if (message === "" && blog.emailHtml) {
     return (
       <div className="bg-[#f0f1f3] pt-24">
         <div className="bg-nl_background md:w-[600px] mx-auto ">
@@ -56,7 +56,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
         </div>
       </div>
     );
-  } else if (isSubscribed && blog.emailHtml) {
+  } else if (message === "successfully subscribed" && blog.emailHtml) {
     return (
       <div className="bg-[#f0f1f3] pt-24">
         <div className="bg-nl_background md:w-[600px] mx-auto">
@@ -74,6 +74,49 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
               __html: blog.emailHtml.replaceAll("<a", `<a target="_blank"`),
             }}
           />
+        </div>
+      </div>
+    );
+  } else if (message === "invalid email" && blog.emailHtml) {
+    return (
+      <div className="bg-[#f0f1f3] pt-24">
+        <div className="bg-nl_background md:w-[600px] mx-auto ">
+          <h1
+            className={`text-2xl py-5 px-5 text-center text-white`}
+            style={{ fontFamily: "Roboto" }}
+          >
+            {blog.title}
+          </h1>
+        </div>
+        <div className="bg-[#f0f1f3]">
+          <div
+            className="archive"
+            dangerouslySetInnerHTML={{
+              __html: blog.emailHtmlPreview.replaceAll(
+                "<a",
+                `<a target="_blank"`
+              ),
+            }}
+          />
+          <div className="max-w-[600px] mx-auto bg-white py-16 text-center">
+            {/* <SubscriberForm formClasses="md:w-4/5 flex flex-col gap-2 md:mx-auto bg-white px-4 md:px-0" /> */}
+            <>
+              <p className="text-nl_background font-bold mt-10 text-2xl">
+                ❌ Invalid Email
+              </p>
+              <p className="mx-auto w-2/3 mt-4">
+                We were unable to validate your email,{" "}
+                <strong>{tempEmail}</strong>. This may be due to a typo in the
+                email address or inactivity over an extended period.
+              </p>
+              <button
+                onClick={() => setEmail("")}
+                className="mt-4 text-sm w-fulls text-black/70 underline text-left"
+              >
+                Subscribe with a different Email
+              </button>
+            </>
+          </div>
         </div>
       </div>
     );
