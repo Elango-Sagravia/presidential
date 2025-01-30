@@ -114,7 +114,10 @@ function SubscriberForm({ formClasses }) {
       }
 
       // Use the already parsed JSON response instead of calling .json() again
-      if (response.ok && responseZB.status === "valid") {
+      if (
+        response.ok &&
+        (responseZB.status === "valid" || responseZB.status === "catch-all")
+      ) {
         setEmail(inputEmail.toLowerCase().trim());
         setMessage("successfully subscribed");
       } else if (responseZB.status !== "valid") {
