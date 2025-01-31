@@ -14,7 +14,7 @@ export async function POST(request) {
       request.headers.get("x-forwarded-for") ||
       request.connection?.remoteAddress ||
       "";
-
+    console.log("ip", ip);
     const responseZB = ip
       ? await zeroBounceServer.validateEmail(email.toLowerCase().trim(), ip)
       : await zeroBounceServer.validateEmail(email.toLowerCase().trim());
