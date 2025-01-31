@@ -5,26 +5,6 @@ import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import { useAppContext } from "@/context/appContext";
 import LoadingSpinner from "@/components/ui/loading-spinner";
-import zeroBounce from "@/lib/zeroBounce";
-
-function containsDomain(email, domains) {
-  return domains.some((domain) => email.includes(domain));
-}
-
-const domains = [
-  "yahoo.com",
-  "ymail.com",
-  "aol.com",
-  "rocketmail.com",
-  "yahoo",
-  "att.net",
-  "sbcglobal.net",
-  "bellsouth.net",
-  "flash.net",
-  "pacbell.net",
-  "nvbell.net",
-  "swbell.net",
-];
 
 function detectBrowser() {
   let userAgent = navigator.userAgent;
@@ -53,6 +33,7 @@ function detectDevice() {
     return "Desktop";
   }
 }
+
 function detectPlatform() {
   let platform = navigator.platform;
 
@@ -61,7 +42,7 @@ function detectPlatform() {
   } else if (platform.includes("Mac")) {
     return "MacOS";
   } else if (platform.includes("Linux")) {
-    return "Android";
+    return "Linux";
   } else if (/iPhone|iPad|iPod/.test(navigator.userAgent)) {
     return "iOS";
   } else if (/Android/.test(navigator.userAgent)) {
@@ -70,6 +51,7 @@ function detectPlatform() {
     return "Other Platform";
   }
 }
+
 function SubscriberForm({ formClasses }) {
   const { setEmail, setMessage, setTempEmail } = useAppContext();
   const [inputEmail, setInputEmail] = useState("");
@@ -78,57 +60,76 @@ function SubscriberForm({ formClasses }) {
 
   async function handleSubmit(e) {
     e.preventDefault();
-    const formattedEmail = encodeURIComponent(inputEmail.toLowerCase().trim());
+    const formattedEmail = inputEmail.toLowerCase().trim();
 
     try {
       setLoading(true);
       setLoadingText("Validating...");
-      const responseZB = await zeroBounce.validateEmail(
-        inputEmail.toLowerCase().trim()
-      );
+      const responseZeroBounce = await fetch(`/api/zero-bounce`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email: formattedEmail }),
+      });
 
-      const response = await fetch(
-        `/api/add-user?email=${formattedEmail}&browser=${detectBrowser()}&device=${detectDevice()}&platform=${detectPlatform()}&referrer=${
-          document.referrer
-        }&zbStatus=${responseZB.status}&zbSubStatus=${responseZB.sub_status}`,
-        {
-          method: "GET",
-        }
-      );
+      const responseZB = await responseZeroBounce.json();
 
-      // Read JSON response only once
+      const response = await fetch(`/api/add-user`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email: formattedEmail,
+          browser: detectBrowser(),
+          device: detectDevice(),
+          platform: detectPlatform(),
+          referrer: document.referrer,
+          zbStatus: responseZB.status,
+          zbSubStatus: responseZB.sub_status,
+          city: responseZB.city,
+          country: responseZB.country,
+          domain: responseZB.domain,
+          firstname: responseZB.firstname,
+          lastname: responseZB.lastname,
+          gender: responseZB.gender,
+          zipcode: responseZB.zipcode,
+          region: responseZB.region,
+          smtp_provider: responseZB.smtp_provider,
+        }),
+      });
+
       const addUserResponse = await response.json();
 
       if (responseZB.status === "valid" && addUserResponse.success) {
-        fetch(`/api/emails/welcome`, {
-          mode: "no-cors",
+        await fetch(`/api/emails/welcome`, {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
-            email: inputEmail.toLowerCase().trim(),
+            email: formattedEmail,
             uniqueId: addUserResponse.uniqueId,
           }),
         });
       }
 
-      // Use the already parsed JSON response instead of calling .json() again
       if (
         response.ok &&
         (responseZB.status === "valid" || responseZB.status === "catch-all")
       ) {
-        setEmail(inputEmail.toLowerCase().trim());
+        setEmail(formattedEmail);
         setMessage("successfully subscribed");
       } else if (responseZB.status !== "valid") {
         setMessage("invalid email");
-        setTempEmail(inputEmail.toLowerCase().trim());
+        setTempEmail(formattedEmail);
       } else {
         setMessage(addUserResponse.error?.message || "Something went wrong.");
       }
     } catch (error) {
       setMessage("Something went wrong. Please try again later.");
-      console.log(error);
+      console.error(error);
     } finally {
       setLoading(false);
     }

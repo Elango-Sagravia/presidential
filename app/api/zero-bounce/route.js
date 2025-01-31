@@ -16,10 +16,7 @@ export async function POST(request) {
       "";
 
     const responseZB = ip
-      ? await zeroBounceServer.validateEmail(
-          email.toLowerCase().trim(),
-          "103.110.238.45"
-        )
+      ? await zeroBounceServer.validateEmail(email.toLowerCase().trim(), ip)
       : await zeroBounceServer.validateEmail(email.toLowerCase().trim());
 
     return NextResponse.json(responseZB);

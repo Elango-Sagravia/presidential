@@ -372,7 +372,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;"  
-              href="https://www.presidentialsummary.com/verified" 
+              href="https://www.presidentialsummary.com/verified?uniqueid=%unique-id%" 
               target="_blank"
              >Verify</a></div>
     

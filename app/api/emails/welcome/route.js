@@ -19,7 +19,7 @@ let transporter = nodemailer.createTransport({
 });
 
 // Function to send an email
-async function sendEmail(email, slug) {
+async function sendEmail(email, slug, uniqueId) {
   let mailOptions = {
     from: '"Presidential Summary" <no-reply@mail.presidentialsummary.com>', // Sender email address
     to: email, // Recipient email
@@ -28,7 +28,8 @@ async function sendEmail(email, slug) {
     text: "", // Plain text content
     html: emailContent
       .replaceAll("test@test.com", email)
-      .replaceAll("%slug%", slug), // HTML content with dynamic email replacement
+      .replaceAll("%slug%", slug) // HTML content with dynamic email replacement
+      .replaceAll("%unique-id%", uniqueId), // HTML content with dynamic email replacement
   };
 
   try {
@@ -55,7 +56,7 @@ export async function POST(request) {
     const blog = await response.json();
 
     const body = await request.json(); // Parse the request body as JSON
-    const { email } = body;
+    const { email, uniqueId } = body;
 
     if (!email) {
       return new Response(
@@ -67,7 +68,7 @@ export async function POST(request) {
       );
     }
 
-    await sendEmail(email, blog.slug);
+    await sendEmail(email, blog.slug, uniqueId);
 
     return new Response(
       JSON.stringify({ message: "Email sent successfully" }),
