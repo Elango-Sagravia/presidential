@@ -22,7 +22,7 @@ publishedAt: '2024-09-17T10:35:55.271Z'
 
 ### Update on Trump Assassination Attempt Suspect
 
-![](/images/trump-assassination-attempt---who-is-suspect-ryan-routh--QwMj.webp)
+![Trump Assassination Attempt: Who Is Suspect Ryan Routh?](/images/trump-assassination-attempt---who-is-suspect-ryan-routh--QwMj.webp)
 
 More details have emerged about [Ryan Routh](https://www.bbc.com/news/articles/c3611zjjnd2o), the man arrested for the second assassination attempt on Donald Trump. Routh, who once supported Trump, later turned against him and called him a "buffoon" in his self-published book. On social media, Routh portrayed himself as a globe-trotting freedom fighter, allegedly attempting to recruit people to fight in Ukraine, though he never participated in combat himself.
 
