@@ -25,7 +25,7 @@ Poland's prime minister, Donald Tusk, has [admitted](https://www.euronews.com/he
 
 ### Australia gets the right to disconnect
 
-![](/images/27th-aug--poland-can-t-make-abortion-legal--australia-disconnects--AxMD.webp)
+![Poland's Abortion Law Controversy and Australia's Internet Disconnect](/images/27th-aug--poland-can-t-make-abortion-legal--australia-disconnects--AxMD.webp)
 
 Australia has joined the ranks of some European countries, and employees can’t be punished for [not answering work calls](https://www.dw.com/en/australian-workers-now-have-the-right-to-disconnect/a-70045955#:~:text=Australian%20workers%20will%20now%20have,texts%20outside%20of%20work%20hours.) and emails outside of work hours. The goal is to give Australians a better work balance. There is one main exception to this new law. The law states that employees can only face punishments from their employer if the refusal to answer is deemed "unreasonable". The line between reasonable and unreasonable isn’t precisely laid out and up for interpretation. Employees and employers are encouraged to figure this out themselves. However, the Fair Work Commission will intervene if an agreement can’t be reached.
 
