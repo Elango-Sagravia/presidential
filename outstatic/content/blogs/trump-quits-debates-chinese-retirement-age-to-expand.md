@@ -28,7 +28,7 @@ Donald Trump's performance in his debate on Tuesday with Kamala Harris was inter
 
 ### China Plans To Raise Retirement Age
 
-![China's announcement to raise the retirement age](/images/china-raises-retirement-age--it-had-one-of-the-lower-ones-in-the-world--1--A4ND.webp)
+![China Increases Retirement Age and Its Global Impact](/images/china-raises-retirement-age--it-had-one-of-the-lower-ones-in-the-world--1--A4ND.webp)
 
 China is planning to raise its retirement age for the first time since the [1950s](https://www.bbc.com/news/articles/c62421le4j6o). It plans to implement these changes in January 2025. However, the plan is to gradually raise it by a few months for the next 15 years. China has one of the lowest retirement ages in the world. For women, it is currently 50 for blue-collar jobs and 55 for white-collar jobs. For men, it is 60. Officials want to raise it by 3-5 years.
 
