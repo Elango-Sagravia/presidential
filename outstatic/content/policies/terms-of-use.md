@@ -72,73 +72,53 @@ The Company does not review any data or information provided on or through the W
 
 The Website may include content provided by third parties, including but not limited to articles, advertisements, images, videos, and other multimedia content ("Third Party Content"). This content is for informational purposes only and does not imply endorsement or approval by us. We do not guarantee the accuracy, completeness, or reliability of any Third Party Content, and we are not responsible for any errors, omissions, or any loss or damage incurred as a result of using such content. Third Party Content is protected by copyright and other intellectual property laws, and any unauthorized use is prohibited. The Website may contain links to third-party websites or services over which we have no control, and we assume no responsibility for their content, privacy policies, or practices. Your interaction with third parties through our platform is governed by their terms and conditions, and we are not responsible for any disputes that arise. Your use of Third Party Content is at your own risk, and we disclaim all warranties with respect to it. By using our platform, you agree to indemnify and hold us harmless from any claims arising from your use of Third Party Content.
 
-**9. Restricted Industries**
+**9. Sensitive Industries**
 
-We do not accept advertising for:
+We classify industries into two categories: Prohibited and Restricted.
 
-9.1 Tobacco and Related Products
+**Prohibited industries** are strictly banned and cannot advertise under any circumstances.
 
-- Cigarettes, cigars, and other tobacco products.
+**Restricted industries** require approval on a case-by-case basis, with compliance to additional guidelines, such as legal regulations, targeting, and certification.
 
-- E-cigarettes, vaping devices, and associated products.
+**9.1 Prohibited industries**
 
-- Products that promote smoking cessation unless approved by relevant health authorities.
+9.1.1 Gambling and Betting - Ads promoting gambling services, including online and location-based gambling (casinos, sports betting, lotteries).
 
-9.2 Alcoholic Beverages
+9.1.2 Alcohol - Ads for alcoholic beverages, including online sales, brand promotions, and informational content.
 
-- Alcoholic beverages, including beer, wine, and spirits.
+9.1.3 Get Rich Quick Schemes - Ads offering significant financial or material gain with little effort or risk. This includes multi-level marketing (MLM), work-from-home offers, online surveys, and similar schemes.
 
-- Products or services that directly encourage the consumption of alcohol, unless targeted to a verified, age-appropriate audience.
+9.1.4 Sexual Content and Suggestiveness - Ads that contain sexually suggestive material or references to sex. This includes adult services and sexually explicit products.
 
-9.3 Gambling and Betting
+9.1.5 Significant Skin Exposure - Ads that feature adult images with significant skin exposure, particularly where any part of the body from the sternum to mid-thigh is unclothed or clothed in revealing attire.
 
-- Online or offline casinos, sports betting, lotteries, and other gambling-related activities.
+9.1.6 Sensationalism - Ads that use exaggerated, shocking, or curiosity-driven messages to attract clicks. This includes ads centered around sensational topics like celebrity arrests, deaths, or scandals.
 
-- Websites or services that promote gambling, unless they are licensed and compliant with applicable laws.
+9.1.7 Social Casino Games - Ads for simulated gambling games where players do not win real money or prizes. Examples include poker, slots, bingo, and other virtual casino games.
 
-9.4 Pharmaceuticals and Health Products
+9.1.8 Religion Ads advocating for or against specific religious views. General spiritual or non-denominational wellness content may be allowed but is subject to review.
 
-- Prescription medications not approved for over-the-counter sale.
+9.1.9 Politics - Ads for political campaigns, candidates, or any content addressing controversial political or social issues. This includes ads referencing political events such as elections, protests, and conflicts.
 
-- Unverified health products, treatments, or therapies, including those making unsubstantiated medical claims.
+**9.2 Restricted industries**
 
-- Medical devices and supplements that do not comply with relevant regulations.
+9.2.1 Astrology and Esoteric Practices - Ads related to astrology, horoscopes, psychic services, love spells, potions, and other esoteric practices.
 
-9.5 Adult Content
+9.2.2 Cosmetic Procedures and Body Modification - Ads for cosmetic procedures, including surgical and non-surgical enhancements like lifts, suctions, lasers, hair removal, hair restoration, and tattoos. This also includes other body modification services.
 
-- Pornography, escort services, or sexually explicit material.
+9.2.3 Consumer Loans - Ads promoting consumer lending services, including personal loans.
 
-- Sex toys, adult products, or adult dating services, except where such advertising is legally permitted and appropriately targeted.
+9.2.4 Dating Services - Ads for dating services, online dating platforms, and chat sites or apps designed for meeting new people. This includes general social platforms that facilitate meeting or dating.
 
-9.6 Firearms and Weapons
+9.2.5 Downloadable Utilities - Ads for downloadable software designed to enhance the functionality of an operating system or device. Examples include anti-virus programs, file converters, driver updaters, system cleaners, download managers, and browser toolbars.
 
-- Firearms, ammunition, and other weapons.
+9.2.6 Drugs and Supplements - Ads related to pharmaceuticals, vitamins, supplements, and retailers offering these products. - Unverified health claims and non-compliant products are prohibited.
 
-- Products designed to enhance the lethality or concealment of firearms.
+9.2.7 Video Games (Casual & Online) - Ads promoting video games, including online, mobile, and downloadable games. This does not include ads for gaming consoles.
 
-9.7 Political Advertising
+9.2.8 Weight Loss Products and Programs - Ads promoting weight loss, dieting, and related programs. Healthy eating or general fitness content is not included in this restriction.
 
-- Political campaigns, candidates, or parties, particularly during election cycles.
-
-- Content related to controversial social or political issues that may incite divisiveness.
-
-9.8 Cryptocurrency and High-Risk Financial Products
-
-- Cryptocurrencies, ICOs (Initial Coin Offerings), and related financial products, unless they are from well-established, regulated entities.
-
-- High-risk financial services, including payday loans, binary options, and speculative investment schemes.
-
-9.9 Dietary Supplements and Weight Loss Products
-
-- Products that make exaggerated or unverified health claims, particularly those related to weight loss.
-
-- Supplements that are not compliant with national health regulations.
-
-9.10 Controversial or Sensitive Content
-
-- Content that promotes hate speech, violence, or discrimination based on race, gender, religion, sexual orientation, or other protected characteristics.
-
-- Products or services that exploit sensitive topics for commercial gain.
+9.2.9 Birth Control and Sexual Health - Ads related to birth control products, sexual health, and services for STDs, including clinics and medication. This includes fertility and abortion services but excludes normal pregnancy resources.
 
 We reserve the right to review and reject any advertisement that does not meet our policy criteria.
 
