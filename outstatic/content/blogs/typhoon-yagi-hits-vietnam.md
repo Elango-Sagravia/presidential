@@ -28,7 +28,7 @@ Yagi also caused much damage in the Philippines and southern China earlier. This
 
 ### Trump Sentencing Delayed Until After Election
 
-![](/images/trump-will-not-face-sentencing-for-the-hush-money-case-until-after-the-election-2-MzND.webp)
+![Trump’s Hush Money Case Sentencing Delayed Until After Election](/images/trump-will-not-face-sentencing-for-the-hush-money-case-until-after-the-election-2-MzND.webp)
 
 Former President Donald Trump's [sentencing](https://edition.cnn.com/2024/09/06/politics/judge-delays-trumps-sentencing/index.html) has been delayed until November 26, 2024, following his conviction on 34 counts of falsifying business records. The judge moved the sentencing date to avoid influencing the outcome of the 2024 presidential election.
 
