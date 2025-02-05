@@ -9,7 +9,7 @@ description: ''
 coverImage: ''
 seoTitle: 'Terms of Use - Presidential Summary'
 seoDescription: 'Presidential Summary’s terms and conditions lay out the reader’s rights and explain our policies to ensure transparency and accountability.'
-publishedAt: '2024-08-20T15:03:06.000Z'
+publishedAt: '2025-02-05T15:03:06.000Z'
 ---
 
 Welcome to Presidential Summary ("Website"), a newsletter owned and operated by Sagravia LLC ("Company," "we," "us," or "our"). By accessing or using the Website, you agree to comply with and be bound by these Terms & Conditions ("Terms"). If you do not agree to these Terms, please do not use the Website.
