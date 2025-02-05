@@ -27,7 +27,7 @@ Rotor blades from the helicopter fell into the hotel pool, and both the forensic
 
 ### Massive Wildfire Near Athens Sparks Evacuations as Firefighters Battle Flames
 
-![](/images/13th-aug--helicopter-crash-in-cairns--trump-s-rocky-return-to-x-IwMz.webp)
+![Helicopter Crash in Cairns and Trump’s Rocky Return to X](/images/13th-aug--helicopter-crash-in-cairns--trump-s-rocky-return-to-x-IwMz.webp)
 
 Hundreds of firefighters, supported by over 30 water-dropping planes, have been battling a major forest fire near Athens, Greece, which erupted on Sunday and has intensified due to strong winds. The blaze has been fueled by exceptionally dry conditions resulting from a record-hot summer and a dry winter. It has forced the evacuation of hospitals, residential suburbs, and a children’s home. By mid-morning, the fire was burning on two fronts and was challenging to control, with flames reaching up to 80 feet high.
 
