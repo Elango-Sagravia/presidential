@@ -37,7 +37,7 @@ China’s embassy in Manila has yet to respond to these remarks. Scarborough Sho
 
 ### Mass Protests in Belgrade Against Lithium Mining
 
-![mass protest](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-g5MD.webp)
+![Mass protest](/images/11th-aug--gaza-s-health-crisis--philippine-military-condemns-china-g5MD.webp)
 
 Tens of thousands of people protested in Belgrade on Saturday against plans for lithium mining in Serbia, despite President Aleksandar Vučić's claims that foreign powers are orchestrating a coup. The demonstrators, who chanted slogans such as “There will be no mining” and “Treason, treason,” are demanding an official ban on lithium extraction.
 
@@ -55,7 +55,7 @@ The settlement also includes commitments from Cash App and Block Inc. to enhance
 
 ### U.S. Tops Paris Olympics Medal Table with 40 Golds
 
-![Paris Olympics Medal Table](/images/b3b-cwOT.webp)
+![Latest Global News and Headlines](/images/b3b-cwOT.webp)
 
 The United States claimed the top spot on the medal table at the Paris Olympics, securing 40 gold medals. Despite China matching their gold count, the U.S. edged out the competition with a higher silver medal tally. The American women's basketball team clinched the final gold of the Games, solidifying their country's dominance. With a total of 126 medals, the U.S. finished well ahead of China's 91.
 
