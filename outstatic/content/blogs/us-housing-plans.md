@@ -37,7 +37,7 @@ There have been no U.S. cases of clade I reported so far, and experts suggest th
 
 ### Harrison Ford's Iconic Fedora Sells for $630K
 
-![Harrison Ford](/images/19th-aug--u.s.-housing-plans--global-health-alerts--and-drought-crisis-M0OT.webp)
+![U.S. Housing Plans, Global Health Alerts, and Drought Crisis](/images/19th-aug--u.s.-housing-plans--global-health-alerts--and-drought-crisis-M0OT.webp)
 
 The brown fedora worn by Harrison Ford in Indiana Jones and the Temple of Doom sold for $630,000 at auction, exceeding its estimated value of $250,000 to $500,000. The hat, from the late stunt performer Dean Ferrandini's collection, was designed by the Herbert Johnson Hat Company and had to be modified with foam pieces during filming. Other notable items sold included a "biker scout" helmet from Return of the Jedi for $315,000 and a ghost costume from Scream for $270,900.
 
