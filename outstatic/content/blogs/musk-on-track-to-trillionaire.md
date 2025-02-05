@@ -22,7 +22,7 @@ publishedAt: '2024-09-18T12:51:06.484Z'
 
 ### Musk on Track to Trillionaire Status
 
-![Sketch of Elon Musk with New York City skyline in the background](/images/elon-musk-is-on-track-to-become-a-trillionaire-c4MT.webp)
+![Elon Musk Is on Track to Become a Trillionaire](/images/elon-musk-is-on-track-to-become-a-trillionaire-c4MT.webp)
 
 The world’s richest person, Elon Musk, [might be a trillionaire](https://amp.cnn.com/cnn/2024/09/17/business/elon-musk-richest-person-trillionaire) within a few years. Musk’s net worth is currently around a quarter of a billion. His businesses with X, Tesla, and Space X are seeing astronomical returns. He could hit the trillionaire mark as soon as 2027. While Elon Musk is a heavily controversial figure, his financial success is empirical.
 

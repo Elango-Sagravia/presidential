@@ -28,7 +28,7 @@ In a [surprising twist](https://www.bbc.com/news/articles/czj9ekdvxx2o), Trump a
 
 ### Musk Complies with Brazilian Court
 
-![](/images/musk-backs-down-in-brazil-gyMz.webp)
+![Elon Musk Backs Down in Brazil After Controversy](/images/musk-backs-down-in-brazil-gyMz.webp)
 
 ​​Elon Musk’s X will now comply with court demands in Brazil to resume operations and potentially resolve disputes over [free speech](https://x.com/GlobalAffairs/status/1829296715989414281) and misinformation. After X was shut down in late August, the Brazilian Supreme Court requested documents to validate its new legal representative for failing to address hate speech moderation orders.
 
