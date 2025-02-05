@@ -36,7 +36,7 @@ This year alone, the country has reported over 30,000 Mpox cases and nearly 1,00
 
 ### Musk Campaigns with Trump
 
-![Elon Musk and Donald Trump](/images/musk-campaigns-with-trump-AwMD.webp)
+![Elon Musk Joins Trump on the Campaign Trail](/images/musk-campaigns-with-trump-AwMD.webp)
 
 Donald Trump returned to Butler, Pennsylvania, the site of the [July assassination attempt](https://www.cnbc.com/2024/10/05/trump-assassination-attempt-musk-vance-butler-return.html), for a campaign rally that began as a commemoration but quickly became a standard political event. The former president launched familiar attacks against Vice President Kamala Harris, who now leads the Democratic ticket.
 
