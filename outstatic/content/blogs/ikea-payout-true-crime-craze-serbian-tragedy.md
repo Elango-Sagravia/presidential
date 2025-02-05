@@ -22,7 +22,7 @@ publishedAt: '2024-11-04T12:45:51.545Z'
 
 ### IKEA pays out
 
-![IKEA establishes a compensation fund for victims of forced labor during East Germany's communist regime](/images/ikea-k3NT.webp)
+![IKEA's Global Expansion and Business Strategies](/images/ikea-k3NT.webp)
 
 IKEA has announced a [commitment of €6 million ](https://edition.cnn.com/2024/11/03/europe/ikea-six-million-gdr-prisoners-intl/index.html#:~:text=Furniture%20giant%20IKEA%20has%20agreed,pressure%20other%20companies%20to%20follow.)(around $6.5 million) to a compensation fund aimed at supporting victims of forced labor during East Germany's communist regime. This decision follows the findings of an independent [investigation](https://www.cbsnews.com/news/ikea-to-release-report-on-east-german-forced-labor/) that uncovered the disturbing fact that political prisoners were used in the production of IKEA furniture in the 1970s and 1980s.
 
