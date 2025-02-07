@@ -35,21 +35,35 @@ function detectDevice() {
 }
 
 function detectPlatform() {
-  let platform = navigator.platform;
+  // Use navigator.userAgentData if available (modern browsers)
+  if (navigator.userAgentData && navigator.userAgentData.platform) {
+    let platform = navigator.userAgentData.platform.toLowerCase();
 
-  if (platform.includes("Win")) {
-    return "Windows";
-  } else if (platform.includes("Mac")) {
-    return "MacOS";
-  } else if (platform.includes("Linux")) {
-    return "Linux";
-  } else if (/iPhone|iPad|iPod/.test(navigator.userAgent)) {
-    return "iOS";
-  } else if (/Android/.test(navigator.userAgent)) {
-    return "Android";
-  } else {
+    if (platform.includes("win")) return "Windows";
+    if (platform.includes("mac")) return "MacOS";
+    if (platform.includes("linux") && !platform.includes("android"))
+      return "Linux";
+    if (platform.includes("android")) return "Android";
+    if (
+      platform.includes("iphone") ||
+      platform.includes("ipad") ||
+      platform.includes("ipod")
+    )
+      return "iOS";
+
     return "Other Platform";
   }
+
+  // Fallback to navigator.userAgent for older browsers
+  let userAgent = navigator.userAgent.toLowerCase();
+
+  if (/windows/.test(userAgent)) return "Windows";
+  if (/macintosh|mac os x/.test(userAgent)) return "MacOS";
+  if (/android/.test(userAgent)) return "Android";
+  if (/iphone|ipad|ipod/.test(userAgent)) return "iOS";
+  if (/linux/.test(userAgent) && !/android/.test(userAgent)) return "Linux";
+
+  return "Other Platform";
 }
 
 function SubscriberForm({ formClasses }) {
