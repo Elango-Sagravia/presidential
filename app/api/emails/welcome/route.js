@@ -21,7 +21,7 @@ let transporter = nodemailer.createTransport({
 // Function to send an email
 async function sendEmail(email, slug, uniqueId) {
   let mailOptions = {
-    from: '"Presidential Summary" <no-reply@mail.presidentialsummary.com>', // Sender email address
+    from: '"Presidential Summary" <no-reply@newsletter.presidentialsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Welcome to Presidential Summary",
