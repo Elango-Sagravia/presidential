@@ -26,11 +26,21 @@ export default function Hero() {
           {message === "successfully subscribed" && (
             <>
               <p className="text-nl_background font-bold mt-10 text-2xl">
-                Thank you for subscribing
+                One last step!
               </p>
               <p className="mt-4 text-sm w-3/4 md:w-1/2 text-black/70">
-                We sent you a welcome email to <strong>{email}</strong>. If you
-                don't see it, check your spam or junk folders.
+                <p>
+                  Please check your <strong>{email}</strong> email and confirm
+                  your free subscription (or we won’t be able to get to you).
+                </p>
+
+                <p className="mt-2">
+                  If you don’t see the email, check your{" "}
+                  <strong>
+                    Promotions, Spam, or other folders in your inbox
+                  </strong>
+                  .
+                </p>
               </p>
               <button
                 onClick={() => setEmail("")}

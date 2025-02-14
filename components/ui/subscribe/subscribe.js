@@ -32,11 +32,21 @@ export default function Subscribe() {
               <h5
                 className={`text-nl_background text-3xl sm:text-4xl ${libre.className} leading-tight`}
               >
-                Thank you for subscribing.
+                One last step!
               </h5>
               <p className="sm:w-2/3 mt-4 sm:text-center">
-                We sent you a welcome email to <strong>{email}</strong>. If you
-                don't see it, please check your spam or junk folders.
+                <p>
+                  Please check your <strong>{email}</strong> email and confirm
+                  your free subscription (or we won’t be able to get to you).
+                </p>
+
+                <p className="mt-2">
+                  If you don’t see the email, check your{" "}
+                  <strong>
+                    Promotions, Spam, or other folders in your inbox
+                  </strong>
+                  .
+                </p>
               </p>
 
               <button
