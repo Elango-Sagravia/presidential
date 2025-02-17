@@ -103,7 +103,7 @@ function SubscriberForm({ formClasses }) {
           zbStatus: responseZB.status,
           zbSubStatus: responseZB.sub_status,
           city: responseZB.city,
-          country: responseZB.country,
+          country: responseZB.countryFromApi,
           domain: responseZB.domain,
           firstname: responseZB.firstname,
           lastname: responseZB.lastname,
