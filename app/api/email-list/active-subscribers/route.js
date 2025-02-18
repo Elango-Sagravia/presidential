@@ -4,10 +4,10 @@ export async function GET(request) {
   try {
     const websiteId = 1; // Website ID to filter
 
-    // SQL Query to fetch required subscribers
+    // SQL Query to fetch required subscribers without duplicates
     const sql = `
       WITH opened_email_users AS (
-        SELECT DISTINCT ON (u.email) u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at, 1 AS priority
+        SELECT u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at, 1 AS priority
         FROM users u
         JOIN emails_open eo ON u.id = eo.user_id
         JOIN campaigns c ON eo.campaign_id = c.id
@@ -16,24 +16,38 @@ export async function GET(request) {
           AND s.website_id = $1
           AND s.status = 'subscribed'
           AND u.zbstatus IN ('valid', 'catch-all')
-        ORDER BY u.email, s.created_at DESC
       ),
-      recent_subscribers AS (
-        SELECT DISTINCT ON (u.email) u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at, 2 AS priority
+      recent_subscribers_3_days AS (
+        SELECT u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at, 2 AS priority
         FROM users u
         JOIN subscribers s ON u.id = s.user_id
         WHERE s.website_id = $1
           AND s.status = 'subscribed'
-          AND s.created_at >= NOW() - INTERVAL '10 days'
+          AND s.created_at >= NOW() - INTERVAL '3 days'
           AND u.zbstatus IN ('valid', 'catch-all')
-        ORDER BY u.email, s.created_at DESC
+      ),
+      subscribers_6_to_10_days AS (
+        SELECT u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at, 3 AS priority
+        FROM users u
+        JOIN subscribers s ON u.id = s.user_id
+        WHERE s.website_id = $1
+          AND s.status = 'subscribed'
+          AND s.created_at BETWEEN NOW() - INTERVAL '10 days' AND NOW() - INTERVAL '3 days'
+          AND u.zbstatus IN ('valid', 'catch-all')
+      ),
+      combined_users AS (
+        SELECT *, ROW_NUMBER() OVER (PARTITION BY email ORDER BY priority, created_at DESC) AS row_num
+        FROM (
+          SELECT * FROM opened_email_users
+          UNION ALL
+          SELECT * FROM recent_subscribers_3_days
+          UNION ALL
+          SELECT * FROM subscribers_6_to_10_days
+        ) all_users
       )
       SELECT id, email, uniqueid, status, zbstatus, created_at, priority
-      FROM (
-        SELECT * FROM opened_email_users
-        UNION ALL
-        SELECT * FROM recent_subscribers
-      ) unique_users
+      FROM combined_users
+      WHERE row_num = 1
       ORDER BY priority ASC, created_at DESC;
     `;
 
