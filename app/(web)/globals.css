@@ -114,3 +114,8 @@ input {
     color: grey;
   }
 }
+
+.archive-page-slug ::selection{
+  background-color: rgba(76, 48, 95, 1.0);
+  color: white; 
+}
