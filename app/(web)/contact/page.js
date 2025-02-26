@@ -5,7 +5,7 @@ import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
 export const metadata = {
-  title: "Contact Presidential Summary - We're Here to Assist You",
+  title: "Contact page update",
   description:
     "Have a question or need to reach out team? Contact Presidential Summary for quick assistance regarding newsletters, articles, or services.",
   alternates: {
