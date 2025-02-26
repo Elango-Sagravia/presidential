@@ -1,5 +1,6 @@
 import BlogInfo from "@/components/ui/blogInfo/blogInfo";
 import BlogTitle from "@/components/ui/blogTitle/blogTitle";
+import { Description } from "@radix-ui/react-dialog";
 
 import { notFound, redirect } from "next/navigation";
 import {
@@ -41,8 +42,14 @@ export async function generateMetadata({ params }) {
   const { slug } = params;
 
   // Fetch metadata for the slug
-  const post = getDocumentBySlug("articles", params.slug, ["slug"]);
+  const post = await getDocumentBySlug("articles", params.slug, [
+    "slug",
+    "title",
+    "description",
+  ]);
   return {
+    title: post.title,
+    description: post.description,
     alternates: {
       canonical: `https://www.presidentialsummary.com/articles/${slug}`,
     },
