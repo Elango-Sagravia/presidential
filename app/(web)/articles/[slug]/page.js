@@ -41,8 +41,14 @@ export async function generateMetadata({ params }) {
   const { slug } = params;
 
   // Fetch metadata for the slug
-  const post = getDocumentBySlug("articles", params.slug, ["slug"]);
+  const post = await getDocumentBySlug("articles", params.slug, [
+    "slug",
+    "title",
+    "description",
+  ]);
   return {
+    title: post.title || "",
+    description: post.description || "",
     alternates: {
       canonical: `https://www.presidentialsummary.com/articles/${slug}`,
     },
