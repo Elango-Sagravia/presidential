@@ -43,7 +43,7 @@ export default function Subscribe() {
                 <p className="mt-2">
                   If you don’t see the email, check your{" "}
                   <strong>
-                    Promotions, Spam, or other folders in your inbox
+                    promotions, spam, or other folders in your inbox
                   </strong>
                   .
                 </p>
