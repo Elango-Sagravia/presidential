@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export const metadata = {
-  robots: "noindex, nofollow",
-};
+// export const metadata = {
+//   robots: "noindex, nofollow",
+// };
 
 export default function NotFound() {
   return (
