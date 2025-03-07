@@ -55,11 +55,26 @@ export async function generateMetadata({ params }) {
     "metaTitle",
     "metaDescription",
   ]);
+  // Define canonical overrides
+  const canonicalOverrides = {
+    "uganda-s-jab-at-ebola": "noble-nominee-again",
+    "swipe-left-on-trans-rights": "noble-nominee-again",
+    "getting-trumped": "noble-nominee-again",
+    "dec-31-happy-holidays-with-a-summary-of-2024-events":
+      "noble-nominee-again",
+    "black-box-and-blame-game": "noble-nominee-again",
+    "jeju-air-plane-crash-maga-divisions-and-unicef-report":
+      "noble-nominee-again",
+  };
+
+  // Determine the correct canonical URL
+  const canonicalSlug = canonicalOverrides[slug] || slug;
+
   return {
     title: post.metaTitle,
     description: post.metaDescription,
     alternates: {
-      canonical: `https://www.presidentialsummary.com/archives/${slug}`,
+      canonical: `https://www.presidentialsummary.com/archives/${canonicalSlug}`,
     },
   };
 }
