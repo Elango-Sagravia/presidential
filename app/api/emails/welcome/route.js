@@ -17,7 +17,7 @@ let transporter = nodemailer.createTransport({
     pass: process.env.SMTP_PASSWORD, // Your email password
   },
 });
-
+const website_id = 1;
 // Function to send an email
 async function sendEmail(email, slug, uniqueId, email_uniqueid) {
   let mailOptions = {
@@ -75,7 +75,7 @@ export async function POST(request) {
       email_uniqueid,
       email: email,
       type: "welcome",
-      website_id: 1,
+      website_id,
     };
     await fetch(
       "https://www.presidentialsummary.com/api/emails/emails_list_add",
