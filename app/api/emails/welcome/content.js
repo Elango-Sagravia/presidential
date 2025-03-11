@@ -181,7 +181,7 @@ export const emailContent = `<!doctype html>
                                           <img
                                             alt=""
                                             height="auto"
-                                            src="https://www.presidentialsummary.com/api/emails_list_open?user_uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%"
+                                            src="https://www.presidentialsummary.com/api/emails/emails_list_open?user_uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%"
                                             style="
                                               border: 0;
                                               display: block;

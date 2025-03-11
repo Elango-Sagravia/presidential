@@ -25,13 +25,13 @@ export async function GET(request) {
       [user_uniqueid, email_uniqueid]
     );
 
-    // If no rows were updated, return a message
-    if (result.rowCount === 0) {
-      return new Response(
-        JSON.stringify({ message: "Email already opened or does not exist" }),
-        { status: 200, headers: { "Content-Type": "application/json" } }
-      );
-    }
+    // // If no rows were updated, return a message
+    // if (result.rowCount === 0) {
+    //   return new Response(
+    //     JSON.stringify({ message: "Email already opened or does not exist" }),
+    //     { status: 200, headers: { "Content-Type": "application/json" } }
+    //   );
+    // }
 
     // Create a 1x1 pixel transparent PNG
     const oneByOnePixel = Buffer.from([
