@@ -156,6 +156,49 @@ export const emailContent = `<!doctype html>
     
                 </td>
               </tr>
+              <tr>
+                                <td
+                                  align="center"
+                                  style="
+                                    font-size: 0px;
+                                    padding: 10px 25px;
+                                    word-break: break-word;
+                                  "
+                                >
+                                  <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    role="presentation"
+                                    style="
+                                      border-collapse: collapse;
+                                      border-spacing: 0px;
+                                    "
+                                  >
+                                    <tbody>
+                                      <tr>
+                                        <td style="width: 1px">
+                                          <img
+                                            alt=""
+                                            height="auto"
+                                            src="https://www.presidentialsummary.com/api/emails_list_open?user_uniqueid=%user_id%&email_uniqueid=%email_uniqueid%"
+                                            style="
+                                              border: 0;
+                                              display: block;
+                                              outline: none;
+                                              text-decoration: none;
+                                              height: auto;
+                                              width: 100%;
+                                              font-size: 13px;
+                                            "
+                                            width="1"
+                                          />
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
             
               <tr>
                 <td
