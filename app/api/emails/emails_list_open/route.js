@@ -14,6 +14,9 @@ export async function GET(request) {
       );
     }
 
+    // Start a transaction to ensure both updates happen together
+    await query("BEGIN");
+
     // Update emails_list table only if isOpened is false and opened_at is NULL
     const result = await query(
       `UPDATE emails_list
@@ -21,17 +24,22 @@ export async function GET(request) {
        WHERE user_uniqueid = $1
        AND email_uniqueid = $2
        AND (isOpened = FALSE OR opened_at IS NULL)
-       RETURNING *`,
+       RETURNING user_uniqueid`,
       [user_uniqueid, email_uniqueid]
     );
 
-    // // If no rows were updated, return a message
-    // if (result.rowCount === 0) {
-    //   return new Response(
-    //     JSON.stringify({ message: "Email already opened or does not exist" }),
-    //     { status: 200, headers: { "Content-Type": "application/json" } }
-    //   );
-    // }
+    if (result.rowCount > 0) {
+      // Update verified_by_user in users table
+      await query(
+        `UPDATE users
+         SET verified_by_user = TRUE
+         WHERE uniqueid = $1`,
+        [user_uniqueid]
+      );
+    }
+
+    // Commit transaction
+    await query("COMMIT");
 
     // Create a 1x1 pixel transparent PNG
     const oneByOnePixel = Buffer.from([
@@ -52,8 +60,9 @@ export async function GET(request) {
     });
   } catch (err) {
     console.error(err);
+    await query("ROLLBACK"); // Rollback transaction if any error occurs
     return new Response(
-      JSON.stringify({ message: "Error updating emails_list" }),
+      JSON.stringify({ message: "Error updating emails_list and users" }),
       { status: 500, headers: { "Content-Type": "application/json" } }
     );
   }
