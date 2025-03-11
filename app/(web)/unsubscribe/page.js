@@ -1,55 +1,56 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { useEffect, Suspense } from "react";
+import { useEffect, useState, Suspense } from "react";
 
 const UnsubscribeContent = () => {
   const params = useSearchParams();
-  const email = params.get("email");
-  const userId = params.get("user_id"); // Assuming user_id is also part of the query parameters
-  const campaignId = params.get("campaign_id"); // Assuming campaign_id is part of the query parameters
+  const uniqueid = params.get("uniqueid");
+  const email_uniqueid = params.get("email_uniqueid");
+
+  // State to store the unsubscribe message
+  const [unsubscribeMessage, setUnsubscribeMessage] = useState(
+    "Processing your request..."
+  );
 
   useEffect(() => {
-    if (email && userId && campaignId) {
-      // Call the unsubscribe GET function
-      const unsubscribeUrl = `https://${window.location.hostname}/api/emails/unsubscribe?user_id=${userId}&campaign_id=${campaignId}&email=${email}`;
-      try {
-        fetch(unsubscribeUrl)
-          .then((response) => response.json())
-          .then((data) => {
-            console.log("Unsubscribe result:", data);
-          })
-          .catch((error) => {
-            console.error("Error during unsubscribe:", error);
-          });
-      } catch (error) {
-        console.error("Error:", error);
-      }
-
-      // Call the Zapier webhook
-      try {
-        fetch(`https://hooks.zapier.com/hooks/catch/11976044/2t02mgc/`, {
-          mode: "no-cors",
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            email,
-            domain: window.location.hostname,
-          }),
+    if (uniqueid && email_uniqueid) {
+      // Call the unsubscribe POST API
+      fetch("/api/emails/emails_list_unsubscribe", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ user_uniqueid: uniqueid, email_uniqueid }),
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          if (data.message === "Email unsubscribed successfully") {
+            setUnsubscribeMessage(
+              `Your email (${data.email}) has been successfully unsubscribed.`
+            );
+          } else if (
+            data.message === "Email already unsubscribed or does not exist"
+          ) {
+            setUnsubscribeMessage(
+              "Email is already unsubscribed or does not exist."
+            );
+          } else {
+            setUnsubscribeMessage("Unsubscription failed. Please try again.");
+          }
+        })
+        .catch((error) => {
+          console.error("Error during unsubscribe:", error);
+          setUnsubscribeMessage("Unsubscription failed due to a server error.");
         });
-      } catch (error) {
-        console.error("Error:", error);
-      }
+    } else {
+      setUnsubscribeMessage("Missing required parameters.");
     }
-  }, [email, userId, campaignId]);
+  }, [uniqueid, email_uniqueid]);
 
   return (
-    <h1 className="text-3xl text-nl_background w-full md:w-1/2">
-      {email
-        ? `Your email (${email}) has been successfully removed from our subscriber list.`
-        : "Email not found."}
+    <h1 className="text-3xl text-nl_background w-full md:w-1/2 text-center">
+      {unsubscribeMessage}
     </h1>
   );
 };

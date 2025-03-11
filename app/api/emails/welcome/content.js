@@ -415,7 +415,7 @@ export const emailContent = `<!doctype html>
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;"  
-              href="https://www.presidentialsummary.com/verified?uniqueid=%unique-id%" 
+              href="https://www.presidentialsummary.com/verified?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" 
               target="_blank"
              >Verify</a></div>
     
@@ -1253,7 +1253,7 @@ export const emailContent = `<!doctype html>
       ><p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
           <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="font-size: 12px; color: #000; line-height: 2">
-            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.presidentialsummary.com/unsubscribe?uniqueid=%unique-id%&email_uniqueid=%email_uniqueid%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
           margin-top:25px;
