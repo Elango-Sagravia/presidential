@@ -40,6 +40,7 @@ const UnsubscribeContent = () => {
           }
         })
         .catch((error) => {
+          console.log(error);
           console.error("Error during unsubscribe:", error);
           setUnsubscribeMessage("Unsubscription failed due to a server error.");
         });
