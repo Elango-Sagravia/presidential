@@ -77,7 +77,8 @@ const Verified = () => {
   return (
     <div className="bg-nl_sec_background min-h-svh md:min-h-[1050px] flex justify-center items-center px-4 md:px-8">
       <h1 className="text-3xl text-nl_background w-full md:w-1/2 text-center">
-        {`${verificationMessage} You will be redirected to the website.`}
+        {verificationMessage &&
+          `${verificationMessage} You will be redirected to the homepage.`}
       </h1>
     </div>
   );
