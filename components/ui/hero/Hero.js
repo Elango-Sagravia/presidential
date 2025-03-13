@@ -72,12 +72,14 @@ export default function Hero() {
             </>
           )}
         </div>
-        <div className="hidden flex-1 lg:block relative">
+        <div className="hidden flex-1 lg:block relative flex items-center justify-center">
           <Image
             src={"/home-hero.jpg"}
-            layout="fill"
-            objectFit="cover"
+            // layout="fill"
+            // objectFit="cover"
             alt="Home screen banner image"
+            width={600}
+            height={500}
           />
         </div>
       </div>
