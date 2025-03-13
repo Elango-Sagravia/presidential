@@ -69,6 +69,31 @@ const jsonLd = {
   ],
 };
 
+const reviewJsonLd = {
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  itemReviewed: {
+    "@type": "Organization",
+    name: "Newsletters",
+  },
+  reviewRating: {
+    "@type": "Rating",
+    ratingValue: "5",
+  },
+  name: "Presidential Summary Newsletter",
+  reviewBody:
+    "A daily newsletter providing summaries of the most important global affairs and business news.",
+  author: {
+    "@type": "Person",
+    name: "Presidential Summary",
+  },
+  publisher: {
+    "@type": "Organization",
+    name: "Presidential Summary",
+  },
+  datePublished: "2024-07-15",
+};
+
 export default function RootLayout({ children }) {
   return (
     <html suppressHydrationWarning={true} lang="en" className={inter.className}>
@@ -85,6 +110,13 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(jsonLd),
+          }}
+        />
+        <Script
+          id="review-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(reviewJsonLd),
           }}
         />
         <Script
