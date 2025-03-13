@@ -13,7 +13,7 @@ publishedAt: '2024-12-17T09:03:07.552Z'
 
 On December 8, 2024, the curtain finally fell on Assad's barbaric dynasty—a regime that had gripped Syria for over five decades. Bashar al-Assad, the once unyielding president, [fled to Moscow,](https://abcnews.go.com/International/syrian-rebels-claimed-4-cities-24-hours-now/story?id=116562929) leaving behind a fractured nation governed by a complex mosaic of rebel factions. These groups, shaped by years of civil war, reflect the diverse ideological, ethnic, and regional divides that now dominate Syria’s post-Assad power dynamics.
 
-![Syrians remove a statue of Hafez al-Assad, the father of Bashar al-Assad, in Damascus on Monday.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_CYTV1QKOlCJPpYVs6wuDA6dUxl-17D9reZzSH3K3V548JaTcfDAmjLstJbhskZ9fMwVDOPT9t2aKELkzhAcaLc-jNg4mSsqUuKts0xHC4EnRL-4k4G1HypQnbdnhrg8eCVH72A?key=adrKalGTQ9hKLNQkuvqexgZT)
+![Syrians remove a statue of Hafez al-Assad, the father of Bashar al-Assad, in Damascus on Monday.](/images/syrians-remove-a-statue-of-hafez-al-assad--the-father-of-bashar-al-assad--in-damascus-on-monday.-c4Mj.png)
 
 *source- Syrians remove a statue of Hafez al-Assad, the father of Bashar al-Assad, in Damascus on Monday. Source: [https://www.nbcnews.com/news/world/syria-assad-was-overthrown-what-happened-rcna183945](https://www.nbcnews.com/news/world/syria-assad-was-overthrown-what-happened-rcna183945)*
 
