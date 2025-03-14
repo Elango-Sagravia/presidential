@@ -90,7 +90,7 @@ export async function generateMetadata({ params }) {
           alt: "Presidential Summary",
         },
       ],
-      type: "website",
+      type: "article",
     },
   };
 }

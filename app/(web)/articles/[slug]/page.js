@@ -45,12 +45,28 @@ export async function generateMetadata({ params }) {
     "slug",
     "title",
     "description",
+    "coverImage",
   ]);
   return {
+    metadataBase: new URL(process.env.url),
     title: post.title || "",
     description: post.description || "",
     alternates: {
       canonical: `https://www.presidentialsummary.com/articles/${slug}`,
+    },
+    themeColor: "#4c305f",
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url: process.env.url,
+      images: [
+        {
+          url: post.coverImage,
+          secureUrl: post.coverImage,
+          alt: "Presidential Summary",
+        },
+      ],
+      type: "article",
     },
   };
 }
