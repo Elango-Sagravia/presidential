@@ -20,13 +20,13 @@ export async function GET(request) {
           AND s.status = 'subscribed'
           AND u.zbstatus IN ('valid', 'catch-all')
       ),
-      last_10_days_subscribers AS (
+      last_5_days_subscribers AS (
         SELECT u.id, u.email, u.uniqueid, s.status, u.zbstatus, s.created_at
         FROM users u
         JOIN subscribers s ON u.id = s.user_id
         WHERE s.website_id = $1
           AND s.status = 'subscribed'
-          AND s.created_at > NOW() - INTERVAL '10 days'
+          AND s.created_at > NOW() - INTERVAL '5 days'
           AND u.zbstatus IN ('valid', 'catch-all')
       ),
       combined_users AS (
@@ -34,7 +34,7 @@ export async function GET(request) {
         FROM (
           SELECT * FROM opened_email_users
           UNION ALL
-          SELECT * FROM last_10_days_subscribers
+          SELECT * FROM last_5_days_subscribers
         ) all_users
       ),
       filtered_users AS (
