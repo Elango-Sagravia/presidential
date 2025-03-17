@@ -160,6 +160,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-58CF7JHW');`}
         </Script>
+        <Script
+          id="gtm-noscript"
+          dangerouslySetInnerHTML={{
+            __html: `
+      <noscript>
+        <iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-58CF7JHW"
+          height="0"
+          width="0"
+          style="display:none;visibility:hidden"
+        ></iframe>
+      </noscript>
+    `,
+          }}
+        />
         <noscript>
           <img
             height="1"
@@ -168,14 +183,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             alt=""
             src="https://px.ads.linkedin.com/collect/?pid=6948988&fmt=gif"
           />
-        </noscript>
-        <noscript>
-          <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-58CF7JHW"
-            height="0"
-            width="0"
-            style="display:none;visibility:hidden"
-          ></iframe>
         </noscript>
       </head>
       <body>
