@@ -22,6 +22,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Meta Description"
+    },
+    "coverImageAltText": {
+      "required": false,
+      "description": "add cover image alt text here",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Cover Image Alt Text"
     }
   }
 }
