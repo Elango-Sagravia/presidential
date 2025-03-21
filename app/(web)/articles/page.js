@@ -62,7 +62,7 @@ export default async function blogs() {
                 <img
                   src={blog.coverImage}
                   width="100%"
-                  alt={blog.coverImageAltText}
+                  alt={blog.coverImageAltText || blog.title}
                 ></img>
               </Link>
             </div>
