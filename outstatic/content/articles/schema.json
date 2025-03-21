@@ -15,6 +15,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "Meta Title"
+    },
+    "metaDescription": {
+      "required": false,
+      "description": "add metadata description",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Meta Description"
     }
   }
 }
