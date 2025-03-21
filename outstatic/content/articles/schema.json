@@ -8,6 +8,13 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "readTime"
+    },
+    "metaTitle": {
+      "required": false,
+      "description": "add metadata title",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Meta Title"
     }
   }
 }
