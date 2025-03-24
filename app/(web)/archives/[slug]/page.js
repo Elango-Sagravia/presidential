@@ -58,14 +58,16 @@ export async function generateMetadata({ params }) {
   ]);
   // Define canonical overrides
   const canonicalOverrides = {
+    "power-transfer-tibet-earthquakes-charlie-hebdo-anniversary":
+      "trump-and-musk-s-comment-and-trudeau-steps-down",
     "uganda-s-jab-at-ebola": "noble-nominee-again",
     "swipe-left-on-trans-rights": "noble-nominee-again",
-    "getting-trumped": "noble-nominee-again",
+    "getting-trumped": "swipe-left-on-trans-rights",
     "dec-31-happy-holidays-with-a-summary-of-2024-events":
-      "noble-nominee-again",
-    "black-box-and-blame-game": "noble-nominee-again",
+      "swipe-left-on-trans-rights",
+    "black-box-and-blame-game": "swipe-left-on-trans-rights",
     "jeju-air-plane-crash-maga-divisions-and-unicef-report":
-      "noble-nominee-again",
+      "swipe-left-on-trans-rights",
   };
 
   // Determine the correct canonical URL
