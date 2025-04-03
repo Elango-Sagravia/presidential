@@ -1,4 +1,5 @@
-// import { NextResponse } from "next/server";
+export const runtime = "nodejs"; // ✅ Fix for Next.js build error
+export const dynamic = "force-dynamic";
 import { query } from "@/lib/db"; // Import fetch if using Node.js < 18
 
 export async function GET(request) {
