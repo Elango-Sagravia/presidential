@@ -4,14 +4,21 @@ import Subscribe from "@/components/ui/subscribe/subscribe";
 import libre from "@/components/libre-font";
 import ContactHeader from "@/components/ui/contactHeader/contactHeader";
 
+const title = "Contact Presidential Summary - Get in Touch";
+const description =
+  "Have questions or partnership inquiries? Contact the Presidential Summary team for assistance, advertising requests, or general support.";
 export const metadata = {
-  title: "Contact Presidential Summary - We're Here to Assist You",
-  description:
-    "Have a question or need to reach out team? Contact Presidential Summary for quick assistance regarding newsletters, articles, or services.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.presidentialsummary.com/contact",
   },
+  openGraph: {
+    title,
+    description,
+  },
 };
+
 export default function Contact() {
   return (
     <main>

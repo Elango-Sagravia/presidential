@@ -18,12 +18,18 @@ async function getData() {
 
   return blogs;
 }
+const title = "Presidential Summary Archives - Past Editions";
+const description =
+  "Browse the archives of Presidential Summary and revisit past news briefings. Access previous editions with key news and analysis.";
 export const metadata = {
-  title: "Presidential Summary Archives - Explore Past Newsletters",
-  description:
-    "Browse the archives of Presidential Summary to access past newsletters. Stay updated with valuable insights and news analysis.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.presidentialsummary.com/archives",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 export default async function archive() {

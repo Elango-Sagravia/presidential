@@ -3,12 +3,18 @@ import AdvertiseHero from "@/components/ui/advertiseHero/advertiseHero";
 import AdvertiseQuestion from "@/components/ui/advertiseQuestion/advertiseQuestion";
 import AdvertiseStatus from "@/components/ui/advertiseStatus/advertiseStatus";
 
+const title = "Advertise with Presidential Summary";
+const description =
+  "Promote your brand to an engaged, US-based audience through Presidential Summary newsletter. Reach decision-makers with clear, native advertisements.";
 export const metadata = {
-  title: "Advertise with Presidential Summary - Reach a Targeted Audience",
-  description:
-    "Promote your brand and gain customers the same day with Presidential Summary newsletters. Reach engaged US audience with native newsletter advertisements.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.presidentialsummary.com/advertise",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 export default function Advertise() {

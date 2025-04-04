@@ -41,12 +41,18 @@ function truncateDescription(description, slug) {
   );
 }
 
+const title = "Presidential Summary Articles - Global News & Analysis";
+const description =
+  "Explore in-depth articles and expert analysis from Presidential Summary, covering international relations, geopolitics, and global affairs.";
 export const metadata = {
-  title: "Presidential Summary Articles - Expert News & Analysis",
-  description:
-    "Explore comprehensive research and expert opinions from Presidential Summary, offering in-depth coverage of international relations and geopolitical affairs.",
+  title,
+  description,
   alternates: {
     canonical: "https://www.presidentialsummary.com/articles",
+  },
+  openGraph: {
+    title,
+    description,
   },
 };
 export default async function blogs() {

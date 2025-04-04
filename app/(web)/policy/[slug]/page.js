@@ -50,6 +50,10 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `https://www.presidentialsummary.com/policy/${slug}`,
     },
+    openGraph: {
+      title: post.seoTitle,
+      description: post.seoDescription,
+    },
   };
 }
 export default async function Home({ params }) {
