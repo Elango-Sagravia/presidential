@@ -8,7 +8,7 @@ slug: 'privacy-policy'
 description: ''
 coverImage: ''
 seoTitle: 'Privacy Policy - Presidential Summary'
-seoDescription: 'Contact Presidential Summary for quick assistance with our newsletters or advertisements. '
+seoDescription: 'Read the Presidential Summary privacy policy to learn how we collect, use, and protect your personal data.'
 publishedAt: '2024-08-20T15:12:13.000Z'
 ---
 
