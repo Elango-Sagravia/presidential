@@ -8,7 +8,7 @@ slug: 'cookie-policy'
 description: ''
 coverImage: ''
 seoTitle: 'Cookie Policy - Presidential Summary'
-seoDescription: ''
+seoDescription: 'Learn how Presidential Summary uses cookies to enhance user experience, analyze traffic, and personalize content.'
 publishedAt: '2024-08-20T15:22:36.000Z'
 ---
 
