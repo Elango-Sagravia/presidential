@@ -50,7 +50,17 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
                 )
-                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`),
+                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`)
+                .replace(/<h2([^>]*)>(.*?)<\/h2>/gi, (match, attrs, text) => {
+                  const slug = text
+                    .toLowerCase()
+                    .replace(/[^a-z0-9\s]/g, "")
+                    .trim()
+                    .replace(/\s+/g, "-");
+                  // Avoid adding duplicate id if already exists
+                  if (/id\s*=/.test(attrs)) return match;
+                  return `<h2${attrs} id="${slug}">${text}</h2>`;
+                }),
             }}
           />
           <div className="max-w-[600px] mx-auto bg-white py-16">
@@ -80,7 +90,17 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
                 )
-                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`),
+                .replaceAll(`class="sec-ad-list"`, `class="list-disc"`)
+                .replace(/<h2([^>]*)>(.*?)<\/h2>/gi, (match, attrs, text) => {
+                  const slug = text
+                    .toLowerCase()
+                    .replace(/[^a-z0-9\s]/g, "")
+                    .trim()
+                    .replace(/\s+/g, "-");
+                  // Avoid adding duplicate id if already exists
+                  if (/id\s*=/.test(attrs)) return match;
+                  return `<h2${attrs} id="${slug}">${text}</h2>`;
+                }),
             }}
           />
         </div>

@@ -82,6 +82,7 @@ input {
   }
   html {
     scroll-behavior: smooth;
+    scroll-padding-top: 120px;
   }
 
   body {
@@ -115,7 +116,7 @@ input {
   }
 }
 
-.archive-page-slug ::selection{
-  background-color: rgba(76, 48, 95, 1.0);
-  color: white; 
+.archive-page-slug ::selection {
+  background-color: rgba(76, 48, 95, 1);
+  color: white;
 }
