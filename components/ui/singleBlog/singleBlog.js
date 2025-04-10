@@ -28,6 +28,17 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
       // You can now use the email in your component or for logic
     }
   }, []);
+  useEffect(() => {
+    const hash = window.location.hash;
+    if (hash) {
+      setTimeout(() => {
+        const el = document.querySelector(hash);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }, 1000); // Delay of 1 second
+    }
+  }, [blog.emailHtml]);
 
   if (message === "" && blog.emailHtml) {
     return (
