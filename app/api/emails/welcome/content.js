@@ -332,7 +332,7 @@ export const emailContent = `<!doctype html>
               line-height: 1.2;  
               font-weight: 400;
                
-            ">QUICK VERIFICATION</h2></div>
+            ">Quick verification</h2></div>
     
                 </td>
               </tr>
