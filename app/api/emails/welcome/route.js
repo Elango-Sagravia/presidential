@@ -21,7 +21,7 @@ const website_id = 1;
 // Function to send an email
 async function sendEmail(email, slug, uniqueId, email_uniqueid) {
   let mailOptions = {
-    from: '"Presidential Summary" <no-reply@welcome.presidentialsummary.com>', // Sender email address
+    from: '"Presidential Summary" <no-reply@email.presidentialsummary.com>', // Sender email address
     to: email, // Recipient email
     bcc: "elango@sagravia.com", // Add BCC recipient
     subject: "Action required: confirm your subscription",
