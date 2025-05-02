@@ -33,6 +33,16 @@ const nextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      { source: "/sitemap.xml", destination: "/sitemap" },
+      { source: "/sitemap_main.xml", destination: "/sitemap_main" },
+      { source: "/sitemap_blogs.xml", destination: "/sitemap_blogs" },
+      { source: "/sitemap_policies.xml", destination: "/sitemap_policies" },
+      { source: "/sitemap_pages.xml", destination: "/sitemap_pages" },
+      { source: "/sitemap_articles.xml", destination: "/sitemap_articles" },
+    ];
+  },
 };
 
 export default withSentryConfig(nextConfig, {
