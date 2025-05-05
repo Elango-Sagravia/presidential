@@ -1,5 +1,3 @@
-export const dynamic = "force-dynamic";
-
 const mainPages = ["", "advertise", "archives", "contact"];
 
 export async function GET() {
