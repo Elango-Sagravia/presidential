@@ -3,7 +3,7 @@ import { getDocuments } from "outstatic/server";
 export const dynamic = "force-dynamic";
 
 async function getData() {
-  const articles = getDocuments("articles", ["slug"]);
+  const articles = await getDocuments("articles", ["slug"]);
 
   return articles;
 }
