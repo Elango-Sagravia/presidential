@@ -4,7 +4,7 @@ export const dynamic = "force-dynamic";
 
 export async function GET() {
   const baseUrl = process.env.url;
-  const slugs = getDocumentSlugs("articles");
+  const slugs = await getDocumentSlugs("articles");
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
