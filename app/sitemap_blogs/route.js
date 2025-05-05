@@ -1,7 +1,5 @@
 import { getDocumentSlugs } from "outstatic/server";
 
-export const dynamic = "force-dynamic";
-
 export async function GET() {
   const baseUrl = process.env.url;
   const slugs = getDocumentSlugs("blogs");
