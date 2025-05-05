@@ -44,7 +44,7 @@ export default function Footer() {
                 <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">X</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
@@ -93,7 +93,7 @@ export default function Footer() {
                 <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">Twitter</Link>
+                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">X</Link>
               </li>
               <li className="py-2 hover:underline underline-offset-8">
                 <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
