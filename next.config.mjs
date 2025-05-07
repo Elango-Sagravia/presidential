@@ -38,7 +38,7 @@ const nextConfig = {
       { source: "/sitemap_blogs.xml", destination: "/sitemap_blogs" },
       { source: "/sitemap_policies.xml", destination: "/sitemap_policies" },
       { source: "/sitemap_pages.xml", destination: "/sitemap_pages" },
-      { source: "/sitemap_articles.xml", destination: "/sitemap_articles" },
+      { source: "/sitemap_archives.xml", destination: "/sitemap_archives" },
     ];
   },
 };
