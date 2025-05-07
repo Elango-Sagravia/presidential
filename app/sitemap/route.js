@@ -8,7 +8,7 @@ export async function GET() {
     "sitemap_blogs.xml",
     "sitemap_policies.xml",
     "sitemap_pages.xml",
-    "sitemap_articles.xml",
+    "sitemap_archives.xml",
   ];
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
