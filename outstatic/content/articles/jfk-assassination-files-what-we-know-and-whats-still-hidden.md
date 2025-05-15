@@ -3,7 +3,7 @@ coverImageAltText: 'Lee Harvey Oswald and President John F. Kennedy with a decla
 metaDescription: 'Explore what''s been revealed and what remains hidden in the JFK assassination files, as new documents reignite questions about the case''s unresolved mysteries.'
 metaTitle: 'JFK Assassination Files: Known Facts & Lingering Secrets'
 readTime: '10'
-coverImage: '/images/lee-harvey-oswald-and-jfk-documents-YyNj.png'
+coverImage: '/images/lee-harvey-oswald-and-jfk-documents-Y3Nz.png'
 description: 'More than 60 years after JFK’s assassination, the story is far from closed. The FBI’s discovery of thousands of new documents in 2025 has revived old questions about Oswald, foreign ties, and government secrecy.'
 slug: 'jfk-assassination-files-what-we-know-and-whats-still-hidden'
 author:
@@ -46,7 +46,7 @@ Since 1992, the National Archives has made more than **97% of the JFK assassinat
 
 ### Key findings from the JFK assassination files released to date
 
-#### Oswald’s trip to Mexico City and his contact with Cuban and Soviet diplomats
+**Oswald’s trip to Mexico City and his contact with Cuban and Soviet diplomats**
 
 One of the most puzzling elements in the **JFK assassination files** is Oswald’s [six-day trip](https://www.cia.gov/readingroom/docs/CIA-RDP10M00666R000503450002-3.pdf) to **Mexico City in late September 1963**, just weeks before the assassination. During his stay, he visited both the **Cuban and Soviet embassies**, reportedly trying to obtain transit visas to travel through Cuba and reach the USSR.
 
@@ -54,7 +54,7 @@ What raised suspicion later was Oswald’s **alleged meeting with [Valeriy Kosti
 
 Additionally, **CIA surveillance in Mexico City**, wiretaps, and photo surveillance captured someone claiming to be Oswald, but the man in the photos didn’t resemble him. Some researchers believe Oswald may have been impersonated. Others suggest the surveillance records were simply mishandled or misidentified.
 
-#### Internal FBI memos warning about Oswald’s safety before his death
+**Internal FBI memos warning about Oswald’s safety before his death**
 
 Another major revelation in the released files involves the **FBI’s internal knowledge of [threats to Oswald](https://www.wgbh.org/news/2017-10-26/new-kennedy-documents-say-fbi-was-tipped-off-oswald-was-in-danger-after-arrest)** in the days between his arrest and his murder by Jack Ruby.
 
@@ -64,7 +64,7 @@ The files confirm that the **FBI had received a tip that Oswald was in danger**,
 
 *source-Lee Harvey Oswald talks to the press as he is led down a corridor of the Dallas police station after the assassination of US President John F. Kennedy. Credits: AP*
 
-#### CIA operations related to Cuba and the monitoring of Oswald abroad
+**CIA operations related to Cuba and the monitoring of Oswald abroad**
 
 The **CIA’s Cold War-era operations in Cuba** appear repeatedly in the assassination files, not because the agency was directly linked to the shooting, but because of how closely it monitored Cuba-related threats, including Oswald.
 
