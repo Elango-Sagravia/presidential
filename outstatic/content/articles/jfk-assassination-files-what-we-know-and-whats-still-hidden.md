@@ -1,22 +1,22 @@
 ---
-coverImageAltText: ''
+coverImageAltText: 'Lee Harvey Oswald and President John F. Kennedy with a declassified government document referencing Oswald in the center.'
 metaDescription: 'Explore what''s been revealed and what remains hidden in the JFK assassination files, as new documents reignite questions about the case''s unresolved mysteries.'
 metaTitle: 'JFK Assassination Files: Known Facts & Lingering Secrets'
 readTime: '10'
-coverImage: ''
+coverImage: '/images/lee-harvey-oswald-and-jfk-documents-YyNj.png'
 description: 'More than 60 years after JFK’s assassination, the story is far from closed. The FBI’s discovery of thousands of new documents in 2025 has revived old questions about Oswald, foreign ties, and government secrecy.'
 slug: 'jfk-assassination-files-what-we-know-and-whats-still-hidden'
 author:
   name: ''
   picture: ''
-status: 'draft'
+status: 'published'
 title: 'JFK Assassination Files: What We Know and What’s Still Hidden'
 publishedAt: '2025-05-15T13:07:30.863Z'
 ---
 
 ## Summary
 
-More than 60 years after President John F. Kennedy was assassinated, the full truth still feels just out of reach. While thousands of government documents have been released, new headlines suggest the story isn't over. 
+More than 60 years after President John F. Kennedy was assassinated, the full truth still feels just out of reach. While thousands of government documents have been released, new headlines suggest the story isn't over.
 
 The **FBI says it has discovered new files on the JFK assassination**, raising fresh questions about what we know, what we don’t, and why so many pages remain locked away.
 
@@ -138,7 +138,7 @@ But many investigators and historians aren’t convinced.
 
 - The **JFK assassination files** include FBI references to Ruby’s frequent calls to known mobsters in the days leading up to the shooting, though nothing has ever definitively proven coordination.
 
-What makes Ruby’s role even murkier is how easily he was able to enter the police station with a weapon, despite supposedly tight security. 
+What makes Ruby’s role even murkier is how easily he was able to enter the police station with a weapon, despite supposedly tight security.
 
 ## Why the JFK assassination files still matter today
 
