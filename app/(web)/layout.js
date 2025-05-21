@@ -111,11 +111,17 @@ export default function RootLayout({ children }) {
             __html: JSON.stringify(jsonLd),
           }}
         />
-        <Script
-          id="review-schema"
+        <script
+          id="schema-name"
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(reviewJsonLd),
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Presidential Summary",
+              alternateName: "Presidential Summary",
+              url: "https://www.presidentialsummary.com",
+            }),
           }}
         />
         <Script
@@ -183,6 +189,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             src="https://px.ads.linkedin.com/collect/?pid=6948988&fmt=gif"
           />
         </noscript>
+        <meta name="application-name" content="Presidential Summary" />
+        <meta property="og:site_name" content="Presidential Summary" />
+        <meta
+          name="apple-mobile-web-app-title"
+          content="Presidential Summary"
+        />
       </head>
       <body>
         <ThemeProvider
