@@ -195,6 +195,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           name="apple-mobile-web-app-title"
           content="Presidential Summary"
         />
+        <Script
+          id="swg-basic-lib" // 1️⃣ loads the library
+          src="https://news.google.com/swg/js/v1/swg-basic.js"
+          async
+          strategy="beforeInteractive" // make it available as early as possible
+        />
+
+        <Script // 2️⃣ initialises the library
+          id="swg-basic-init"
+          strategy="afterInteractive" // runs on the client, after hydration
+        >
+          {`
+    (self.SWG_BASIC = self.SWG_BASIC || []).push(basicSubscriptions => {
+      basicSubscriptions.init({
+        type: "NewsArticle",
+        isPartOfType: ["Product"],
+        isPartOfProductId: "CAowyYq7DA:openaccess",
+        clientOptions: { theme: "light", lang: "en" }
+      });
+    });
+  `}
+        </Script>
       </head>
       <body>
         <ThemeProvider
