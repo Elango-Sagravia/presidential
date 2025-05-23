@@ -9,7 +9,7 @@ slug: 'cop29-the-300-billion-act-of-tokenism'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/191345410?v=4'
-status: 'published'
+status: 'draft'
 title: 'COP29 - The $300 Billion Act of Tokenism?'
 publishedAt: '2024-12-12T10:28:59.345Z'
 ---
