@@ -1,4 +1,7 @@
 ---
+coverImageAltText: ''
+metaDescription: ''
+metaTitle: ''
 readTime: '10'
 coverImage: '/images/w1-kxNz.jpg'
 description: 'On December 8, 2024, the curtain finally fell on Assad''s barbaric dynasty—a regime that had gripped Syria for over five decades. Bashar al-Assad, the once unyielding president, fled to Moscow, leaving behind a fractured nation governed by a complex mosaic of rebel factions. These groups, shaped by years of civil war, reflect the diverse ideological, ethnic, and regional divides that now dominate Syria’s post-Assad power dynamics.'
@@ -6,7 +9,7 @@ slug: 'understanding-syria-s-war-one-step-at-a-time'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/191345410?v=4'
-status: 'published'
+status: 'draft'
 title: 'Understanding Syria''s War, One Step at a Time'
 publishedAt: '2024-12-17T09:03:07.552Z'
 ---
