@@ -81,7 +81,7 @@ const customStyles = {
   h3: "text-2xl font-bold mt-8 mb-4",
   p: "mb-4",
   img: "max-w-full h-auto",
-  a: "text-blue-500 hover:text-blue-700 break-words",
+  a: "no-underline border-b-2 border-[#06266d]",
   ol: "list-decimal list-inside mb-4",
   ul: "list-disc list-inside mb-4",
   li: "ml-4 mb-4",
