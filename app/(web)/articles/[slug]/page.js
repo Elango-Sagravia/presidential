@@ -99,10 +99,7 @@ export default async function Home({ params }) {
     .replace(/<li>/g, `<li class="${customStyles.li}">`)
     .replace(/<p class="mb-4"><em>source-/g, `<p class="mb-4 source-link"><em>`)
     .replace(/<p class="mb-4">source-/g, `<p class="mb-4 source-link">`)
-    .replace(
-      /<p class="mb-4"><img/g,
-      `<p class="mb-2 md:ml-[-40px] md:mr-[-40px]" style=""><img`
-    );
+    .replace(/<p class="mb-4"><img/g, `<p class="mb-2" style=""><img`);
   return (
     <>
       <section

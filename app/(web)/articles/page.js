@@ -26,7 +26,7 @@ function truncateDescription(description, slug) {
       <>
         {truncated}...{" "}
         <Link href={`/articles/${slug}`} className="text-blue-500 underline">
-          read more
+          Read more
         </Link>
       </>
     );
@@ -35,7 +35,7 @@ function truncateDescription(description, slug) {
     <>
       {description}{" "}
       <Link href={`/articles/${slug}`} className="text-blue-500 underline">
-        read more
+        Read more
       </Link>
     </>
   );

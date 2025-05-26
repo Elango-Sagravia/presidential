@@ -120,3 +120,7 @@ input {
   background-color: rgba(76, 48, 95, 1);
   color: white;
 }
+body ::selection {
+  background-color: rgba(76, 48, 95, 1);
+  color: white;
+}
