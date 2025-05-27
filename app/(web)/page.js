@@ -23,7 +23,7 @@ export default function Home() {
       <Latest />
       <ArchiveHome />
       <Subscribe />
-      <PassendoAd />
+      {/* <PassendoAd /> */}
     </main>
   );
 }
