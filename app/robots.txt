@@ -1,4 +1,54 @@
-User-agent: *
+User-agent: GPTBot
+Disallow: /outstatic
 Allow: /
-Disallow: /outstatic/
+
+User-agent: OAI-SearchBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: PerplexityBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: CCBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: Amazonbot
+Disallow: /outstatic
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /outstatic
+Allow: /
+
+User-agent: Applebot
+Disallow: /outstatic
+Allow: /
+
+User-agent: Bingbot
+Disallow: /outstatic
+Allow: /
+
+User-agent: DuckDuckBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /outstatic
+Allow: /
+
+User-agent: SemrushBot
+Disallow: /outstatic
+Allow: /
+
+# Generic fallback for any other bot
+User-agent: *
+Disallow: /outstatic
+Allow: /
+
 Sitemap: https://www.presidentialsummary.com/sitemap.xml
