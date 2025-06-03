@@ -164,6 +164,9 @@ export default function Footer() {
                   <Link href="/archives">Archives</Link>
                 </li>
                 <li className="py-2 hover:underline underline-offset-8">
+                  <Link href="/articles">Articles</Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
                   <Link href="/contact">Contact us</Link>
                 </li>
               </ul>
