@@ -38,19 +38,44 @@ export default function Footer() {
           <div>
             <ul className="ml-60">
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank"  href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
+                <Link
+                  target="_blank"
+                  href="https://www.facebook.com/people/Presidential-Summary/61562652791256/"
+                >
+                  Facebook
+                </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
+                <Link
+                  target="_blank"
+                  href="https://www.instagram.com/presidentialsummary/"
+                >
+                  Instagram
+                </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">X</Link>
+                <Link
+                  target="_blank"
+                  href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum"
+                >
+                  X
+                </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
+                <Link
+                  target="_blank"
+                  href="https://www.threads.net/@presidentialsummary"
+                >
+                  Threads
+                </Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
+                <Link
+                  target="_blank"
+                  href="https://www.linkedin.com/showcase/presidentialsummary/"
+                >
+                  LinkedIn
+                </Link>
               </li>
             </ul>
           </div>
@@ -63,6 +88,9 @@ export default function Footer() {
                 <Link href="/archives">Archives</Link>
               </li>
               <li className="px-8 py-2 hover:underline underline-offset-8">
+                <Link href="/articles">Articles</Link>
+              </li>
+              <li className="px-8 py-2 hover:underline underline-offset-8">
                 <Link href="/contact">Contact us</Link>
               </li>
             </ul>
@@ -71,7 +99,6 @@ export default function Footer() {
       </footer>
 
       {/* mobile footer */}
-
 
       <footer className="block lg:hidden px-4 md:px-16 py-8 bg-black text-white ">
         <div className="justify-between">
@@ -84,40 +111,65 @@ export default function Footer() {
           </div>
 
           <div className="flex">
-          <div className="mt-8">
-            <ul>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.facebook.com/people/Presidential-Summary/61562652791256/">Facebook</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.instagram.com/presidentialsummary/">Instagram</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum">X</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.threads.net/@presidentialsummary">Threads</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link target="_blank" href="https://www.linkedin.com/showcase/presidentialsummary/">LinkedIn</Link>
-              </li>
-            </ul>
+            <div className="mt-8">
+              <ul>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link
+                    target="_blank"
+                    href="https://www.facebook.com/people/Presidential-Summary/61562652791256/"
+                  >
+                    Facebook
+                  </Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link
+                    target="_blank"
+                    href="https://www.instagram.com/presidentialsummary/"
+                  >
+                    Instagram
+                  </Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link
+                    target="_blank"
+                    href="https://x.com/i/flow/login?redirect_after_login=%2Fpresidentialsum"
+                  >
+                    X
+                  </Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link
+                    target="_blank"
+                    href="https://www.threads.net/@presidentialsummary"
+                  >
+                    Threads
+                  </Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link
+                    target="_blank"
+                    href="https://www.linkedin.com/showcase/presidentialsummary/"
+                  >
+                    LinkedIn
+                  </Link>
+                </li>
+              </ul>
+            </div>
+            <div className="mt-8 ml-10">
+              <ul>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link href="/advertise">Advertise</Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link href="/archives">Archives</Link>
+                </li>
+                <li className="py-2 hover:underline underline-offset-8">
+                  <Link href="/contact">Contact us</Link>
+                </li>
+              </ul>
+            </div>
           </div>
-          <div className="mt-8 ml-10">
-            <ul>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link href="/advertise">Advertise</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link href="/archives">Archives</Link>
-              </li>
-              <li className="py-2 hover:underline underline-offset-8">
-                <Link href="/contact">Contact us</Link>
-              </li>
-            </ul>
-          </div>
-           </div>
-         
+
           <div>
             <ul className="flex mt-8">
               <li className="underline hover:underline underline-offset-8 text-[12px] text-gray-400">
