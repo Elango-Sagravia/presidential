@@ -26,7 +26,7 @@ async function getData(params) {
     "emailHtmlPreview",
   ]);
   if (!post) {
-    redirect("/archives");
+    notFound();
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");

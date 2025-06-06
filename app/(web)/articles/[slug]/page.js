@@ -21,7 +21,7 @@ async function getData(params) {
     "readTime",
   ]);
   if (!post) {
-    redirect("/articles");
+    notFound();
   }
   console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
