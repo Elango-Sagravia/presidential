@@ -57,12 +57,12 @@ export async function GET(request) {
       priority_2_users AS (
         SELECT id, email, uniqueid, status, zbstatus, created_at, 2 AS priority
         FROM sorted_remaining_users
-        WHERE row_num <= 8000
+        WHERE row_num <= 10000
       ),
       priority_3_users AS (
         SELECT id, email, uniqueid, status, zbstatus, created_at, 3 AS priority
         FROM sorted_remaining_users
-        WHERE row_num > 8000
+        WHERE row_num > 10000
       ),
       final_users AS (
         SELECT * FROM priority_1_users
