@@ -28,7 +28,6 @@ async function getData(params) {
   if (!post) {
     notFound();
   }
-  console.log("post in slug", post);
   const content = await markdownToHtml(post.content || "");
 
   return {
@@ -107,6 +106,7 @@ export default async function Home({ params }) {
   const relatedArticles = blogs.filter((el) =>
     relatedBlogsSlugs.includes(el.slug)
   );
+  console.log(blog);
   return (
     <div className="archive-page-slug">
       <Suspense>
