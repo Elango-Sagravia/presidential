@@ -26,9 +26,9 @@ source-*German passport, national flag, and constitution booklet representing th
 
 German citizenship gives a person full rights and responsibilities as a national of Germany. It provides access to civil liberties, political participation, and legal protections in Germany and the European Union (EU).
 
-## Benefits of German Citizenship 
+## Benefits of German Citizenship
 
-The German passport is one of the most valuable passports in the world. As of 2024, the German passport is [ranked the third-best passport](https://www.henleyglobal.com/passport-index/ranking) globally in terms of travel freedom. Holding a German citizenship has several benefits: 
+The German passport is one of the most valuable passports in the world. As of 2024, the German passport is [ranked the third-best passport](https://www.henleyglobal.com/passport-index/ranking) globally in terms of travel freedom. Holding a German citizenship has several benefits:
 
 - **Unrestricted access to the European Union.** Granting a German citizen the right to live, work, and study in 27 countries without needing a residence permit. They can also live in Iceland, Norway, Switzerland, and Liechtenstein, which are not part of the EU but part of the Schengen Area’s free movement scheme.
 
@@ -38,13 +38,13 @@ The German passport is one of the most valuable passports in the world. As of 20
 
 - **Opportunity to participate in the political process.** As a German citizen, one can vote in German elections and have a direct say in the country's affairs. They can also run for a political office in Germany.
 
-- **Germany has a strong social safety net.** It has an excellent healthcare system and a range of social services for its citizens. 
+- **Germany has a strong social safety net.** It has an excellent healthcare system and a range of social services for its citizens.
 
-- **German citizens have unrestricted access to the German and EU labor markets.** 
+- **German citizens have unrestricted access to the German and EU labor markets.**
 
 - **Educational opportunities** that offer tuition-free education at public universities and provide financial aid (BAföG) based on need.
 
-- **It allows opportunities for citizens to set up and run a business** in Germany and other EU countries. 
+- **It allows opportunities for citizens to set up and run a business** in Germany and other EU countries.
 
 - **Citizenship also provides a sense of security.** While permanent residency offers many of the same benefits, it can still be revoked under specific conditions, unlike citizenship, which is far more stable.
 
@@ -80,17 +80,17 @@ Today, Germany is a leading destination for skilled workers and refugees. Migrat
 
 ![Italian guest workers at Wolfsburg train station, returning to Germany after the Christmas vacation in 1972, during the era of labor migration](/images/italian-guest-workers-germany-wolfsburg-1972-migration-history-g5Mz.png)
 
-source-*Italian guest workers at Wolfsburg train station, returning to Germany after the Christmas vacation in 1972, during the era of labor migration. Credits: IMAGO / Rust*  
+source-*Italian guest workers at Wolfsburg train station, returning to Germany after the Christmas vacation in 1972, during the era of labor migration. Credits: IMAGO / Rust*
 
-The German government introduced the [new Skilled Immigration Act](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act) (FEG) to facilitate the immigration of skilled workers with vocational training and individuals with practical knowledge to Germany. Key changes in the act included easing entry requirements for skilled professionals, expanding the EU Blue Card system, and introducing an “Opportunity Card” for individuals seeking jobs in the country. This initiative was introduced to address the growing shortage of skilled labor in Germany. 
+The German government introduced the [new Skilled Immigration Act](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act) (FEG) to facilitate the immigration of skilled workers with vocational training and individuals with practical knowledge to Germany. Key changes in the act included easing entry requirements for skilled professionals, expanding the EU Blue Card system, and introducing an “Opportunity Card” for individuals seeking jobs in the country. This initiative was introduced to address the growing shortage of skilled labor in Germany.
 
-## How to Get German Citizenship 
+## How to Get German Citizenship
 
-There are several ways to obtain German citizenship. The most common way is naturalization, as citizenship by descent is limited. 
+There are several ways to obtain German citizenship. The most common way is naturalization, as citizenship by descent is limited.
 
 ### Naturalization
 
-To obtain German citizenship through naturalization, individuals need to be legally residing in the country for at least five years, possess German language skills (B1 level), be financially self-sufficient, and not hold any criminal record. They must also have a good understanding of German laws and cultural systems. 
+To obtain German citizenship through naturalization, individuals need to be legally residing in the country for at least five years, possess German language skills (B1 level), be financially self-sufficient, and not hold any criminal record. They must also have a good understanding of German laws and cultural systems.
 
 However, as of 2024, the German government introduced accelerated (turbo clause) naturalization, where individuals can be naturalized in three years, in some instances. Individuals need to demonstrate exceptional integration, such as proficiency in German at the C1 level, strong professional or volunteer achievements, or be spouses of German citizens (with a marriage of at least two years).
 
@@ -98,11 +98,11 @@ Refugees can apply after five years of habitual residence, provided they can dem
 
 ### By descent
 
-Typically, if one has a German parent, they are [usually eligible](https://canada.diplo.de/ca-en/consular-services/03-staatsangehoerigkeit/determining-citizenship-1098088#:~:text=photothek%20/%20Ute%20Grabowski-,How%20is%20German%20citizenship%20acquired?,do%20not%20acquire%20German%20citizenship.) for citizenship. It becomes a bit more difficult if someone applies when they are older, as it needs to be claimed generally before the child reaches adulthood. There are some fast tracks to it if this is not the case. 
+Typically, if one has a German parent, they are [usually eligible](https://canada.diplo.de/ca-en/consular-services/03-staatsangehoerigkeit/determining-citizenship-1098088#:~:text=photothek%20/%20Ute%20Grabowski-,How%20is%20German%20citizenship%20acquired?,do%20not%20acquire%20German%20citizenship.) for citizenship. It becomes a bit more difficult if someone applies when they are older, as it needs to be claimed generally before the child reaches adulthood. There are some fast tracks to it if this is not the case.
 
 For people born before 1975, it was necessary for their father to be a German citizen to claim citizenship. If their mother was the parent, they had to fill out a declaration form to be eligible to apply for citizenship.
 
-If their parents renounced their German citizenship to become US or Canadian citizens, it is often not possible. 
+If their parents renounced their German citizenship to become US or Canadian citizens, it is often not possible.
 
 There are a couple of exceptions to this. If someone's grandparents or parents were German citizens and [lost their citizenship](https://www.bva.bund.de/EN/Services/Citizens/ID-Documents-Law/Citizenship/116GG_15StA.html) (e.g., by fleeing Nazi persecution or due to unjust laws), they may be eligible to reclaim German citizenship.
 
@@ -112,7 +112,7 @@ Children born after 2000 to non-German citizens in Germany may be eligible to ob
 
 source-*Distribution of foreign populations in 2024, with color variations signifying different levels of foreign residency by district. Credits: Destatis*
 
-## German Dual Citizenship Rules 
+## German Dual Citizenship Rules
 
 Previously, Germany had stringent rules regarding dual citizenship; most candidates were required to renounce their other citizenship to obtain German citizenship. The exceptions were if they had a German parent, were a Jewish descendant of a Holocaust victim, or fell under a special policy that the German government had. However, now, Germany allows dual citizenship.
 
@@ -124,9 +124,9 @@ However, current legislation is being considered that may reverse some of the wa
 
 ### Controversies around Germany’s citizenship rules
 
-Germany’s stringent citizenship laws were felt among the Turkish and some Balkan communities in Germany. There were third-generation Turkish citizens born in Germany without citizenship because Germany wanted them to renounce their citizenship. 
+Germany’s stringent citizenship laws were felt among the Turkish and some Balkan communities in Germany. There were third-generation Turkish citizens born in Germany without citizenship because Germany wanted them to renounce their citizenship.
 
-Some viewed this as unfair in the 1990s, many “ethnic Germans” from former soviet countries had an easy pathway to German citizenship and did not have to renounce. Some believe most of the “ethnic Germans” were not even really Germans; they were just committing fraud to be able to obtain German nationality. 
+Some viewed this as unfair in the 1990s, many “ethnic Germans” from former soviet countries had an easy pathway to German citizenship and did not have to renounce. Some believe most of the “ethnic Germans” were not even really Germans; they were just committing fraud to be able to obtain German nationality.
 
 ![German parliament building in Berlin with the national flag](/images/german-parliament-building-berlin-I2MT.png)
 
@@ -144,7 +144,7 @@ It can open many doors and enable one to be part of the political process in Ger
 
 ### Why do people immigrate to Germany?
 
-Many have immigrated to Germany for multiple reasons. Some of them are facing conflicts in their countries, and others have immigrated for better job prospects and a better life. 
+Many have immigrated to Germany for multiple reasons. Some of them are facing conflicts in their countries, and others have immigrated for better job prospects and a better life.
 
 ### Is it good to have a German passport?
 
@@ -152,8 +152,8 @@ Yes, the German passport is widely considered to be one of the most advantageous
 
 ### What are the disadvantages of dual citizenship in Germany?
 
-Generally, there aren’t many disadvantages. The other country in which one holds citizenship may have strict dual citizenship laws and can require someone to renounce their other nationality. Countries like the US might still double-tax a high-earning German citizen abroad. 
+Generally, there aren’t many disadvantages. The other country in which one holds citizenship may have strict dual citizenship laws and can require someone to renounce their other nationality. Countries like the US might still double-tax a high-earning German citizen abroad.
 
-### What is the strongest passport in the world? 
+### What is the strongest passport in the world?
 
 According to the [Henley](https://www.henleyglobal.com/passport-index/ranking) Passport Index, considered the most authoritative and thorough on this matter, Singapore has the strongest passport.
