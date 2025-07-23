@@ -9,7 +9,9 @@ import LoadingSpinner from "@/components/ui/loading-spinner";
 function detectBrowser() {
   let userAgent = navigator.userAgent;
 
-  if (userAgent.includes("Chrome") && !userAgent.includes("Edge")) {
+  if (userAgent.includes("CriOS")) {
+    return "Chrome";
+  } else if (userAgent.includes("Chrome") && !userAgent.includes("Edge")) {
     return "Chrome";
   } else if (userAgent.includes("Safari") && !userAgent.includes("Chrome")) {
     return "Safari";
