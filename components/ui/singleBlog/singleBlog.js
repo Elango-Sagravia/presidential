@@ -77,6 +77,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
             dangerouslySetInnerHTML={{
               __html: blog.emailHtml
                 .replaceAll("<a", `<a target="_blank"`)
+                .replaceAll(` style="background-color:#f9f8f9"`, "")
                 .replaceAll(
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`
@@ -118,6 +119,7 @@ const SingleBlog = ({ blog, relatedArticles, index }) => {
             dangerouslySetInnerHTML={{
               __html: blog.emailHtml
                 .replaceAll("<a", `<a target="_blank"`)
+                .replaceAll(` style="background-color:#f9f8f9"`, "")
                 .replaceAll(
                   `class="sec-ad-link"`,
                   `style="display:block; max-width: 600px;margin:0 auto; padding:0px 12px; background-color:white;"`

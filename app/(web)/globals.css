@@ -98,6 +98,7 @@ input {
   }
   .archive h2 {
     font-weight: 600 !important;
+    padding-top: 14px;
   }
   .archive td p {
     margin-bottom: 15px !important;
