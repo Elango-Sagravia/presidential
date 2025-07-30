@@ -49,7 +49,7 @@ export async function GET(request) {
           SELECT * FROM deduplicated
           WHERE priority = 2
           ORDER BY created_at DESC
-          LIMIT 35000
+          LIMIT 40000
         ) limited_priority_2
       )
       SELECT id, email, uniqueid, status, zbstatus, created_at, priority
